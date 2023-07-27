@@ -1,0 +1,316 @@
+matches:
+- triggers: ["!1peter1:1 ","!1pe1:1 "]
+  replace: "Peter, an apostle of Jesus Christ, to the temporary residents scattered about in Ponʹtus, Galaʹtia, Cappadoʹcia, Asia, and Bithynʹia, to those chosen"
+
+- triggers: ["!1peter1:2 ","!1pe1:2 "]
+  replace: "according to the foreknowledge of God the Father, with sanctification by the spirit, for the purpose of being obedient and sprinkled with the blood of Jesus Christ: May undeserved kindness and peace be increased to you."
+
+- triggers: ["!1peter1:3 ","!1pe1:3 "]
+  replace: "Praised be the God and Father of our Lord Jesus Christ, for according to his great mercy he gave us a new birth to a living hope through the resurrection of Jesus Christ from the dead,"
+
+- triggers: ["!1peter1:4 ","!1pe1:4 "]
+  replace: "to an incorruptible and undefiled and unfading inheritance. It is reserved in the heavens for you,"
+
+- triggers: ["!1peter1:5 ","!1pe1:5 "]
+  replace: "who are being safeguarded by God's power through faith for a salvation ready to be revealed in the last period of time."
+
+- triggers: ["!1peter1:6 ","!1pe1:6 "]
+  replace: "Because of this you are greatly rejoicing, though for a short time, if it must be, you have been distressed by various trials,"
+
+- triggers: ["!1peter1:7 ","!1pe1:7 "]
+  replace: "in order that the tested quality of your faith, of much greater value than gold that perishes despite its being tested by fire, may be found a cause for praise and glory and honor at the revelation of Jesus Christ."
+
+- triggers: ["!1peter1:8 ","!1pe1:8 "]
+  replace: "Though you never saw him, you love him. Though you do not see him now, yet you exercise faith in him and are greatly rejoicing with an indescribable and glorious joy,"
+
+- triggers: ["!1peter1:9 ","!1pe1:9 "]
+  replace: "as you attain the goal of your faith, your salvation."
+
+- triggers: ["!1peter1:10 ","!1pe1:10 "]
+  replace: "Concerning this salvation, the prophets who prophesied about the undeserved kindness meant for you made a diligent inquiry and a careful search."
+
+- triggers: ["!1peter1:11 ","!1pe1:11 "]
+  replace: "They kept on investigating what particular time or what season the spirit within them was indicating concerning Christ as it testified beforehand about the sufferings meant for Christ and about the glory that would follow."
+
+- triggers: ["!1peter1:12 ","!1pe1:12 "]
+  replace: "It was revealed to them that they were ministering, not to themselves, but to you, regarding what has now been announced to you by those who declared the good news to you with holy spirit sent from heaven. Into these very things, angels are desiring to peer."
+
+- triggers: ["!1peter1:13 ","!1pe1:13 "]
+  replace: "So brace up your minds for activity; keep your senses completely; set your hope on the undeserved kindness that will be brought to you at the revelation of Jesus Christ."
+
+- triggers: ["!1peter1:14 ","!1pe1:14 "]
+  replace: "As obedient children, stop being molded by the desires you formerly had in your ignorance,"
+
+- triggers: ["!1peter1:15 ","!1pe1:15 "]
+  replace: "but like the Holy One who called you, become holy yourselves in all your conduct,"
+
+- triggers: ["!1peter1:16 ","!1pe1:16 "]
+  replace: "for it is written: 'You must be holy, because I am holy.'"
+
+- triggers: ["!1peter1:17 ","!1pe1:17 "]
+  replace: "And if you are calling on the Father who judges impartially according to each one's work, conduct yourselves with fear during the time of your temporary residence."
+
+- triggers: ["!1peter1:18 ","!1pe1:18 "]
+  replace: "For you know that it was not with corruptible things, with silver or gold, that you were set free from your futile way of life handed down to you by your forefathers."
+
+- triggers: ["!1peter1:19 ","!1pe1:19 "]
+  replace: "But it was with precious blood, like that of an unblemished and spotless lamb, that of Christ."
+
+- triggers: ["!1peter1:20 ","!1pe1:20 "]
+  replace: "True, he was foreknown before the founding of the world, but he was made manifest at the end of the times for your sake."
+
+- triggers: ["!1peter1:21 ","!1pe1:21 "]
+  replace: "Through him you are believers in God, the one who raised him up from the dead and gave him glory, so that your faith and hope might be in God."
+
+- triggers: ["!1peter1:22 ","!1pe1:22 "]
+  replace: "Now that you have purified yourselves by your obedience to the truth with unhypocritical brotherly affection as the result, love one another intensely from the heart."
+
+- triggers: ["!1peter1:23 ","!1pe1:23 "]
+  replace: "For you have been given a new birth, not by corruptible, but by incorruptible seed, through the word of the living and enduring God."
+
+- triggers: ["!1peter1:24 ","!1pe1:24 "]
+  replace: "For 'all flesh is like grass, and all its glory is like a blossom of the field; the grass withers, and the flower falls off,"
+
+- triggers: ["!1peter1:25 ","!1pe1:25 "]
+  replace: "but the saying of Jehovah endures forever.' And this 'saying' is the good news that was declared to you."
+
+- triggers: ["!1peter2:1 ","!1pe2:1 "]
+  replace: "So rid yourselves of all badness and deceit and hypocrisy and envy and all backbiting."
+
+- triggers: ["!1peter2:2 ","!1pe2:2 "]
+  replace: "As newborn infants, form a longing for the unadulterated milk of the word, so that by means of it you may grow to salvation,"
+
+- triggers: ["!1peter2:3 ","!1pe2:3 "]
+  replace: "provided you have tasted that the Lord is kind."
+
+- triggers: ["!1peter2:4 ","!1pe2:4 "]
+  replace: "As you come to him, a living stone rejected by men but chosen, precious to God,"
+
+- triggers: ["!1peter2:5 ","!1pe2:5 "]
+  replace: "you yourselves as living stones are being built up into a spiritual house to be a holy priesthood, in order to offer up spiritual sacrifices acceptable to God through Jesus Christ."
+
+- triggers: ["!1peter2:6 ","!1pe2:6 "]
+  replace: "For it says in Scripture: 'Look! I am laying in Zion a chosen stone, a precious foundation cornerstone, and no one exercising faith in it will ever be disappointed.'"
+
+- triggers: ["!1peter2:7 ","!1pe2:7 "]
+  replace: "It is to you, therefore, that he is precious, because you are believers; but to those not believing, 'the stone that the builders rejected, this has become the chief cornerstone'"
+
+- triggers: ["!1peter2:8 ","!1pe2:8 "]
+  replace: "and 'a stone of stumbling and a rock of offense.' They are stumbling because they are disobedient to the word. To this very end they were appointed."
+
+- triggers: ["!1peter2:9 ","!1pe2:9 "]
+  replace: "But you are 'a chosen race, a royal priesthood, a holy nation, a people for special possession, that you should declare abroad the excellencies' of the One who called you out of darkness into his wonderful light."
+
+- triggers: ["!1peter2:10 ","!1pe2:10 "]
+  replace: "For you were once not a people, but now you are God's people; once you had not been shown mercy, but now you have received mercy."
+
+- triggers: ["!1peter2:11 ","!1pe2:11 "]
+  replace: "Beloved, I urge you as foreigners and temporary residents to keep abstaining from fleshly desires, which wage war against you."
+
+- triggers: ["!1peter2:12 ","!1pe2:12 "]
+  replace: "Maintain your conduct fine among the nations, so that when they accuse you of being wrongdoers, they may be eyewitnesses of your fine works and, as a result, glorify God in the day of his inspection."
+
+- triggers: ["!1peter2:13 ","!1pe2:13 "]
+  replace: "For the Lord's sake subject yourselves to every human creation, whether to a king as being superior"
+
+- triggers: ["!1peter2:14 ","!1pe2:14 "]
+  replace: "or to governors as sent by him to punish wrongdoers but to praise those who do good."
+
+- triggers: ["!1peter2:15 ","!1pe2:15 "]
+  replace: "For it is the will of God that by doing good you may silence the ignorant talk of unreasonable men."
+
+- triggers: ["!1peter2:16 ","!1pe2:16 "]
+  replace: "Be as free people, using your freedom, not as a cover for doing wrong, but as slaves of God."
+
+- triggers: ["!1peter2:17 ","!1pe2:17 "]
+  replace: "Honor men of all sorts, have love for the whole association of brothers, be in fear of God, honor the king."
+
+- triggers: ["!1peter2:18 ","!1pe2:18 "]
+  replace: "Let servants be in subjection to their masters with all due fear, not only to the good and reasonable but also to those hard to please."
+
+- triggers: ["!1peter2:19 ","!1pe2:19 "]
+  replace: "For it is agreeable when someone endures hardship and suffers unjustly because of conscience toward God."
+
+- triggers: ["!1peter2:20 ","!1pe2:20 "]
+  replace: "For what merit is there if you are beaten for sinning and you endure it? But if you endure suffering because of doing good, this is an agreeable thing to God."
+
+- triggers: ["!1peter2:21 ","!1pe2:21 "]
+  replace: "In fact, to this course you were called, because even Christ suffered for you, leaving a model for you to follow his steps closely."
+
+- triggers: ["!1peter2:22 ","!1pe2:22 "]
+  replace: "He committed no sin, nor was deception found in his mouth."
+
+- triggers: ["!1peter2:23 ","!1pe2:23 "]
+  replace: "When he was being insulted, he did not insult in return. When he was suffering, he did not threaten, but he entrusted himself to the One who judges righteously."
+
+- triggers: ["!1peter2:24 ","!1pe2:24 "]
+  replace: "He himself bore our sins in his own body on the stake, so that we might die to sins and live to righteousness. And 'by his wounds you were healed.'"
+
+- triggers: ["!1peter2:25 ","!1pe2:25 "]
+  replace: "For you were like sheep going astray, but now you have returned to the shepherd and overseer of your souls."
+
+- triggers: ["!1peter3:1 ","!1pe3:1 "]
+  replace: "In the same way, you wives, be in subjection to your husbands, so that if any are not obedient to the word, they may be won without a word through the conduct of their wives,"
+
+- triggers: ["!1peter3:2 ","!1pe3:2 "]
+  replace: "because of having been eyewitnesses of your chaste conduct together with deep respect."
+
+- triggers: ["!1peter3:3 ","!1pe3:3 "]
+  replace: "Do not let your adornment be external-the braiding of hair and the wearing of gold ornaments or fine clothing-"
+
+- triggers: ["!1peter3:4 ","!1pe3:4 "]
+  replace: "but let it be the secret person of the heart in the incorruptible adornment of the quiet and mild spirit, which is of great value in the eyes of God."
+
+- triggers: ["!1peter3:5 ","!1pe3:5 "]
+  replace: "For this is how the holy women of the past who hoped in God used to adorn themselves, subjecting themselves to their husbands,"
+
+- triggers: ["!1peter3:6 ","!1pe3:6 "]
+  replace: "just as Sarah obeyed Abraham, calling him lord. And you have become her children, provided you continue doing good and do not give in to fear."
+
+- triggers: ["!1peter3:7 ","!1pe3:7 "]
+  replace: "You husbands, in the same way, continue dwelling with them according to knowledge. Assign them honor as to a weaker vessel, the feminine one, since they are also heirs with you of the undeserved favor of life, in order for your prayers not to be hindered."
+
+- triggers: ["!1peter3:8 ","!1pe3:8 "]
+  replace: "Finally, all of you have unity of mind, fellow feeling, brotherly affection, tender compassion, and humility."
+
+- triggers: ["!1peter3:9 ","!1pe3:9 "]
+  replace: "Do not pay back injury for injury or insult for insult. Instead, repay with a blessing, for you were called to this course, so that you might inherit a blessing."
+
+- triggers: ["!1peter3:10 ","!1pe3:10 "]
+  replace: "For 'whoever would love life and see good days must guard his tongue from bad and his lips from speaking deception."
+
+- triggers: ["!1peter3:11 ","!1pe3:11 "]
+  replace: "Let him turn away from what is bad and do what is good; let him seek peace and pursue it."
+
+- triggers: ["!1peter3:12 ","!1pe3:12 "]
+  replace: "For the eyes of Jehovah are on the righteous, and his ears listen to their supplication, but the face of Jehovah is against those doing bad things.'"
+
+- triggers: ["!1peter3:13 ","!1pe3:13 "]
+  replace: "Indeed, who will harm you if you become zealous for what is good?"
+
+- triggers: ["!1peter3:14 ","!1pe3:14 "]
+  replace: "But even if you should suffer for the sake of righteousness, you are happy. However, do not fear what they fear, nor be disturbed."
+
+- triggers: ["!1peter3:15 ","!1pe3:15 "]
+  replace: "But sanctify the Christ as Lord in your hearts, always ready to make a defense before everyone who demands of you a reason for the hope you have, but doing so with a mild temper and deep respect."
+
+- triggers: ["!1peter3:16 ","!1pe3:16 "]
+  replace: "Maintain a good conscience, so that in whatever way you are spoken against, those who speak against you may be put to shame because of your good conduct as followers of Christ."
+
+- triggers: ["!1peter3:17 ","!1pe3:17 "]
+  replace: "For it is better to suffer because you are doing good, if it is God's will to allow it, than because you are doing evil."
+
+- triggers: ["!1peter3:18 ","!1pe3:18 "]
+  replace: "For Christ died once for all time for sins, a righteous person for unrighteous ones, in order to lead you to God. He was put to death in the flesh but made alive in the spirit."
+
+- triggers: ["!1peter3:19 ","!1pe3:19 "]
+  replace: "And in this state he went and preached to the spirits in prison,"
+
+- triggers: ["!1peter3:20 ","!1pe3:20 "]
+  replace: "who had formerly been disobedient when God was patiently waiting in Noah's day, while the ark was being constructed, in which a few people, that is, eight souls, were carried safely through the water."
+
+- triggers: ["!1peter3:21 ","!1pe3:21 "]
+  replace: "Baptism, which corresponds to this, is also now saving you (not by the removing of the filth of the flesh, but by the request to God for a good conscience), through the resurrection of Jesus Christ."
+
+- triggers: ["!1peter3:22 ","!1pe3:22 "]
+  replace: "He is at God's right hand, for he went to heaven, and angels and authorities and powers were made subject to him."
+
+- triggers: ["!1peter4:1 ","!1pe4:1 "]
+  replace: "Since Christ suffered in the flesh, you too arm yourselves with the same mental disposition; because the person who has suffered in the flesh has desisted from sins,"
+
+- triggers: ["!1peter4:2 ","!1pe4:2 "]
+  replace: "so that he may live the remainder of his time in the flesh, no more for the desires of men, but for God's will."
+
+- triggers: ["!1peter4:3 ","!1pe4:3 "]
+  replace: "For the time that has passed by is sufficient for you to have done the will of the nations when you carried on in acts of brazen conduct, unbridled passions, overdrinking, wild parties, drinking bouts, and lawless idolatries."
+
+- triggers: ["!1peter4:4 ","!1pe4:4 "]
+  replace: "They are puzzled that you do not continue running with them in the same decadent course of debauchery, so they speak abusively of you."
+
+- triggers: ["!1peter4:5 ","!1pe4:5 "]
+  replace: "But these people will render an account to the one who is ready to judge those living and those dead."
+
+- triggers: ["!1peter4:6 ","!1pe4:6 "]
+  replace: "In fact, this is why the good news was declared also to the dead, so that although they are judged in the flesh from the standpoint of men, they might live in harmony with the spirit from God's standpoint."
+
+- triggers: ["!1peter4:7 ","!1pe4:7 "]
+  replace: "But the end of all things has drawn close. Therefore, be sound in mind, and be vigilant with a view to prayers."
+
+- triggers: ["!1peter4:8 ","!1pe4:8 "]
+  replace: "Above all things, have intense love for one another, because love covers a multitude of sins."
+
+- triggers: ["!1peter4:9 ","!1pe4:9 "]
+  replace: "Be hospitable to one another without grumbling."
+
+- triggers: ["!1peter4:10 ","!1pe4:10 "]
+  replace: "To the extent that each one has received a gift, use it in ministering to one another as fine stewards of God's undeserved kindness that is expressed in various ways."
+
+- triggers: ["!1peter4:11 ","!1pe4:11 "]
+  replace: "If anyone speaks, let him do so as speaking pronouncements from God; if anyone ministers, let him do so as depending on the strength that God supplies; so that in all things God may be glorified through Jesus Christ. The glory and the might are his forever and ever. Amen."
+
+- triggers: ["!1peter4:12 ","!1pe4:12 "]
+  replace: "Beloved ones, do not be surprised about the fiery trials that you are experiencing, as though something strange were happening to you."
+
+- triggers: ["!1peter4:13 ","!1pe4:13 "]
+  replace: "On the contrary, go on rejoicing over the extent to which you are sharers in the sufferings of the Christ, so that you may rejoice and be overjoyed also during the revelation of his glory."
+
+- triggers: ["!1peter4:14 ","!1pe4:14 "]
+  replace: "If you are being reproached for the name of Christ, you are happy, because the spirit of glory, yes, the spirit of God, is resting upon you."
+
+- triggers: ["!1peter4:15 ","!1pe4:15 "]
+  replace: "However, let none of you suffer as a murderer or a thief or a wrongdoer or a busybody in other people's matters."
+
+- triggers: ["!1peter4:16 ","!1pe4:16 "]
+  replace: "But if anyone suffers as a Christian, let him not feel ashamed, but let him keep on glorifying God while bearing this name."
+
+- triggers: ["!1peter4:17 ","!1pe4:17 "]
+  replace: "For it is the appointed time for the judgment to start with the house of God. Now if it starts first with us, what will the outcome be for those who are not obedient to the good news of God?"
+
+- triggers: ["!1peter4:18 ","!1pe4:18 "]
+  replace: "'And if the righteous man is being saved with difficulty, what will happen to the ungodly man and the sinner?'"
+
+- triggers: ["!1peter4:19 ","!1pe4:19 "]
+  replace: "So, then, let those who are suffering in harmony with the will of God keep on entrusting themselves to a faithful Creator while they are doing good."
+
+- triggers: ["!1peter5:1 ","!1pe5:1 "]
+  replace: "Therefore, as a fellow elder, a witness of the sufferings of the Christ and a sharer of the glory that is to be revealed, I make this appeal to the elders among you:"
+
+- triggers: ["!1peter5:2 ","!1pe5:2 "]
+  replace: "Shepherd the flock of God under your care, serving as overseers, not under compulsion, but willingly before God; not for love of dishonest gain, but eagerly;"
+
+- triggers: ["!1peter5:3 ","!1pe5:3 "]
+  replace: "not lording it over those who are God's inheritance, but becoming examples to the flock."
+
+- triggers: ["!1peter5:4 ","!1pe5:4 "]
+  replace: "And when the chief shepherd has been made manifest, you will receive the unfading crown of glory."
+
+- triggers: ["!1peter5:5 ","!1pe5:5 "]
+  replace: "In the same way, you younger men, be in subjection to the older men. But all of you clothe yourselves with humility toward one another, because God opposes the haughty ones, but he gives undeserved kindness to the humble ones."
+
+- triggers: ["!1peter5:6 ","!1pe5:6 "]
+  replace: "Humble yourselves, therefore, under the mighty hand of God, so that he may exalt you in due time,"
+
+- triggers: ["!1peter5:7 ","!1pe5:7 "]
+  replace: "while you throw all your anxiety on him, because he cares for you."
+
+- triggers: ["!1peter5:8 ","!1pe5:8 "]
+  replace: "Keep your senses, be watchful! Your adversary, the Devil, walks about like a roaring lion, seeking to devour someone."
+
+- triggers: ["!1peter5:9 ","!1pe5:9 "]
+  replace: "But take your stand against him, firm in the faith, knowing that the same kind of sufferings are being experienced by the entire association of your brothers in the world."
+
+- triggers: ["!1peter5:10 ","!1pe5:10 "]
+  replace: "But after you have suffered a little while, the God of all undeserved kindness, who called you to his everlasting glory in union with Christ, will himself finish your training. He will make you firm, he will make you strong, he will firmly ground you."
+
+- triggers: ["!1peter5:11 ","!1pe5:11 "]
+  replace: "To him be the might forever. Amen."
+
+- triggers: ["!1peter5:12 ","!1pe5:12 "]
+  replace: "Through Silvaʹnus, whom I regard as a faithful brother, I have written you in few words in order to encourage you and to give an earnest witness that this is the true undeserved kindness of God. Stand firm in it."
+
+- triggers: ["!1peter5:13 ","!1pe5:13 "]
+  replace: "She who is in Babylon, a chosen one like you, sends you her greetings, and so does Mark, my son."
+
+- triggers: ["!1peter5:14 ","!1pe5:14 "]
+  replace: "Greet one another with a kiss of love. May all of you who are in union with Christ have peace."
+

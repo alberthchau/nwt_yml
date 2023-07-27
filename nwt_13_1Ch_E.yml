@@ -1,0 +1,2827 @@
+matches:
+- triggers: ["!1chronicles1:1 ","!1chron1:1 ","!1ch1:1 "]
+  replace: "Adam, Seth, Eʹnosh,"
+
+- triggers: ["!1chronicles1:2 ","!1chron1:2 ","!1ch1:2 "]
+  replace: "Keʹnan, Mahalʹalel, Jaʹred,"
+
+- triggers: ["!1chronicles1:3 ","!1chron1:3 ","!1ch1:3 "]
+  replace: "Eʹnoch, Methuʹselah, Laʹmech,"
+
+- triggers: ["!1chronicles1:4 ","!1chron1:4 ","!1ch1:4 "]
+  replace: "Noah, Shem, Ham, and Jaʹpheth."
+
+- triggers: ["!1chronicles1:5 ","!1chron1:5 ","!1ch1:5 "]
+  replace: "The sons of Jaʹpheth were Goʹmer, Maʹgog, Maʹdai, Jaʹvan, Tuʹbal, Meʹshech, and Tiʹras."
+
+- triggers: ["!1chronicles1:6 ","!1chron1:6 ","!1ch1:6 "]
+  replace: "The sons of Goʹmer were Ashʹkenaz, Riʹphath, and Togarʹmah."
+
+- triggers: ["!1chronicles1:7 ","!1chron1:7 ","!1ch1:7 "]
+  replace: "The sons of Jaʹvan were Eliʹshah, Tarʹshish, Kitʹtim, and Roʹdanim."
+
+- triggers: ["!1chronicles1:8 ","!1chron1:8 ","!1ch1:8 "]
+  replace: "The sons of Ham were Cush, Mizʹraim, Put, and Caʹnaan."
+
+- triggers: ["!1chronicles1:9 ","!1chron1:9 ","!1ch1:9 "]
+  replace: "The sons of Cush were Seʹba, Havʹilah, Sabʹtah, Raʹamah, and Sabʹteca. The sons of Raʹamah were Sheʹba and Deʹdan."
+
+- triggers: ["!1chronicles1:10 ","!1chron1:10 ","!1ch1:10 "]
+  replace: "Cush became father to Nimʹrod. He was the first to become a mighty one on the earth."
+
+- triggers: ["!1chronicles1:11 ","!1chron1:11 ","!1ch1:11 "]
+  replace: "Mizʹraim became father to Luʹdim, Anʹamim, Lehaʹbim, Naphtuʹhim,"
+
+- triggers: ["!1chronicles1:12 ","!1chron1:12 ","!1ch1:12 "]
+  replace: "Pathruʹsim, Casluʹhim (from whom the Philisʹtines came), and Caphʹtorim."
+
+- triggers: ["!1chronicles1:13 ","!1chron1:13 ","!1ch1:13 "]
+  replace: "Caʹnaan became father to Siʹdon, his firstborn, and Heth,"
+
+- triggers: ["!1chronicles1:14 ","!1chron1:14 ","!1ch1:14 "]
+  replace: "as well as the Jebʹusite, the Amʹorite, the Girʹgashite,"
+
+- triggers: ["!1chronicles1:15 ","!1chron1:15 ","!1ch1:15 "]
+  replace: "the Hiʹvite, the Arkʹite, the Siʹnite,"
+
+- triggers: ["!1chronicles1:16 ","!1chron1:16 ","!1ch1:16 "]
+  replace: "the Arʹvadite, the Zemʹarite, and the Haʹmathite."
+
+- triggers: ["!1chronicles1:17 ","!1chron1:17 ","!1ch1:17 "]
+  replace: "The sons of Shem were Eʹlam, Asʹshur, Arpachʹshad, Lud, and Aʹram, and Uz, Hul, Geʹther, and Mash."
+
+- triggers: ["!1chronicles1:18 ","!1chron1:18 ","!1ch1:18 "]
+  replace: "Arpachʹshad became father to Sheʹlah, and Sheʹlah became father to Eʹber."
+
+- triggers: ["!1chronicles1:19 ","!1chron1:19 ","!1ch1:19 "]
+  replace: "Two sons were born to Eʹber. The name of the one was Peʹleg, because in his lifetime the earth was divided. The name of his brother was Jokʹtan."
+
+- triggers: ["!1chronicles1:20 ","!1chron1:20 ","!1ch1:20 "]
+  replace: "Jokʹtan became father to Almoʹdad, Sheʹleph, Hazarmaʹveth, Jeʹrah,"
+
+- triggers: ["!1chronicles1:21 ","!1chron1:21 ","!1ch1:21 "]
+  replace: "Hadoʹram, Uʹzal, Dikʹlah,"
+
+- triggers: ["!1chronicles1:22 ","!1chron1:22 ","!1ch1:22 "]
+  replace: "Oʹbal, Abimʹael, Sheʹba,"
+
+- triggers: ["!1chronicles1:23 ","!1chron1:23 ","!1ch1:23 "]
+  replace: "Oʹphir, Havʹilah, and Joʹbab; all of these were the sons of Jokʹtan."
+
+- triggers: ["!1chronicles1:24 ","!1chron1:24 ","!1ch1:24 "]
+  replace: "Shem, Arpachʹshad, Sheʹlah,"
+
+- triggers: ["!1chronicles1:25 ","!1chron1:25 ","!1ch1:25 "]
+  replace: "Eʹber, Peʹleg, Reʹu,"
+
+- triggers: ["!1chronicles1:26 ","!1chron1:26 ","!1ch1:26 "]
+  replace: "Seʹrug, Naʹhor, Teʹrah,"
+
+- triggers: ["!1chronicles1:27 ","!1chron1:27 ","!1ch1:27 "]
+  replace: "Aʹbram, that is, Abraham."
+
+- triggers: ["!1chronicles1:28 ","!1chron1:28 ","!1ch1:28 "]
+  replace: "The sons of Abraham were Isaac and Ishʹmael."
+
+- triggers: ["!1chronicles1:29 ","!1chron1:29 ","!1ch1:29 "]
+  replace: "These are their family origins: Ishʹmael’s firstborn Nebaʹioth, then Keʹdar, Adʹbeel, Mibʹsam,"
+
+- triggers: ["!1chronicles1:30 ","!1chron1:30 ","!1ch1:30 "]
+  replace: "Mishʹma, Duʹmah, Masʹsa, Haʹdad, Teʹma,"
+
+- triggers: ["!1chronicles1:31 ","!1chron1:31 ","!1ch1:31 "]
+  replace: "Jeʹtur, Naʹphish, and Kedʹemah. These were the sons of Ishʹmael."
+
+- triggers: ["!1chronicles1:32 ","!1chron1:32 ","!1ch1:32 "]
+  replace: "The sons that Ketuʹrah, Abraham’s concubine, gave birth to were Zimʹran, Jokʹshan, Meʹdan, Midʹian, Ishʹbak, and Shuʹah. The sons of Jokʹshan were Sheʹba and Deʹdan."
+
+- triggers: ["!1chronicles1:33 ","!1chron1:33 ","!1ch1:33 "]
+  replace: "The sons of Midʹian were Eʹphah, Eʹpher, Haʹnoch, Abiʹda, and Eldaʹah. All of these were the sons of Ketuʹrah."
+
+- triggers: ["!1chronicles1:34 ","!1chron1:34 ","!1ch1:34 "]
+  replace: "Abraham became father to Isaac. The sons of Isaac were Eʹsau and Israel."
+
+- triggers: ["!1chronicles1:35 ","!1chron1:35 ","!1ch1:35 "]
+  replace: "The sons of Eʹsau were Elʹiphaz, Reuʹel, Jeʹush, Jaʹlam, and Korʹah."
+
+- triggers: ["!1chronicles1:36 ","!1chron1:36 ","!1ch1:36 "]
+  replace: "The sons of Elʹiphaz were Teʹman, Oʹmar, Zeʹpho, Gaʹtam, Keʹnaz, Timʹna, and Amʹalek."
+
+- triggers: ["!1chronicles1:37 ","!1chron1:37 ","!1ch1:37 "]
+  replace: "The sons of Reuʹel were Naʹhath, Zeʹrah, Shamʹmah, and Mizʹzah."
+
+- triggers: ["!1chronicles1:38 ","!1chron1:38 ","!1ch1:38 "]
+  replace: "The sons of Seʹir were Loʹtan, Shoʹbal, Zibʹeon, Aʹnah, Diʹshon, Eʹzer, and Diʹshan."
+
+- triggers: ["!1chronicles1:39 ","!1chron1:39 ","!1ch1:39 "]
+  replace: "The sons of Loʹtan were Hoʹri and Hoʹmam. Loʹtan’s sister was Timʹna."
+
+- triggers: ["!1chronicles1:40 ","!1chron1:40 ","!1ch1:40 "]
+  replace: "The sons of Shoʹbal were Alʹvan, Manʹahath, Eʹbal, Sheʹpho, and Oʹnam. The sons of Zibʹeon were Aʹiah and Aʹnah."
+
+- triggers: ["!1chronicles1:41 ","!1chron1:41 ","!1ch1:41 "]
+  replace: "The son of Aʹnah was Diʹshon. The sons of Diʹshon were Hemʹdan, Eshʹban, Ithʹran, and Cheʹran."
+
+- triggers: ["!1chronicles1:42 ","!1chron1:42 ","!1ch1:42 "]
+  replace: "The sons of Eʹzer were Bilʹhan, Zaʹavan, and Aʹkan. The sons of Diʹshan were Uz and Aʹran."
+
+- triggers: ["!1chronicles1:43 ","!1chron1:43 ","!1ch1:43 "]
+  replace: "These are the kings who reigned in the land of Eʹdom before any king reigned over the Israelites: Beʹla the son of Beʹor; the name of his city was Dinʹhabah."
+
+- triggers: ["!1chronicles1:44 ","!1chron1:44 ","!1ch1:44 "]
+  replace: "When Beʹla died, Joʹbab the son of Zeʹrah from Bozʹrah began to reign in his place."
+
+- triggers: ["!1chronicles1:45 ","!1chron1:45 ","!1ch1:45 "]
+  replace: "When Joʹbab died, Huʹsham from the land of the Teʹmanites began to reign in his place."
+
+- triggers: ["!1chronicles1:46 ","!1chron1:46 ","!1ch1:46 "]
+  replace: "When Huʹsham died, Haʹdad the son of Beʹdad, who defeated Midʹian in the territory of Moʹab, began to reign in his place. The name of his city was Aʹvith."
+
+- triggers: ["!1chronicles1:47 ","!1chron1:47 ","!1ch1:47 "]
+  replace: "When Haʹdad died, Samʹlah from Masreʹkah began to reign in his place."
+
+- triggers: ["!1chronicles1:48 ","!1chron1:48 ","!1ch1:48 "]
+  replace: "When Samʹlah died, Shaʹul from Rehoʹboth by the River began to reign in his place."
+
+- triggers: ["!1chronicles1:49 ","!1chron1:49 ","!1ch1:49 "]
+  replace: "When Shaʹul died, Baʹal-haʹnan the son of Achʹbor began to reign in his place."
+
+- triggers: ["!1chronicles1:50 ","!1chron1:50 ","!1ch1:50 "]
+  replace: "When Baʹal-haʹnan died, Haʹdad began to reign in his place. The name of his city was Paʹu, and the name of his wife was Mehetʹabel the daughter of Maʹtred, the daughter of Meʹzahab."
+
+- triggers: ["!1chronicles1:51 ","!1chron1:51 ","!1ch1:51 "]
+  replace: "Then Haʹdad died. The sheikhs of Eʹdom were Sheikh Timʹna, Sheikh Alʹvah, Sheikh Jeʹtheth,"
+
+- triggers: ["!1chronicles1:52 ","!1chron1:52 ","!1ch1:52 "]
+  replace: "Sheikh Oholibaʹmah, Sheikh Eʹlah, Sheikh Piʹnon,"
+
+- triggers: ["!1chronicles1:53 ","!1chron1:53 ","!1ch1:53 "]
+  replace: "Sheikh Keʹnaz, Sheikh Teʹman, Sheikh Mibʹzar,"
+
+- triggers: ["!1chronicles1:54 ","!1chron1:54 ","!1ch1:54 "]
+  replace: "Sheikh Magʹdiel, Sheikh Iʹram. These were the sheikhs of Eʹdom."
+
+- triggers: ["!1chronicles2:1 ","!1chron2:1 ","!1ch2:1 "]
+  replace: "These were the sons of Israel: Reuʹben, Simʹeon, Leʹvi, Judah, Isʹsachar, Zebʹulun,"
+
+- triggers: ["!1chronicles2:2 ","!1chron2:2 ","!1ch2:2 "]
+  replace: "Dan, Joseph, Benjamin, Naphʹtali, Gad, and Ashʹer."
+
+- triggers: ["!1chronicles2:3 ","!1chron2:3 ","!1ch2:3 "]
+  replace: "The sons of Judah were Er, Oʹnan, and Sheʹlah. These three were born to him from Shuʹa’s daughter, the Caʹnaanitess. But Er, Judah’s firstborn, was displeasing to Jehovah, so He put him to death."
+
+- triggers: ["!1chronicles2:4 ","!1chron2:4 ","!1ch2:4 "]
+  replace: "Taʹmar, Judah’s daughter-in-law, bore to him Peʹrez and Zeʹrah. Judah had five sons in all."
+
+- triggers: ["!1chronicles2:5 ","!1chron2:5 ","!1ch2:5 "]
+  replace: "The sons of Peʹrez were Hezʹron and Haʹmul."
+
+- triggers: ["!1chronicles2:6 ","!1chron2:6 ","!1ch2:6 "]
+  replace: "The sons of Zeʹrah were Zimʹri, Eʹthan, Heʹman, Calʹcol, and Daʹra. There were five of them in all."
+
+- triggers: ["!1chronicles2:7 ","!1chron2:7 ","!1ch2:7 "]
+  replace: "The son of Carʹmi was Aʹchar, who brought disaster on Israel, who was unfaithful with regard to what had been devoted to destruction."
+
+- triggers: ["!1chronicles2:8 ","!1chron2:8 ","!1ch2:8 "]
+  replace: "The son of Eʹthan was Azariʹah."
+
+- triggers: ["!1chronicles2:9 ","!1chron2:9 ","!1ch2:9 "]
+  replace: "The sons of Hezʹron who were born to him were Jerahʹmeel, Ram, and Cheluʹbai."
+
+- triggers: ["!1chronicles2:10 ","!1chron2:10 ","!1ch2:10 "]
+  replace: "Ram became father to Amminʹadab. Amminʹadab became father to Nahʹshon the chieftain of the descendants of Judah."
+
+- triggers: ["!1chronicles2:11 ","!1chron2:11 ","!1ch2:11 "]
+  replace: "Nahʹshon became father to Salʹma. Salʹma became father to Boʹaz."
+
+- triggers: ["!1chronicles2:12 ","!1chron2:12 ","!1ch2:12 "]
+  replace: "Boʹaz became father to Oʹbed. Oʹbed became father to Jesʹse."
+
+- triggers: ["!1chronicles2:13 ","!1chron2:13 ","!1ch2:13 "]
+  replace: "Jesʹse became father to his firstborn Eliʹab, Abinʹadab the second, Shimʹea the third,"
+
+- triggers: ["!1chronicles2:14 ","!1chron2:14 ","!1ch2:14 "]
+  replace: "Nethanʹel the fourth, Radʹdai the fifth,"
+
+- triggers: ["!1chronicles2:15 ","!1chron2:15 ","!1ch2:15 "]
+  replace: "Oʹzem the sixth, and David the seventh."
+
+- triggers: ["!1chronicles2:16 ","!1chron2:16 ","!1ch2:16 "]
+  replace: "Their sisters were Zeruʹiah and Abʹigail. The sons of Zeruʹiah were Abishʹai, Joʹab, and Asʹahel, three."
+
+- triggers: ["!1chronicles2:17 ","!1chron2:17 ","!1ch2:17 "]
+  replace: "Abʹigail gave birth to Amaʹsa, and the father of Amaʹsa was Jeʹther the Ishʹmaelite."
+
+- triggers: ["!1chronicles2:18 ","!1chron2:18 ","!1ch2:18 "]
+  replace: "Caʹleb the son of Hezʹron became father to sons by his wife Azuʹbah and by Jerʹioth; and these were her sons: Jeʹsher, Shoʹbab, and Arʹdon."
+
+- triggers: ["!1chronicles2:19 ","!1chron2:19 ","!1ch2:19 "]
+  replace: "When Azuʹbah died, Caʹleb married Ephʹrath, and she bore Hur to him."
+
+- triggers: ["!1chronicles2:20 ","!1chron2:20 ","!1ch2:20 "]
+  replace: "Hur became father to Uʹri. Uʹri became father to Bezʹalel."
+
+- triggers: ["!1chronicles2:21 ","!1chron2:21 ","!1ch2:21 "]
+  replace: "Afterward Hezʹron had relations with the daughter of Maʹchir the father of Gilʹead. He married her when he was 60 years old, and she bore Seʹgub to him."
+
+- triggers: ["!1chronicles2:22 ","!1chron2:22 ","!1ch2:22 "]
+  replace: "Seʹgub became father to Jaʹir, who had"
+
+- triggers: ["!1chronicles2:23 ","!1chron2:23 ","!1ch2:23 "]
+  replace: "cities in the land of Gilʹead. 23 Later Geshʹur and Syria took Havʹvoth-jaʹir from them, along with Keʹnath and its dependent towns, 60 cities. All of these were the descendants of Maʹchir the father of Gilʹead."
+
+- triggers: ["!1chronicles2:24 ","!1chron2:24 ","!1ch2:24 "]
+  replace: "After the death of Hezʹron in Caʹleb-ephʹrathah, Abiʹjah the wife of Hezʹron bore him Ashʹhur the father of Tekoʹa."
+
+- triggers: ["!1chronicles2:25 ","!1chron2:25 ","!1ch2:25 "]
+  replace: "The sons of Jerahʹmeel the firstborn of Hezʹron were Ram the firstborn, Buʹnah, Oʹren, Oʹzem, and Ahiʹjah."
+
+- triggers: ["!1chronicles2:26 ","!1chron2:26 ","!1ch2:26 "]
+  replace: "Jerahʹmeel had another wife, whose name was Atʹarah. She was the mother of Oʹnam."
+
+- triggers: ["!1chronicles2:27 ","!1chron2:27 ","!1ch2:27 "]
+  replace: "The sons of Ram the firstborn of Jerahʹmeel were Maʹaz, Jaʹmin, and Eʹker."
+
+- triggers: ["!1chronicles2:28 ","!1chron2:28 ","!1ch2:28 "]
+  replace: "The sons of Oʹnam were Shamʹmai and Jaʹda. The sons of Shamʹmai were Naʹdab and Abiʹshur."
+
+- triggers: ["!1chronicles2:29 ","!1chron2:29 ","!1ch2:29 "]
+  replace: "The name of Abiʹshur’s wife was Abʹihail, who bore him Ahʹban and Moʹlid."
+
+- triggers: ["!1chronicles2:30 ","!1chron2:30 ","!1ch2:30 "]
+  replace: "The sons of Naʹdab were Seʹled and Apʹpaim. But Seʹled died without sons."
+
+- triggers: ["!1chronicles2:31 ","!1chron2:31 ","!1ch2:31 "]
+  replace: "The son of Apʹpaim was Ishʹi. And the son of Ishʹi was Sheʹshan, and the son of Sheʹshan, Ahʹlai."
+
+- triggers: ["!1chronicles2:32 ","!1chron2:32 ","!1ch2:32 "]
+  replace: "The sons of Jaʹda the brother of Shamʹmai were Jeʹther and Jonʹathan. But Jeʹther died without sons."
+
+- triggers: ["!1chronicles2:33 ","!1chron2:33 ","!1ch2:33 "]
+  replace: "The sons of Jonʹathan were Peʹleth and Zaʹza. These were the descendants of Jerahʹmeel."
+
+- triggers: ["!1chronicles2:34 ","!1chron2:34 ","!1ch2:34 "]
+  replace: "Sheʹshan had no sons, only daughters. Now Sheʹshan had an Egyptian servant whose name was Jarʹha."
+
+- triggers: ["!1chronicles2:35 ","!1chron2:35 ","!1ch2:35 "]
+  replace: "Sheʹshan gave his daughter to be the wife of his servant Jarʹha, and she bore him Atʹtai."
+
+- triggers: ["!1chronicles2:36 ","!1chron2:36 ","!1ch2:36 "]
+  replace: "Atʹtai became father to Nathan. Nathan became father to Zaʹbad."
+
+- triggers: ["!1chronicles2:37 ","!1chron2:37 ","!1ch2:37 "]
+  replace: "Zaʹbad became father to Ephʹlal. Ephʹlal became father to Oʹbed."
+
+- triggers: ["!1chronicles2:38 ","!1chron2:38 ","!1ch2:38 "]
+  replace: "Oʹbed became father to Jeʹhu. Jeʹhu became father to Azariʹah."
+
+- triggers: ["!1chronicles2:39 ","!1chron2:39 ","!1ch2:39 "]
+  replace: "Azariʹah became father to Heʹlez. Heʹlez became father to Eleaʹsah."
+
+- triggers: ["!1chronicles2:40 ","!1chron2:40 ","!1ch2:40 "]
+  replace: "Eleaʹsah became father to Sisʹmai. Sisʹmai became father to Shalʹlum."
+
+- triggers: ["!1chronicles2:41 ","!1chron2:41 ","!1ch2:41 "]
+  replace: "Shalʹlum became father to Jekamiʹah. Jekamiʹah became father to Elishʹama."
+
+- triggers: ["!1chronicles2:42 ","!1chron2:42 ","!1ch2:42 "]
+  replace: "The sons of Caʹleb the brother of Jerahʹmeel were Meʹsha his firstborn, who was the father of Ziph, and the sons of Mareʹshah the father of Hebʹron."
+
+- triggers: ["!1chronicles2:43 ","!1chron2:43 ","!1ch2:43 "]
+  replace: "The sons of Hebʹron were Korʹah, Tapʹpuah, Reʹkem, and Sheʹma."
+
+- triggers: ["!1chronicles2:44 ","!1chron2:44 ","!1ch2:44 "]
+  replace: "Sheʹma became father to Raʹham the father of Jorʹkeam. Reʹkem became father to Shamʹmai."
+
+- triggers: ["!1chronicles2:45 ","!1chron2:45 ","!1ch2:45 "]
+  replace: "The son of Shamʹmai was Maʹon. Maʹon was the father of Beth-zur."
+
+- triggers: ["!1chronicles2:46 ","!1chron2:46 ","!1ch2:46 "]
+  replace: "Caʹleb’s concubine Eʹphah gave birth to Haʹran, Moʹza, and Gaʹzez. Haʹran became father to Gaʹzez."
+
+- triggers: ["!1chronicles2:47 ","!1chron2:47 ","!1ch2:47 "]
+  replace: "The sons of Jahʹdai were Reʹgem, Joʹtham, Geʹshan, Pelʹet, Eʹphah, and Shaʹaph."
+
+- triggers: ["!1chronicles2:48 ","!1chron2:48 ","!1ch2:48 "]
+  replace: "Caʹleb’s concubine Maʹacah gave birth to Sheʹber and Tirʹhanah."
+
+- triggers: ["!1chronicles2:49 ","!1chron2:49 ","!1ch2:49 "]
+  replace: "In time she bore Shaʹaph the father of Madmanʹnah and Sheʹva the father of Machbeʹnah and Gibʹea. Caʹleb’s daughter was Achʹsah."
+
+- triggers: ["!1chronicles2:50 ","!1chron2:50 ","!1ch2:50 "]
+  replace: "These were the descendants of Caʹleb. The sons of Hur the firstborn of Ephʹrathah were Shoʹbal the father of Kirʹiath-jeʹarim,"
+
+- triggers: ["!1chronicles2:51 ","!1chron2:51 ","!1ch2:51 "]
+  replace: "Salʹma the father of Bethʹlehem, and Haʹreph the father of Beth-gaʹder."
+
+- triggers: ["!1chronicles2:52 ","!1chron2:52 ","!1ch2:52 "]
+  replace: "Shoʹbal the father of Kirʹiath-jeʹarim had sons: Haroʹeh and half of the Menuʹhoth."
+
+- triggers: ["!1chronicles2:53 ","!1chron2:53 ","!1ch2:53 "]
+  replace: "The families of Kirʹiath-jeʹarim were the Ithʹrites, the Puʹthites, the Shuʹmathites, and the Mishʹraites. It was from these that the Zoʹrathites and the Eshʹtaolites came."
+
+- triggers: ["!1chronicles2:54 ","!1chron2:54 ","!1ch2:54 "]
+  replace: "The sons of Salʹma were Bethʹlehem, the Netophʹathites, Atʹroth-beth-joʹab, half of the Manahaʹthites, and the Zorʹites."
+
+- triggers: ["!1chronicles2:55 ","!1chron2:55 ","!1ch2:55 "]
+  replace: "The families of the scribes dwelling at Jaʹbez were the Tiʹrathites, the Shimʹeathites, and the Suʹcathites. These were the Kenʹites who came from Hamʹmath the father of the house of Reʹchab."
+
+- triggers: ["!1chronicles3:1 ","!1chron3:1 ","!1ch3:1 "]
+  replace: "These were the sons of David who were born to him in Hebʹron: the firstborn Amʹnon, whose mother was Ahinʹoam of Jezʹreel; the second, Daniel, whose mother was Abʹigail the Carʹmelite;"
+
+- triggers: ["!1chronicles3:2 ","!1chron3:2 ","!1ch3:2 "]
+  replace: "the third, Abʹsalom the son of Maʹacah the daughter of Talʹmai the king of Geshʹur; the fourth, Adoniʹjah the son of Hagʹgith;"
+
+- triggers: ["!1chronicles3:3 ","!1chron3:3 ","!1ch3:3 "]
+  replace: "the fifth, Shephatiʹah, whose mother was Abiʹtal; and the sixth, Ithʹream, whose mother was David’s wife Egʹlah."
+
+- triggers: ["!1chronicles3:4 ","!1chron3:4 ","!1ch3:4 "]
+  replace: "These six were born to him in Hebʹron; he reigned there for 7 years and 6 months, and for 33 years he reigned in Jerusalem."
+
+- triggers: ["!1chronicles3:5 ","!1chron3:5 ","!1ch3:5 "]
+  replace: "These were born to him in Jerusalem: Shimʹea, Shoʹbab, Nathan, and Solʹomon; the mother of these four was Bath-sheʹba the daughter of Amʹmiel."
+
+- triggers: ["!1chronicles3:6 ","!1chron3:6 ","!1ch3:6 "]
+  replace: "And nine other sons were Ibʹhar, Elishʹama, Eliphʹelet,"
+
+- triggers: ["!1chronicles3:7 ","!1chron3:7 ","!1ch3:7 "]
+  replace: "Noʹgah, Neʹpheg, Japhiʹa,"
+
+- triggers: ["!1chronicles3:8 ","!1chron3:8 ","!1ch3:8 "]
+  replace: "Elishʹama, Eliʹada, and Eliphʹelet."
+
+- triggers: ["!1chronicles3:9 ","!1chron3:9 ","!1ch3:9 "]
+  replace: "All of these were the sons of David, besides the sons of the concubines, and Taʹmar was their sister."
+
+- triggers: ["!1chronicles3:10 ","!1chron3:10 ","!1ch3:10 "]
+  replace: "The son of Solʹomon was Rehoboʹam; Abiʹjah was his son, Aʹsa his son, Jehoshʹaphat his son,"
+
+- triggers: ["!1chronicles3:11 ","!1chron3:11 ","!1ch3:11 "]
+  replace: "Jehoʹram his son, Ahaziʹah his son, Jehoʹash his son,"
+
+- triggers: ["!1chronicles3:12 ","!1chron3:12 ","!1ch3:12 "]
+  replace: "Amaziʹah his son, Azariʹah his son, Joʹtham his son,"
+
+- triggers: ["!1chronicles3:13 ","!1chron3:13 ","!1ch3:13 "]
+  replace: "Aʹhaz his son, Hezekiʹah his son, Manasʹseh his son,"
+
+- triggers: ["!1chronicles3:14 ","!1chron3:14 ","!1ch3:14 "]
+  replace: "Aʹmon his son, Josiʹah his son."
+
+- triggers: ["!1chronicles3:15 ","!1chron3:15 ","!1ch3:15 "]
+  replace: "The sons of Josiʹah were the firstborn, Johaʹnan, the second, Jehoiʹakim, the third, Zedekiʹah, the fourth, Shalʹlum."
+
+- triggers: ["!1chronicles3:16 ","!1chron3:16 ","!1ch3:16 "]
+  replace: "The sons of Jehoiʹakim were Jeconiʹah his son and Zedekiʹah his son."
+
+- triggers: ["!1chronicles3:17 ","!1chron3:17 ","!1ch3:17 "]
+  replace: "The sons of Jeconiʹah the prisoner were Shealʹtiel,"
+
+- triggers: ["!1chronicles3:18 ","!1chron3:18 ","!1ch3:18 "]
+  replace: "Malchiʹram, Pedaiʹah, Shenazʹzar, Jekamiʹah, Hoshʹama, and Nedabiʹah."
+
+- triggers: ["!1chronicles3:19 ","!1chron3:19 ","!1ch3:19 "]
+  replace: "The sons of Pedaiʹah were Zerubʹbabel and Shimʹei; and the sons of Zerubʹbabel were Meshulʹlam and Hananiʹah (and Sheloʹmith was their sister);"
+
+- triggers: ["!1chronicles3:20 ","!1chron3:20 ","!1ch3:20 "]
+  replace: "and five other sons were Hashuʹbah, Oʹhel, Berechiʹah, Hasadiʹah, and Juʹshab-heʹsed."
+
+- triggers: ["!1chronicles3:21 ","!1chron3:21 ","!1ch3:21 "]
+  replace: "And the sons of Hananiʹah were Pelatiʹah and Jeshaʹiah; the son of Jeshaʹiah was Rephaʹiah; the son of Rephaʹiah was Arʹnan; the son of Arʹnan was Obadiʹah; the son of Obadiʹah was Shecaniʹah;"
+
+- triggers: ["!1chronicles3:22 ","!1chron3:22 ","!1ch3:22 "]
+  replace: "and the sons of Shecaniʹah were Shemaiʹah and the sons of Shemaiʹah: Hatʹtush, Iʹgal, Bariʹah, Neariʹah, and Shaʹphat—six in all."
+
+- triggers: ["!1chronicles3:23 ","!1chron3:23 ","!1ch3:23 "]
+  replace: "And the sons of Neariʹah were Elioeʹnai, Hizkiʹah, and Azriʹkam, three."
+
+- triggers: ["!1chronicles3:24 ","!1chron3:24 ","!1ch3:24 "]
+  replace: "And the sons of Elioeʹnai were Hodaviʹah, Eliʹashib, Pelaʹiah, Akʹkub, Johaʹnan, Delaʹiah, and Anaʹni, seven."
+
+- triggers: ["!1chronicles4:1 ","!1chron4:1 ","!1ch4:1 "]
+  replace: "The sons of Judah were Peʹrez, Hezʹron, Carʹmi, Hur, and Shoʹbal."
+
+- triggers: ["!1chronicles4:2 ","!1chron4:2 ","!1ch4:2 "]
+  replace: "Reaʹiah the son of Shoʹbal became father to Jaʹhath; Jaʹhath became father to Ahuʹmai and Laʹhad. These were the families of the Zoʹrathites."
+
+- triggers: ["!1chronicles4:3 ","!1chron4:3 ","!1ch4:3 "]
+  replace: "These were the sons of the father of Eʹtam: Jezʹreel, Ishʹma, and Idʹbash (and the name of their sister was Hazzelelpoʹni),"
+
+- triggers: ["!1chronicles4:4 ","!1chron4:4 ","!1ch4:4 "]
+  replace: "and Penuʹel was the father of Geʹdor, and Eʹzer was the father of Huʹshah. These were the sons of Hur, the firstborn of Ephʹrathah and the father of Bethʹlehem."
+
+- triggers: ["!1chronicles4:5 ","!1chron4:5 ","!1ch4:5 "]
+  replace: "Ashʹhur the father of Tekoʹa had two wives, Heʹlah and Naʹarah."
+
+- triggers: ["!1chronicles4:6 ","!1chron4:6 ","!1ch4:6 "]
+  replace: "Naʹarah bore to him Ahuzʹzam, Heʹpher, Teʹmeni, and Haahashʹtari. These were the sons of Naʹarah."
+
+- triggers: ["!1chronicles4:7 ","!1chron4:7 ","!1ch4:7 "]
+  replace: "And the sons of Heʹlah were Zeʹreth, Izʹhar, and Ethʹnan."
+
+- triggers: ["!1chronicles4:8 ","!1chron4:8 ","!1ch4:8 "]
+  replace: "Koz became father to Aʹnub, Zobeʹbah, and the families of Aharʹhel the son of Haʹrum."
+
+- triggers: ["!1chronicles4:9 ","!1chron4:9 ","!1ch4:9 "]
+  replace: "Jaʹbez was more honorable than his brothers; and his mother named him Jaʹbez, saying: “I gave birth to him in pain.”"
+
+- triggers: ["!1chronicles4:10 ","!1chron4:10 ","!1ch4:10 "]
+  replace: "Jaʹbez called on the God of Israel, saying: “O that you would bless me and enlarge my territory and let your hand be with me and preserve me from calamity, so that it may bring no harm to me!” So God brought about what he had asked for."
+
+- triggers: ["!1chronicles4:11 ","!1chron4:11 ","!1ch4:11 "]
+  replace: "Cheʹlub the brother of Shuʹhah became father to Meʹhir, who was the father of Eshʹton."
+
+- triggers: ["!1chronicles4:12 ","!1chron4:12 ","!1ch4:12 "]
+  replace: "Eshʹton became father to Beth-raʹpha, Paseʹah, and Tehinʹnah, the father of Ir-naʹhash. These were the men of Reʹcah."
+
+- triggers: ["!1chronicles4:13 ","!1chron4:13 ","!1ch4:13 "]
+  replace: "And the sons of Keʹnaz were Othʹniel and Seraiʹah, and the son of Othʹniel was Haʹthath."
+
+- triggers: ["!1chronicles4:14 ","!1chron4:14 ","!1ch4:14 "]
+  replace: "Meoʹnothai became father to Ophʹrah. Seraiʹah became father to Joʹab the father of Ge-harʹashim, so called because they were craftsmen."
+
+- triggers: ["!1chronicles4:15 ","!1chron4:15 ","!1ch4:15 "]
+  replace: "The sons of Caʹleb the son of Jephunʹneh were Iʹru, Eʹlah, and Naʹam; and the son of Eʹlah was Keʹnaz."
+
+- triggers: ["!1chronicles4:16 ","!1chron4:16 ","!1ch4:16 "]
+  replace: "The sons of Jehalʹlelel were Ziph, Ziʹphah, Tirʹia, and Asʹarel."
+
+- triggers: ["!1chronicles4:17 ","!1chron4:17 ","!1ch4:17 "]
+  replace: "The sons of Ezʹrah were Jeʹther, Meʹred, Eʹpher, and Jaʹlon; she conceived and bore Mirʹiam, Shamʹmai, and Ishʹbah the father of Eshtemoʹa."
+
+- triggers: ["!1chronicles4:18 ","!1chron4:18 ","!1ch4:18 "]
+  replace: "(And his Jewish wife gave birth to Jeʹred the father of Geʹdor, Heʹber the father of Soʹco, and Jekuʹthiel the father of Zanoʹah.) These were the sons of Bithiʹah, the daughter of Pharʹaoh, whom Meʹred married."
+
+- triggers: ["!1chronicles4:19 ","!1chron4:19 ","!1ch4:19 "]
+  replace: "The sons of Hodiʹah’s wife, the sister of Naʹham, were the fathers of Keiʹlah the Garʹmite and Eshtemoʹa the Maacʹathite."
+
+- triggers: ["!1chronicles4:20 ","!1chron4:20 ","!1ch4:20 "]
+  replace: "And the sons of Shiʹmon were Amʹnon, Rinʹnah, Ben-haʹnan, and Tiʹlon. And the sons of Ishʹi were Zoʹheth and Ben-zoʹheth."
+
+- triggers: ["!1chronicles4:21 ","!1chron4:21 ","!1ch4:21 "]
+  replace: "The sons of Sheʹlah the son of Judah were Er the father of Leʹcah, Laʹadah the father of Mareʹshah, and the families of the workers of fine fabric of the house of Ashbeʹa,"
+
+- triggers: ["!1chronicles4:22 ","!1chron4:22 ","!1ch4:22 "]
+  replace: "and Joʹkim, the men of Cozeʹba, Joʹash, and Saʹraph, who became husbands of Moʹabite women, and Jashʹubi-leʹhem. These records are ancient."
+
+- triggers: ["!1chronicles4:23 ","!1chron4:23 ","!1ch4:23 "]
+  replace: "They were potters who lived in Netaʹim and Gedeʹrah. They lived there and worked for the king."
+
+- triggers: ["!1chronicles4:24 ","!1chron4:24 ","!1ch4:24 "]
+  replace: "The sons of Simʹeon were Nemʹuel, Jaʹmin, Jaʹrib, Zeʹrah, and Shaʹul."
+
+- triggers: ["!1chronicles4:25 ","!1chron4:25 ","!1ch4:25 "]
+  replace: "Shalʹlum was his son, Mibʹsam his son, and Mishʹma his son."
+
+- triggers: ["!1chronicles4:26 ","!1chron4:26 ","!1ch4:26 "]
+  replace: "And the sons of Mishʹma were Hamʹmuel his son, Zacʹcur his son, Shimʹei his son."
+
+- triggers: ["!1chronicles4:27 ","!1chron4:27 ","!1ch4:27 "]
+  replace: "And Shimʹei had 16 sons and 6 daughters; but his brothers did not have many sons, and none of their families had as many as the men of Judah had."
+
+- triggers: ["!1chronicles4:28 ","!1chron4:28 ","!1ch4:28 "]
+  replace: "They lived in Beʹer-sheʹba, Molaʹdah, Haʹzar-shuʹal,"
+
+- triggers: ["!1chronicles4:29 ","!1chron4:29 ","!1ch4:29 "]
+  replace: "Bilʹhah, Eʹzem, Toʹlad,"
+
+- triggers: ["!1chronicles4:30 ","!1chron4:30 ","!1ch4:30 "]
+  replace: "Bethuʹel, Horʹmah, Zikʹlag,"
+
+- triggers: ["!1chronicles4:31 ","!1chron4:31 ","!1ch4:31 "]
+  replace: "Beth-marʹcaboth, Haʹzar-suʹsim, Beth-birʹi, and Shaʹaraʹim. These were their cities until the reign of David."
+
+- triggers: ["!1chronicles4:32 ","!1chron4:32 ","!1ch4:32 "]
+  replace: "Their settlements were Eʹtam, Aʹin, Rimʹmon, Toʹchen, and Aʹshan, five cities,"
+
+- triggers: ["!1chronicles4:33 ","!1chron4:33 ","!1ch4:33 "]
+  replace: "along with their settlements that were all around these cities as far as Baʹal. These were their genealogical enrollments and the places where they lived."
+
+- triggers: ["!1chronicles4:34 ","!1chron4:34 ","!1ch4:34 "]
+  replace: "And Meshoʹbab, Jamʹlech, Joʹshah the son of Amaziʹah,"
+
+- triggers: ["!1chronicles4:35 ","!1chron4:35 ","!1ch4:35 "]
+  replace: "Joel, Jeʹhu son of Joshibiʹah son of Seraiʹah son of Asʹiel,"
+
+- triggers: ["!1chronicles4:36 ","!1chron4:36 ","!1ch4:36 "]
+  replace: "and Elioeʹnai, Jaakoʹbah, Jeshohaiʹah, Asaiʹah, Adʹiel, Jesimʹiel, Benaiʹah,"
+
+- triggers: ["!1chronicles4:37 ","!1chron4:37 ","!1ch4:37 "]
+  replace: "and Ziʹza son of Shiʹphi son of Alʹlon son of Jedaʹiah son of Shimʹri son of Shemaiʹah;"
+
+- triggers: ["!1chronicles4:38 ","!1chron4:38 ","!1ch4:38 "]
+  replace: "these mentioned by name were the chieftains among their families, and the household of their forefathers increased in number."
+
+- triggers: ["!1chronicles4:39 ","!1chron4:39 ","!1ch4:39 "]
+  replace: "And they went to the entrance of Geʹdor, to the east side of the valley, to look for pastures for their flocks."
+
+- triggers: ["!1chronicles4:40 ","!1chron4:40 ","!1ch4:40 "]
+  replace: "They eventually found rich and good pastures, and the land was spacious, quiet, and undisturbed. Those who previously lived there were Hamʹites."
+
+- triggers: ["!1chronicles4:41 ","!1chron4:41 ","!1ch4:41 "]
+  replace: "These whose names are listed came during the days of King Hezekiʹah of Judah and struck down the tents of the Hamʹites and the Meuʹnim who were there. They devoted them to destruction down to this day; and they settled in their place because there were pastures for their flocks there."
+
+- triggers: ["!1chronicles4:42 ","!1chron4:42 ","!1ch4:42 "]
+  replace: "Some of the Simʹeonites, 500 men, went to Mount Seʹir with Pelatiʹah, Neariʹah, Rephaʹiah, and Uzʹziel, the sons of Ishʹi who led them."
+
+- triggers: ["!1chronicles4:43 ","!1chron4:43 ","!1ch4:43 "]
+  replace: "And they struck down the rest of the Amalʹekites who had escaped, and they have lived there down to this day."
+
+- triggers: ["!1chronicles5:1 ","!1chron5:1 ","!1ch5:1 "]
+  replace: "These are the sons of Reuʹben, Israel’s firstborn. He was the firstborn, but because he defiled the bed of his father, his right as firstborn was given to the sons of Joseph the son of Israel, so he was not enrolled genealogically for the right of the firstborn."
+
+- triggers: ["!1chronicles5:2 ","!1chron5:2 ","!1ch5:2 "]
+  replace: "Though Judah was superior to his brothers and from him came the one to be the leader, the right as firstborn belonged to Joseph."
+
+- triggers: ["!1chronicles5:3 ","!1chron5:3 ","!1ch5:3 "]
+  replace: "The sons of Reuʹben the firstborn of Israel were Haʹnoch, Palʹlu, Hezʹron, and Carʹmi."
+
+- triggers: ["!1chronicles5:4 ","!1chron5:4 ","!1ch5:4 "]
+  replace: "The sons of Joel were Shemaiʹah his son, Gog his son, Shimʹei his son,"
+
+- triggers: ["!1chronicles5:5 ","!1chron5:5 ","!1ch5:5 "]
+  replace: "Miʹcah his son, Reaʹiah his son, Baʹal his son,"
+
+- triggers: ["!1chronicles5:6 ","!1chron5:6 ","!1ch5:6 "]
+  replace: "and Beerʹah his son, whom King Tilʹgath-pilneʹser of Assyrʹia took into exile; he was a chieftain of the Reuʹbenites."
+
+- triggers: ["!1chronicles5:7 ","!1chron5:7 ","!1ch5:7 "]
+  replace: "His brothers by their families in the genealogical enrollment by their descendants were, as the head, Jeiʹel, Zechariʹah,"
+
+- triggers: ["!1chronicles5:8 ","!1chron5:8 ","!1ch5:8 "]
+  replace: "and Beʹla son of Aʹzaz son of Sheʹma son of Joel, who lived in Aroʹer and as far as Neʹbo and Baʹal-meʹon."
+
+- triggers: ["!1chronicles5:9 ","!1chron5:9 ","!1ch5:9 "]
+  replace: "To the east he settled as far as the beginning of the wilderness at the Euphraʹtes River, for their livestock had become numerous in the land of Gilʹead."
+
+- triggers: ["!1chronicles5:10 ","!1chron5:10 ","!1ch5:10 "]
+  replace: "In the days of Saul, they waged war against the Hagʹrites, who were defeated before them, so they dwelled in their tents throughout all the territory east of Gilʹead."
+
+- triggers: ["!1chronicles5:11 ","!1chron5:11 ","!1ch5:11 "]
+  replace: "Now the descendants of Gad lived next to them in the land of Baʹshan as far as Salʹecah."
+
+- triggers: ["!1chronicles5:12 ","!1chron5:12 ","!1ch5:12 "]
+  replace: "Joel was the head, Shaʹpham the second, and Jaʹnai and Shaʹphat in Baʹshan."
+
+- triggers: ["!1chronicles5:13 ","!1chron5:13 ","!1ch5:13 "]
+  replace: "And their brothers belonging to their paternal houses were Miʹchael, Meshulʹlam, Sheʹba, Joʹrai, Jaʹcan, Ziʹa, and Eʹber, seven in all."
+
+- triggers: ["!1chronicles5:14 ","!1chron5:14 ","!1ch5:14 "]
+  replace: "These were the sons of Abʹihail son of Huʹri son of Jaroʹah son of Gilʹead son of Miʹchael son of Jeshishʹai son of Jahʹdo son of Buz."
+
+- triggers: ["!1chronicles5:15 ","!1chron5:15 ","!1ch5:15 "]
+  replace: "Aʹhi son of Abʹdiel son of Guʹni was head of their paternal house."
+
+- triggers: ["!1chronicles5:16 ","!1chron5:16 ","!1ch5:16 "]
+  replace: "They lived in Gilʹead, in Baʹshan and its dependent towns, and in all the pastures of Sharʹon as far as they extended."
+
+- triggers: ["!1chronicles5:17 ","!1chron5:17 ","!1ch5:17 "]
+  replace: "They were all enrolled genealogically in the days of King Joʹtham of Judah and in the days of King Jeroboʹam of Israel."
+
+- triggers: ["!1chronicles5:18 ","!1chron5:18 ","!1ch5:18 "]
+  replace: "The Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh had 44,760 mighty warriors in their army who carried shields and swords and were armed with bows, and they were trained in war."
+
+- triggers: ["!1chronicles5:19 ","!1chron5:19 ","!1ch5:19 "]
+  replace: "They waged war against the Hagʹrites, Jeʹtur, Naʹphish, and Noʹdab."
+
+- triggers: ["!1chronicles5:20 ","!1chron5:20 ","!1ch5:20 "]
+  replace: "And they were helped in fighting them, so that the Hagʹrites and all who were with them were given into their hand, for they called to God for help in the war, and he responded to their entreaty because they trusted in him."
+
+- triggers: ["!1chronicles5:21 ","!1chron5:21 ","!1ch5:21 "]
+  replace: "They captured their livestock—50,000 camels, 250,000 sheep, and 2,000 donkeys—as well as 100,000 people."
+
+- triggers: ["!1chronicles5:22 ","!1chron5:22 ","!1ch5:22 "]
+  replace: "Many had fallen slain, because the war was waged by the true God. And they lived in their place until the time of the exile."
+
+- triggers: ["!1chronicles5:23 ","!1chron5:23 ","!1ch5:23 "]
+  replace: "The descendants of the half tribe of Manasʹseh lived in the land from Baʹshan to Baʹal-herʹmon and Seʹnir and Mount Herʹmon. They were numerous."
+
+- triggers: ["!1chronicles5:24 ","!1chron5:24 ","!1ch5:24 "]
+  replace: "These were the heads of their paternal houses: Eʹpher, Ishʹi, Eʹliel, Azʹriel, Jeremiah, Hodaviʹah, and Jahʹdiel; they were mighty warriors, men of fame, and heads of their paternal houses."
+
+- triggers: ["!1chronicles5:25 ","!1chron5:25 ","!1ch5:25 "]
+  replace: "But they acted unfaithfully toward the God of their forefathers and prostituted themselves to the gods of the peoples of the land, whom God had annihilated from before them."
+
+- triggers: ["!1chronicles5:26 ","!1chron5:26 ","!1ch5:26 "]
+  replace: "So the God of Israel stirred up the spirit of King Pul of Assyrʹia (that is, King Tilʹgath-pilneʹser of Assyrʹia) so that he took into exile those of the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh and brought them to Haʹlah, Haʹbor, Haʹra, and the river Goʹzan, where they are until this day."
+
+- triggers: ["!1chronicles6:1 ","!1chron6:1 ","!1ch6:1 "]
+  replace: "The sons of Leʹvi were Gerʹshon, Koʹhath, and Merarʹi."
+
+- triggers: ["!1chronicles6:2 ","!1chron6:2 ","!1ch6:2 "]
+  replace: "The sons of Koʹhath were Amʹram, Izʹhar, Hebʹron, and Uzʹziel."
+
+- triggers: ["!1chronicles6:3 ","!1chron6:3 ","!1ch6:3 "]
+  replace: "The children of Amʹram were Aaron, Moses, and also Mirʹiam. And the sons of Aaron were Naʹdab, Abiʹhu, Eleaʹzar, and Ithʹamar."
+
+- triggers: ["!1chronicles6:4 ","!1chron6:4 ","!1ch6:4 "]
+  replace: "Eleaʹzar became father to Phinʹehas; Phinʹehas became father to Abishuʹa."
+
+- triggers: ["!1chronicles6:5 ","!1chron6:5 ","!1ch6:5 "]
+  replace: "Abishuʹa became father to Bukʹki; Bukʹki became father to Uzʹzi."
+
+- triggers: ["!1chronicles6:6 ","!1chron6:6 ","!1ch6:6 "]
+  replace: "Uzʹzi became father to Zerahiʹah; Zerahiʹah became father to Meraʹioth."
+
+- triggers: ["!1chronicles6:7 ","!1chron6:7 ","!1ch6:7 "]
+  replace: "Meraʹioth became father to Amariʹah; Amariʹah became father to Ahiʹtub."
+
+- triggers: ["!1chronicles6:8 ","!1chron6:8 ","!1ch6:8 "]
+  replace: "Ahiʹtub became father to Zaʹdok; Zaʹdok became father to Ahimʹaaz."
+
+- triggers: ["!1chronicles6:9 ","!1chron6:9 ","!1ch6:9 "]
+  replace: "Ahimʹaaz became father to Azariʹah; Azariʹah became father to Johaʹnan."
+
+- triggers: ["!1chronicles6:10 ","!1chron6:10 ","!1ch6:10 "]
+  replace: "Johaʹnan became father to Azariʹah. He served as priest in the house that Solʹomon built in Jerusalem."
+
+- triggers: ["!1chronicles6:11 ","!1chron6:11 ","!1ch6:11 "]
+  replace: "Azariʹah became father to Amariʹah; Amariʹah became father to Ahiʹtub."
+
+- triggers: ["!1chronicles6:12 ","!1chron6:12 ","!1ch6:12 "]
+  replace: "Ahiʹtub became father to Zaʹdok; Zaʹdok became father to Shalʹlum."
+
+- triggers: ["!1chronicles6:13 ","!1chron6:13 ","!1ch6:13 "]
+  replace: "Shalʹlum became father to Hilkiʹah; Hilkiʹah became father to Azariʹah."
+
+- triggers: ["!1chronicles6:14 ","!1chron6:14 ","!1ch6:14 "]
+  replace: "Azariʹah became father to Seraiʹah; Seraiʹah became father to Jehozʹadak."
+
+- triggers: ["!1chronicles6:15 ","!1chron6:15 ","!1ch6:15 "]
+  replace: "And Jehozʹadak went into exile when Jehovah took Judah and Jerusalem into exile by the hand of Nebuchadnezʹzar."
+
+- triggers: ["!1chronicles6:16 ","!1chron6:16 ","!1ch6:16 "]
+  replace: "The sons of Leʹvi were Gerʹshom, Koʹhath, and Merarʹi."
+
+- triggers: ["!1chronicles6:17 ","!1chron6:17 ","!1ch6:17 "]
+  replace: "These are the names of the sons of Gerʹshom: Libʹni and Shimʹei."
+
+- triggers: ["!1chronicles6:18 ","!1chron6:18 ","!1ch6:18 "]
+  replace: "The sons of Koʹhath were Amʹram, Izʹhar, Hebʹron, and Uzʹziel."
+
+- triggers: ["!1chronicles6:19 ","!1chron6:19 ","!1ch6:19 "]
+  replace: "The sons of Merarʹi were Mahʹli and Muʹshi. These were the families of the Levites by their forefathers:"
+
+- triggers: ["!1chronicles6:20 ","!1chron6:20 ","!1ch6:20 "]
+  replace: "Of Gerʹshom, Libʹni his son, Jaʹhath his son, Zimʹmah his son,"
+
+- triggers: ["!1chronicles6:21 ","!1chron6:21 ","!1ch6:21 "]
+  replace: "Joʹah his son, Idʹdo his son, Zeʹrah his son, Jeathʹerai his son."
+
+- triggers: ["!1chronicles6:22 ","!1chron6:22 ","!1ch6:22 "]
+  replace: "The sons of Koʹhath were Amminʹadab his son, Korʹah his son, Asʹsir his son,"
+
+- triggers: ["!1chronicles6:23 ","!1chron6:23 ","!1ch6:23 "]
+  replace: "Elkaʹnah his son, Ebiʹasaph his son, Asʹsir his son,"
+
+- triggers: ["!1chronicles6:24 ","!1chron6:24 ","!1ch6:24 "]
+  replace: "Taʹhath his son, Uriʹel his son, Uzziʹah his son, and Shaʹul his son."
+
+- triggers: ["!1chronicles6:25 ","!1chron6:25 ","!1ch6:25 "]
+  replace: "The sons of Elkaʹnah were Amaʹsai and Ahiʹmoth."
+
+- triggers: ["!1chronicles6:26 ","!1chron6:26 ","!1ch6:26 "]
+  replace: "As for Elkaʹnah, the sons of Elkaʹnah were Zoʹphai his son, Naʹhath his son,"
+
+- triggers: ["!1chronicles6:27 ","!1chron6:27 ","!1ch6:27 "]
+  replace: "Eliʹab his son, Jeroʹham his son, Elkaʹnah his son."
+
+- triggers: ["!1chronicles6:28 ","!1chron6:28 ","!1ch6:28 "]
+  replace: "The sons of Samuel were Joel the firstborn and Abiʹjah the second."
+
+- triggers: ["!1chronicles6:29 ","!1chron6:29 ","!1ch6:29 "]
+  replace: "The sons of Merarʹi were Mahʹli, Libʹni his son, Shimʹei his son, Uzʹzah his son,"
+
+- triggers: ["!1chronicles6:30 ","!1chron6:30 ","!1ch6:30 "]
+  replace: "Shimʹea his son, Haggiʹah his son, and Asaiʹah his son."
+
+- triggers: ["!1chronicles6:31 ","!1chron6:31 ","!1ch6:31 "]
+  replace: "These were the ones whom David appointed to direct the singing at the house of Jehovah after the Ark came to rest there."
+
+- triggers: ["!1chronicles6:32 ","!1chron6:32 ","!1ch6:32 "]
+  replace: "They were responsible for the singing at the tabernacle of the tent of meeting until Solʹomon built the house of Jehovah in Jerusalem, and they carried out their service as prescribed for them."
+
+- triggers: ["!1chronicles6:33 ","!1chron6:33 ","!1ch6:33 "]
+  replace: "These are the men who served with their sons: Of the Koʹhathites, Heʹman the singer, son of Joel son of Samuel"
+
+- triggers: ["!1chronicles6:34 ","!1chron6:34 ","!1ch6:34 "]
+  replace: "son of Elkaʹnah son of Jeroʹham son of Eʹliel son of Toʹah"
+
+- triggers: ["!1chronicles6:35 ","!1chron6:35 ","!1ch6:35 "]
+  replace: "son of Zuph son of Elkaʹnah son of Maʹhath son of Amaʹsai"
+
+- triggers: ["!1chronicles6:36 ","!1chron6:36 ","!1ch6:36 "]
+  replace: "son of Elkaʹnah son of Joel son of Azariʹah son of Zephaniʹah"
+
+- triggers: ["!1chronicles6:37 ","!1chron6:37 ","!1ch6:37 "]
+  replace: "son of Taʹhath son of Asʹsir son of Ebiʹasaph son of Korʹah"
+
+- triggers: ["!1chronicles6:38 ","!1chron6:38 ","!1ch6:38 "]
+  replace: "son of Izʹhar son of Koʹhath son of Leʹvi son of Israel."
+
+- triggers: ["!1chronicles6:39 ","!1chron6:39 ","!1ch6:39 "]
+  replace: "His brother Aʹsaph stood at his right hand; Aʹsaph was son of Berechiʹah son of Shimʹea"
+
+- triggers: ["!1chronicles6:40 ","!1chron6:40 ","!1ch6:40 "]
+  replace: "son of Miʹchael son of Baaseʹiah son of Malchiʹjah"
+
+- triggers: ["!1chronicles6:41 ","!1chron6:41 ","!1ch6:41 "]
+  replace: "son of Ethʹni son of Zeʹrah son of Adaiʹah"
+
+- triggers: ["!1chronicles6:42 ","!1chron6:42 ","!1ch6:42 "]
+  replace: "son of Eʹthan son of Zimʹmah son of Shimʹei"
+
+- triggers: ["!1chronicles6:43 ","!1chron6:43 ","!1ch6:43 "]
+  replace: "son of Jaʹhath son of Gerʹshom son of Leʹvi."
+
+- triggers: ["!1chronicles6:44 ","!1chron6:44 ","!1ch6:44 "]
+  replace: "The descendants of Merarʹi their brothers were at the left hand; there was Eʹthan son of Kishʹi son of Abʹdi son of Malʹluch"
+
+- triggers: ["!1chronicles6:45 ","!1chron6:45 ","!1ch6:45 "]
+  replace: "son of Hashabiʹah son of Amaziʹah son of Hilkiʹah"
+
+- triggers: ["!1chronicles6:46 ","!1chron6:46 ","!1ch6:46 "]
+  replace: "son of Amʹzi son of Baʹni son of Sheʹmer"
+
+- triggers: ["!1chronicles6:47 ","!1chron6:47 ","!1ch6:47 "]
+  replace: "son of Mahʹli son of Muʹshi son of Merarʹi son of Leʹvi."
+
+- triggers: ["!1chronicles6:48 ","!1chron6:48 ","!1ch6:48 "]
+  replace: "Their brothers the Levites were appointed for all the service of the tabernacle, the house of the true God."
+
+- triggers: ["!1chronicles6:49 ","!1chron6:49 ","!1ch6:49 "]
+  replace: "Aaron and his sons made the sacrifices smoke on the altar of burnt offering and on the altar of incense, performing the duties connected with the most holy things, to make atonement for Israel, according to all that Moses the servant of the true God had commanded."
+
+- triggers: ["!1chronicles6:50 ","!1chron6:50 ","!1ch6:50 "]
+  replace: "These were the descendants of Aaron: Eleaʹzar his son, Phinʹehas his son, Abishuʹa his son,"
+
+- triggers: ["!1chronicles6:51 ","!1chron6:51 ","!1ch6:51 "]
+  replace: "Bukʹki his son, Uzʹzi his son, Zerahiʹah his son,"
+
+- triggers: ["!1chronicles6:52 ","!1chron6:52 ","!1ch6:52 "]
+  replace: "Meraʹioth his son, Amariʹah his son, Ahiʹtub his son,"
+
+- triggers: ["!1chronicles6:53 ","!1chron6:53 ","!1ch6:53 "]
+  replace: "Zaʹdok his son, and Ahimʹaaz his son."
+
+- triggers: ["!1chronicles6:54 ","!1chron6:54 ","!1ch6:54 "]
+  replace: "These were their settlements by their encampments in their territory: for the descendants of Aaron belonging to the family of the Koʹhathites, as the first lot fell to them,"
+
+- triggers: ["!1chronicles6:55 ","!1chron6:55 ","!1ch6:55 "]
+  replace: "they gave them Hebʹron in the land of Judah, with its surrounding pastures."
+
+- triggers: ["!1chronicles6:56 ","!1chron6:56 ","!1ch6:56 "]
+  replace: "But the field of the city and its settlements they gave to Caʹleb the son of Jephunʹneh."
+
+- triggers: ["!1chronicles6:57 ","!1chron6:57 ","!1ch6:57 "]
+  replace: "And to the descendants of Aaron they gave the cities of refuge, Hebʹron, also Libʹnah with its pastures, Jatʹtir, Eshtemoʹa with its pastures,"
+
+- triggers: ["!1chronicles6:58 ","!1chron6:58 ","!1ch6:58 "]
+  replace: "Hiʹlen with its pastures, Deʹbir with its pastures,"
+
+- triggers: ["!1chronicles6:59 ","!1chron6:59 ","!1ch6:59 "]
+  replace: "Aʹshan with its pastures, and Beth-sheʹmesh with its pastures;"
+
+- triggers: ["!1chronicles6:60 ","!1chron6:60 ","!1ch6:60 "]
+  replace: "and from the tribe of Benjamin, Geʹba with its pastures, Alʹemeth with its pastures, and Anʹathoth with its pastures. All their cities for their families were 13 cities."
+
+- triggers: ["!1chronicles6:61 ","!1chron6:61 ","!1ch6:61 "]
+  replace: "To the rest of the Koʹhathites, there were allotted ten cities, from the family of the tribe, from the half tribe, the half of Manasʹseh."
+
+- triggers: ["!1chronicles6:62 ","!1chron6:62 ","!1ch6:62 "]
+  replace: "To the Gerʹshomites by their families they assigned 13 cities from the tribe of Isʹsachar, the tribe of Ashʹer, the tribe of Naphʹtali, and the tribe of Manasʹseh in Baʹshan."
+
+- triggers: ["!1chronicles6:63 ","!1chron6:63 ","!1ch6:63 "]
+  replace: "To the Merarʹites by their families they assigned by lot 12 cities from the tribe of Reuʹben, the tribe of Gad, and the tribe of Zebʹulun."
+
+- triggers: ["!1chronicles6:64 ","!1chron6:64 ","!1ch6:64 "]
+  replace: "Thus the Israelites gave the Levites these cities with their pastures."
+
+- triggers: ["!1chronicles6:65 ","!1chron6:65 ","!1ch6:65 "]
+  replace: "Furthermore, they assigned by lot these cities from the tribe of Judah, the tribe of Simʹeon, and the tribe of Benjamin, which are mentioned by their names."
+
+- triggers: ["!1chronicles6:66 ","!1chron6:66 ","!1ch6:66 "]
+  replace: "Some of the Koʹhathite families had cities from the tribe of Eʹphraim as their territory."
+
+- triggers: ["!1chronicles6:67 ","!1chron6:67 ","!1ch6:67 "]
+  replace: "They gave them the cities of refuge, Sheʹchem with its pastures in the mountainous region of Eʹphraim, Geʹzer with its pastures,"
+
+- triggers: ["!1chronicles6:68 ","!1chron6:68 ","!1ch6:68 "]
+  replace: "Jokʹmeam with its pastures, Beth-hoʹron with its pastures,"
+
+- triggers: ["!1chronicles6:69 ","!1chron6:69 ","!1ch6:69 "]
+  replace: "Aiʹjalon with its pastures, and Gath-rimʹmon with its pastures;"
+
+- triggers: ["!1chronicles6:70 ","!1chron6:70 ","!1ch6:70 "]
+  replace: "and from half of the tribe of Manasʹseh, Aʹner with its pastures and Bilʹeam with its pastures, to the rest of the families of the Koʹhathites."
+
+- triggers: ["!1chronicles6:71 ","!1chron6:71 ","!1ch6:71 "]
+  replace: "To the Gerʹshomites they assigned from the family of the half tribe of Manasʹseh, Goʹlan in Baʹshan with its pastures and Ashʹtaroth with its pastures;"
+
+- triggers: ["!1chronicles6:72 ","!1chron6:72 ","!1ch6:72 "]
+  replace: "and from the tribe of Isʹsachar, Keʹdesh with its pastures, Dabʹerath with its pastures,"
+
+- triggers: ["!1chronicles6:73 ","!1chron6:73 ","!1ch6:73 "]
+  replace: "Raʹmoth with its pastures, and Aʹnem with its pastures;"
+
+- triggers: ["!1chronicles6:74 ","!1chron6:74 ","!1ch6:74 "]
+  replace: "and from the tribe of Ashʹer, Maʹshal with its pastures, Abʹdon with its pastures,"
+
+- triggers: ["!1chronicles6:75 ","!1chron6:75 ","!1ch6:75 "]
+  replace: "Huʹkok with its pastures, and Reʹhob with its pastures;"
+
+- triggers: ["!1chronicles6:76 ","!1chron6:76 ","!1ch6:76 "]
+  replace: "and from the tribe of Naphʹtali, Keʹdesh in Galʹilee with its pastures, Hamʹmon with its pastures, and Kiriathaʹim with its pastures."
+
+- triggers: ["!1chronicles6:77 ","!1chron6:77 ","!1ch6:77 "]
+  replace: "To the rest of the Merarʹites they assigned from the tribe of Zebʹulun, Rimʹmono with its pastures, Taʹbor with its pastures;"
+
+- triggers: ["!1chronicles6:78 ","!1chron6:78 ","!1ch6:78 "]
+  replace: "and in the region of the Jordan at Jerʹicho, to the east of the Jordan, from the tribe of Reuʹben, they were given Beʹzer in the wilderness with its pastures, Jaʹhaz with its pastures,"
+
+- triggers: ["!1chronicles6:79 ","!1chron6:79 ","!1ch6:79 "]
+  replace: "Kedʹemoth with its pastures, and Mephʹaath with its pastures;"
+
+- triggers: ["!1chronicles6:80 ","!1chron6:80 ","!1ch6:80 "]
+  replace: "and from the tribe of Gad, Raʹmoth in Gilʹead with its pastures, Mahanaʹim with its pastures,"
+
+- triggers: ["!1chronicles6:81 ","!1chron6:81 ","!1ch6:81 "]
+  replace: "Heshʹbon with its pastures, and Jaʹzer with its pastures."
+
+- triggers: ["!1chronicles7:1 ","!1chron7:1 ","!1ch7:1 "]
+  replace: "Now the sons of Isʹsachar were Toʹla, Puʹah, Jaʹshub, and Shimʹron—four."
+
+- triggers: ["!1chronicles7:2 ","!1chron7:2 ","!1ch7:2 "]
+  replace: "And the sons of Toʹla were Uzʹzi, Rephaʹiah, Jeʹriel, Jahʹmai, Ibʹsam, and Shemuʹel, the heads of their paternal houses. Descended from Toʹla were mighty warriors, whose number in the days of David was 22,600."
+
+- triggers: ["!1chronicles7:3 ","!1chron7:3 ","!1ch7:3 "]
+  replace: "And the descendants of Uzʹzi were Izrahiʹah and the sons of Izrahiʹah: Miʹchael, Obadiʹah, Joel, and Isshiʹah—all five of them were chiefs."
+
+- triggers: ["!1chronicles7:4 ","!1chron7:4 ","!1ch7:4 "]
+  replace: "And with them by their descendants, according to their paternal houses, there were 36,000 soldiers in their army available for war, for they had many wives and sons."
+
+- triggers: ["!1chronicles7:5 ","!1chron7:5 ","!1ch7:5 "]
+  replace: "And their brothers of all the families of Isʹsachar were mighty warriors, 87,000 as listed in the genealogical enrollment."
+
+- triggers: ["!1chronicles7:6 ","!1chron7:6 ","!1ch7:6 "]
+  replace: "The sons of Benjamin were Beʹla, Beʹcher, and Jediʹael—three."
+
+- triggers: ["!1chronicles7:7 ","!1chron7:7 ","!1ch7:7 "]
+  replace: "And the sons of Beʹla were Ezʹbon, Uzʹzi, Uzʹziel, Jerʹimoth, and Iʹri—five—heads of their paternal houses, mighty warriors, and 22,034 were in their genealogical enrollment."
+
+- triggers: ["!1chronicles7:8 ","!1chron7:8 ","!1ch7:8 "]
+  replace: "And the sons of Beʹcher were Zemiʹrah, Joʹash, Elieʹzer, Elioeʹnai, Omʹri, Jerʹemoth, Abiʹjah, Anʹathoth, and Alʹemeth—all of these were the sons of Beʹcher."
+
+- triggers: ["!1chronicles7:9 ","!1chron7:9 ","!1ch7:9 "]
+  replace: "Their genealogical enrollment by their descendants as respects the heads of their paternal houses was 20,200 mighty warriors."
+
+- triggers: ["!1chronicles7:10 ","!1chron7:10 ","!1ch7:10 "]
+  replace: "And the sons of Jediʹael were Bilʹhan and the sons of Bilʹhan: Jeʹush, Benjamin, Eʹhud, Chenaʹanah, Zeʹthan, Tarʹshish, and Ahishʹahar."
+
+- triggers: ["!1chronicles7:11 ","!1chron7:11 ","!1ch7:11 "]
+  replace: "All of these were the sons of Jediʹael, according to the heads of their forefathers, 17,200 mighty warriors ready to go out to the army for war."
+
+- triggers: ["!1chronicles7:12 ","!1chron7:12 ","!1ch7:12 "]
+  replace: "The Shupʹpim and the Hupʹpim were the sons of Ir; the Huʹshim were the sons of Aʹher."
+
+- triggers: ["!1chronicles7:13 ","!1chron7:13 ","!1ch7:13 "]
+  replace: "The sons of Naphʹtali were Jahʹziel, Guʹni, Jeʹzer, and Shalʹlum—descendants of Bilʹhah."
+
+- triggers: ["!1chronicles7:14 ","!1chron7:14 ","!1ch7:14 "]
+  replace: "The sons of Manasʹseh: Asʹriel, whom his Syrian concubine bore. (She bore Maʹchir the father of Gilʹead."
+
+- triggers: ["!1chronicles7:15 ","!1chron7:15 ","!1ch7:15 "]
+  replace: "Maʹchir took a wife for Hupʹpim and for Shupʹpim, and the name of his sister was Maʹacah.) The name of the second was Zeloʹphehad, but Zeloʹphehad had daughters."
+
+- triggers: ["!1chronicles7:16 ","!1chron7:16 ","!1ch7:16 "]
+  replace: "Maʹacah, Maʹchir’s wife, bore a son and named him Peʹresh; and the name of his brother was Sheʹresh; and his sons were Uʹlam and Reʹkem."
+
+- triggers: ["!1chronicles7:17 ","!1chron7:17 ","!1ch7:17 "]
+  replace: "And the son of Uʹlam was Beʹdan. These were the sons of Gilʹead son of Maʹchir son of Manasʹseh."
+
+- triggers: ["!1chronicles7:18 ","!1chron7:18 ","!1ch7:18 "]
+  replace: "And his sister was Hammoʹlecheth. She gave birth to Ishʹhod, Abi-eʹzer, and Mahʹlah."
+
+- triggers: ["!1chronicles7:19 ","!1chron7:19 ","!1ch7:19 "]
+  replace: "And the sons of Shemiʹda were Ahiʹan, Sheʹchem, Likʹhi, and Aniʹam."
+
+- triggers: ["!1chronicles7:20 ","!1chron7:20 ","!1ch7:20 "]
+  replace: "The sons of Eʹphraim were Shuʹthelah, Beʹred his son, Taʹhath his son, Eleaʹdah his son, Taʹhath his son,"
+
+- triggers: ["!1chronicles7:21 ","!1chron7:21 ","!1ch7:21 "]
+  replace: "Zaʹbad his son, Shuʹthelah his son, Eʹzer, and Eʹlead. The men of Gath who were born in the land killed them because they went down to take their livestock."
+
+- triggers: ["!1chronicles7:22 ","!1chron7:22 ","!1ch7:22 "]
+  replace: "Eʹphraim their father carried on mourning for many days, and his brothers kept coming in to comfort him."
+
+- triggers: ["!1chronicles7:23 ","!1chron7:23 ","!1ch7:23 "]
+  replace: "Afterward he had relations with his wife, and she became pregnant and gave birth to a son. But he named him Beriʹah because it was with calamity that she was in his house."
+
+- triggers: ["!1chronicles7:24 ","!1chron7:24 ","!1ch7:24 "]
+  replace: "And his daughter was Sheʹerah, who built Lower and Upper Beth-hoʹron and Uzʹzen-sheʹerah."
+
+- triggers: ["!1chronicles7:25 ","!1chron7:25 ","!1ch7:25 "]
+  replace: "And there was Reʹphah his son, Reʹsheph, Teʹlah his son, Taʹhan his son,"
+
+- triggers: ["!1chronicles7:26 ","!1chron7:26 ","!1ch7:26 "]
+  replace: "Laʹdan his son, Ammiʹhud his son, Elishʹama his son,"
+
+- triggers: ["!1chronicles7:27 ","!1chron7:27 ","!1ch7:27 "]
+  replace: "Nun his son, and Joshua his son."
+
+- triggers: ["!1chronicles7:28 ","!1chron7:28 ","!1ch7:28 "]
+  replace: "Their possession and their settlements were Bethʹel and its dependent towns, and to the east Naʹaran, and to the west Geʹzer and its dependent towns, and Sheʹchem and its dependent towns, as far as Ayʹyah and its dependent towns;"
+
+- triggers: ["!1chronicles7:29 ","!1chron7:29 ","!1ch7:29 "]
+  replace: "and next to the descendants of Manasʹseh, Beth-sheʹan and its dependent towns, Taʹanach and its dependent towns, Megidʹdo and its dependent towns, and Dor and its dependent towns. In these the descendants of Joseph the son of Israel lived."
+
+- triggers: ["!1chronicles7:30 ","!1chron7:30 ","!1ch7:30 "]
+  replace: "The sons of Ashʹer were Imʹnah, Ishʹvah, Ishʹvi, and Beriʹah, and their sister was Seʹrah."
+
+- triggers: ["!1chronicles7:31 ","!1chron7:31 ","!1ch7:31 "]
+  replace: "The sons of Beriʹah were Heʹber and Malʹchiel, who was the father of Birʹzaith."
+
+- triggers: ["!1chronicles7:32 ","!1chron7:32 ","!1ch7:32 "]
+  replace: "Heʹber became father to Japhʹlet, Shoʹmer, and Hoʹtham, and to Shuʹa their sister."
+
+- triggers: ["!1chronicles7:33 ","!1chron7:33 ","!1ch7:33 "]
+  replace: "The sons of Japhʹlet were Paʹsach, Bimʹhal, and Ashʹvath. These were the sons of Japhʹlet."
+
+- triggers: ["!1chronicles7:34 ","!1chron7:34 ","!1ch7:34 "]
+  replace: "The sons of Sheʹmer were Aʹhi, Rohʹgah, Jehubʹbah, and Aʹram."
+
+- triggers: ["!1chronicles7:35 ","!1chron7:35 ","!1ch7:35 "]
+  replace: "The sons of Heʹlem his brother were Zoʹphah, Imʹna, Sheʹlesh, and Aʹmal."
+
+- triggers: ["!1chronicles7:36 ","!1chron7:36 ","!1ch7:36 "]
+  replace: "The sons of Zoʹphah were Suʹah, Harʹnepher, Shuʹal, Beʹri, Imʹrah,"
+
+- triggers: ["!1chronicles7:37 ","!1chron7:37 ","!1ch7:37 "]
+  replace: "Beʹzer, Hod, Shamʹma, Shilʹshah, Ithʹran, and Beeʹra."
+
+- triggers: ["!1chronicles7:38 ","!1chron7:38 ","!1ch7:38 "]
+  replace: "The sons of Jeʹther were Jephunʹneh, Pisʹpah, and Aʹra."
+
+- triggers: ["!1chronicles7:39 ","!1chron7:39 ","!1ch7:39 "]
+  replace: "The sons of Ulʹla were Aʹrah, Hanʹniel, and Riziʹa."
+
+- triggers: ["!1chronicles7:40 ","!1chron7:40 ","!1ch7:40 "]
+  replace: "All of these were the sons of Ashʹer, heads of their paternal houses, select, mighty warriors, heads of the chieftains; and their number listed in the genealogical enrollment was 26,000 men in the army available for war."
+
+- triggers: ["!1chronicles8:1 ","!1chron8:1 ","!1ch8:1 "]
+  replace: "Benjamin became father to Beʹla his firstborn, Ashʹbel the second, Aharʹah the third,"
+
+- triggers: ["!1chronicles8:2 ","!1chron8:2 ","!1ch8:2 "]
+  replace: "Noʹhah the fourth, and Raʹpha the fifth."
+
+- triggers: ["!1chronicles8:3 ","!1chron8:3 ","!1ch8:3 "]
+  replace: "Beʹla’s sons were Adʹdar, Geʹra, Abiʹhud,"
+
+- triggers: ["!1chronicles8:4 ","!1chron8:4 ","!1ch8:4 "]
+  replace: "Abishuʹa, Naʹaman, Ahoʹah,"
+
+- triggers: ["!1chronicles8:5 ","!1chron8:5 ","!1ch8:5 "]
+  replace: "Geʹra, Shephuʹphan, and Huʹram."
+
+- triggers: ["!1chronicles8:6 ","!1chron8:6 ","!1ch8:6 "]
+  replace: "These were the sons of Eʹhud, the heads of the paternal houses of the inhabitants of Geʹba, who were taken into exile to Manʹahath:"
+
+- triggers: ["!1chronicles8:7 ","!1chron8:7 ","!1ch8:7 "]
+  replace: "Naʹaman, Ahiʹjah, and Geʹra—he was the one who took them into exile and he became father to Uzʹza and Ahiʹhud."
+
+- triggers: ["!1chronicles8:8 ","!1chron8:8 ","!1ch8:8 "]
+  replace: "Shaharaʹim became father to children in the territory of Moʹab after he sent them away. Huʹshim and Baʹara were his wives."
+
+- triggers: ["!1chronicles8:9 ","!1chron8:9 ","!1ch8:9 "]
+  replace: "And by his wife Hoʹdesh, he became father to Joʹbab, Zibʹia, Meʹsha, Malʹcam,"
+
+- triggers: ["!1chronicles8:10 ","!1chron8:10 ","!1ch8:10 "]
+  replace: "Jeʹuz, Sachiʹa, and Mirʹmah. These were his sons, heads of the paternal houses."
+
+- triggers: ["!1chronicles8:11 ","!1chron8:11 ","!1ch8:11 "]
+  replace: "By Huʹshim he became father to Abiʹtub and Elpaʹal."
+
+- triggers: ["!1chronicles8:12 ","!1chron8:12 ","!1ch8:12 "]
+  replace: "And the sons of Elpaʹal were Eʹber, Miʹsham, Sheʹmed (who built Oʹno and Lod and its dependent towns),"
+
+- triggers: ["!1chronicles8:13 ","!1chron8:13 ","!1ch8:13 "]
+  replace: "Beriʹah, and Sheʹma. These were heads of the paternal houses of the inhabitants of Aiʹjalon. These drove out the inhabitants of Gath."
+
+- triggers: ["!1chronicles8:14 ","!1chron8:14 ","!1ch8:14 "]
+  replace: "And there were Ahiʹo, Shaʹshak, Jerʹemoth,"
+
+- triggers: ["!1chronicles8:15 ","!1chron8:15 ","!1ch8:15 "]
+  replace: "Zebadiʹah, Aʹrad, Eʹder,"
+
+- triggers: ["!1chronicles8:16 ","!1chron8:16 ","!1ch8:16 "]
+  replace: "Miʹchael, Ishʹpah, Joʹha, the sons of Beriʹah;"
+
+- triggers: ["!1chronicles8:17 ","!1chron8:17 ","!1ch8:17 "]
+  replace: "and Zebadiʹah, Meshulʹlam, Hizʹki, Heʹber,"
+
+- triggers: ["!1chronicles8:18 ","!1chron8:18 ","!1ch8:18 "]
+  replace: "Ishʹmerai, Izliʹah, Joʹbab, the sons of Elpaʹal;"
+
+- triggers: ["!1chronicles8:19 ","!1chron8:19 ","!1ch8:19 "]
+  replace: "and Jaʹkim, Zichʹri, Zabʹdi,"
+
+- triggers: ["!1chronicles8:20 ","!1chron8:20 ","!1ch8:20 "]
+  replace: "Elieʹnai, Zilʹlethai, Eʹliel,"
+
+- triggers: ["!1chronicles8:21 ","!1chron8:21 ","!1ch8:21 "]
+  replace: "Adaiʹah, Beraʹiah, Shimʹrath, the sons of Shimʹei;"
+
+- triggers: ["!1chronicles8:22 ","!1chron8:22 ","!1ch8:22 "]
+  replace: "and Ishʹpan, Eʹber, Eʹliel,"
+
+- triggers: ["!1chronicles8:23 ","!1chron8:23 ","!1ch8:23 "]
+  replace: "Abʹdon, Zichʹri, Haʹnan,"
+
+- triggers: ["!1chronicles8:24 ","!1chron8:24 ","!1ch8:24 "]
+  replace: "Hananiʹah, Eʹlam, Anthothiʹjah,"
+
+- triggers: ["!1chronicles8:25 ","!1chron8:25 ","!1ch8:25 "]
+  replace: "Iphdeʹiah, Penuʹel, the sons of Shaʹshak;"
+
+- triggers: ["!1chronicles8:26 ","!1chron8:26 ","!1ch8:26 "]
+  replace: "and Shamʹsherai, Shehariʹah, Athaliʹah,"
+
+- triggers: ["!1chronicles8:27 ","!1chron8:27 ","!1ch8:27 "]
+  replace: "Jaareshiʹah, Eliʹjah, Zichʹri, the sons of Jeroʹham."
+
+- triggers: ["!1chronicles8:28 ","!1chron8:28 ","!1ch8:28 "]
+  replace: "These were heads of the paternal houses by their descendants. These headmen lived in Jerusalem."
+
+- triggers: ["!1chronicles8:29 ","!1chron8:29 ","!1ch8:29 "]
+  replace: "The father of Gibʹeon, Jeiʹel, lived in Gibʹeon. His wife’s name was Maʹacah."
+
+- triggers: ["!1chronicles8:30 ","!1chron8:30 ","!1ch8:30 "]
+  replace: "And his firstborn son was Abʹdon, followed by Zur, Kish, Baʹal, Naʹdab,"
+
+- triggers: ["!1chronicles8:31 ","!1chron8:31 ","!1ch8:31 "]
+  replace: "Geʹdor, Ahiʹo, and Zeʹcher."
+
+- triggers: ["!1chronicles8:32 ","!1chron8:32 ","!1ch8:32 "]
+  replace: "Mikʹloth became father to Shimʹeah. And they all lived near their brothers in Jerusalem, along with their other brothers."
+
+- triggers: ["!1chronicles8:33 ","!1chron8:33 ","!1ch8:33 "]
+  replace: "Ner became father to Kish; Kish became father to Saul; Saul became father to Jonʹathan, Malʹchi-shuʹa, Abinʹadab, and Eshbaʹal."
+
+- triggers: ["!1chronicles8:34 ","!1chron8:34 ","!1ch8:34 "]
+  replace: "And Jonʹathan’s son was Merʹib-baʹal. Merʹib-baʹal became father to Miʹcah."
+
+- triggers: ["!1chronicles8:35 ","!1chron8:35 ","!1ch8:35 "]
+  replace: "And the sons of Miʹcah were Piʹthon, Melʹech, Tareʹa, and Aʹhaz."
+
+- triggers: ["!1chronicles8:36 ","!1chron8:36 ","!1ch8:36 "]
+  replace: "Aʹhaz became father to Jehoʹaddah; Jehoʹaddah became father to Alʹemeth, Azʹmaveth, and Zimʹri. Zimʹri became father to Moʹza."
+
+- triggers: ["!1chronicles8:37 ","!1chron8:37 ","!1ch8:37 "]
+  replace: "Moʹza became father to Binʹea, Raʹphah his son, Eleaʹsah his son, Aʹzel his son."
+
+- triggers: ["!1chronicles8:38 ","!1chron8:38 ","!1ch8:38 "]
+  replace: "Aʹzel had six sons, and their names were Azriʹkam, Boʹcheru, Ishʹmael, Sheariʹah, Obadiʹah, and Haʹnan. All of these were the sons of Aʹzel."
+
+- triggers: ["!1chronicles8:39 ","!1chron8:39 ","!1ch8:39 "]
+  replace: "And the sons of his brother Eʹshek were Uʹlam his firstborn, Jeʹush the second, and Eliphʹelet the third."
+
+- triggers: ["!1chronicles8:40 ","!1chron8:40 ","!1ch8:40 "]
+  replace: "And the sons of Uʹlam were mighty warriors who could handle the bow, and they had many sons and grandsons, numbering 150. All of these were descendants of Benjamin."
+
+- triggers: ["!1chronicles9:1 ","!1chron9:1 ","!1ch9:1 "]
+  replace: "All the Israelites were enrolled genealogically, and they are written in the Book of the Kings of Israel. And Judah was taken into exile to Babylon for its unfaithfulness."
+
+- triggers: ["!1chronicles9:2 ","!1chron9:2 ","!1ch9:2 "]
+  replace: "The first inhabitants to return to their possession in their cities were some Israelites, the priests, the Levites, and the temple servants."
+
+- triggers: ["!1chronicles9:3 ","!1chron9:3 ","!1ch9:3 "]
+  replace: "And some of the descendants of Judah, of Benjamin, of Eʹphraim, and of Manasʹseh settled in Jerusalem:"
+
+- triggers: ["!1chronicles9:4 ","!1chron9:4 ","!1ch9:4 "]
+  replace: "Uʹthai son of Ammiʹhud son of Omʹri son of Imʹri son of Baʹni, of the descendants of Peʹrez son of Judah."
+
+- triggers: ["!1chronicles9:5 ","!1chron9:5 ","!1ch9:5 "]
+  replace: "And of the Shiʹlonites, Asaiʹah the firstborn and his sons."
+
+- triggers: ["!1chronicles9:6 ","!1chron9:6 ","!1ch9:6 "]
+  replace: "And of the sons of Zeʹrah, Jeuʹel and 690 of their brothers."
+
+- triggers: ["!1chronicles9:7 ","!1chron9:7 ","!1ch9:7 "]
+  replace: "And of the descendants of Benjamin, Salʹlu son of Meshulʹlam son of Hodaviʹah son of Hassenuʹah,"
+
+- triggers: ["!1chronicles9:8 ","!1chron9:8 ","!1ch9:8 "]
+  replace: "Ibneʹiah son of Jeroʹham, Eʹlah son of Uzʹzi son of Michʹri, and Meshulʹlam son of Shephatiʹah son of Reuʹel son of Ibniʹjah."
+
+- triggers: ["!1chronicles9:9 ","!1chron9:9 ","!1ch9:9 "]
+  replace: "And their brothers by line of descent were 956. All these men were heads of their paternal houses."
+
+- triggers: ["!1chronicles9:10 ","!1chron9:10 ","!1ch9:10 "]
+  replace: "And of the priests, there were Jedaʹiah, Jehoiʹarib, Jaʹchin,"
+
+- triggers: ["!1chronicles9:11 ","!1chron9:11 ","!1ch9:11 "]
+  replace: "Azariʹah son of Hilkiʹah son of Meshulʹlam son of Zaʹdok son of Meraʹioth son of Ahiʹtub, a leader of the house of the true God,"
+
+- triggers: ["!1chronicles9:12 ","!1chron9:12 ","!1ch9:12 "]
+  replace: "Adaiʹah son of Jeroʹham son of Pashʹhur son of Malchiʹjah, Maʹasai son of Adʹiel son of Jahʹzerah son of Meshulʹlam son of Meshilʹlemith son of Imʹmer,"
+
+- triggers: ["!1chronicles9:13 ","!1chron9:13 ","!1ch9:13 "]
+  replace: "and their brothers, heads of the paternal houses, 1,760 mighty, capable men available for the service of the house of the true God."
+
+- triggers: ["!1chronicles9:14 ","!1chron9:14 ","!1ch9:14 "]
+  replace: "And of the Levites, there were Shemaiʹah son of Hasʹshub son of Azriʹkam son of Hashabiʹah from the descendants of Merarʹi;"
+
+- triggers: ["!1chronicles9:15 ","!1chron9:15 ","!1ch9:15 "]
+  replace: "and Bakbakʹkar, Heʹresh, Gaʹlal, Mattaniʹah son of Miʹca son of Zichʹri son of Aʹsaph,"
+
+- triggers: ["!1chronicles9:16 ","!1chron9:16 ","!1ch9:16 "]
+  replace: "Obadiʹah son of Shemaiʹah son of Gaʹlal son of Jeduʹthun, and Berechiʹah son of Aʹsa son of Elkaʹnah, who was dwelling in the settlements of the Netophʹathites."
+
+- triggers: ["!1chronicles9:17 ","!1chron9:17 ","!1ch9:17 "]
+  replace: "The gatekeepers were Shalʹlum, Akʹkub, Talʹmon, Ahiʹman, and their brother Shalʹlum the head,"
+
+- triggers: ["!1chronicles9:18 ","!1chron9:18 ","!1ch9:18 "]
+  replace: "and until then he was at the king’s gate to the east. These were the gatekeepers of the camps of the Levites."
+
+- triggers: ["!1chronicles9:19 ","!1chron9:19 ","!1ch9:19 "]
+  replace: "And Shalʹlum son of Koʹre son of Ebiʹasaph son of Korʹah, and his brothers of his paternal house, the Korʹahites, were over the duties of the service, the doorkeepers of the tent, and their fathers had been over the camp of Jehovah as the keepers of the entryway."
+
+- triggers: ["!1chronicles9:20 ","!1chron9:20 ","!1ch9:20 "]
+  replace: "It was Phinʹehas the son of Eleaʹzar who had been their leader in the past; Jehovah was with him."
+
+- triggers: ["!1chronicles9:21 ","!1chron9:21 ","!1ch9:21 "]
+  replace: "Zechariʹah the son of Meshelemiʹah was the gatekeeper of the entrance of the tent of meeting."
+
+- triggers: ["!1chronicles9:22 ","!1chron9:22 ","!1ch9:22 "]
+  replace: "All those selected as gatekeepers at the thresholds numbered 212. They were in their settlements by their genealogical enrollment. David and Samuel the seer appointed these to their office of trust."
+
+- triggers: ["!1chronicles9:23 ","!1chron9:23 ","!1ch9:23 "]
+  replace: "They and their sons were over the guard service for the gates of the house of Jehovah, the house of the tent."
+
+- triggers: ["!1chronicles9:24 ","!1chron9:24 ","!1ch9:24 "]
+  replace: "The gatekeepers were on the four sides—east, west, north, and south."
+
+- triggers: ["!1chronicles9:25 ","!1chron9:25 ","!1ch9:25 "]
+  replace: "From time to time, their brothers were to come in from their settlements for seven days to serve along with them."
+
+- triggers: ["!1chronicles9:26 ","!1chron9:26 ","!1ch9:26 "]
+  replace: "There were four chief gatekeepers in the office of trust. They were Levites, and they were in charge of the chambers and of the treasuries of the house of the true God."
+
+- triggers: ["!1chronicles9:27 ","!1chron9:27 ","!1ch9:27 "]
+  replace: "They would spend the night in their stations all around the house of the true God, for they cared for the guard service and were in charge of the key and would open up the house from morning to morning."
+
+- triggers: ["!1chronicles9:28 ","!1chron9:28 ","!1ch9:28 "]
+  replace: "Some of them were in charge of the utensils of the service; they would count them when they brought them in and count them when they took them out."
+
+- triggers: ["!1chronicles9:29 ","!1chron9:29 ","!1ch9:29 "]
+  replace: "Some of them were appointed over the utensils, over all the holy utensils, and over the fine flour, the wine, the oil, the frankincense, and the balsam oil."
+
+- triggers: ["!1chronicles9:30 ","!1chron9:30 ","!1ch9:30 "]
+  replace: "Some of the sons of the priests mixed the ointment of balsam oil."
+
+- triggers: ["!1chronicles9:31 ","!1chron9:31 ","!1ch9:31 "]
+  replace: "And Mattithiʹah of the Levites, who was the firstborn of Shalʹlum the Korʹahite, was in the office of trust over the things baked in pans."
+
+- triggers: ["!1chronicles9:32 ","!1chron9:32 ","!1ch9:32 "]
+  replace: "Some of their brothers of the Koʹhathites were in charge of the layer bread, to prepare it every sabbath."
+
+- triggers: ["!1chronicles9:33 ","!1chron9:33 ","!1ch9:33 "]
+  replace: "These were the singers, the heads of the paternal houses of the Levites in the chambers, those set free from other duties; for by day and by night it was their responsibility to be on duty."
+
+- triggers: ["!1chronicles9:34 ","!1chron9:34 ","!1ch9:34 "]
+  replace: "These were the heads of the paternal houses of the Levites by their line of descent, headmen. These lived in Jerusalem."
+
+- triggers: ["!1chronicles9:35 ","!1chron9:35 ","!1ch9:35 "]
+  replace: "The father of Gibʹeon, Jeiʹel, lived in Gibʹeon. His wife’s name was Maʹacah."
+
+- triggers: ["!1chronicles9:36 ","!1chron9:36 ","!1ch9:36 "]
+  replace: "And his firstborn son was Abʹdon, followed by Zur, Kish, Baʹal, Ner, Naʹdab,"
+
+- triggers: ["!1chronicles9:37 ","!1chron9:37 ","!1ch9:37 "]
+  replace: "Geʹdor, Ahiʹo, Zechariʹah, and Mikʹloth."
+
+- triggers: ["!1chronicles9:38 ","!1chron9:38 ","!1ch9:38 "]
+  replace: "Mikʹloth became father to Shimʹeam. And they all lived near their brothers in Jerusalem, along with their other brothers."
+
+- triggers: ["!1chronicles9:39 ","!1chron9:39 ","!1ch9:39 "]
+  replace: "Ner became father to Kish; Kish became father to Saul; Saul became father to Jonʹathan, Malʹchi-shuʹa, Abinʹadab, and Eshbaʹal."
+
+- triggers: ["!1chronicles9:40 ","!1chron9:40 ","!1ch9:40 "]
+  replace: "And Jonʹathan’s son was Merʹib-baʹal. Merʹib-baʹal became father to Miʹcah."
+
+- triggers: ["!1chronicles9:41 ","!1chron9:41 ","!1ch9:41 "]
+  replace: "And the sons of Miʹcah were Piʹthon, Melʹech, Tahrʹea, and Aʹhaz."
+
+- triggers: ["!1chronicles9:42 ","!1chron9:42 ","!1ch9:42 "]
+  replace: "Aʹhaz became father to Jaʹrah; Jaʹrah became father to Alʹemeth, Azʹmaveth, and Zimʹri. Zimʹri became father to Moʹza."
+
+- triggers: ["!1chronicles9:43 ","!1chron9:43 ","!1ch9:43 "]
+  replace: "Moʹza became father to Binʹea and Rephaʹiah his son, Eleaʹsah his son, Aʹzel his son."
+
+- triggers: ["!1chronicles9:44 ","!1chron9:44 ","!1ch9:44 "]
+  replace: "Aʹzel had six sons, and their names were Azriʹkam, Boʹcheru, Ishʹmael, Sheariʹah, Obadiʹah, and Haʹnan. These were the sons of Aʹzel."
+
+- triggers: ["!1chronicles10:1 ","!1chron10:1 ","!1ch10:1 "]
+  replace: "Now the Philisʹtines were fighting against Israel. And the men of Israel fled from before the Philisʹtines, and many fell slain on Mount Gilboʹa."
+
+- triggers: ["!1chronicles10:2 ","!1chron10:2 ","!1ch10:2 "]
+  replace: "The Philisʹtines kept in close range of Saul and his sons, and the Philisʹtines struck down Jonʹathan, Abinʹadab, and Malʹchi-shuʹa, Saul’s sons."
+
+- triggers: ["!1chronicles10:3 ","!1chron10:3 ","!1ch10:3 "]
+  replace: "The fighting grew fierce against Saul, and the archers found him, and he was wounded by the archers."
+
+- triggers: ["!1chronicles10:4 ","!1chron10:4 ","!1ch10:4 "]
+  replace: "Then Saul said to his armor-bearer: “Draw your sword and run me through with it, so that these uncircumcised men may not come and deal ruthlessly with me.” But his armor-bearer was unwilling, because he was very much afraid. So Saul took the sword and fell on it."
+
+- triggers: ["!1chronicles10:5 ","!1chron10:5 ","!1ch10:5 "]
+  replace: "When his armor-bearer saw that Saul was dead, he too fell on his own sword and died."
+
+- triggers: ["!1chronicles10:6 ","!1chron10:6 ","!1ch10:6 "]
+  replace: "Thus Saul and his three sons died, and all those of his house died together."
+
+- triggers: ["!1chronicles10:7 ","!1chron10:7 ","!1ch10:7 "]
+  replace: "When all the people of Israel in the valley saw that everyone had fled and that Saul and his sons had died, they began to abandon their cities and flee; the Philisʹtines then came and occupied them."
+
+- triggers: ["!1chronicles10:8 ","!1chron10:8 ","!1ch10:8 "]
+  replace: "The next day, when the Philisʹtines came to strip the slain, they found Saul and his sons fallen on Mount Gilboʹa."
+
+- triggers: ["!1chronicles10:9 ","!1chron10:9 ","!1ch10:9 "]
+  replace: "So they stripped him and took off his head and his armor, and they sent word throughout the land of the Philisʹtines to spread the news to their idols and the people."
+
+- triggers: ["!1chronicles10:10 ","!1chron10:10 ","!1ch10:10 "]
+  replace: "Then they put his armor in the house of their god and fastened his skull to the house of Daʹgon."
+
+- triggers: ["!1chronicles10:11 ","!1chron10:11 ","!1ch10:11 "]
+  replace: "When all those of Jaʹbesh in Gilʹead heard about all that the Philisʹtines had done to Saul,"
+
+- triggers: ["!1chronicles10:12 ","!1chron10:12 ","!1ch10:12 "]
+  replace: "all the warriors rose up and carried off the corpse of Saul and the corpses of his sons. They brought them to Jaʹbesh and buried their bones under the big tree in Jaʹbesh, and they fasted for seven days."
+
+- triggers: ["!1chronicles10:13 ","!1chron10:13 ","!1ch10:13 "]
+  replace: "Thus Saul died for the unfaithfulness he had shown against Jehovah because he had not obeyed the word of Jehovah, also for consulting a spirit medium"
+
+- triggers: ["!1chronicles10:14 ","!1chron10:14 ","!1ch10:14 "]
+  replace: "instead of inquiring of Jehovah. So He put him to death and turned the kingship over to David the son of Jesʹse."
+
+- triggers: ["!1chronicles11:1 ","!1chron11:1 ","!1ch11:1 "]
+  replace: "In time all the Israelites gathered to David at Hebʹron and said: “Look! We are your own bone and flesh."
+
+- triggers: ["!1chronicles11:2 ","!1chron11:2 ","!1ch11:2 "]
+  replace: "In times past while Saul was king, you were the one who was leading Israel on its campaigns. And Jehovah your God said to you: ‘You will shepherd my people Israel, and you will become leader over my people Israel.’”"
+
+- triggers: ["!1chronicles11:3 ","!1chron11:3 ","!1ch11:3 "]
+  replace: "So all the elders of Israel came to the king at Hebʹron, and David made a covenant with them in Hebʹron before Jehovah. Then they anointed David as king over Israel, according to Jehovah’s word through Samuel."
+
+- triggers: ["!1chronicles11:4 ","!1chron11:4 ","!1ch11:4 "]
+  replace: "Later David and all Israel set out for Jerusalem, that is, Jeʹbus, where the Jebʹusites were inhabiting the land."
+
+- triggers: ["!1chronicles11:5 ","!1chron11:5 ","!1ch11:5 "]
+  replace: "The inhabitants of Jeʹbus taunted David: “You will never come in here!” However, David captured the stronghold of Zion, which is now the City of David."
+
+- triggers: ["!1chronicles11:6 ","!1chron11:6 ","!1ch11:6 "]
+  replace: "So David said: “Whoever is the first to strike the Jebʹusites will become chief and prince.” And Joʹab the son of Zeruʹiah went up first, and he became the chief."
+
+- triggers: ["!1chronicles11:7 ","!1chron11:7 ","!1ch11:7 "]
+  replace: "Then David took up residence in the stronghold. That is why they called it the City of David."
+
+- triggers: ["!1chronicles11:8 ","!1chron11:8 ","!1ch11:8 "]
+  replace: "He began to build up the city all around, from the Mound to the areas around it, and Joʹab restored the rest of the city."
+
+- triggers: ["!1chronicles11:9 ","!1chron11:9 ","!1ch11:9 "]
+  replace: "Thus David became greater and greater, and Jehovah of armies was with him."
+
+- triggers: ["!1chronicles11:10 ","!1chron11:10 ","!1ch11:10 "]
+  replace: "Now these are the heads of David’s mighty warriors, who gave him strong support in his kingship, together with all Israel, to make him king according to Jehovah’s word concerning Israel."
+
+- triggers: ["!1chronicles11:11 ","!1chron11:11 ","!1ch11:11 "]
+  replace: "This is the list of David’s mighty warriors: Jashoʹbeam the son of a Hachʹmonite, the head of the three. He brandished his spear over 300 slain at one time."
+
+- triggers: ["!1chronicles11:12 ","!1chron11:12 ","!1ch11:12 "]
+  replace: "Next to him was Eleaʹzar the son of Doʹdo the Ahoʹhite. He was among the three mighty warriors."
+
+- triggers: ["!1chronicles11:13 ","!1chron11:13 ","!1ch11:13 "]
+  replace: "He was with David at Pas-damʹmim, where the Philisʹtines had gathered together for war. Now there was a plot of land full of barley, and the people had fled because of the Philisʹtines."
+
+- triggers: ["!1chronicles11:14 ","!1chron11:14 ","!1ch11:14 "]
+  replace: "But he took his stand in the middle of the field and defended it and kept striking down the Philisʹtines, so that Jehovah brought about a great victory."
+
+- triggers: ["!1chronicles11:15 ","!1chron11:15 ","!1ch11:15 "]
+  replace: "Three of the 30 headmen went down to the rock, to David at the cave of Adulʹlam, while a Philisʹtine army was camped in the Valley of Rephʹaim."
+
+- triggers: ["!1chronicles11:16 ","!1chron11:16 ","!1ch11:16 "]
+  replace: "David was then in the stronghold, and a garrison of the Philisʹtines was in Bethʹlehem."
+
+- triggers: ["!1chronicles11:17 ","!1chron11:17 ","!1ch11:17 "]
+  replace: "Then David expressed his longing: “If only I could have a drink of the water from the cistern by the gate of Bethʹlehem!”"
+
+- triggers: ["!1chronicles11:18 ","!1chron11:18 ","!1ch11:18 "]
+  replace: "At that the three forced their way into the camp of the Philisʹtines and drew water from the cistern by the gate of Bethʹlehem and brought it to David; but David refused to drink it and poured it out to Jehovah."
+
+- triggers: ["!1chronicles11:19 ","!1chron11:19 ","!1ch11:19 "]
+  replace: "He said: “It is unthinkable on my part from the standpoint of my God to do this! Should I drink the blood of these men who risked their lives? For it was at the risk of their lives that they brought it.” So he refused to drink it. These are the things that his three mighty warriors did."
+
+- triggers: ["!1chronicles11:20 ","!1chron11:20 ","!1ch11:20 "]
+  replace: "Abishʹai the brother of Joʹab became head of another three; he brandished his spear over 300 slain, and he had a reputation like the three."
+
+- triggers: ["!1chronicles11:21 ","!1chron11:21 ","!1ch11:21 "]
+  replace: "Of the other three, he was more distinguished than two of them, and he was their chief; yet he did not attain to the rank of the first three."
+
+- triggers: ["!1chronicles11:22 ","!1chron11:22 ","!1ch11:22 "]
+  replace: "Benaiʹah the son of Jehoiʹada was a courageous man who performed many exploits in Kabʹzeel. He struck down the two sons of Arʹiel of Moʹab, and he descended into a waterpit on a snowy day and killed a lion."
+
+- triggers: ["!1chronicles11:23 ","!1chron11:23 ","!1ch11:23 "]
+  replace: "He also struck down an Egyptian man of extraordinary size—five cubits tall. Though the Egyptian had a spear in his hand like the beam of loom workers, he went against him with a rod and snatched the spear away from the Egyptian’s hand and killed him with his own spear."
+
+- triggers: ["!1chronicles11:24 ","!1chron11:24 ","!1ch11:24 "]
+  replace: "These things Benaiʹah the son of Jehoiʹada did, and he had a reputation like that of the three mighty warriors."
+
+- triggers: ["!1chronicles11:25 ","!1chron11:25 ","!1ch11:25 "]
+  replace: "Although he was distinguished even more than the thirty, he did not attain to the rank of the three. However, David appointed him over his own bodyguard."
+
+- triggers: ["!1chronicles11:26 ","!1chron11:26 ","!1ch11:26 "]
+  replace: "The mighty warriors of the military forces were Asʹahel the brother of Joʹab, Elhaʹnan the son of Doʹdo of Bethʹlehem,"
+
+- triggers: ["!1chronicles11:27 ","!1chron11:27 ","!1ch11:27 "]
+  replace: "Shamʹmoth the Haʹrorite, Heʹlez the Pelʹonite,"
+
+- triggers: ["!1chronicles11:28 ","!1chron11:28 ","!1ch11:28 "]
+  replace: "Iʹra the son of Ikʹkesh the Tekoʹite, Abi-eʹzer the Anʹathothite,"
+
+- triggers: ["!1chronicles11:29 ","!1chron11:29 ","!1ch11:29 "]
+  replace: "Sibʹbecai the Huʹshathite, Iʹlai the Ahoʹhite,"
+
+- triggers: ["!1chronicles11:30 ","!1chron11:30 ","!1ch11:30 "]
+  replace: "Maʹharai the Netophʹathite, Heʹled the son of Baʹanah the Netophʹathite,"
+
+- triggers: ["!1chronicles11:31 ","!1chron11:31 ","!1ch11:31 "]
+  replace: "Iʹthai the son of Riʹbai of Gibʹeah of the Benʹjaminites, Benaiʹah the Pirʹathonite,"
+
+- triggers: ["!1chronicles11:32 ","!1chron11:32 ","!1ch11:32 "]
+  replace: "Huʹrai of the wadis of Gaʹash, Abiʹel the Arʹbathite,"
+
+- triggers: ["!1chronicles11:33 ","!1chron11:33 ","!1ch11:33 "]
+  replace: "Azʹmaveth the Bahaʹrumite, Eliʹahba the Shaalʹbonite,"
+
+- triggers: ["!1chronicles11:34 ","!1chron11:34 ","!1ch11:34 "]
+  replace: "the sons of Haʹshem the Giʹzonite, Jonʹathan the son of Shaʹgee the Harʹarite,"
+
+- triggers: ["!1chronicles11:35 ","!1chron11:35 ","!1ch11:35 "]
+  replace: "Ahiʹam the son of Saʹcar the Harʹarite, Eliʹphal the son of Ur,"
+
+- triggers: ["!1chronicles11:36 ","!1chron11:36 ","!1ch11:36 "]
+  replace: "Heʹpher the Mecheʹrathite, Ahiʹjah the Pelʹonite,"
+
+- triggers: ["!1chronicles11:37 ","!1chron11:37 ","!1ch11:37 "]
+  replace: "Hezʹro the Carʹmelite, Naʹarai the son of Ezʹbai,"
+
+- triggers: ["!1chronicles11:38 ","!1chron11:38 ","!1ch11:38 "]
+  replace: "Joel the brother of Nathan, Mibʹhar the son of Hagʹri,"
+
+- triggers: ["!1chronicles11:39 ","!1chron11:39 ","!1ch11:39 "]
+  replace: "Zeʹlek the Amʹmonite, Naʹharai the Berothʹite, the armor-bearer of Joʹab the son of Zeruʹiah;"
+
+- triggers: ["!1chronicles11:40 ","!1chron11:40 ","!1ch11:40 "]
+  replace: "Iʹra the Ithʹrite, Gaʹreb the Ithʹrite,"
+
+- triggers: ["!1chronicles11:41 ","!1chron11:41 ","!1ch11:41 "]
+  replace: "Uriʹah the Hitʹtite, Zaʹbad the son of Ahʹlai,"
+
+- triggers: ["!1chronicles11:42 ","!1chron11:42 ","!1ch11:42 "]
+  replace: "Adʹina the son of Shiʹza the Reuʹbenite, a head of the Reuʹbenites, and 30 with him;"
+
+- triggers: ["!1chronicles11:43 ","!1chron11:43 ","!1ch11:43 "]
+  replace: "Haʹnan the son of Maʹacah, Joshʹaphat the Mithʹnite,"
+
+- triggers: ["!1chronicles11:44 ","!1chron11:44 ","!1ch11:44 "]
+  replace: "Uzziʹa the Ashʹterathite, Shaʹma and Jeiʹel, the sons of Hoʹtham the Aroʹerite;"
+
+- triggers: ["!1chronicles11:45 ","!1chron11:45 ","!1ch11:45 "]
+  replace: "Jediʹael the son of Shimʹri, and Joʹha his brother the Tiʹzite;"
+
+- triggers: ["!1chronicles11:46 ","!1chron11:46 ","!1ch11:46 "]
+  replace: "Eʹliel the Maʹhavite, Jerʹibai and Joshaviʹah the sons of Elʹnaam, and Ithʹmah the Moʹabite;"
+
+- triggers: ["!1chronicles11:47 ","!1chron11:47 ","!1ch11:47 "]
+  replace: "Eʹliel, Oʹbed, and Jaasiʹel the Mezoʹbaite."
+
+- triggers: ["!1chronicles12:1 ","!1chron12:1 ","!1ch12:1 "]
+  replace: "These were the men who came to David at Zikʹlag while he was unable to move about freely because of Saul the son of Kish, and they were among the mighty warriors who supported him in battle."
+
+- triggers: ["!1chronicles12:2 ","!1chron12:2 ","!1ch12:2 "]
+  replace: "They were armed with the bow, and they could use both the right hand and the left hand to sling stones or to shoot arrows with the bow. They were of the brothers of Saul, from Benjamin."
+
+- triggers: ["!1chronicles12:3 ","!1chron12:3 ","!1ch12:3 "]
+  replace: "The head was Ahieʹzer, along with Joʹash, both sons of Shemaʹah the Gibʹeathite; Jeʹziel and Pelʹet the sons of Azʹmaveth, Berʹacah, Jeʹhu the Anʹathothite,"
+
+- triggers: ["!1chronicles12:4 ","!1chron12:4 ","!1ch12:4 "]
+  replace: "Ishmaʹiah the Gibʹeonite, a mighty warrior among the thirty and over the thirty; also Jeremiah, Jahaziʹel, Johaʹnan, Joʹzabad the Gedeʹrathite,"
+
+- triggers: ["!1chronicles12:5 ","!1chron12:5 ","!1ch12:5 "]
+  replace: "Eluʹzai, Jerʹimoth, Bealiʹah, Shemariʹah, Shephatiʹah the Harʹiphite,"
+
+- triggers: ["!1chronicles12:6 ","!1chron12:6 ","!1ch12:6 "]
+  replace: "Elkaʹnah, Isshiʹah, Azʹarel, Joeʹzer, and Jashoʹbeam, the Korʹahites;"
+
+- triggers: ["!1chronicles12:7 ","!1chron12:7 ","!1ch12:7 "]
+  replace: "and Joeʹlah and Zebadiʹah the sons of Jeroʹham of Geʹdor."
+
+- triggers: ["!1chronicles12:8 ","!1chron12:8 ","!1ch12:8 "]
+  replace: "Some of the Gadʹites went over to David’s side at the stronghold in the wilderness; they were mighty warriors, soldiers trained for war, standing ready with the large shield and the lance, whose faces were like those of lions and who were as swift as the gazelles on the mountains."
+
+- triggers: ["!1chronicles12:9 ","!1chron12:9 ","!1ch12:9 "]
+  replace: "Eʹzer was the head, Obadiʹah the second, Eliʹab the third,"
+
+- triggers: ["!1chronicles12:10 ","!1chron12:10 ","!1ch12:10 "]
+  replace: "Mishmanʹnah the fourth, Jeremiah the fifth,"
+
+- triggers: ["!1chronicles12:11 ","!1chron12:11 ","!1ch12:11 "]
+  replace: "Atʹtai the sixth, Eʹliel the seventh,"
+
+- triggers: ["!1chronicles12:12 ","!1chron12:12 ","!1ch12:12 "]
+  replace: "Johaʹnan the eighth, Elzaʹbad the ninth,"
+
+- triggers: ["!1chronicles12:13 ","!1chron12:13 ","!1ch12:13 "]
+  replace: "Jeremiah the tenth, Machʹbannai the eleventh."
+
+- triggers: ["!1chronicles12:14 ","!1chron12:14 ","!1ch12:14 "]
+  replace: "These were of the Gadʹites, heads of the army. The least one was equal to 100, and the greatest to 1,000."
+
+- triggers: ["!1chronicles12:15 ","!1chron12:15 ","!1ch12:15 "]
+  replace: "These are the men who crossed the Jordan in the first month when it was overflowing its banks, and they chased away all those living in the lowlands, to the east and to the west."
+
+- triggers: ["!1chronicles12:16 ","!1chron12:16 ","!1ch12:16 "]
+  replace: "Some of the men of Benjamin and Judah also came to David at his stronghold."
+
+- triggers: ["!1chronicles12:17 ","!1chron12:17 ","!1ch12:17 "]
+  replace: "Then David went out before them and said to them: “If you have come to me in peace to help me, my heart will be united with you. But if it is to betray me to my adversaries when my hands have done no wrong, let the God of our forefathers see it and judge.”"
+
+- triggers: ["!1chronicles12:18 ","!1chron12:18 ","!1ch12:18 "]
+  replace: "Then the spirit came upon Amaʹsai, the head of the thirty: “We are yours, O David, and we are with you, O son of Jesʹse. Peace, peace be yours, and peace to the one helping you, For your God is helping you.” So David received them and appointed them among the heads of the troops."
+
+- triggers: ["!1chronicles12:19 ","!1chron12:19 ","!1ch12:19 "]
+  replace: "Some from Manasʹseh also deserted to David when he came with the Philisʹtines to battle against Saul; but he did not help the Philisʹtines, for after consultation, the lords of the Philisʹtines sent him away, saying: “He will desert to his lord Saul, and it will cost us our heads.”"
+
+- triggers: ["!1chronicles12:20 ","!1chron12:20 ","!1ch12:20 "]
+  replace: "When he went to Zikʹlag, these deserted to him from Manasʹseh: Adʹnah, Joʹzabad, Jediʹael, Miʹchael, Joʹzabad, Eliʹhu, and Zilʹlethai, heads of the thousands of Manasʹseh."
+
+- triggers: ["!1chronicles12:21 ","!1chron12:21 ","!1ch12:21 "]
+  replace: "They helped David against the marauder band, because all of them were mighty, courageous men, and they became chiefs in the army."
+
+- triggers: ["!1chronicles12:22 ","!1chron12:22 ","!1ch12:22 "]
+  replace: "Day after day people kept coming to David to help him until it was a camp as great as the camp of God."
+
+- triggers: ["!1chronicles12:23 ","!1chron12:23 ","!1ch12:23 "]
+  replace: "This is the number of the heads of those armed for battle who came to David at Hebʹron to turn the kingship of Saul over to him according to Jehovah’s order."
+
+- triggers: ["!1chronicles12:24 ","!1chron12:24 ","!1ch12:24 "]
+  replace: "The men of Judah carrying the large shield and the lance were 6,800, armed for battle."
+
+- triggers: ["!1chronicles12:25 ","!1chron12:25 ","!1ch12:25 "]
+  replace: "Of the Simʹeonites, the mighty, courageous men of the army were 7,100."
+
+- triggers: ["!1chronicles12:26 ","!1chron12:26 ","!1ch12:26 "]
+  replace: "Of the Levites, 4,600."
+
+- triggers: ["!1chronicles12:27 ","!1chron12:27 ","!1ch12:27 "]
+  replace: "Jehoiʹada was the leader of the sons of Aaron, and with him were 3,700,"
+
+- triggers: ["!1chronicles12:28 ","!1chron12:28 ","!1ch12:28 "]
+  replace: "as well as Zaʹdok, a mighty and courageous young man, along with 22 chiefs from his paternal house."
+
+- triggers: ["!1chronicles12:29 ","!1chron12:29 ","!1ch12:29 "]
+  replace: "Of the Benʹjaminites, the brothers of Saul, there were 3,000, of whom the greater number had previously been guarding the interests of the house of Saul."
+
+- triggers: ["!1chronicles12:30 ","!1chron12:30 ","!1ch12:30 "]
+  replace: "Of the Eʹphraimites, there were 20,800 mighty, courageous men of fame among their paternal houses."
+
+- triggers: ["!1chronicles12:31 ","!1chron12:31 ","!1ch12:31 "]
+  replace: "Of the half tribe of Manasʹseh, there were 18,000 who had been designated by name to come to make David king."
+
+- triggers: ["!1chronicles12:32 ","!1chron12:32 ","!1ch12:32 "]
+  replace: "Of the tribe of Isʹsachar, who understood the times and knew what Israel should do, there were 200 of their headmen, and all their brothers were under their command."
+
+- triggers: ["!1chronicles12:33 ","!1chron12:33 ","!1ch12:33 "]
+  replace: "Of Zebʹulun, there were 50,000 who could serve in the army, drawing up in battle formation with all the weapons of war, all joining David with undivided loyalty."
+
+- triggers: ["!1chronicles12:34 ","!1chron12:34 ","!1ch12:34 "]
+  replace: "Of Naphʹtali, there were 1,000 chiefs, and with them were 37,000 with the large shield and the spear."
+
+- triggers: ["!1chronicles12:35 ","!1chron12:35 ","!1ch12:35 "]
+  replace: "Of the Danʹites, those drawing up in battle formation were 28,600."
+
+- triggers: ["!1chronicles12:36 ","!1chron12:36 ","!1ch12:36 "]
+  replace: "And of Ashʹer, those who could serve in the army for drawing up in battle formation were 40,000."
+
+- triggers: ["!1chronicles12:37 ","!1chron12:37 ","!1ch12:37 "]
+  replace: "From across the Jordan, of the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh, there were 120,000 soldiers with all kinds of weapons of war."
+
+- triggers: ["!1chronicles12:38 ","!1chron12:38 ","!1ch12:38 "]
+  replace: "All of these were men of war, joining together in battle line; they came with a complete heart to Hebʹron to make David king over all Israel, and also all the rest of Israel were united in wanting to make David king."
+
+- triggers: ["!1chronicles12:39 ","!1chron12:39 ","!1ch12:39 "]
+  replace: "And they remained there with David for three days, eating and drinking, for their brothers had made preparation for them."
+
+- triggers: ["!1chronicles12:40 ","!1chron12:40 ","!1ch12:40 "]
+  replace: "Also those near them, and even those as far as Isʹsachar, Zebʹulun, and Naphʹtali, were bringing food on donkeys, camels, mules, and cattle—provisions of flour, cakes of pressed figs and raisins, wine, oil, and cattle and sheep in great quantity, for there was rejoicing in Israel."
+
+- triggers: ["!1chronicles13:1 ","!1chron13:1 ","!1ch13:1 "]
+  replace: "David consulted with the chiefs of the thousands and of the hundreds and with every leader."
+
+- triggers: ["!1chronicles13:2 ","!1chron13:2 ","!1ch13:2 "]
+  replace: "Then David said to all the congregation of Israel: “If it seems good to you and it is acceptable to Jehovah our God, let us send word to our remaining brothers in all regions of Israel and also to the priests and the Levites in their cities with pastures to come and join us."
+
+- triggers: ["!1chronicles13:3 ","!1chron13:3 ","!1ch13:3 "]
+  replace: "And let us bring back the Ark of our God.” For they had not cared for it in the days of Saul."
+
+- triggers: ["!1chronicles13:4 ","!1chron13:4 ","!1ch13:4 "]
+  replace: "All the congregation agreed to do that, for it seemed right to all the people."
+
+- triggers: ["!1chronicles13:5 ","!1chron13:5 ","!1ch13:5 "]
+  replace: "So David congregated all Israel, from the river of Egypt as far as Leʹbo-haʹmath, to bring the Ark of the true God from Kirʹiath-jeʹarim."
+
+- triggers: ["!1chronicles13:6 ","!1chron13:6 ","!1ch13:6 "]
+  replace: "David and all Israel went up to Baʹalah, to Kirʹiath-jeʹarim, which belongs to Judah, to bring up from there the Ark of the true God, Jehovah, who sits enthroned above the cherubs, where his name is called on."
+
+- triggers: ["!1chronicles13:7 ","!1chron13:7 ","!1ch13:7 "]
+  replace: "However, they placed the Ark of the true God on a new wagon and brought it from the house of Abinʹadab, and Uzʹzah and Ahiʹo were leading the wagon."
+
+- triggers: ["!1chronicles13:8 ","!1chron13:8 ","!1ch13:8 "]
+  replace: "David and all Israel were celebrating before the true God with all their might, accompanied by songs, harps, other stringed instruments, tambourines, cymbals, and trumpets."
+
+- triggers: ["!1chronicles13:9 ","!1chron13:9 ","!1ch13:9 "]
+  replace: "But when they came to the threshing floor of Chiʹdon, Uzʹzah thrust his hand out and grabbed hold of the Ark, for the cattle nearly upset it."
+
+- triggers: ["!1chronicles13:10 ","!1chron13:10 ","!1ch13:10 "]
+  replace: "At that Jehovah’s anger blazed against Uzʹzah, and He struck him down because he had thrust his hand out to the Ark, and he died there before God."
+
+- triggers: ["!1chronicles13:11 ","!1chron13:11 ","!1ch13:11 "]
+  replace: "But David became angry because Jehovah’s wrath had broken through against Uzʹzah; and that place has been called Peʹrez-uzʹzah down to this day."
+
+- triggers: ["!1chronicles13:12 ","!1chron13:12 ","!1ch13:12 "]
+  replace: "So David became fearful of the true God on that day and said: “How can I bring the Ark of the true God to me?”"
+
+- triggers: ["!1chronicles13:13 ","!1chron13:13 ","!1ch13:13 "]
+  replace: "David did not bring the Ark to where he was in the City of David, but he had it taken to the house of Oʹbed-eʹdom the Gitʹtite."
+
+- triggers: ["!1chronicles13:14 ","!1chron13:14 ","!1ch13:14 "]
+  replace: "The Ark of the true God was with the household of Oʹbed-eʹdom, remaining at his house for three months, and Jehovah kept blessing the household of Oʹbed-eʹdom and all he had."
+
+- triggers: ["!1chronicles14:1 ","!1chron14:1 ","!1ch14:1 "]
+  replace: "King Hiʹram of Tyre sent messengers to David, along with cedar timbers, stonemasons, and woodworkers to build a house for him."
+
+- triggers: ["!1chronicles14:2 ","!1chron14:2 ","!1ch14:2 "]
+  replace: "And David knew that Jehovah had firmly established him as king over Israel, for his kingship was highly exalted for the sake of His people Israel."
+
+- triggers: ["!1chronicles14:3 ","!1chron14:3 ","!1ch14:3 "]
+  replace: "David took more wives in Jerusalem, and David became father to more sons and daughters."
+
+- triggers: ["!1chronicles14:4 ","!1chron14:4 ","!1ch14:4 "]
+  replace: "These are the names of the children born to him in Jerusalem: Shammuʹa, Shoʹbab, Nathan, Solʹomon,"
+
+- triggers: ["!1chronicles14:5 ","!1chron14:5 ","!1ch14:5 "]
+  replace: "Ibʹhar, Eliʹshua, Elʹpelet,"
+
+- triggers: ["!1chronicles14:6 ","!1chron14:6 ","!1ch14:6 "]
+  replace: "Noʹgah, Neʹpheg, Japhiʹa,"
+
+- triggers: ["!1chronicles14:7 ","!1chron14:7 ","!1ch14:7 "]
+  replace: "Elishʹama, Beeliʹada, and Eliphʹelet."
+
+- triggers: ["!1chronicles14:8 ","!1chron14:8 ","!1ch14:8 "]
+  replace: "When the Philisʹtines heard that David had been anointed as king over all Israel, all the Philisʹtines came up to search for David. When David heard about it, he went out against them."
+
+- triggers: ["!1chronicles14:9 ","!1chron14:9 ","!1ch14:9 "]
+  replace: "Then the Philisʹtines came in and kept making raids in the Valley of Rephʹaim."
+
+- triggers: ["!1chronicles14:10 ","!1chron14:10 ","!1ch14:10 "]
+  replace: "David inquired of God, saying: “Should I go up against the Philisʹtines? Will you give them into my hand?” At this Jehovah said to him: “Go up, and I will surely give them into your hand.”"
+
+- triggers: ["!1chronicles14:11 ","!1chron14:11 ","!1ch14:11 "]
+  replace: "So David went up to Baʹal-peraʹzim, and he struck them down there. At that David said: “The true God has broken through my enemies by my hand, like a breach made by waters.” That is why they named that place Baʹal-peraʹzim."
+
+- triggers: ["!1chronicles14:12 ","!1chron14:12 ","!1ch14:12 "]
+  replace: "The Philisʹtines abandoned their gods there, and when David gave the order, these were burned in the fire."
+
+- triggers: ["!1chronicles14:13 ","!1chron14:13 ","!1ch14:13 "]
+  replace: "Later the Philisʹtines once again made a raid in the valley."
+
+- triggers: ["!1chronicles14:14 ","!1chron14:14 ","!1ch14:14 "]
+  replace: "David again inquired of God, but the true God said to him: “Do not go directly up after them. Instead, go around behind them, and come against them in front of the baʹca bushes."
+
+- triggers: ["!1chronicles14:15 ","!1chron14:15 ","!1ch14:15 "]
+  replace: "And when you hear the sound of marching in the tops of the baʹca bushes, launch your attack, for the true God will have gone out before you to strike down the army of the Philisʹtines.”"
+
+- triggers: ["!1chronicles14:16 ","!1chron14:16 ","!1ch14:16 "]
+  replace: "So David did just as the true God commanded him, and they struck down the Philisʹtine army from Gibʹeon to Geʹzer."
+
+- triggers: ["!1chronicles14:17 ","!1chron14:17 ","!1ch14:17 "]
+  replace: "And David’s fame spread into all the lands, and Jehovah put the dread of him upon all the nations."
+
+- triggers: ["!1chronicles15:1 ","!1chron15:1 ","!1ch15:1 "]
+  replace: "And he continued building houses for himself in the City of David, and he prepared a place for the Ark of the true God and pitched a tent for it."
+
+- triggers: ["!1chronicles15:2 ","!1chron15:2 ","!1ch15:2 "]
+  replace: "It was then that David said: “No one is to carry the Ark of the true God except the Levites, for Jehovah has chosen them to carry the Ark of Jehovah and to minister to him always.”"
+
+- triggers: ["!1chronicles15:3 ","!1chron15:3 ","!1ch15:3 "]
+  replace: "Then David congregated all Israel at Jerusalem to bring the Ark of Jehovah up to the place that he had prepared for it."
+
+- triggers: ["!1chronicles15:4 ","!1chron15:4 ","!1ch15:4 "]
+  replace: "David gathered the descendants of Aaron and the Levites:"
+
+- triggers: ["!1chronicles15:5 ","!1chron15:5 ","!1ch15:5 "]
+  replace: "from the Koʹhathites, Uriʹel the chief and 120 of his brothers;"
+
+- triggers: ["!1chronicles15:6 ","!1chron15:6 ","!1ch15:6 "]
+  replace: "from the Merarʹites, Asaiʹah the chief and 220 of his brothers;"
+
+- triggers: ["!1chronicles15:7 ","!1chron15:7 ","!1ch15:7 "]
+  replace: "from the Gerʹshomites, Joel the chief and 130 of his brothers;"
+
+- triggers: ["!1chronicles15:8 ","!1chron15:8 ","!1ch15:8 "]
+  replace: "from the descendants of Elizaʹphan, Shemaiʹah the chief and 200 of his brothers;"
+
+- triggers: ["!1chronicles15:9 ","!1chron15:9 ","!1ch15:9 "]
+  replace: "from the descendants of Hebʹron, Eʹliel the chief and 80 of his brothers;"
+
+- triggers: ["!1chronicles15:10 ","!1chron15:10 ","!1ch15:10 "]
+  replace: "from the descendants of Uzʹziel, Amminʹadab the chief and 112 of his brothers."
+
+- triggers: ["!1chronicles15:11 ","!1chron15:11 ","!1ch15:11 "]
+  replace: "Furthermore, David called the priests Zaʹdok and Abiʹathar and the Levites Uriʹel, Asaiʹah, Joel, Shemaiʹah, Eʹliel, and Amminʹadab,"
+
+- triggers: ["!1chronicles15:12 ","!1chron15:12 ","!1ch15:12 "]
+  replace: "and he said to them: “You are the heads of the paternal houses of the Levites. Sanctify yourselves, you and your brothers, and bring the Ark of Jehovah the God of Israel up to the place that I have prepared for it."
+
+- triggers: ["!1chronicles15:13 ","!1chron15:13 ","!1ch15:13 "]
+  replace: "Since you did not carry it the first time, the anger of Jehovah our God broke out against us, because we did not search out the proper procedure.”"
+
+- triggers: ["!1chronicles15:14 ","!1chron15:14 ","!1ch15:14 "]
+  replace: "So the priests and the Levites sanctified themselves to bring up the Ark of Jehovah the God of Israel."
+
+- triggers: ["!1chronicles15:15 ","!1chron15:15 ","!1ch15:15 "]
+  replace: "Then the Levites carried the Ark of the true God on their shoulders with the poles, just as Moses had commanded by Jehovah’s word."
+
+- triggers: ["!1chronicles15:16 ","!1chron15:16 ","!1ch15:16 "]
+  replace: "David then told the chiefs of the Levites to appoint their brothers the singers to sing out joyfully, accompanied by musical instruments: stringed instruments, harps, and cymbals."
+
+- triggers: ["!1chronicles15:17 ","!1chron15:17 ","!1ch15:17 "]
+  replace: "So the Levites appointed Heʹman the son of Joel and, of his brothers, Aʹsaph the son of Berechiʹah and, of the Merarʹites their brothers, Eʹthan the son of Kushaʹiah."
+
+- triggers: ["!1chronicles15:18 ","!1chron15:18 ","!1ch15:18 "]
+  replace: "Together with them were their brothers of the second division, Zechariʹah, Ben, Jaaʹziel, Shemirʹamoth, Jehiʹel, Unʹni, Eliʹab, Benaiʹah, Maaseiʹah, Mattithiʹah, Eliphʹelehu, and Mikneʹiah and Oʹbed-eʹdom and Jeiʹel the gatekeepers."
+
+- triggers: ["!1chronicles15:19 ","!1chron15:19 ","!1ch15:19 "]
+  replace: "The singers Heʹman, Aʹsaph, and Eʹthan were to play the copper cymbals;"
+
+- triggers: ["!1chronicles15:20 ","!1chron15:20 ","!1ch15:20 "]
+  replace: "and Zechariʹah, Aʹziel, Shemirʹamoth, Jehiʹel, Unʹni, Eliʹab, Maaseiʹah, and Benaiʹah played stringed instruments tuned to Alʹamoth;"
+
+- triggers: ["!1chronicles15:21 ","!1chron15:21 ","!1ch15:21 "]
+  replace: "and Mattithiʹah, Eliphʹelehu, Mikneʹiah, Oʹbed-eʹdom, Jeiʹel, and Azaziʹah played harps tuned to Shemʹinith, to act as directors."
+
+- triggers: ["!1chronicles15:22 ","!1chron15:22 ","!1ch15:22 "]
+  replace: "Chenaniʹah the chief of the Levites supervised the transport, for he was an expert,"
+
+- triggers: ["!1chronicles15:23 ","!1chron15:23 ","!1ch15:23 "]
+  replace: "and Berechiʹah and Elkaʹnah were gatekeepers for the Ark."
+
+- triggers: ["!1chronicles15:24 ","!1chron15:24 ","!1ch15:24 "]
+  replace: "The priests Shebaniʹah, Joshʹaphat, Nethanʹel, Amaʹsai, Zechariʹah, Benaiʹah, and Elieʹzer loudly sounded the trumpets before the Ark of the true God, and Oʹbed-eʹdom and Jehiʹah also served as gatekeepers for the Ark."
+
+- triggers: ["!1chronicles15:25 ","!1chron15:25 ","!1ch15:25 "]
+  replace: "Then David and the elders of Israel and the chiefs of the thousands were walking along to bring the ark of the covenant of Jehovah up from the house of Oʹbed-eʹdom with rejoicing."
+
+- triggers: ["!1chronicles15:26 ","!1chron15:26 ","!1ch15:26 "]
+  replace: "When the true God helped the Levites who were carrying the ark of the covenant of Jehovah, they sacrificed seven young bulls and seven rams."
+
+- triggers: ["!1chronicles15:27 ","!1chron15:27 ","!1ch15:27 "]
+  replace: "David was dressed in a sleeveless coat of fine fabric, as were all the Levites carrying the Ark, the singers, and Chenaniʹah the chief of the transport and the singers; David was also wearing a linen ephʹod."
+
+- triggers: ["!1chronicles15:28 ","!1chron15:28 ","!1ch15:28 "]
+  replace: "All the Israelites were bringing up the ark of the covenant of Jehovah with joyful shouting, with the sound of the horn, with trumpets, with cymbals, playing loudly on stringed instruments and harps."
+
+- triggers: ["!1chronicles15:29 ","!1chron15:29 ","!1ch15:29 "]
+  replace: "But when the ark of the covenant of Jehovah came to the City of David, Saul’s daughter Miʹchal looked down through the window and saw King David skipping about and celebrating; and she began to despise him in her heart."
+
+- triggers: ["!1chronicles16:1 ","!1chron16:1 ","!1ch16:1 "]
+  replace: "So they brought the Ark of the true God in and placed it inside the tent that David had pitched for it; and they presented burnt offerings and communion sacrifices before the true God."
+
+- triggers: ["!1chronicles16:2 ","!1chron16:2 ","!1ch16:2 "]
+  replace: "When David finished offering up the burnt offerings and the communion sacrifices, he blessed the people in the name of Jehovah."
+
+- triggers: ["!1chronicles16:3 ","!1chron16:3 ","!1ch16:3 "]
+  replace: "Further, he distributed to all the Israelites, to each man and woman, a round loaf of bread, a date cake, and a raisin cake."
+
+- triggers: ["!1chronicles16:4 ","!1chron16:4 ","!1ch16:4 "]
+  replace: "Then he appointed some of the Levites to minister before the Ark of Jehovah, to honor, thank, and praise Jehovah the God of Israel."
+
+- triggers: ["!1chronicles16:5 ","!1chron16:5 ","!1ch16:5 "]
+  replace: "Aʹsaph was the head, and second to him was Zechariʹah; and Jeiʹel, Shemirʹamoth, Jehiʹel, Mattithiʹah, Eliʹab, Benaiʹah, Oʹbed-eʹdom, and Jeiʹel played stringed instruments and harps; and Aʹsaph played the cymbals,"
+
+- triggers: ["!1chronicles16:6 ","!1chron16:6 ","!1ch16:6 "]
+  replace: "and Benaiʹah and Jahaziʹel the priests blew the trumpets constantly before the ark of the covenant of the true God."
+
+- triggers: ["!1chronicles16:7 ","!1chron16:7 ","!1ch16:7 "]
+  replace: "It was on that day that David first contributed a song of thanks to Jehovah through Aʹsaph and his brothers:"
+
+- triggers: ["!1chronicles16:8 ","!1chron16:8 ","!1ch16:8 "]
+  replace: "“Give thanks to Jehovah, call on his name, Make his deeds known among the peoples!"
+
+- triggers: ["!1chronicles16:9 ","!1chron16:9 ","!1ch16:9 "]
+  replace: "Sing to him, sing praises to him, Ponder over all his wonderful works."
+
+- triggers: ["!1chronicles16:10 ","!1chron16:10 ","!1ch16:10 "]
+  replace: "Boast about his holy name. Let the hearts of those seeking Jehovah rejoice."
+
+- triggers: ["!1chronicles16:11 ","!1chron16:11 ","!1ch16:11 "]
+  replace: "Search for Jehovah and his strength. Seek his face constantly."
+
+- triggers: ["!1chronicles16:12 ","!1chron16:12 ","!1ch16:12 "]
+  replace: "Remember the wonderful works he has performed, His miracles and the judgments he has pronounced,"
+
+- triggers: ["!1chronicles16:13 ","!1chron16:13 ","!1ch16:13 "]
+  replace: "You offspring of Israel his servant, You sons of Jacob, his chosen ones."
+
+- triggers: ["!1chronicles16:14 ","!1chron16:14 ","!1ch16:14 "]
+  replace: "He is Jehovah our God. His judgments are throughout the earth."
+
+- triggers: ["!1chronicles16:15 ","!1chron16:15 ","!1ch16:15 "]
+  replace: "Remember his covenant forever, The promise he made, to a thousand generations,"
+
+- triggers: ["!1chronicles16:16 ","!1chron16:16 ","!1ch16:16 "]
+  replace: "The covenant he made with Abraham, And the oath he swore to Isaac,"
+
+- triggers: ["!1chronicles16:17 ","!1chron16:17 ","!1ch16:17 "]
+  replace: "Which he established as a decree to Jacob And as a lasting covenant to Israel,"
+
+- triggers: ["!1chronicles16:18 ","!1chron16:18 ","!1ch16:18 "]
+  replace: "Saying, ‘I will give you the land of Caʹnaan As your allotted inheritance.’"
+
+- triggers: ["!1chronicles16:19 ","!1chron16:19 ","!1ch16:19 "]
+  replace: "This was when you were few in number, Yes, very few, and you were foreigners in the land."
+
+- triggers: ["!1chronicles16:20 ","!1chron16:20 ","!1ch16:20 "]
+  replace: "They walked about from nation to nation, From one kingdom to another people."
+
+- triggers: ["!1chronicles16:21 ","!1chron16:21 ","!1ch16:21 "]
+  replace: "He did not allow any man to oppress them, But on their account he reproved kings,"
+
+- triggers: ["!1chronicles16:22 ","!1chron16:22 ","!1ch16:22 "]
+  replace: "Saying, ‘Do not touch my anointed ones, And to my prophets do nothing bad.’"
+
+- triggers: ["!1chronicles16:23 ","!1chron16:23 ","!1ch16:23 "]
+  replace: "Sing to Jehovah, all the earth! Announce his salvation day after day!"
+
+- triggers: ["!1chronicles16:24 ","!1chron16:24 ","!1ch16:24 "]
+  replace: "Declare his glory among the nations, His wonderful works among all the peoples."
+
+- triggers: ["!1chronicles16:25 ","!1chron16:25 ","!1ch16:25 "]
+  replace: "For Jehovah is great and most worthy of praise. He is more awe-inspiring than all other gods."
+
+- triggers: ["!1chronicles16:26 ","!1chron16:26 ","!1ch16:26 "]
+  replace: "All the gods of the peoples are worthless gods, But Jehovah is the one who made the heavens."
+
+- triggers: ["!1chronicles16:27 ","!1chron16:27 ","!1ch16:27 "]
+  replace: "In his presence are majesty and splendor; Strength and joy are in his dwelling place."
+
+- triggers: ["!1chronicles16:28 ","!1chron16:28 ","!1ch16:28 "]
+  replace: "Give Jehovah his due, you families of the peoples, Give Jehovah his due for his glory and strength."
+
+- triggers: ["!1chronicles16:29 ","!1chron16:29 ","!1ch16:29 "]
+  replace: "Give Jehovah the glory due his name; Bring a gift and come in before him. Bow down to Jehovah in holy adornment."
+
+- triggers: ["!1chronicles16:30 ","!1chron16:30 ","!1ch16:30 "]
+  replace: "Tremble before him, all the earth! The earth is firmly established; it cannot be moved."
+
+- triggers: ["!1chronicles16:31 ","!1chron16:31 ","!1ch16:31 "]
+  replace: "Let the heavens rejoice, and let the earth be joyful; Declare among the nations: ‘Jehovah has become King!’"
+
+- triggers: ["!1chronicles16:32 ","!1chron16:32 ","!1ch16:32 "]
+  replace: "Let the sea thunder and all that fills it; Let the fields and everything in them rejoice."
+
+- triggers: ["!1chronicles16:33 ","!1chron16:33 ","!1ch16:33 "]
+  replace: "At the same time let the trees of the forest shout joyfully before Jehovah, For he is coming to judge the earth."
+
+- triggers: ["!1chronicles16:34 ","!1chron16:34 ","!1ch16:34 "]
+  replace: "Give thanks to Jehovah, for he is good; His loyal love endures forever."
+
+- triggers: ["!1chronicles16:35 ","!1chron16:35 ","!1ch16:35 "]
+  replace: "And say, ‘Save us, O God of our salvation, Gather us and rescue us from the nations, So that we may give thanks to your holy name And exult in praising you."
+
+- triggers: ["!1chronicles16:36 ","!1chron16:36 ","!1ch16:36 "]
+  replace: "May Jehovah, the God of Israel, be praised Throughout all eternity.’” And all the people said, “Amen!” and they praised Jehovah."
+
+- triggers: ["!1chronicles16:37 ","!1chron16:37 ","!1ch16:37 "]
+  replace: "Then David left Aʹsaph and his brothers there before the ark of the covenant of Jehovah to minister continually before the Ark, according to the daily routine."
+
+- triggers: ["!1chronicles16:38 ","!1chron16:38 ","!1ch16:38 "]
+  replace: "Oʹbed-eʹdom and his brothers, numbering 68, and Oʹbed-eʹdom, the son of Jeduʹthun, and Hoʹsah were gatekeepers;"
+
+- triggers: ["!1chronicles16:39 ","!1chron16:39 ","!1ch16:39 "]
+  replace: "and Zaʹdok the priest and his fellow priests were before the tabernacle of Jehovah on the high place at Gibʹeon"
+
+- triggers: ["!1chronicles16:40 ","!1chron16:40 ","!1ch16:40 "]
+  replace: "to offer up burnt offerings to Jehovah regularly on the altar of burnt offering, morning and evening, and to do all that is written in the Law of Jehovah that he commanded Israel."
+
+- triggers: ["!1chronicles16:41 ","!1chron16:41 ","!1ch16:41 "]
+  replace: "With them were Heʹman and Jeduʹthun and the rest of the selected men who were designated by their names to thank Jehovah, because “his loyal love endures forever”;"
+
+- triggers: ["!1chronicles16:42 ","!1chron16:42 ","!1ch16:42 "]
+  replace: "and with them were Heʹman and Jeduʹthun to sound the trumpets, cymbals, and the instruments used to praise the true God; and the sons of Jeduʹthun were at the gate."
+
+- triggers: ["!1chronicles16:43 ","!1chron16:43 ","!1ch16:43 "]
+  replace: "Then all the people went to their homes, and David went to bless his own household."
+
+- triggers: ["!1chronicles17:1 ","!1chron17:1 ","!1ch17:1 "]
+  replace: "As soon as David was settled in his own house, he said to Nathan the prophet: “Here I am living in a house of cedars while the ark of the covenant of Jehovah is under tent cloths.”"
+
+- triggers: ["!1chronicles17:2 ","!1chron17:2 ","!1ch17:2 "]
+  replace: "Nathan replied to David: “Do whatever is in your heart, for the true God is with you.”"
+
+- triggers: ["!1chronicles17:3 ","!1chron17:3 ","!1ch17:3 "]
+  replace: "On that very night, the word of God came to Nathan, saying:"
+
+- triggers: ["!1chronicles17:4 ","!1chron17:4 ","!1ch17:4 "]
+  replace: "“Go and say to my servant David, ‘This is what Jehovah says: “You are not the one who will build the house for me to dwell in."
+
+- triggers: ["!1chronicles17:5 ","!1chron17:5 ","!1ch17:5 "]
+  replace: "For I have not dwelled in a house from the day I brought Israel out to this day, but I continued going from tent to tent and from one tabernacle to another."
+
+- triggers: ["!1chronicles17:6 ","!1chron17:6 ","!1ch17:6 "]
+  replace: "During all the time that I went with all Israel, did I ever say one word to any of the judges of Israel whom I appointed to shepherd my people, saying, ‘Why did you not build a house of cedars for me?’”’"
+
+- triggers: ["!1chronicles17:7 ","!1chron17:7 ","!1ch17:7 "]
+  replace: "“Now say this to my servant David, ‘This is what Jehovah of armies says: “I took you from the pastures, from following the flock, to become a leader over my people Israel."
+
+- triggers: ["!1chronicles17:8 ","!1chron17:8 ","!1ch17:8 "]
+  replace: "And I will be with you wherever you go, and I will do away with all your enemies from before you; and I will make a name for you like the name of the great men of the earth."
+
+- triggers: ["!1chronicles17:9 ","!1chron17:9 ","!1ch17:9 "]
+  replace: "I will appoint a place for my people Israel and settle them, and they will live there and not be disturbed anymore; and wicked men will not oppress them again as they did in the past,"
+
+- triggers: ["!1chronicles17:10 ","!1chron17:10 ","!1ch17:10 "]
+  replace: "from the day that I appointed judges over my people Israel. And I will subdue all your enemies. Moreover, I tell you, ‘Jehovah will build a house for you.’"
+
+- triggers: ["!1chronicles17:11 ","!1chron17:11 ","!1ch17:11 "]
+  replace: "“‘“When your days come to an end and you go to be with your forefathers, I will raise up your offspring after you, one of your sons, and I will firmly establish his kingship."
+
+- triggers: ["!1chronicles17:12 ","!1chron17:12 ","!1ch17:12 "]
+  replace: "He is the one who will build a house for me, and I will firmly establish his throne forever."
+
+- triggers: ["!1chronicles17:13 ","!1chron17:13 ","!1ch17:13 "]
+  replace: "I will become his father, and he will become my son. I will not remove my loyal love from him the way I removed it from the one who was prior to you."
+
+- triggers: ["!1chronicles17:14 ","!1chron17:14 ","!1ch17:14 "]
+  replace: "I will cause him to stand in my house and in my kingship forever, and his throne will last forever.”’”"
+
+- triggers: ["!1chronicles17:15 ","!1chron17:15 ","!1ch17:15 "]
+  replace: "Nathan told David all these words and this entire vision."
+
+- triggers: ["!1chronicles17:16 ","!1chron17:16 ","!1ch17:16 "]
+  replace: "At that King David came in and sat down before Jehovah and said: “Who am I, O Jehovah God? And what is my house that you have brought me this far?"
+
+- triggers: ["!1chronicles17:17 ","!1chron17:17 ","!1ch17:17 "]
+  replace: "As if this were not enough, O God, you also speak about the house of your servant down to a distant future time, and you have looked on me as if I were a man who should be further exalted, O Jehovah God."
+
+- triggers: ["!1chronicles17:18 ","!1chron17:18 ","!1ch17:18 "]
+  replace: "What more can your servant David say to you about the honor given me when you know your servant so well?"
+
+- triggers: ["!1chronicles17:19 ","!1chron17:19 ","!1ch17:19 "]
+  replace: "O Jehovah, for the sake of your servant and in agreement with your heart you have done all these great things by revealing your greatness."
+
+- triggers: ["!1chronicles17:20 ","!1chron17:20 ","!1ch17:20 "]
+  replace: "O Jehovah, there is no one like you, and there is no God except you; everything we have heard with our ears confirms this."
+
+- triggers: ["!1chronicles17:21 ","!1chron17:21 ","!1ch17:21 "]
+  replace: "And what other nation on earth is like your people Israel? The true God went and redeemed them as his people. You made a name for yourself by your great and awe-inspiring deeds, driving out nations from before your people, whom you redeemed from Egypt."
+
+- triggers: ["!1chronicles17:22 ","!1chron17:22 ","!1ch17:22 "]
+  replace: "You made your people Israel your own people for all time; and you, O Jehovah, became their God."
+
+- triggers: ["!1chronicles17:23 ","!1chron17:23 ","!1ch17:23 "]
+  replace: "Now, O Jehovah, may the promise you have made concerning your servant and his house prove faithful for all time, and may you do just as you have promised."
+
+- triggers: ["!1chronicles17:24 ","!1chron17:24 ","!1ch17:24 "]
+  replace: "May your name endure and be exalted forever, so that people may say, ‘Jehovah of armies, the God of Israel, is God to Israel,’ and may the house of your servant David be firmly established before you."
+
+- triggers: ["!1chronicles17:25 ","!1chron17:25 ","!1ch17:25 "]
+  replace: "For you, my God, have revealed to your servant your purpose to build him a house. That is why your servant has the confidence to offer this prayer to you."
+
+- triggers: ["!1chronicles17:26 ","!1chron17:26 ","!1ch17:26 "]
+  replace: "And now, O Jehovah, you are the true God, and you have promised these good things concerning your servant."
+
+- triggers: ["!1chronicles17:27 ","!1chron17:27 ","!1ch17:27 "]
+  replace: "So may it please you to bless the house of your servant, and may it continue forever before you, for you, O Jehovah, have blessed, and it is blessed forever.”"
+
+- triggers: ["!1chronicles18:1 ","!1chron18:1 ","!1ch18:1 "]
+  replace: "Some time later, David defeated the Philisʹtines and subdued them and took Gath and its dependent towns out of the hands of the Philisʹtines."
+
+- triggers: ["!1chronicles18:2 ","!1chron18:2 ","!1ch18:2 "]
+  replace: "Then he defeated Moʹab, and the Moʹabites became David’s servants and brought tribute."
+
+- triggers: ["!1chronicles18:3 ","!1chron18:3 ","!1ch18:3 "]
+  replace: "David defeated King Hadadeʹzer of Zoʹbah near Haʹmath as he was on his way to establish his authority at the Euphraʹtes River."
+
+- triggers: ["!1chronicles18:4 ","!1chron18:4 ","!1ch18:4 "]
+  replace: "David captured 1,000 chariots, 7,000 horsemen, and 20,000 foot soldiers from him. Then David hamstrung all but 100 of the chariot horses."
+
+- triggers: ["!1chronicles18:5 ","!1chron18:5 ","!1ch18:5 "]
+  replace: "When the Syrians of Damascus came to help King Hadadeʹzer of Zoʹbah, David struck down 22,000 of the Syrians."
+
+- triggers: ["!1chronicles18:6 ","!1chron18:6 ","!1ch18:6 "]
+  replace: "David then established garrisons in Syria of Damascus, and the Syrians became David’s servants and brought tribute. Jehovah gave David victory wherever he went."
+
+- triggers: ["!1chronicles18:7 ","!1chron18:7 ","!1ch18:7 "]
+  replace: "Moreover, David took the circular shields of gold from the servants of Hadadeʹzer and brought them to Jerusalem."
+
+- triggers: ["!1chronicles18:8 ","!1chron18:8 ","!1ch18:8 "]
+  replace: "From Tibʹhath and Cun, cities of Hadadeʹzer, David took a great quantity of copper. With it Solʹomon made the copper Sea, the pillars, and the copper utensils."
+
+- triggers: ["!1chronicles18:9 ","!1chron18:9 ","!1ch18:9 "]
+  replace: "When King Toʹu of Haʹmath heard that David had defeated the entire army of King Hadadeʹzer of Zoʹbah,"
+
+- triggers: ["!1chronicles18:10 ","!1chron18:10 ","!1ch18:10 "]
+  replace: "he immediately sent his son Hadoʹram to King David to ask about his welfare and to congratulate him because he had fought and defeated Hadadeʹzer (for Hadadeʹzer had often fought against Toʹu), and he brought all sorts of articles of gold, silver, and copper."
+
+- triggers: ["!1chronicles18:11 ","!1chron18:11 ","!1ch18:11 "]
+  replace: "King David sanctified these to Jehovah, along with the silver and the gold that he had carried off from all the nations: from Eʹdom and Moʹab, from the Amʹmonites, the Philisʹtines, and the Amalʹekites."
+
+- triggers: ["!1chronicles18:12 ","!1chron18:12 ","!1ch18:12 "]
+  replace: "Abishʹai the son of Zeruʹiah struck down 18,000 Eʹdomites in the Valley of Salt."
+
+- triggers: ["!1chronicles18:13 ","!1chron18:13 ","!1ch18:13 "]
+  replace: "He established garrisons in Eʹdom, and all the Eʹdomites became David’s servants. Jehovah gave David victory wherever he went."
+
+- triggers: ["!1chronicles18:14 ","!1chron18:14 ","!1ch18:14 "]
+  replace: "David kept reigning over all Israel, and he was administering justice and righteousness for all his people."
+
+- triggers: ["!1chronicles18:15 ","!1chron18:15 ","!1ch18:15 "]
+  replace: "Joʹab the son of Zeruʹiah was over the army, Jehoshʹaphat the son of Ahiʹlud was recorder,"
+
+- triggers: ["!1chronicles18:16 ","!1chron18:16 ","!1ch18:16 "]
+  replace: "Zaʹdok the son of Ahiʹtub and Ahimʹelech the son of Abiʹathar were priests, and Shavʹsha was secretary."
+
+- triggers: ["!1chronicles18:17 ","!1chron18:17 ","!1ch18:17 "]
+  replace: "Benaiʹah the son of Jehoiʹada was over the Cherʹethites and the Pelʹethites. And David’s sons were first in position next to the king."
+
+- triggers: ["!1chronicles19:1 ","!1chron19:1 ","!1ch19:1 "]
+  replace: "Later Naʹhash the king of the Amʹmonites died, and his son became king in his place."
+
+- triggers: ["!1chronicles19:2 ","!1chron19:2 ","!1ch19:2 "]
+  replace: "At that David said: “I will show loyal love toward Haʹnun the son of Naʹhash, because his father showed loyal love toward me.” So David sent messengers to offer him comfort over the loss of his father. But when David’s servants came into the land of the Amʹmonites to comfort Haʹnun,"
+
+- triggers: ["!1chronicles19:3 ","!1chron19:3 ","!1ch19:3 "]
+  replace: "the princes of the Amʹmonites said to Haʹnun: “Do you think that David is honoring your father by sending comforters to you? Is it not to make a thorough search and to overthrow you and to spy out the land that his servants have come to you?”"
+
+- triggers: ["!1chronicles19:4 ","!1chron19:4 ","!1ch19:4 "]
+  replace: "So Haʹnun took the servants of David and shaved them and cut their garments in half at their buttocks and sent them away."
+
+- triggers: ["!1chronicles19:5 ","!1chron19:5 ","!1ch19:5 "]
+  replace: "When David was told about the men, he at once sent others to meet them, because the men had been deeply humiliated; and the king told them: “Stay in Jerʹicho until your beards grow back, and then return.”"
+
+- triggers: ["!1chronicles19:6 ","!1chron19:6 ","!1ch19:6 "]
+  replace: "In time the Amʹmonites saw that they had become a stench to David, so Haʹnun and the Amʹmonites sent 1,000 silver talents to hire chariots and horsemen from Mesopotaʹmia, Aʹram-maʹacah, and Zoʹbah."
+
+- triggers: ["!1chronicles19:7 ","!1chron19:7 ","!1ch19:7 "]
+  replace: "Thus they hired 32,000 chariots, along with the king of Maʹacah and his people. Then they came and camped before Medʹeba. The Amʹmonites gathered together from their cities and came out for the battle."
+
+- triggers: ["!1chronicles19:8 ","!1chron19:8 ","!1ch19:8 "]
+  replace: "When David heard about it, he sent Joʹab and the entire army, including his mightiest warriors."
+
+- triggers: ["!1chronicles19:9 ","!1chron19:9 ","!1ch19:9 "]
+  replace: "And the Amʹmonites went out and drew up in battle formation at the entrance of the city while the kings who had come were by themselves in the open field."
+
+- triggers: ["!1chronicles19:10 ","!1chron19:10 ","!1ch19:10 "]
+  replace: "When Joʹab saw that the battle charges were coming against him from the front and the rear, he chose some of the best troops in Israel and drew them up in battle formation to meet the Syrians."
+
+- triggers: ["!1chronicles19:11 ","!1chron19:11 ","!1ch19:11 "]
+  replace: "He put the rest of the men under the command of his brother Abishʹai, in order to draw them up in battle formation to meet the Amʹmonites."
+
+- triggers: ["!1chronicles19:12 ","!1chron19:12 ","!1ch19:12 "]
+  replace: "Then he said: “If the Syrians become too strong for me, then you must come to my rescue; but if the Amʹmonites become too strong for you, I will rescue you."
+
+- triggers: ["!1chronicles19:13 ","!1chron19:13 ","!1ch19:13 "]
+  replace: "We must be strong and courageous for our people and for the cities of our God, and Jehovah will do what is good in his eyes.”"
+
+- triggers: ["!1chronicles19:14 ","!1chron19:14 ","!1ch19:14 "]
+  replace: "Then Joʹab and his men advanced to meet the Syrians in battle, and they fled from before him."
+
+- triggers: ["!1chronicles19:15 ","!1chron19:15 ","!1ch19:15 "]
+  replace: "When the Amʹmonites saw that the Syrians had fled, they also fled from his brother Abishʹai and went into the city. After that Joʹab came to Jerusalem."
+
+- triggers: ["!1chronicles19:16 ","!1chron19:16 ","!1ch19:16 "]
+  replace: "When the Syrians saw that they had been defeated by Israel, they sent messengers to summon the Syrians in the region of the River, with Shoʹphach the chief of the army of Hadadeʹzer leading them."
+
+- triggers: ["!1chronicles19:17 ","!1chron19:17 ","!1ch19:17 "]
+  replace: "When the report was made to David, he immediately gathered all Israel and crossed the Jordan and came to them and drew up in battle formation against them. David drew up in battle formation to meet the Syrians, and they fought against him."
+
+- triggers: ["!1chronicles19:18 ","!1chron19:18 ","!1ch19:18 "]
+  replace: "But the Syrians fled from Israel; and David killed 7,000 charioteers and 40,000 foot soldiers of the Syrians, and he put Shoʹphach the chief of the army to death."
+
+- triggers: ["!1chronicles19:19 ","!1chron19:19 ","!1ch19:19 "]
+  replace: "When the servants of Hadadeʹzer saw that they had been defeated by Israel, they promptly made peace with David and became his subjects; and Syria did not want to help the Amʹmonites anymore."
+
+- triggers: ["!1chronicles20:1 ","!1chron20:1 ","!1ch20:1 "]
+  replace: "At the start of the year, at the time when kings go on campaigns, Joʹab led a military expedition and devastated the land of the Amʹmonites; he came and besieged Rabʹbah, while David stayed in Jerusalem. Joʹab attacked Rabʹbah and tore it down."
+
+- triggers: ["!1chronicles20:2 ","!1chron20:2 ","!1ch20:2 "]
+  replace: "Then David took the crown of Malʹcam from its head, and found that it weighed a talent of gold, and in it there were precious stones; and it was placed on David’s head. He also took a vast amount of spoil from the city."
+
+- triggers: ["!1chronicles20:3 ","!1chron20:3 ","!1ch20:3 "]
+  replace: "And he brought out the people who were in it and put them to work at sawing stones and at working with sharp iron instruments and with axes. That was what David did to all the cities of the Amʹmonites. Finally David and all the troops returned to Jerusalem."
+
+- triggers: ["!1chronicles20:4 ","!1chron20:4 ","!1ch20:4 "]
+  replace: "After this, war broke out at Geʹzer with the Philisʹtines. At that time Sibʹbecai the Huʹshathite struck down Sipʹpai, who was a descendant of the Rephʹaim, and they were subdued."
+
+- triggers: ["!1chronicles20:5 ","!1chron20:5 ","!1ch20:5 "]
+  replace: "And there was war again with the Philisʹtines, and Elhaʹnan the son of Jaʹir struck down Lahʹmi the brother of Goliʹath the Gitʹtite, whose spear had a shaft like the beam of loom workers."
+
+- triggers: ["!1chronicles20:6 ","!1chron20:6 ","!1ch20:6 "]
+  replace: "War broke out yet again at Gath, where there was a man of extraordinary size, with 6 fingers on each hand and 6 toes on each foot, 24 in all; and he too was a descendant of the Rephʹaim."
+
+- triggers: ["!1chronicles20:7 ","!1chron20:7 ","!1ch20:7 "]
+  replace: "He kept taunting Israel. So Jonʹathan the son of Shimʹea, David’s brother, struck him down."
+
+- triggers: ["!1chronicles20:8 ","!1chron20:8 ","!1ch20:8 "]
+  replace: "These were descendants of the Rephʹaim in Gath, and they fell by the hand of David and by the hand of his servants."
+
+- triggers: ["!1chronicles21:1 ","!1chron21:1 ","!1ch21:1 "]
+  replace: "Then Satan stood up against Israel and incited David to number Israel."
+
+- triggers: ["!1chronicles21:2 ","!1chron21:2 ","!1ch21:2 "]
+  replace: "So David said to Joʹab and the chiefs of the people: “Go, count Israel from Beʹer-sheʹba to Dan; then report to me so that I may know their number.”"
+
+- triggers: ["!1chronicles21:3 ","!1chron21:3 ","!1ch21:3 "]
+  replace: "But Joʹab said: “May Jehovah multiply his people 100 times! My lord the king, are not all of them already servants of my lord? Why does my lord want to do this? Why should he become a cause of guilt to Israel?”"
+
+- triggers: ["!1chronicles21:4 ","!1chron21:4 ","!1ch21:4 "]
+  replace: "But the king’s word prevailed over Joʹab. So Joʹab went out and traveled throughout Israel, after which he came to Jerusalem."
+
+- triggers: ["!1chronicles21:5 ","!1chron21:5 ","!1ch21:5 "]
+  replace: "Joʹab now gave to David the number of the people who were registered. All Israel amounted to 1,100,000 men armed with swords, and Judah, 470,000 men armed with swords."
+
+- triggers: ["!1chronicles21:6 ","!1chron21:6 ","!1ch21:6 "]
+  replace: "But Leʹvi and Benjamin were not registered among them, because the king’s word was detestable to Joʹab."
+
+- triggers: ["!1chronicles21:7 ","!1chron21:7 ","!1ch21:7 "]
+  replace: "Now this was very displeasing to the true God, so he struck Israel."
+
+- triggers: ["!1chronicles21:8 ","!1chron21:8 ","!1ch21:8 "]
+  replace: "David then said to the true God: “I have sinned greatly by doing this. And now, please, forgive your servant’s error, for I have acted very foolishly.”"
+
+- triggers: ["!1chronicles21:9 ","!1chron21:9 ","!1ch21:9 "]
+  replace: "Jehovah then spoke to Gad, David’s visionary, saying:"
+
+- triggers: ["!1chronicles21:10 ","!1chron21:10 ","!1ch21:10 "]
+  replace: "“Go and say to David, ‘This is what Jehovah says: “I am giving you three options. Choose the one that I should bring on you.”’”"
+
+- triggers: ["!1chronicles21:11 ","!1chron21:11 ","!1ch21:11 "]
+  replace: "So Gad came in to David and said to him: “This is what Jehovah says, ‘Take your pick"
+
+- triggers: ["!1chronicles21:12 ","!1chron21:12 ","!1ch21:12 "]
+  replace: "whether there should be three years of famine, or three months of being swept away by your adversaries while the sword of your enemies overtakes you, or three days of the sword of Jehovah—pestilence in the land—with Jehovah’s angel bringing destruction in all the territory of Israel.’ Now consider what I should reply to the One who sent me.”"
+
+- triggers: ["!1chronicles21:13 ","!1chron21:13 ","!1ch21:13 "]
+  replace: "So David said to Gad: “It is very distressing to me. Please, let me fall into the hand of Jehovah, for his mercy is very great; but do not let me fall into the hand of man.”"
+
+- triggers: ["!1chronicles21:14 ","!1chron21:14 ","!1ch21:14 "]
+  replace: "Then Jehovah sent a pestilence on Israel, so that 70,000 people out of Israel fell."
+
+- triggers: ["!1chronicles21:15 ","!1chron21:15 ","!1ch21:15 "]
+  replace: "Moreover, the true God sent an angel to Jerusalem to destroy it; but as he was about to do so, Jehovah saw it and felt regret over the calamity, and he said to the angel bringing destruction: “It is enough! Now let your hand drop.” Jehovah’s angel was standing close to the threshing floor of Orʹnan the Jebʹusite."
+
+- triggers: ["!1chronicles21:16 ","!1chron21:16 ","!1ch21:16 "]
+  replace: "When David raised his eyes, he saw Jehovah’s angel standing between the earth and the heavens with a drawn sword in his hand extended toward Jerusalem. David and the elders, covered with sackcloth, at once threw themselves down with their faces to the ground."
+
+- triggers: ["!1chronicles21:17 ","!1chron21:17 ","!1ch21:17 "]
+  replace: "David said to the true God: “Was it not I who said to number the people? I am the one who sinned, and I am the one who did wrong; but these sheep—what have they done? O Jehovah my God, let your hand, please, come against me and my father’s house; but do not bring this scourge on your people.”"
+
+- triggers: ["!1chronicles21:18 ","!1chron21:18 ","!1ch21:18 "]
+  replace: "Jehovah’s angel then told Gad to tell David to go up and erect an altar to Jehovah on the threshing floor of Orʹnan the Jebʹusite."
+
+- triggers: ["!1chronicles21:19 ","!1chron21:19 ","!1ch21:19 "]
+  replace: "So David went up at the word of Gad, which he had spoken in the name of Jehovah."
+
+- triggers: ["!1chronicles21:20 ","!1chron21:20 ","!1ch21:20 "]
+  replace: "Meanwhile, Orʹnan turned around and saw the angel, and his four sons who were with him hid themselves. Now Orʹnan had been threshing wheat."
+
+- triggers: ["!1chronicles21:21 ","!1chron21:21 ","!1ch21:21 "]
+  replace: "When David came up to him, Orʹnan looked and saw David, and he immediately went out from the threshing floor and bowed down to David with his face to the ground."
+
+- triggers: ["!1chronicles21:22 ","!1chron21:22 ","!1ch21:22 "]
+  replace: "David said to Orʹnan: “Sell me the site of the threshing floor, so that I may build an altar to Jehovah on it. Sell it to me for the full price, so that the scourge against the people may be halted.”"
+
+- triggers: ["!1chronicles21:23 ","!1chron21:23 ","!1ch21:23 "]
+  replace: "But Orʹnan said to David: “Take it as your own, and let my lord the king do what seems good to him. Here, I am providing the cattle for burnt offerings and the threshing sledge for the wood and the wheat as a grain offering. I give all of it.”"
+
+- triggers: ["!1chronicles21:24 ","!1chron21:24 ","!1ch21:24 "]
+  replace: "However, King David said to Orʹnan: “No, I must buy it for the full price, because I will not take what is yours and give it to Jehovah or offer up burnt sacrifices that cost me nothing.”"
+
+- triggers: ["!1chronicles21:25 ","!1chron21:25 ","!1ch21:25 "]
+  replace: "So David gave Orʹnan 600 gold shekels by weight for the site."
+
+- triggers: ["!1chronicles21:26 ","!1chron21:26 ","!1ch21:26 "]
+  replace: "And David built an altar there to Jehovah and offered up burnt sacrifices and communion sacrifices, and he called on Jehovah, who now answered him with fire from the heavens on the altar of burnt offering."
+
+- triggers: ["!1chronicles21:27 ","!1chron21:27 ","!1ch21:27 "]
+  replace: "Then Jehovah ordered the angel to return his sword to its sheath."
+
+- triggers: ["!1chronicles21:28 ","!1chron21:28 ","!1ch21:28 "]
+  replace: "At that time, when David saw that Jehovah had answered him at the threshing floor of Orʹnan the Jebʹusite, he continued to sacrifice there."
+
+- triggers: ["!1chronicles21:29 ","!1chron21:29 ","!1ch21:29 "]
+  replace: "However, the tabernacle of Jehovah that Moses had made in the wilderness and the altar of burnt offering were at that time on the high place at Gibʹeon."
+
+- triggers: ["!1chronicles21:30 ","!1chron21:30 ","!1ch21:30 "]
+  replace: "But David had not been able to go before it to consult God, for he was terrified because of the sword of Jehovah’s angel."
+
+- triggers: ["!1chronicles22:1 ","!1chron22:1 ","!1ch22:1 "]
+  replace: "David then said: “This is the house of Jehovah the true God, and this is an altar for burnt offering for Israel.”"
+
+- triggers: ["!1chronicles22:2 ","!1chron22:2 ","!1ch22:2 "]
+  replace: "David then gave orders to bring together the foreign residents who were in the land of Israel, and he assigned them to be stonecutters to cut and shape stones for building the house of the true God."
+
+- triggers: ["!1chronicles22:3 ","!1chron22:3 ","!1ch22:3 "]
+  replace: "David also prepared iron in great quantity for nails for the doors of the gates and for clamps, and so much copper that it was beyond weighing,"
+
+- triggers: ["!1chronicles22:4 ","!1chron22:4 ","!1ch22:4 "]
+  replace: "and also cedar timbers without number, for the Sidoʹnians and the Tyrʹians brought great quantities of cedar timbers to David."
+
+- triggers: ["!1chronicles22:5 ","!1chron22:5 ","!1ch22:5 "]
+  replace: "And David said: “My son Solʹomon is young and inexperienced, and the house to be built for Jehovah is to be exceedingly magnificent, so that its fame and beauty will be known in all lands. Therefore, I will make preparation for him.” So David prepared materials in great quantity before his death."
+
+- triggers: ["!1chronicles22:6 ","!1chron22:6 ","!1ch22:6 "]
+  replace: "Moreover, he summoned his son Solʹomon and instructed him to build a house for Jehovah the God of Israel."
+
+- triggers: ["!1chronicles22:7 ","!1chron22:7 ","!1ch22:7 "]
+  replace: "David told his son Solʹomon: “As for me, it was my heart’s desire to build a house for the name of Jehovah my God."
+
+- triggers: ["!1chronicles22:8 ","!1chron22:8 ","!1ch22:8 "]
+  replace: "But Jehovah’s word came to me, saying, ‘You have shed a great deal of blood, and you have fought great wars. You will not build a house for my name, for you have shed a great deal of blood on the earth before me."
+
+- triggers: ["!1chronicles22:9 ","!1chron22:9 ","!1ch22:9 "]
+  replace: "Look! You will have a son who will be a man of peace, and I will give him rest from all his enemies who surround him, for Solʹomon will be his name and I will grant Israel peace and quiet in his days."
+
+- triggers: ["!1chronicles22:10 ","!1chron22:10 ","!1ch22:10 "]
+  replace: "He is the one who will build a house for my name. He will become my son, and I will be his father. I will firmly establish the throne of his kingship over Israel forever.’"
+
+- triggers: ["!1chronicles22:11 ","!1chron22:11 ","!1ch22:11 "]
+  replace: "“Now, my son, may Jehovah be with you, and may you be successful and build the house of Jehovah your God, just as he has spoken concerning you."
+
+- triggers: ["!1chronicles22:12 ","!1chron22:12 ","!1ch22:12 "]
+  replace: "Only may Jehovah give you discretion and understanding when he gives you authority over Israel, so that you may keep the law of Jehovah your God."
+
+- triggers: ["!1chronicles22:13 ","!1chron22:13 ","!1ch22:13 "]
+  replace: "Then you will be successful if you carefully observe the regulations and the judgments that Jehovah ordered Moses to give Israel. Be courageous and strong. Do not be afraid or be terrified."
+
+- triggers: ["!1chronicles22:14 ","!1chron22:14 ","!1ch22:14 "]
+  replace: "Here I have taken great pains to prepare for Jehovah’s house 100,000 talents of gold and 1,000,000 talents of silver and such great quantities of copper and iron that they cannot be weighed, and I have prepared timbers and stones, but you will add to them."
+
+- triggers: ["!1chronicles22:15 ","!1chron22:15 ","!1ch22:15 "]
+  replace: "A great number of workmen are with you—stonecutters, stonemasons, woodworkers, and all kinds of skilled workers."
+
+- triggers: ["!1chronicles22:16 ","!1chron22:16 ","!1ch22:16 "]
+  replace: "The gold, silver, copper, and iron are beyond measure. Get up and begin the work, and may Jehovah be with you.”"
+
+- triggers: ["!1chronicles22:17 ","!1chron22:17 ","!1ch22:17 "]
+  replace: "David then ordered all the princes of Israel to help his son Solʹomon:"
+
+- triggers: ["!1chronicles22:18 ","!1chron22:18 ","!1ch22:18 "]
+  replace: "“Is not Jehovah your God with you, and has he not given you rest on every side? For he handed over to me the inhabitants of the land, and the land has been subdued before Jehovah and before his people."
+
+- triggers: ["!1chronicles22:19 ","!1chron22:19 ","!1ch22:19 "]
+  replace: "Now determine with all your heart and soul to seek Jehovah your God, and start building the sanctuary of Jehovah the true God, in order to bring the ark of the covenant of Jehovah and the holy utensils of the true God to the house built for the name of Jehovah.”"
+
+- triggers: ["!1chronicles23:1 ","!1chron23:1 ","!1ch23:1 "]
+  replace: "When David had grown old and was near the end of his life, he made his son Solʹomon king over Israel."
+
+- triggers: ["!1chronicles23:2 ","!1chron23:2 ","!1ch23:2 "]
+  replace: "He then gathered all the princes of Israel, the priests, and the Levites."
+
+- triggers: ["!1chronicles23:3 ","!1chron23:3 ","!1ch23:3 "]
+  replace: "The Levites who were 30 years old and up were numbered; their number, their head count man by man, was 38,000."
+
+- triggers: ["!1chronicles23:4 ","!1chron23:4 ","!1ch23:4 "]
+  replace: "Of these, 24,000 served as supervisors over the work of Jehovah’s house, and there were 6,000 officers and judges,"
+
+- triggers: ["!1chronicles23:5 ","!1chron23:5 ","!1ch23:5 "]
+  replace: "and there were 4,000 gatekeepers, and 4,000 gave praise to Jehovah on the instruments about which David said, “I made them for giving praise.”"
+
+- triggers: ["!1chronicles23:6 ","!1chron23:6 ","!1ch23:6 "]
+  replace: "Then David organized them into divisions according to the sons of Leʹvi: Gerʹshon, Koʹhath, and Merarʹi."
+
+- triggers: ["!1chronicles23:7 ","!1chron23:7 ","!1ch23:7 "]
+  replace: "Of the Gerʹshonites were Laʹdan and Shimʹei."
+
+- triggers: ["!1chronicles23:8 ","!1chron23:8 ","!1ch23:8 "]
+  replace: "The sons of Laʹdan were Jehiʹel the headman, Zeʹtham, and Joel, three."
+
+- triggers: ["!1chronicles23:9 ","!1chron23:9 ","!1ch23:9 "]
+  replace: "The sons of Shimʹei were Sheloʹmoth, Haʹziel, and Haʹran, three. These were the heads of the paternal houses for Laʹdan."
+
+- triggers: ["!1chronicles23:10 ","!1chron23:10 ","!1ch23:10 "]
+  replace: "And the sons of Shimʹei were Jaʹhath, Ziʹna, Jeʹush, and Beriʹah. These four were the sons of Shimʹei."
+
+- triggers: ["!1chronicles23:11 ","!1chron23:11 ","!1ch23:11 "]
+  replace: "Jaʹhath was the head and Ziʹzah, the second. But since Jeʹush and Beriʹah did not have many sons, they were counted as one paternal house with one area of responsibility."
+
+- triggers: ["!1chronicles23:12 ","!1chron23:12 ","!1ch23:12 "]
+  replace: "The sons of Koʹhath were Amʹram, Izʹhar, Hebʹron, and Uzʹziel, four."
+
+- triggers: ["!1chronicles23:13 ","!1chron23:13 ","!1ch23:13 "]
+  replace: "The sons of Amʹram were Aaron and Moses. But Aaron was permanently set apart to sanctify the Most Holy, he and his sons, to offer sacrifices before Jehovah, to minister to him, and to pronounce blessings in his name always."
+
+- triggers: ["!1chronicles23:14 ","!1chron23:14 ","!1ch23:14 "]
+  replace: "As for Moses the man of the true God, his sons were named among the tribe of the Levites."
+
+- triggers: ["!1chronicles23:15 ","!1chron23:15 ","!1ch23:15 "]
+  replace: "The sons of Moses were Gerʹshom and Elieʹzer."
+
+- triggers: ["!1chronicles23:16 ","!1chron23:16 ","!1ch23:16 "]
+  replace: "Of the sons of Gerʹshom, Shebʹuel was the head."
+
+- triggers: ["!1chronicles23:17 ","!1chron23:17 ","!1ch23:17 "]
+  replace: "Of the descendants of Elieʹzer, Rehabiʹah was the head; Elieʹzer did not have other sons, but the sons of Rehabiʹah were very many."
+
+- triggers: ["!1chronicles23:18 ","!1chron23:18 ","!1ch23:18 "]
+  replace: "Of the sons of Izʹhar, Sheloʹmith was the headman."
+
+- triggers: ["!1chronicles23:19 ","!1chron23:19 ","!1ch23:19 "]
+  replace: "The sons of Hebʹron were Jeriʹah the head, Amariʹah the second, Jahaziʹel the third, and Jekameʹam the fourth."
+
+- triggers: ["!1chronicles23:20 ","!1chron23:20 ","!1ch23:20 "]
+  replace: "The sons of Uzʹziel were Miʹcah the head and Isshiʹah the second."
+
+- triggers: ["!1chronicles23:21 ","!1chron23:21 ","!1ch23:21 "]
+  replace: "The sons of Merarʹi were Mahʹli and Muʹshi. The sons of Mahʹli were Eleaʹzar and Kish."
+
+- triggers: ["!1chronicles23:22 ","!1chron23:22 ","!1ch23:22 "]
+  replace: "Eleaʹzar died, but he had no sons, only daughters. So the sons of Kish, their relatives, took them as wives."
+
+- triggers: ["!1chronicles23:23 ","!1chron23:23 ","!1ch23:23 "]
+  replace: "The sons of Muʹshi were Mahʹli, Eʹder, and Jerʹemoth, three."
+
+- triggers: ["!1chronicles23:24 ","!1chron23:24 ","!1ch23:24 "]
+  replace: "These were the sons of Leʹvi according to their paternal houses, the heads of the paternal houses, by those registered who were counted and listed by their names and who carried out the work for the service of the house of Jehovah, from 20 years old and up."
+
+- triggers: ["!1chronicles23:25 ","!1chron23:25 ","!1ch23:25 "]
+  replace: "For David had said: “Jehovah the God of Israel has given rest to his people, and he will reside in Jerusalem forever."
+
+- triggers: ["!1chronicles23:26 ","!1chron23:26 ","!1ch23:26 "]
+  replace: "Also the Levites will not have to carry the tabernacle or any of its equipment for its service.”"
+
+- triggers: ["!1chronicles23:27 ","!1chron23:27 ","!1ch23:27 "]
+  replace: "For according to the last instructions of David, the Levites from 20 years old and up were numbered."
+
+- triggers: ["!1chronicles23:28 ","!1chron23:28 ","!1ch23:28 "]
+  replace: "Their function was to assist the sons of Aaron for the service of the house of Jehovah, to be in charge of the courtyards, the dining rooms, the purification of every holy thing, and any work needed for the service of the house of the true God."
+
+- triggers: ["!1chronicles23:29 ","!1chron23:29 ","!1ch23:29 "]
+  replace: "They assisted with the layer bread, the fine flour for the grain offering, the wafers of unleavened bread, the griddle cakes, the mixed dough, and all measures of quantity and size."
+
+- triggers: ["!1chronicles23:30 ","!1chron23:30 ","!1ch23:30 "]
+  replace: "They were to stand morning by morning to thank and praise Jehovah and likewise in the evening."
+
+- triggers: ["!1chronicles23:31 ","!1chron23:31 ","!1ch23:31 "]
+  replace: "They assisted whenever the burnt sacrifices were offered to Jehovah on the Sabbaths, the new moons, and during the festival seasons, according to the number required by the rules concerning them, doing so regularly before Jehovah."
+
+- triggers: ["!1chronicles23:32 ","!1chron23:32 ","!1ch23:32 "]
+  replace: "They also took care of their responsibilities toward the tent of meeting, toward the holy place, and toward their brothers the sons of Aaron for the service of the house of Jehovah."
+
+- triggers: ["!1chronicles24:1 ","!1chron24:1 ","!1ch24:1 "]
+  replace: "Now the divisions of the descendants of Aaron were these: The sons of Aaron were Naʹdab, Abiʹhu, Eleaʹzar, and Ithʹamar."
+
+- triggers: ["!1chronicles24:2 ","!1chron24:2 ","!1ch24:2 "]
+  replace: "However, Naʹdab and Abiʹhu died before their father, and they did not have any sons; but Eleaʹzar and Ithʹamar continued to serve as priests."
+
+- triggers: ["!1chronicles24:3 ","!1chron24:3 ","!1ch24:3 "]
+  replace: "David, along with Zaʹdok from the sons of Eleaʹzar and Ahimʹelech from the sons of Ithʹamar, made divisions of them for the office of their service."
+
+- triggers: ["!1chronicles24:4 ","!1chron24:4 ","!1ch24:4 "]
+  replace: "Since the sons of Eleaʹzar had more headmen than the sons of Ithʹamar had, they divided them accordingly: The sons of Eleaʹzar had 16 as heads of their paternal houses, and the sons of Ithʹamar had 8 as heads of their paternal houses."
+
+- triggers: ["!1chronicles24:5 ","!1chron24:5 ","!1ch24:5 "]
+  replace: "Further, they divided them by lots, the one group along with the other, for there were chiefs of the holy place and chiefs of the true God from both the sons of Eleaʹzar and the sons of Ithʹamar."
+
+- triggers: ["!1chronicles24:6 ","!1chron24:6 ","!1ch24:6 "]
+  replace: "Then Shemaiʹah the son of Nethanʹel the secretary of the Levites recorded their names before the king, the princes, Zaʹdok the priest, Ahimʹelech the son of Abiʹathar, and the heads of the paternal houses of the priests and of the Levites, one paternal house being selected for Eleaʹzar and one being selected for Ithʹamar."
+
+- triggers: ["!1chronicles24:7 ","!1chron24:7 ","!1ch24:7 "]
+  replace: "The first lot came out to Jehoiʹarib; the second to Jedaʹiah,"
+
+- triggers: ["!1chronicles24:8 ","!1chron24:8 ","!1ch24:8 "]
+  replace: "the third to Haʹrim, the fourth to Seoʹrim,"
+
+- triggers: ["!1chronicles24:9 ","!1chron24:9 ","!1ch24:9 "]
+  replace: "the fifth to Malchiʹjah, the sixth to Mijʹamin,"
+
+- triggers: ["!1chronicles24:10 ","!1chron24:10 ","!1ch24:10 "]
+  replace: "the seventh to Hakʹkoz, the eighth to Abiʹjah,"
+
+- triggers: ["!1chronicles24:11 ","!1chron24:11 ","!1ch24:11 "]
+  replace: "the ninth to Jeshʹua, the tenth to Shecaniʹah,"
+
+- triggers: ["!1chronicles24:12 ","!1chron24:12 ","!1ch24:12 "]
+  replace: "the 11th to Eliʹashib, the 12th to Jaʹkim,"
+
+- triggers: ["!1chronicles24:13 ","!1chron24:13 ","!1ch24:13 "]
+  replace: "the 13th to Hupʹpah, the 14th to Jeshebʹeab,"
+
+- triggers: ["!1chronicles24:14 ","!1chron24:14 ","!1ch24:14 "]
+  replace: "the 15th to Bilʹgah, the 16th to Imʹmer,"
+
+- triggers: ["!1chronicles24:15 ","!1chron24:15 ","!1ch24:15 "]
+  replace: "the 17th to Heʹzir, the 18th to Hapʹpizzez,"
+
+- triggers: ["!1chronicles24:16 ","!1chron24:16 ","!1ch24:16 "]
+  replace: "the 19th to Pethahiʹah, the 20th to Jehezʹkel,"
+
+- triggers: ["!1chronicles24:17 ","!1chron24:17 ","!1ch24:17 "]
+  replace: "the 21st to Jaʹchin, the 22nd to Gaʹmul,"
+
+- triggers: ["!1chronicles24:18 ","!1chron24:18 ","!1ch24:18 "]
+  replace: "the 23rd to Delaʹiah, the 24th to Maaziʹah."
+
+- triggers: ["!1chronicles24:19 ","!1chron24:19 ","!1ch24:19 "]
+  replace: "These were their offices for their service when they would come into the house of Jehovah according to the procedure set by their forefather Aaron, just as Jehovah the God of Israel had commanded him."
+
+- triggers: ["!1chronicles24:20 ","!1chron24:20 ","!1ch24:20 "]
+  replace: "And of the rest of the Levites: of the sons of Amʹram, there was Shuʹbael; of the sons of Shuʹbael, Jehdeʹiah;"
+
+- triggers: ["!1chronicles24:21 ","!1chron24:21 ","!1ch24:21 "]
+  replace: "of Rehabiʹah: of the sons of Rehabiʹah, Isshiʹah the head;"
+
+- triggers: ["!1chronicles24:22 ","!1chron24:22 ","!1ch24:22 "]
+  replace: "of the Izʹharites, Sheloʹmoth; of the sons of Sheloʹmoth, Jaʹhath;"
+
+- triggers: ["!1chronicles24:23 ","!1chron24:23 ","!1ch24:23 "]
+  replace: "and of the sons of Hebʹron, Jeriʹah the head, Amariʹah the second, Jahaziʹel the third, Jekameʹam the fourth;"
+
+- triggers: ["!1chronicles24:24 ","!1chron24:24 ","!1ch24:24 "]
+  replace: "of the sons of Uzʹziel, Miʹcah; of the sons of Miʹcah, Shaʹmir."
+
+- triggers: ["!1chronicles24:25 ","!1chron24:25 ","!1ch24:25 "]
+  replace: "The brother of Miʹcah was Isshiʹah; of the sons of Isshiʹah, Zechariʹah."
+
+- triggers: ["!1chronicles24:26 ","!1chron24:26 ","!1ch24:26 "]
+  replace: "The sons of Merarʹi were Mahʹli and Muʹshi; of the sons of Jaaziʹah, Beʹno."
+
+- triggers: ["!1chronicles24:27 ","!1chron24:27 ","!1ch24:27 "]
+  replace: "The sons of Merarʹi: of Jaaziʹah, Beʹno, Shoʹham, Zacʹcur, and Ibʹri;"
+
+- triggers: ["!1chronicles24:28 ","!1chron24:28 ","!1ch24:28 "]
+  replace: "of Mahʹli, Eleaʹzar, who did not have any sons;"
+
+- triggers: ["!1chronicles24:29 ","!1chron24:29 ","!1ch24:29 "]
+  replace: "of Kish: the sons of Kish, Jerahʹmeel;"
+
+- triggers: ["!1chronicles24:30 ","!1chron24:30 ","!1ch24:30 "]
+  replace: "and the sons of Muʹshi were Mahʹli, Eʹder, and Jerʹimoth. These were the sons of Leʹvi by their paternal houses."
+
+- triggers: ["!1chronicles24:31 ","!1chron24:31 ","!1ch24:31 "]
+  replace: "And they also cast lots just as their brothers the sons of Aaron did in the presence of King David, Zaʹdok, Ahimʹelech, and the heads of the paternal houses of the priests and of the Levites. Regarding the paternal houses, the head one was just as his younger brother."
+
+- triggers: ["!1chronicles25:1 ","!1chron25:1 ","!1ch25:1 "]
+  replace: "Further, David and the chiefs of the groups for the service separated some of the sons of Aʹsaph, Heʹman, and Jeduʹthun to serve by prophesying with the harps, the stringed instruments, and the cymbals. The list of the official men for this service was,"
+
+- triggers: ["!1chronicles25:2 ","!1chron25:2 ","!1ch25:2 "]
+  replace: "of the sons of Aʹsaph: Zacʹcur, Joseph, Nethaniʹah, and Ashareʹlah, the sons of Aʹsaph under the direction of Aʹsaph, who prophesied under the direction of the king."
+
+- triggers: ["!1chronicles25:3 ","!1chron25:3 ","!1ch25:3 "]
+  replace: "Of Jeduʹthun, the sons of Jeduʹthun: Gedaliʹah, Zeʹri, Jeshaʹiah, Shimʹei, Hashabiʹah, and Mattithiʹah, six, under the direction of their father Jeduʹthun, who prophesied with the harp, thanking and praising Jehovah."
+
+- triggers: ["!1chronicles25:4 ","!1chron25:4 ","!1ch25:4 "]
+  replace: "Of Heʹman, the sons of Heʹman: Bukkiʹah, Mattaniʹah, Uzʹziel, Shebʹuel, Jerʹimoth, Hananiʹah, Hanaʹni, Eliʹathah, Giddalʹti, Romamʹti-eʹzer, Joshbekashʹah, Malloʹthi, Hoʹthir, and Mahaʹzioth."
+
+- triggers: ["!1chronicles25:5 ","!1chron25:5 ","!1ch25:5 "]
+  replace: "All of these were sons of Heʹman, a visionary of the king in matters pertaining to the true God to his glory; thus the true God gave Heʹman 14 sons and 3 daughters."
+
+- triggers: ["!1chronicles25:6 ","!1chron25:6 ","!1ch25:6 "]
+  replace: "All of these were under the direction of their father for singing at the house of Jehovah, with cymbals, stringed instruments, and harps for the service of the house of the true God. Under the king’s direction were Aʹsaph, Jeduʹthun, and Heʹman."
+
+- triggers: ["!1chronicles25:7 ","!1chron25:7 ","!1ch25:7 "]
+  replace: "The number of them and their brothers who were trained in song to Jehovah, all experts, was 288."
+
+- triggers: ["!1chronicles25:8 ","!1chron25:8 ","!1ch25:8 "]
+  replace: "So they cast lots for their duties, the small and the great alike, the expert along with the learner."
+
+- triggers: ["!1chronicles25:9 ","!1chron25:9 ","!1ch25:9 "]
+  replace: "The first lot to come out belonged to Aʹsaph for Joseph, the second for Gedaliʹah (he and his brothers and his sons were 12);"
+
+- triggers: ["!1chronicles25:10 ","!1chron25:10 ","!1ch25:10 "]
+  replace: "the third for Zacʹcur, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:11 ","!1chron25:11 ","!1ch25:11 "]
+  replace: "the fourth for Izʹri, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:12 ","!1chron25:12 ","!1ch25:12 "]
+  replace: "the fifth for Nethaniʹah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:13 ","!1chron25:13 ","!1ch25:13 "]
+  replace: "the sixth for Bukkiʹah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:14 ","!1chron25:14 ","!1ch25:14 "]
+  replace: "the seventh for Jeshareʹlah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:15 ","!1chron25:15 ","!1ch25:15 "]
+  replace: "the eighth for Jeshaʹiah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:16 ","!1chron25:16 ","!1ch25:16 "]
+  replace: "the ninth for Mattaniʹah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:17 ","!1chron25:17 ","!1ch25:17 "]
+  replace: "the tenth for Shimʹei, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:18 ","!1chron25:18 ","!1ch25:18 "]
+  replace: "the 11th for Azʹarel, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:19 ","!1chron25:19 ","!1ch25:19 "]
+  replace: "the 12th for Hashabiʹah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:20 ","!1chron25:20 ","!1ch25:20 "]
+  replace: "for the 13th, Shuʹbael, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:21 ","!1chron25:21 ","!1ch25:21 "]
+  replace: "for the 14th, Mattithiʹah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:22 ","!1chron25:22 ","!1ch25:22 "]
+  replace: "for the 15th, for Jerʹemoth, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:23 ","!1chron25:23 ","!1ch25:23 "]
+  replace: "for the 16th, for Hananiʹah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:24 ","!1chron25:24 ","!1ch25:24 "]
+  replace: "for the 17th, for Joshbekashʹah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:25 ","!1chron25:25 ","!1ch25:25 "]
+  replace: "for the 18th, for Hanaʹni, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:26 ","!1chron25:26 ","!1ch25:26 "]
+  replace: "for the 19th, for Malloʹthi, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:27 ","!1chron25:27 ","!1ch25:27 "]
+  replace: "for the 20th, for Eliʹathah, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:28 ","!1chron25:28 ","!1ch25:28 "]
+  replace: "for the 21st, for Hoʹthir, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:29 ","!1chron25:29 ","!1ch25:29 "]
+  replace: "for the 22nd, for Giddalʹti, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:30 ","!1chron25:30 ","!1ch25:30 "]
+  replace: "for the 23rd, for Mahaʹzioth, his sons and his brothers, 12;"
+
+- triggers: ["!1chronicles25:31 ","!1chron25:31 ","!1ch25:31 "]
+  replace: "for the 24th, for Romamʹti-eʹzer, his sons and his brothers, 12."
+
+- triggers: ["!1chronicles26:1 ","!1chron26:1 ","!1ch26:1 "]
+  replace: "The divisions of gatekeepers were as follows: of the Korʹahites, Meshelemiʹah the son of Koʹre of the sons of Aʹsaph."
+
+- triggers: ["!1chronicles26:2 ","!1chron26:2 ","!1ch26:2 "]
+  replace: "And Meshelemiʹah had sons: Zechariʹah the firstborn, Jediʹael the second, Zebadiʹah the third, Jathʹniel the fourth,"
+
+- triggers: ["!1chronicles26:3 ","!1chron26:3 ","!1ch26:3 "]
+  replace: "Eʹlam the fifth, Jehohaʹnan the sixth, Elʹieho-eʹnai the seventh."
+
+- triggers: ["!1chronicles26:4 ","!1chron26:4 ","!1ch26:4 "]
+  replace: "And Oʹbed-eʹdom had sons: Shemaiʹah the firstborn, Jehozʹabad the second, Joʹah the third, Saʹcar the fourth, Nethanʹel the fifth,"
+
+- triggers: ["!1chronicles26:5 ","!1chron26:5 ","!1ch26:5 "]
+  replace: "Amʹmiel the sixth, Isʹsachar the seventh, and Peulʹlethai the eighth; for God had blessed him."
+
+- triggers: ["!1chronicles26:6 ","!1chron26:6 ","!1ch26:6 "]
+  replace: "And to his son Shemaiʹah, there were sons born who were rulers of their paternal house, for they were mighty, capable men."
+
+- triggers: ["!1chronicles26:7 ","!1chron26:7 ","!1ch26:7 "]
+  replace: "The sons of Shemaiʹah: Othʹni, Rephʹael, Oʹbed, and Elzaʹbad; and his brothers Eliʹhu and Semachiʹah were also capable men."
+
+- triggers: ["!1chronicles26:8 ","!1chron26:8 ","!1ch26:8 "]
+  replace: "All of these were of the sons of Oʹbed-eʹdom; they and their sons and their brothers were capable men and qualified for the service, 62 belonging to Oʹbed-eʹdom."
+
+- triggers: ["!1chronicles26:9 ","!1chron26:9 ","!1ch26:9 "]
+  replace: "And Meshelemiʹah had sons and brothers, 18 capable men."
+
+- triggers: ["!1chronicles26:10 ","!1chron26:10 ","!1ch26:10 "]
+  replace: "And Hoʹsah of the sons of Merarʹi had sons. Shimʹri was the head, for although he was not the firstborn, his father appointed him as head,"
+
+- triggers: ["!1chronicles26:11 ","!1chron26:11 ","!1ch26:11 "]
+  replace: "Hilkiʹah the second, Tebaliʹah the third, Zechariʹah the fourth. All the sons and brothers of Hoʹsah were 13."
+
+- triggers: ["!1chronicles26:12 ","!1chron26:12 ","!1ch26:12 "]
+  replace: "Of these divisions of the gatekeepers, the headmen had duties just as their brothers did, to minister at the house of Jehovah."
+
+- triggers: ["!1chronicles26:13 ","!1chron26:13 ","!1ch26:13 "]
+  replace: "So they cast lots, the small and the great alike by their paternal houses, for the different gates."
+
+- triggers: ["!1chronicles26:14 ","!1chron26:14 ","!1ch26:14 "]
+  replace: "Then the lot to the east fell to Shelemiʹah. For Zechariʹah his son, a discreet adviser, they cast the lots, and his lot came out to the north."
+
+- triggers: ["!1chronicles26:15 ","!1chron26:15 ","!1ch26:15 "]
+  replace: "Oʹbed-eʹdom had his to the south, and his sons were assigned the storehouses."
+
+- triggers: ["!1chronicles26:16 ","!1chron26:16 ","!1ch26:16 "]
+  replace: "Shupʹpim and Hoʹsah had theirs to the west, near the Shalʹlecheth Gate by the highway that goes up, guard group corresponding to guard group;"
+
+- triggers: ["!1chronicles26:17 ","!1chron26:17 ","!1ch26:17 "]
+  replace: "there were six Levites to the east; to the north, four each day and to the south, four each day; and for the storehouses, two by two;"
+
+- triggers: ["!1chronicles26:18 ","!1chron26:18 ","!1ch26:18 "]
+  replace: "for the portico to the west, there were four at the highway and two at the portico."
+
+- triggers: ["!1chronicles26:19 ","!1chron26:19 ","!1ch26:19 "]
+  replace: "These were the divisions of the gatekeepers from the sons of the Korʹahites and of the Merarʹites."
+
+- triggers: ["!1chronicles26:20 ","!1chron26:20 ","!1ch26:20 "]
+  replace: "As regards the Levites, Ahiʹjah was in charge of the treasuries of the house of the true God and the treasuries of the things made holy."
+
+- triggers: ["!1chronicles26:21 ","!1chron26:21 ","!1ch26:21 "]
+  replace: "The sons of Laʹdan: the sons of the Gerʹshonite belonging to Laʹdan, the heads of the paternal houses belonging to Laʹdan the Gerʹshonite, Jehiʹeli"
+
+- triggers: ["!1chronicles26:22 ","!1chron26:22 ","!1ch26:22 "]
+  replace: "and the sons of Jehiʹeli, Zeʹtham and his brother Joel. They were in charge of the treasuries of the house of Jehovah."
+
+- triggers: ["!1chronicles26:23 ","!1chron26:23 ","!1ch26:23 "]
+  replace: "From the Amʹramites, the Izʹharites, the Hebʹronites, and the Uzziʹelites,"
+
+- triggers: ["!1chronicles26:24 ","!1chron26:24 ","!1ch26:24 "]
+  replace: "Shebʹuel son of Gerʹshom son of Moses was a leader in charge of the storehouses."
+
+- triggers: ["!1chronicles26:25 ","!1chron26:25 ","!1ch26:25 "]
+  replace: "As regards his brothers, of Elieʹzer, there was Rehabiʹah his son, Jeshaʹiah his son, Joʹram his son, Zichʹri his son, and Sheloʹmoth his son."
+
+- triggers: ["!1chronicles26:26 ","!1chron26:26 ","!1ch26:26 "]
+  replace: "This Sheloʹmoth and his brothers were in charge of all the treasuries of the things made holy, which King David, the heads of the paternal houses, the chiefs of the thousands and of the hundreds, and the chiefs of the army had made holy."
+
+- triggers: ["!1chronicles26:27 ","!1chron26:27 ","!1ch26:27 "]
+  replace: "From the wars and from the spoil, they had made things holy to maintain the house of Jehovah;"
+
+- triggers: ["!1chronicles26:28 ","!1chron26:28 ","!1ch26:28 "]
+  replace: "also, all that Samuel the seer, Saul the son of Kish, Abʹner the son of Ner, and Joʹab the son of Zeruʹiah had made holy. Whatever anyone made holy was put in the care of Sheloʹmith and his brothers."
+
+- triggers: ["!1chronicles26:29 ","!1chron26:29 ","!1ch26:29 "]
+  replace: "Of the Izʹharites, Chenaniʹah and his sons were assigned outside administrative duties as officers and as judges over Israel."
+
+- triggers: ["!1chronicles26:30 ","!1chron26:30 ","!1ch26:30 "]
+  replace: "Of the Hebʹronites, Hashabiʹah and his brothers, 1,700 capable men, were over the administration of Israel in the region west of the Jordan for all the work of Jehovah and for the king’s service."
+
+- triggers: ["!1chronicles26:31 ","!1chron26:31 ","!1ch26:31 "]
+  replace: "Of the Hebʹronites, Jeriʹjah was the head of the Hebʹronites by line of descent of their paternal house. In the 40th year of David’s kingship, they were sought out, and mighty, capable men were found among them in Jaʹzer in Gilʹead."
+
+- triggers: ["!1chronicles26:32 ","!1chron26:32 ","!1ch26:32 "]
+  replace: "And his brothers numbered 2,700 capable men, heads of the paternal houses. So King David assigned them over the Reuʹbenites, the Gadʹites, and the half tribe of the Manasʹsites, for every matter of the true God and matter of the king."
+
+- triggers: ["!1chronicles27:1 ","!1chron27:1 ","!1ch27:1 "]
+  replace: "This is the number of Israelites, the heads of the paternal houses, the chiefs of the thousands and of the hundreds, and their officers who ministered to the king in every matter of the divisions that would come in and go out month by month during all the months of the year; there were 24,000 in each division."
+
+- triggers: ["!1chronicles27:2 ","!1chron27:2 ","!1ch27:2 "]
+  replace: "Over the first division of the first month was Jashoʹbeam the son of Zabʹdiel, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:3 ","!1chron27:3 ","!1ch27:3 "]
+  replace: "Of the sons of Peʹrez, he was the head of all the chiefs of the groups assigned to serve during the first month."
+
+- triggers: ["!1chronicles27:4 ","!1chron27:4 ","!1ch27:4 "]
+  replace: "Over the division of the second month was Doʹdai the Ahoʹhite with his division, and Mikʹloth was the leader, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:5 ","!1chron27:5 ","!1ch27:5 "]
+  replace: "The chief of the third group assigned to serve during the third month was Benaiʹah the son of Jehoiʹada the chief priest, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:6 ","!1chron27:6 ","!1ch27:6 "]
+  replace: "This Benaiʹah was a mighty warrior of the thirty and in charge of the thirty, and over his division was his son Ammizʹabad."
+
+- triggers: ["!1chronicles27:7 ","!1chron27:7 ","!1ch27:7 "]
+  replace: "The fourth for the fourth month was Asʹahel, Joʹab’s brother, and his son Zebadiʹah after him, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:8 ","!1chron27:8 ","!1ch27:8 "]
+  replace: "The fifth chief for the fifth month was Shamʹhuth the Izʹrahite, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:9 ","!1chron27:9 ","!1ch27:9 "]
+  replace: "The sixth for the sixth month was Iʹra the son of Ikʹkesh the Tekoʹite, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:10 ","!1chron27:10 ","!1ch27:10 "]
+  replace: "The seventh for the seventh month was Heʹlez the Pelʹonite of the Eʹphraimites, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:11 ","!1chron27:11 ","!1ch27:11 "]
+  replace: "The eighth for the eighth month was Sibʹbecai the Huʹshathite of the Zeʹrahites, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:12 ","!1chron27:12 ","!1ch27:12 "]
+  replace: "The ninth for the ninth month was Abi-eʹzer the Anʹathothite of the Benʹjaminites, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:13 ","!1chron27:13 ","!1ch27:13 "]
+  replace: "The tenth for the tenth month was Maʹharai the Netophʹathite of the Zeʹrahites, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:14 ","!1chron27:14 ","!1ch27:14 "]
+  replace: "The 11th for the 11th month was Benaiʹah the Pirʹathonite of the sons of Eʹphraim, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:15 ","!1chron27:15 ","!1ch27:15 "]
+  replace: "The 12th for the 12th month was Helʹdai the Netophʹathite, of Othʹniel, and 24,000 were in his division."
+
+- triggers: ["!1chronicles27:16 ","!1chron27:16 ","!1ch27:16 "]
+  replace: "These were the leaders of the tribes of Israel: Of the Reuʹbenites, Elieʹzer the son of Zichʹri was leader; of the Simʹeonites, Shephatiʹah the son of Maʹacah;"
+
+- triggers: ["!1chronicles27:17 ","!1chron27:17 ","!1ch27:17 "]
+  replace: "of Leʹvi, Hashabiʹah the son of Kemuʹel; of Aaron, Zaʹdok;"
+
+- triggers: ["!1chronicles27:18 ","!1chron27:18 ","!1ch27:18 "]
+  replace: "of Judah, Eliʹhu, one of David’s brothers; of Isʹsachar, Omʹri the son of Miʹchael;"
+
+- triggers: ["!1chronicles27:19 ","!1chron27:19 ","!1ch27:19 "]
+  replace: "of Zebʹulun, Ishmaʹiah the son of Obadiʹah; of Naphʹtali, Jerʹimoth the son of Azʹriel;"
+
+- triggers: ["!1chronicles27:20 ","!1chron27:20 ","!1ch27:20 "]
+  replace: "of the Eʹphraimites, Hosheʹa the son of Azaziʹah; of the half tribe of Manasʹseh, Joel the son of Pedaiʹah;"
+
+- triggers: ["!1chronicles27:21 ","!1chron27:21 ","!1ch27:21 "]
+  replace: "of the half tribe of Manasʹseh in Gilʹead, Idʹdo the son of Zechariʹah; of Benjamin, Jaasiʹel the son of Abʹner;"
+
+- triggers: ["!1chronicles27:22 ","!1chron27:22 ","!1ch27:22 "]
+  replace: "of Dan, Azʹarel the son of Jeroʹham. These were the princes of the tribes of Israel."
+
+- triggers: ["!1chronicles27:23 ","!1chron27:23 ","!1ch27:23 "]
+  replace: "David did not count those 20 years of age and under, because Jehovah had promised to make Israel as many as the stars of the heavens."
+
+- triggers: ["!1chronicles27:24 ","!1chron27:24 ","!1ch27:24 "]
+  replace: "Joʹab the son of Zeruʹiah had started to take the count, but he did not finish; and God’s anger came against Israel because of this, and the number was not entered into the account of the history of the times of King David."
+
+- triggers: ["!1chronicles27:25 ","!1chron27:25 ","!1ch27:25 "]
+  replace: "Over the treasuries of the king was Azʹmaveth the son of Adʹiel. Jonʹathan the son of Uzziʹah was over the storehouses in the fields, in the cities, in the villages, and in the towers."
+
+- triggers: ["!1chronicles27:26 ","!1chron27:26 ","!1ch27:26 "]
+  replace: "Over the field workers who cultivated the soil was Ezʹri the son of Cheʹlub."
+
+- triggers: ["!1chronicles27:27 ","!1chron27:27 ","!1ch27:27 "]
+  replace: "Shimʹei the Raʹmathite was over the vineyards; over the produce of the vineyards for the wine supplies was Zabʹdi the Shiphʹmite."
+
+- triggers: ["!1chronicles27:28 ","!1chron27:28 ","!1ch27:28 "]
+  replace: "Over the olive groves and the sycamore trees in the Shepheʹlah was Baʹal-haʹnan the Gedeʹrite; over the oil supplies was Joʹash."
+
+- triggers: ["!1chronicles27:29 ","!1chron27:29 ","!1ch27:29 "]
+  replace: "Over the herds that grazed in Sharʹon was Shitʹrai the Sharʹonite, and Shaʹphat the son of Adʹlai was over the herds in the valley plains."
+
+- triggers: ["!1chronicles27:30 ","!1chron27:30 ","!1ch27:30 "]
+  replace: "Over the camels was Oʹbil the Ishʹmaelite; over the donkeys was Jehdeʹiah the Meronʹothite."
+
+- triggers: ["!1chronicles27:31 ","!1chron27:31 ","!1ch27:31 "]
+  replace: "Over the flocks was Jaʹziz the Hagʹrite. All of these were the chiefs of King David’s property."
+
+- triggers: ["!1chronicles27:32 ","!1chron27:32 ","!1ch27:32 "]
+  replace: "Jonʹathan, David’s nephew, was an adviser, a man of understanding and a secretary, and Jehiʹel the son of Hachʹmoni looked after the king’s sons."
+
+- triggers: ["!1chronicles27:33 ","!1chron27:33 ","!1ch27:33 "]
+  replace: "Ahithʹophel was an adviser to the king, and Huʹshai the Arʹchite was the king’s friend."
+
+- triggers: ["!1chronicles27:34 ","!1chron27:34 ","!1ch27:34 "]
+  replace: "After Ahithʹophel there were Jehoiʹada the son of Benaiʹah and Abiʹathar; and Joʹab was chief of the king’s army."
+
+- triggers: ["!1chronicles28:1 ","!1chron28:1 ","!1ch28:1 "]
+  replace: "David then congregated all the princes of Israel to Jerusalem: the princes of the tribes, the chiefs of the divisions ministering to the king, the chiefs of thousands and the chiefs of hundreds, the chiefs of all the property and livestock of the king and of his sons, together with the court officials and every mighty and capable man."
+
+- triggers: ["!1chronicles28:2 ","!1chron28:2 ","!1ch28:2 "]
+  replace: "Then King David rose to his feet and said: “Hear me, my brothers and my people. It was my heart’s desire to build a house as the resting-place for the ark of the covenant of Jehovah and as the footstool of our God, and I made preparations to build."
+
+- triggers: ["!1chronicles28:3 ","!1chron28:3 ","!1ch28:3 "]
+  replace: "But the true God told me, ‘You will not build a house for my name, for you are a man of wars, and you have shed blood.’"
+
+- triggers: ["!1chronicles28:4 ","!1chron28:4 ","!1ch28:4 "]
+  replace: "However, Jehovah the God of Israel chose me out of all the house of my father to become king over Israel forever, for he chose Judah as leader and of the house of Judah, my father’s house, and of my father’s sons, I was the one whom he approved, to make me king over all Israel."
+
+- triggers: ["!1chronicles28:5 ","!1chron28:5 ","!1ch28:5 "]
+  replace: "And of all my sons—for Jehovah has given me many sons—he chose my son Solʹomon to sit on the throne of the kingship of Jehovah over Israel."
+
+- triggers: ["!1chronicles28:6 ","!1chron28:6 ","!1ch28:6 "]
+  replace: "“He said to me, ‘Your son Solʹomon is the one who will build my house and my courtyards, for I have chosen him as my son and I will become his father."
+
+- triggers: ["!1chronicles28:7 ","!1chron28:7 ","!1ch28:7 "]
+  replace: "I will firmly establish his kingship forever if he resolutely observes my commandments and my judicial decisions, as he is now doing.’"
+
+- triggers: ["!1chronicles28:8 ","!1chron28:8 ","!1ch28:8 "]
+  replace: "So I say before the eyes of all Israel, Jehovah’s congregation, and in the ears of our God: Carefully observe and search for all the commandments of Jehovah your God, so that you may possess the good land and pass it on as a permanent inheritance to your sons after you."
+
+- triggers: ["!1chronicles28:9 ","!1chron28:9 ","!1ch28:9 "]
+  replace: "“And you, Solʹomon my son, know the God of your father and serve him with a complete heart and with a delightful soul, for Jehovah searches through all hearts, and he discerns every inclination of the thoughts. If you search for him, he will let himself be found by you, but if you leave him, he will reject you forever."
+
+- triggers: ["!1chronicles28:10 ","!1chron28:10 ","!1ch28:10 "]
+  replace: "See, now, for Jehovah has chosen you to build a house as a sanctuary. Be courageous and go to work.”"
+
+- triggers: ["!1chronicles28:11 ","!1chron28:11 ","!1ch28:11 "]
+  replace: "David then gave to his son Solʹomon the architectural plan of the porch and of its houses, its storerooms, its roof chambers, its inner rooms, and the house of the propitiatory cover."
+
+- triggers: ["!1chronicles28:12 ","!1chron28:12 ","!1ch28:12 "]
+  replace: "He gave him the architectural plan of everything that had been conveyed to him through inspiration for the courtyards of Jehovah’s house, for all the dining rooms around it, for the treasuries of the house of the true God, and for the treasuries of the things made holy;"
+
+- triggers: ["!1chronicles28:13 ","!1chron28:13 ","!1ch28:13 "]
+  replace: "also for the divisions of the priests and of the Levites, for all the duties of the service of Jehovah’s house, and for all the utensils of the service of Jehovah’s house;"
+
+- triggers: ["!1chronicles28:14 ","!1chron28:14 ","!1ch28:14 "]
+  replace: "also for the weight of the gold, the gold for all the utensils for the different services, the weight of all the utensils of silver, and for all the utensils for the different services;"
+
+- triggers: ["!1chronicles28:15 ","!1chron28:15 ","!1ch28:15 "]
+  replace: "also the weight for the gold lampstands and their gold lamps, the weight of the different lampstands and their lamps, and the weight of the silver lampstands, for each lampstand and its lamps according to its use;"
+
+- triggers: ["!1chronicles28:16 ","!1chron28:16 ","!1ch28:16 "]
+  replace: "also the weight of the gold for the tables of the layer bread, for each table, as well as the silver for the tables of silver,"
+
+- triggers: ["!1chronicles28:17 ","!1chron28:17 ","!1ch28:17 "]
+  replace: "for the forks, the bowls, the pitchers of pure gold, and the weight of the small gold bowls, for each small bowl, and the weight of the small silver bowls, for each small bowl."
+
+- triggers: ["!1chronicles28:18 ","!1chron28:18 ","!1ch28:18 "]
+  replace: "He also gave the weight for the refined gold for the incense altar and for the representation of the chariot, namely, the cherubs of gold that spread their wings out and overshadow the ark of the covenant of Jehovah."
+
+- triggers: ["!1chronicles28:19 ","!1chron28:19 ","!1ch28:19 "]
+  replace: "David said: “The hand of Jehovah was upon me, and he gave me insight to put all the details of the architectural plan in writing.”"
+
+- triggers: ["!1chronicles28:20 ","!1chron28:20 ","!1ch28:20 "]
+  replace: "Then David said to his son Solʹomon: “Be courageous and strong and go to work. Do not be afraid or be terrified, for Jehovah God, my God, is with you. He will not desert you or abandon you, but he will be with you until all the work for the service of Jehovah’s house is finished."
+
+- triggers: ["!1chronicles28:21 ","!1chron28:21 ","!1ch28:21 "]
+  replace: "And here are the divisions of the priests and of the Levites for all the service of the house of the true God. You have willing, skilled workers to perform every kind of service, as well as the princes and all the people who will carry out all your instructions.”"
+
+- triggers: ["!1chronicles29:1 ","!1chron29:1 ","!1ch29:1 "]
+  replace: "King David now said to all the congregation: “My son Solʹomon, the one whom God has chosen, is young and inexperienced, and the work is great, for it is not a temple for man but for Jehovah God."
+
+- triggers: ["!1chronicles29:2 ","!1chron29:2 ","!1ch29:2 "]
+  replace: "And I have spared no effort to prepare for the house of my God, providing the gold for the goldwork, the silver for the silverwork, the copper for the copperwork, the iron for the ironwork, the timbers for the timberwork, onyx stones, and stones to be set with mortar, mosaic pebbles, every kind of precious stone, and alabaster stones in great quantity."
+
+- triggers: ["!1chronicles29:3 ","!1chron29:3 ","!1ch29:3 "]
+  replace: "Moreover, because of my delight in the house of my God, there is also my private treasure of gold and silver that I am giving to the house of my God, in addition to all that I have prepared for the holy house,"
+
+- triggers: ["!1chronicles29:4 ","!1chron29:4 ","!1ch29:4 "]
+  replace: "including 3,000 talents of gold from Oʹphir and 7,000 talents of refined silver, for coating the walls of the houses,"
+
+- triggers: ["!1chronicles29:5 ","!1chron29:5 ","!1ch29:5 "]
+  replace: "the gold for the goldwork and the silver for the silverwork, and for all the work to be done by the craftsmen. Now who volunteers to come forward today with a gift in hand for Jehovah?”"
+
+- triggers: ["!1chronicles29:6 ","!1chron29:6 ","!1ch29:6 "]
+  replace: "So the princes of the paternal houses, the princes of the tribes of Israel, the chiefs of thousands and of hundreds, and the chiefs of the business of the king came forward voluntarily."
+
+- triggers: ["!1chronicles29:7 ","!1chron29:7 ","!1ch29:7 "]
+  replace: "And they gave to the service of the house of the true God: 5,000 talents of gold, 10,000 darics, 10,000 talents of silver, 18,000 talents of copper, and 100,000 talents of iron."
+
+- triggers: ["!1chronicles29:8 ","!1chron29:8 ","!1ch29:8 "]
+  replace: "Whoever had precious stones gave them to the treasury of the house of Jehovah, under the care of Jehiʹel the Gerʹshonite."
+
+- triggers: ["!1chronicles29:9 ","!1chron29:9 ","!1ch29:9 "]
+  replace: "The people rejoiced over making these voluntary offerings, for they made the voluntary offerings to Jehovah with a complete heart, and David the king also rejoiced greatly."
+
+- triggers: ["!1chronicles29:10 ","!1chron29:10 ","!1ch29:10 "]
+  replace: "Then David praised Jehovah before the eyes of all the congregation. David said: “May you be praised, O Jehovah the God of Israel our father, throughout all eternity."
+
+- triggers: ["!1chronicles29:11 ","!1chron29:11 ","!1ch29:11 "]
+  replace: "Yours, O Jehovah, are the greatness and the mightiness and the beauty and the splendor and the majesty, for everything in the heavens and on the earth is yours. Yours is the kingdom, O Jehovah. You are the One exalting yourself as head over all."
+
+- triggers: ["!1chronicles29:12 ","!1chron29:12 ","!1ch29:12 "]
+  replace: "The riches and the glory are from you, and you rule over everything, and in your hand there are power and mightiness, and your hand is able to make great and to give strength to all."
+
+- triggers: ["!1chronicles29:13 ","!1chron29:13 ","!1ch29:13 "]
+  replace: "And now, O our God, we thank you and praise your beautiful name."
+
+- triggers: ["!1chronicles29:14 ","!1chron29:14 ","!1ch29:14 "]
+  replace: "“And yet, who am I and who are my people that we should be in a position to make voluntary offerings like this? For everything is from you, and we have given to you what comes from your own hand."
+
+- triggers: ["!1chronicles29:15 ","!1chron29:15 ","!1ch29:15 "]
+  replace: "For we are foreign residents in your presence and settlers, just like all our forefathers. For our days on the earth are like a shadow—without hope."
+
+- triggers: ["!1chronicles29:16 ","!1chron29:16 ","!1ch29:16 "]
+  replace: "O Jehovah our God, all this wealth that we have prepared to build for you a house for your holy name is from your own hand, and it all belongs to you."
+
+- triggers: ["!1chronicles29:17 ","!1chron29:17 ","!1ch29:17 "]
+  replace: "I well know, O my God, that you examine the heart and that you take pleasure in integrity. In the uprightness of my heart, I have voluntarily offered all these things, and I am overjoyed to see your people who are present here make voluntary offerings to you."
+
+- triggers: ["!1chronicles29:18 ","!1chron29:18 ","!1ch29:18 "]
+  replace: "O Jehovah, the God of Abraham, Isaac, and Israel, our forefathers, keep these inclinations and thoughts in the hearts of your people forever, and direct their hearts to you."
+
+- triggers: ["!1chronicles29:19 ","!1chron29:19 ","!1ch29:19 "]
+  replace: "And give a complete heart to my son Solʹomon, so that he may observe your commandments, your reminders, and your regulations and do all these things and build the temple for which I have made preparation.”"
+
+- triggers: ["!1chronicles29:20 ","!1chron29:20 ","!1ch29:20 "]
+  replace: "David then said to all the congregation: “Now praise Jehovah your God.” And all the congregation praised Jehovah the God of their forefathers and bowed low and prostrated themselves to Jehovah and to the king."
+
+- triggers: ["!1chronicles29:21 ","!1chron29:21 ","!1ch29:21 "]
+  replace: "And they continued to offer sacrifices to Jehovah and to offer up burnt offerings to Jehovah on the following day, 1,000 young bulls, 1,000 rams, 1,000 male lambs, and their drink offerings; they offered sacrifices in great number for all Israel."
+
+- triggers: ["!1chronicles29:22 ","!1chron29:22 ","!1ch29:22 "]
+  replace: "They continued eating and drinking before Jehovah on that day with great rejoicing, and for a second time they made Solʹomon the son of David king and anointed him before Jehovah as leader, and also Zaʹdok as priest."
+
+- triggers: ["!1chronicles29:23 ","!1chron29:23 ","!1ch29:23 "]
+  replace: "And Solʹomon sat on Jehovah’s throne as king in place of David his father, and he was successful, and all the Israelites were obedient to him."
+
+- triggers: ["!1chronicles29:24 ","!1chron29:24 ","!1ch29:24 "]
+  replace: "All the princes, the mighty warriors, and also all the sons of King David submitted themselves to Solʹomon the king."
+
+- triggers: ["!1chronicles29:25 ","!1chron29:25 ","!1ch29:25 "]
+  replace: "And Jehovah made Solʹomon exceedingly great before the eyes of all Israel and bestowed on him royal majesty such as no king over Israel ever had before."
+
+- triggers: ["!1chronicles29:26 ","!1chron29:26 ","!1ch29:26 "]
+  replace: "Thus David the son of Jesʹse reigned over all Israel,"
+
+- triggers: ["!1chronicles29:27 ","!1chron29:27 ","!1ch29:27 "]
+  replace: "and the length of his reign over Israel was 40 years. In Hebʹron he reigned for 7 years, and in Jerusalem he reigned for 33 years."
+
+- triggers: ["!1chronicles29:28 ","!1chron29:28 ","!1ch29:28 "]
+  replace: "And he died at a good old age, satisfied with long life, wealth, and glory; and his son Solʹomon became king in his place."
+
+- triggers: ["!1chronicles29:29 ","!1chron29:29 ","!1ch29:29 "]
+  replace: "As for the history of King David, from beginning to end, it is written among the words of Samuel the seer, Nathan the prophet, and Gad the visionary,"
+
+- triggers: ["!1chronicles29:30 ","!1chron29:30 ","!1ch29:30 "]
+  replace: "together with all his kingship, his mightiness, and the events of the times involving him and Israel and all the surrounding kingdoms."
+

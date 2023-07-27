@@ -1,0 +1,841 @@
+matches:
+- triggers: ["!ezra1:1 ","!ezr1:1 "]
+  replace: "In the first year of King Cyrus of Persia, in order that Jehovah’s word spoken by Jeremiah would be fulfilled, Jehovah stirred the spirit of King Cyrus of Persia to make a proclamation throughout his kingdom, which he also put in writing, saying:"
+
+- triggers: ["!ezra1:2 ","!ezr1:2 "]
+  replace: "“This is what King Cyrus of Persia says, ‘Jehovah the God of the heavens has given me all the kingdoms of the earth, and he has commissioned me to build him a house in Jerusalem, which is in Judah."
+
+- triggers: ["!ezra1:3 ","!ezr1:3 "]
+  replace: "Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and rebuild the house of Jehovah the God of Israel—he is the true God—whose house was in Jerusalem."
+
+- triggers: ["!ezra1:4 ","!ezr1:4 "]
+  replace: "Anyone who is residing as a foreigner, wherever he may be, let him be helped by his neighbors by their giving him silver and gold, goods and livestock, along with the voluntary offering for the house of the true God, which was in Jerusalem.’”"
+
+- triggers: ["!ezra1:5 ","!ezr1:5 "]
+  replace: "Then the heads of the paternal houses of Judah and of Benjamin and the priests and the Levites—everyone whose spirit the true God had stirred—prepared to go up and rebuild the house of Jehovah, which was in Jerusalem."
+
+- triggers: ["!ezra1:6 ","!ezr1:6 "]
+  replace: "All those around them supported them by giving them utensils of silver and of gold, goods, livestock, and valuable things, besides all the voluntary offerings."
+
+- triggers: ["!ezra1:7 ","!ezr1:7 "]
+  replace: "King Cyrus also brought out the utensils of the house of Jehovah that Nebuchadnezʹzar had taken from Jerusalem and had put in the house of his god."
+
+- triggers: ["!ezra1:8 ","!ezr1:8 "]
+  replace: "King Cyrus of Persia brought them out under the supervision of Mithʹredath the treasurer, who made an inventory of them for Sheshbazʹzar the chieftain of Judah."
+
+- triggers: ["!ezra1:9 ","!ezr1:9 "]
+  replace: "Now this was the inventory: 30 basket-shaped vessels of gold, 1,000 basket-shaped vessels of silver, 29 replacement vessels,"
+
+- triggers: ["!ezra1:10 ","!ezr1:10 "]
+  replace: "30 small gold bowls, 410 small silver bowls, 1,000 other utensils."
+
+- triggers: ["!ezra1:11 ","!ezr1:11 "]
+  replace: "All the utensils of gold and of silver were 5,400. Sheshbazʹzar brought all of these up when the exiles were brought out of Babylon to Jerusalem."
+
+- triggers: ["!ezra2:1 ","!ezr2:1 "]
+  replace: "And these were the people of the province who came up from the captives of the exile, those whom King Nebuchadnezʹzar of Babylon had exiled to Babylon and who later returned to Jerusalem and Judah, each to his own city,"
+
+- triggers: ["!ezra2:2 ","!ezr2:2 "]
+  replace: "those who came with Zerubʹbabel, Jeshʹua, Nehemiʹah, Seraiʹah, Reelaiʹah, Morʹdecai, Bilʹshan, Misʹpar, Bigʹvai, Reʹhum, and Baʹanah. The number of the Israelite men included:"
+
+- triggers: ["!ezra2:3 ","!ezr2:3 "]
+  replace: "the sons of Paʹrosh, 2,172;"
+
+- triggers: ["!ezra2:4 ","!ezr2:4 "]
+  replace: "the sons of Shephatiʹah, 372;"
+
+- triggers: ["!ezra2:5 ","!ezr2:5 "]
+  replace: "the sons of Aʹrah, 775;"
+
+- triggers: ["!ezra2:6 ","!ezr2:6 "]
+  replace: "the sons of Paʹhath-moʹab, of the sons of Jeshʹua and Joʹab, 2,812;"
+
+- triggers: ["!ezra2:7 ","!ezr2:7 "]
+  replace: "the sons of Eʹlam, 1,254;"
+
+- triggers: ["!ezra2:8 ","!ezr2:8 "]
+  replace: "the sons of Zatʹtu, 945;"
+
+- triggers: ["!ezra2:9 ","!ezr2:9 "]
+  replace: "the sons of Zacʹcai, 760;"
+
+- triggers: ["!ezra2:10 ","!ezr2:10 "]
+  replace: "the sons of Baʹni, 642;"
+
+- triggers: ["!ezra2:11 ","!ezr2:11 "]
+  replace: "the sons of Beʹbai, 623;"
+
+- triggers: ["!ezra2:12 ","!ezr2:12 "]
+  replace: "the sons of Azʹgad, 1,222;"
+
+- triggers: ["!ezra2:13 ","!ezr2:13 "]
+  replace: "the sons of Adoniʹkam, 666;"
+
+- triggers: ["!ezra2:14 ","!ezr2:14 "]
+  replace: "the sons of Bigʹvai, 2,056;"
+
+- triggers: ["!ezra2:15 ","!ezr2:15 "]
+  replace: "the sons of Aʹdin, 454;"
+
+- triggers: ["!ezra2:16 ","!ezr2:16 "]
+  replace: "the sons of Aʹter, of Hezekiʹah, 98;"
+
+- triggers: ["!ezra2:17 ","!ezr2:17 "]
+  replace: "the sons of Beʹzai, 323;"
+
+- triggers: ["!ezra2:18 ","!ezr2:18 "]
+  replace: "the sons of Joʹrah, 112;"
+
+- triggers: ["!ezra2:19 ","!ezr2:19 "]
+  replace: "the sons of Haʹshum, 223;"
+
+- triggers: ["!ezra2:20 ","!ezr2:20 "]
+  replace: "the sons of Gibʹbar, 95;"
+
+- triggers: ["!ezra2:21 ","!ezr2:21 "]
+  replace: "the sons of Bethʹlehem, 123;"
+
+- triggers: ["!ezra2:22 ","!ezr2:22 "]
+  replace: "the men of Netoʹphah, 56;"
+
+- triggers: ["!ezra2:23 ","!ezr2:23 "]
+  replace: "the men of Anʹathoth, 128;"
+
+- triggers: ["!ezra2:24 ","!ezr2:24 "]
+  replace: "the sons of Azʹmaveth, 42;"
+
+- triggers: ["!ezra2:25 ","!ezr2:25 "]
+  replace: "the sons of Kirʹiath-jeʹarim, Chephiʹrah, and Beerʹoth, 743;"
+
+- triggers: ["!ezra2:26 ","!ezr2:26 "]
+  replace: "the sons of Raʹmah and Geʹba, 621;"
+
+- triggers: ["!ezra2:27 ","!ezr2:27 "]
+  replace: "the men of Michʹmas, 122;"
+
+- triggers: ["!ezra2:28 ","!ezr2:28 "]
+  replace: "the men of Bethʹel and Aʹi, 223;"
+
+- triggers: ["!ezra2:29 ","!ezr2:29 "]
+  replace: "the sons of Neʹbo, 52;"
+
+- triggers: ["!ezra2:30 ","!ezr2:30 "]
+  replace: "the sons of Magʹbish, 156;"
+
+- triggers: ["!ezra2:31 ","!ezr2:31 "]
+  replace: "the sons of the other Eʹlam, 1,254;"
+
+- triggers: ["!ezra2:32 ","!ezr2:32 "]
+  replace: "the sons of Haʹrim, 320;"
+
+- triggers: ["!ezra2:33 ","!ezr2:33 "]
+  replace: "the sons of Lod, Haʹdid, and Oʹno, 725;"
+
+- triggers: ["!ezra2:34 ","!ezr2:34 "]
+  replace: "the sons of Jerʹicho, 345;"
+
+- triggers: ["!ezra2:35 ","!ezr2:35 "]
+  replace: "the sons of Senaʹah, 3,630."
+
+- triggers: ["!ezra2:36 ","!ezr2:36 "]
+  replace: "The priests: the sons of Jedaʹiah of the house of Jeshʹua, 973;"
+
+- triggers: ["!ezra2:37 ","!ezr2:37 "]
+  replace: "the sons of Imʹmer, 1,052;"
+
+- triggers: ["!ezra2:38 ","!ezr2:38 "]
+  replace: "the sons of Pashʹhur, 1,247;"
+
+- triggers: ["!ezra2:39 ","!ezr2:39 "]
+  replace: "the sons of Haʹrim, 1,017."
+
+- triggers: ["!ezra2:40 ","!ezr2:40 "]
+  replace: "The Levites: the sons of Jeshʹua and Kadʹmiel, of the sons of Hodaviʹah, 74."
+
+- triggers: ["!ezra2:41 ","!ezr2:41 "]
+  replace: "The singers: the sons of Aʹsaph, 128."
+
+- triggers: ["!ezra2:42 ","!ezr2:42 "]
+  replace: "The sons of the gatekeepers: the sons of Shalʹlum, the sons of Aʹter, the sons of Talʹmon, the sons of Akʹkub, the sons of Hatiʹta, the sons of Shoʹbai, altogether 139."
+
+- triggers: ["!ezra2:43 ","!ezr2:43 "]
+  replace: "The temple servants: the sons of Ziʹha, the sons of Hasuʹpha, the sons of Tabbaʹoth,"
+
+- triggers: ["!ezra2:44 ","!ezr2:44 "]
+  replace: "the sons of Keʹros, the sons of Siʹaha, the sons of Paʹdon,"
+
+- triggers: ["!ezra2:45 ","!ezr2:45 "]
+  replace: "the sons of Lebaʹnah, the sons of Hagʹabah, the sons of Akʹkub,"
+
+- triggers: ["!ezra2:46 ","!ezr2:46 "]
+  replace: "the sons of Haʹgab, the sons of Salʹmai, the sons of Haʹnan,"
+
+- triggers: ["!ezra2:47 ","!ezr2:47 "]
+  replace: "the sons of Gidʹdel, the sons of Gaʹhar, the sons of Reaʹiah,"
+
+- triggers: ["!ezra2:48 ","!ezr2:48 "]
+  replace: "the sons of Reʹzin, the sons of Nekoʹda, the sons of Gazʹzam,"
+
+- triggers: ["!ezra2:49 ","!ezr2:49 "]
+  replace: "the sons of Uzʹza, the sons of Paseʹah, the sons of Beʹsai,"
+
+- triggers: ["!ezra2:50 ","!ezr2:50 "]
+  replace: "the sons of Asʹnah, the sons of Meuʹnim, the sons of Nephuʹsim,"
+
+- triggers: ["!ezra2:51 ","!ezr2:51 "]
+  replace: "the sons of Bakʹbuk, the sons of Hakuʹpha, the sons of Harʹhur,"
+
+- triggers: ["!ezra2:52 ","!ezr2:52 "]
+  replace: "the sons of Bazʹluth, the sons of Mehiʹda, the sons of Harʹsha,"
+
+- triggers: ["!ezra2:53 ","!ezr2:53 "]
+  replace: "the sons of Barʹkos, the sons of Sisʹera, the sons of Teʹmah,"
+
+- triggers: ["!ezra2:54 ","!ezr2:54 "]
+  replace: "the sons of Neziʹah, the sons of Hatiʹpha."
+
+- triggers: ["!ezra2:55 ","!ezr2:55 "]
+  replace: "The sons of the servants of Solʹomon: the sons of Soʹtai, the sons of Sopheʹreth, the sons of Peruʹda,"
+
+- triggers: ["!ezra2:56 ","!ezr2:56 "]
+  replace: "the sons of Jaʹalah, the sons of Darʹkon, the sons of Gidʹdel,"
+
+- triggers: ["!ezra2:57 ","!ezr2:57 "]
+  replace: "the sons of Shephatiʹah, the sons of Hatʹtil, the sons of Poʹchereth-hazzebaʹim, the sons of Aʹmi."
+
+- triggers: ["!ezra2:58 ","!ezr2:58 "]
+  replace: "All the temple servants and the sons of the servants of Solʹomon were 392."
+
+- triggers: ["!ezra2:59 ","!ezr2:59 "]
+  replace: "And these went up from Tel-meʹlah, Tel-harʹsha, Cheʹrub, Adʹdon, and Imʹmer, but they were unable to verify their paternal house and their origin, as to whether they were Israelites:"
+
+- triggers: ["!ezra2:60 ","!ezr2:60 "]
+  replace: "the sons of Delaʹiah, the sons of Tobiʹah, the sons of Nekoʹda, 652."
+
+- triggers: ["!ezra2:61 ","!ezr2:61 "]
+  replace: "And of the sons of the priests: the sons of Habaiʹah, the sons of Hakʹkoz, the sons of Barzilʹlai, who took a wife from the daughters of Barzilʹlai the Gilʹeadite and was called by their name."
+
+- triggers: ["!ezra2:62 ","!ezr2:62 "]
+  replace: "These looked for their records to establish their genealogy, but they did not find them, so they were disqualified from the priesthood."
+
+- triggers: ["!ezra2:63 ","!ezr2:63 "]
+  replace: "The governor told them that they could not eat from the most holy things until there was a priest who could consult the Uʹrim and Thumʹmim."
+
+- triggers: ["!ezra2:64 ","!ezr2:64 "]
+  replace: "The total number of the entire congregation was 42,360,"
+
+- triggers: ["!ezra2:65 ","!ezr2:65 "]
+  replace: "apart from their male and female slaves, who were 7,337; they also had 200 male and female singers."
+
+- triggers: ["!ezra2:66 ","!ezr2:66 "]
+  replace: "Their horses were 736, their mules 245,"
+
+- triggers: ["!ezra2:67 ","!ezr2:67 "]
+  replace: "their camels 435, their donkeys 6,720."
+
+- triggers: ["!ezra2:68 ","!ezr2:68 "]
+  replace: "When they arrived at the house of Jehovah in Jerusalem, some of the heads of the paternal houses made voluntary offerings for the house of the true God, to rebuild it on its own site."
+
+- triggers: ["!ezra2:69 ","!ezr2:69 "]
+  replace: "According to their means, they gave to the project treasury 61,000 gold drachmas, 5,000 silver miʹnas, and 100 robes for the priests."
+
+- triggers: ["!ezra2:70 ","!ezr2:70 "]
+  replace: "And the priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants settled in their cities, and all the rest of Israel settled in their cities."
+
+- triggers: ["!ezra3:1 ","!ezr3:1 "]
+  replace: "When the seventh month arrived and the Israelites were in their cities, they gathered together with one accord in Jerusalem."
+
+- triggers: ["!ezra3:2 ","!ezr3:2 "]
+  replace: "Jeshʹua the son of Jehozʹadak and his fellow priests and Zerubʹbabel the son of Shealʹtiel and his brothers rose up and built the altar of the God of Israel, so that they could offer up burnt sacrifices on it, as it is written in the Law of Moses the man of the true God."
+
+- triggers: ["!ezra3:3 ","!ezr3:3 "]
+  replace: "So they set the altar up on its former site, despite their fear of the peoples of the surrounding lands, and they began offering up burnt sacrifices to Jehovah on it, the morning and the evening burnt sacrifices."
+
+- triggers: ["!ezra3:4 ","!ezr3:4 "]
+  replace: "Then they held the Festival of Booths according to what is written, and day by day they offered up the specified number of burnt sacrifices that were required each day."
+
+- triggers: ["!ezra3:5 ","!ezr3:5 "]
+  replace: "Afterward they offered up the regular burnt offering and the offerings for the new moons and those for all the sanctified festival seasons of Jehovah, as well as those from everyone who willingly offered a voluntary offering to Jehovah."
+
+- triggers: ["!ezra3:6 ","!ezr3:6 "]
+  replace: "From the first day of the seventh month they started to offer up burnt sacrifices to Jehovah, though the foundation of Jehovah’s temple had not yet been laid."
+
+- triggers: ["!ezra3:7 ","!ezr3:7 "]
+  replace: "They gave money to the stonecutters and the craftsmen, and food and drink and oil to the Sidoʹnians and the Tyrʹians for bringing cedar timbers by sea from Lebʹanon to Jopʹpa, according to the authorization granted them by King Cyrus of Persia."
+
+- triggers: ["!ezra3:8 ","!ezr3:8 "]
+  replace: "In the second year after they came to the house of the true God at Jerusalem, in the second month, Zerubʹbabel the son of Shealʹtiel, Jeshʹua the son of Jehozʹadak and the rest of their brothers, the priests and the Levites, and all those who had come to Jerusalem out of the captivity started the work; they appointed the Levites from 20 years old and up to serve as supervisors over the work of the house of Jehovah."
+
+- triggers: ["!ezra3:9 ","!ezr3:9 "]
+  replace: "So Jeshʹua, his sons and his brothers, and Kadʹmiel and his sons, the sons of Judah, joined together to supervise those doing the work in the house of the true God, along with the sons of Henʹadad, their sons and their brothers, the Levites."
+
+- triggers: ["!ezra3:10 ","!ezr3:10 "]
+  replace: "When the builders laid the foundation of the temple of Jehovah, then the priests in official clothing, with the trumpets, and the Levites, the sons of Aʹsaph, with the cymbals, stood up to praise Jehovah according to the direction of King David of Israel."
+
+- triggers: ["!ezra3:11 ","!ezr3:11 "]
+  replace: "And they began to sing in response by praising and giving thanks to Jehovah, “for he is good; his loyal love toward Israel endures forever.” Then all the people shouted with a loud shout of praise to Jehovah because the foundation of the house of Jehovah had been laid."
+
+- triggers: ["!ezra3:12 ","!ezr3:12 "]
+  replace: "Many of the priests, the Levites, and the heads of the paternal houses—the old men who had seen the former house—wept with a loud voice when they saw the foundation of this house being laid, while many others shouted joyfully at the top of their voice."
+
+- triggers: ["!ezra3:13 ","!ezr3:13 "]
+  replace: "So the people could not distinguish the sound of the joyful shouts from the sound of the weeping, for the people were shouting so loudly that the sound was heard from a great distance."
+
+- triggers: ["!ezra4:1 ","!ezr4:1 "]
+  replace: "When the enemies of Judah and Benjamin heard that the returned exiles were building a temple to Jehovah the God of Israel,"
+
+- triggers: ["!ezra4:2 ","!ezr4:2 "]
+  replace: "they immediately approached Zerubʹbabel and the heads of the paternal houses and said to them: “Let us build along with you; for like you, we worship your God and we have been sacrificing to him since the days of King Eʹsar-hadʹdon of Assyrʹia, who brought us here.”"
+
+- triggers: ["!ezra4:3 ","!ezr4:3 "]
+  replace: "However, Zerubʹbabel and Jeshʹua and the rest of the heads of the paternal houses of Israel said to them: “You have no share with us in building a house to our God, for we alone will build it to Jehovah the God of Israel, just as King Cyrus the king of Persia has commanded us.”"
+
+- triggers: ["!ezra4:4 ","!ezr4:4 "]
+  replace: "Then the people of the land were continually discouraging the people of Judah and disheartening them from building."
+
+- triggers: ["!ezra4:5 ","!ezr4:5 "]
+  replace: "They hired advisers against them to frustrate their plans all the days of King Cyrus of Persia until the reign of King Dariʹus of Persia."
+
+- triggers: ["!ezra4:6 ","!ezr4:6 "]
+  replace: "At the beginning of the reign of Ahasueʹrus, they wrote an accusation against the inhabitants of Judah and Jerusalem."
+
+- triggers: ["!ezra4:7 ","!ezr4:7 "]
+  replace: "And in the days of King Artaxerxʹes of Persia, Bishʹlam, Mithʹredath, Tabʹeel, and the rest of his colleagues wrote to Artaxerxʹes the king; they translated the letter into Aramaʹic, writing it with Aramaʹic characters."
+
+- triggers: ["!ezra4:8 ","!ezr4:8 "]
+  replace: "Reʹhum the chief government official and Shimʹshai the scribe wrote a letter against Jerusalem to King Artaxerxʹes, as follows:"
+
+- triggers: ["!ezra4:9 ","!ezr4:9 "]
+  replace: "(It was from Reʹhum the chief government official and Shimʹshai the scribe and the rest of their colleagues, the judges and the lesser governors, the secretaries, the people of Eʹrech, the Babylonians, the inhabitants of Suʹsa, that is, the Eʹlamites,"
+
+- triggers: ["!ezra4:10 ","!ezr4:10 "]
+  replace: "and the rest of the nations that the great and honorable Asʹenappar took into exile and settled in the cities of Samarʹia, and the rest in the region Beyond the River, and now"
+
+- triggers: ["!ezra4:11 ","!ezr4:11 "]
+  replace: "this is a copy of the letter that they sent him.) “To King Artaxerxʹes from your servants, the men of the region Beyond the River: And now"
+
+- triggers: ["!ezra4:12 ","!ezr4:12 "]
+  replace: "let it be known to the king that the Jews who came up here from you to us have arrived at Jerusalem. They are rebuilding the rebellious and wicked city, and they are finishing the walls and repairing the foundations."
+
+- triggers: ["!ezra4:13 ","!ezr4:13 "]
+  replace: "Now let it be known to the king that if this city should be rebuilt and its walls finished, they will not give tax, tribute, or toll, and it will result in a loss to the treasuries of the kings."
+
+- triggers: ["!ezra4:14 ","!ezr4:14 "]
+  replace: "Since we eat the salt of the palace and it is not proper for us to see the king’s interests harmed, we have therefore sent to make this known to the king,"
+
+- triggers: ["!ezra4:15 ","!ezr4:15 "]
+  replace: "so that there may be an investigation of the book of records of your ancestors. You will find in the book of records and learn that this city is a rebellious city, injurious to kings and provinces, and within it have been those stirring up sedition from ancient times. That is why this city was destroyed."
+
+- triggers: ["!ezra4:16 ","!ezr4:16 "]
+  replace: "We are making known to the king that if this city is rebuilt and its walls are finished, you will have no control of the region Beyond the River.”"
+
+- triggers: ["!ezra4:17 ","!ezr4:17 "]
+  replace: "The king sent word to Reʹhum the chief government official and Shimʹshai the scribe and the rest of their colleagues who were dwelling in Samarʹia and the rest of the region Beyond the River: “Greetings! And now"
+
+- triggers: ["!ezra4:18 ","!ezr4:18 "]
+  replace: "the official document that you sent us has been clearly read before me."
+
+- triggers: ["!ezra4:19 ","!ezr4:19 "]
+  replace: "By my order an investigation was made, and it was found that from long ago the city has had uprisings against kings, and rebellions and revolts have taken place there."
+
+- triggers: ["!ezra4:20 ","!ezr4:20 "]
+  replace: "There were powerful kings over Jerusalem who ruled the whole region Beyond the River, and tax, tribute, and toll were paid to them."
+
+- triggers: ["!ezra4:21 ","!ezr4:21 "]
+  replace: "Now issue an order for these men to stop work, so that the city may not be rebuilt until I issue an order."
+
+- triggers: ["!ezra4:22 ","!ezr4:22 "]
+  replace: "Be careful not to neglect acting in this regard, so that the king’s interests are not harmed any further.”"
+
+- triggers: ["!ezra4:23 ","!ezr4:23 "]
+  replace: "Now after the copy of the official document of King Artaxerxʹes had been read before Reʹhum and Shimʹshai the scribe and their colleagues, they quickly went to Jerusalem to the Jews and used force to stop them."
+
+- triggers: ["!ezra4:24 ","!ezr4:24 "]
+  replace: "It was then that the work on the house of God, which was in Jerusalem, came to a halt; and it remained at a standstill until the second year of the reign of King Dariʹus of Persia."
+
+- triggers: ["!ezra5:1 ","!ezr5:1 "]
+  replace: "Then the prophets Hagʹgai and Zechariʹah the grandson of Idʹdo prophesied to the Jews who were in Judah and in Jerusalem, in the name of the God of Israel who was over them."
+
+- triggers: ["!ezra5:2 ","!ezr5:2 "]
+  replace: "It was then that Zerubʹbabel the son of Shealʹtiel and Jeshʹua the son of Jehozʹadak started to rebuild the house of God, which was in Jerusalem; and the prophets of God were with them and supported them."
+
+- triggers: ["!ezra5:3 ","!ezr5:3 "]
+  replace: "At that time Tatʹtenai the governor of the region Beyond the River and Sheʹthar-bozʹenai and their colleagues came to them and asked them: “Who issued an order to you to build this house and to finish this structure?”"
+
+- triggers: ["!ezra5:4 ","!ezr5:4 "]
+  replace: "Then they asked them: “What are the names of the men who are working on this building?”"
+
+- triggers: ["!ezra5:5 ","!ezr5:5 "]
+  replace: "But God was watching over the elders of the Jews, and they did not stop them until the report could be sent to Dariʹus and an official document could be sent back concerning this."
+
+- triggers: ["!ezra5:6 ","!ezr5:6 "]
+  replace: "Here is a copy of the letter that Tatʹtenai the governor of the region Beyond the River and Sheʹthar-bozʹenai and his colleagues, the lesser governors of the region Beyond the River, sent to King Dariʹus;"
+
+- triggers: ["!ezra5:7 ","!ezr5:7 "]
+  replace: "they sent the report to him, and this is what they wrote: “To King Dariʹus: “All peace!"
+
+- triggers: ["!ezra5:8 ","!ezr5:8 "]
+  replace: "Let it be known to the king that we went to the province of Judah to the house of the great God, and it is being built with large stones rolled into place, and timbers are being laid in the walls. The work is being eagerly done by the people and is making progress through their efforts."
+
+- triggers: ["!ezra5:9 ","!ezr5:9 "]
+  replace: "Then we questioned their elders, asking them: ‘Who issued an order to you to build this house and to finish this structure?’"
+
+- triggers: ["!ezra5:10 ","!ezr5:10 "]
+  replace: "We also asked them their names to inform you, so that we could write the names of the men who are taking the lead."
+
+- triggers: ["!ezra5:11 ","!ezr5:11 "]
+  replace: "“This is the response they gave us: ‘We are the servants of the God of the heavens and the earth, and we are rebuilding the house that was built many years ago, which a great king of Israel built and finished."
+
+- triggers: ["!ezra5:12 ","!ezr5:12 "]
+  replace: "However, because our fathers angered the God of the heavens, he gave them into the hand of King Nebuchadnezʹzar of Babylon, the Chaldeʹan, who demolished this house and took the people into exile to Babylon."
+
+- triggers: ["!ezra5:13 ","!ezr5:13 "]
+  replace: "Nevertheless, in the first year of King Cyrus of Babylon, King Cyrus issued an order to rebuild this house of God."
+
+- triggers: ["!ezra5:14 ","!ezr5:14 "]
+  replace: "Moreover, King Cyrus took out of the temple of Babylon the gold and silver vessels of the house of God that Nebuchadnezʹzar had taken from the temple in Jerusalem and had brought to the temple of Babylon. They were given to a man named Sheshbazʹzar, whom Cyrus made governor."
+
+- triggers: ["!ezra5:15 ","!ezr5:15 "]
+  replace: "Cyrus said to him: “Take these vessels. Go, deposit them in the temple that is in Jerusalem, and let the house of God be rebuilt in its former place.”"
+
+- triggers: ["!ezra5:16 ","!ezr5:16 "]
+  replace: "Then this Sheshbazʹzar came, and he laid the foundations of the house of God, which is in Jerusalem; and it has been under construction from then until now, but it has not been completed.’"
+
+- triggers: ["!ezra5:17 ","!ezr5:17 "]
+  replace: "“Now if it seems good to the king, let an investigation be made in the royal treasury there in Babylon, to determine whether King Cyrus issued an order to rebuild that house of God in Jerusalem; and let the decision of the king concerning this be sent to us.”"
+
+- triggers: ["!ezra6:1 ","!ezr6:1 "]
+  replace: "It was then that King Dariʹus issued an order, and they made an investigation in the archives where the treasures were deposited in Babylon."
+
+- triggers: ["!ezra6:2 ","!ezr6:2 "]
+  replace: "And a scroll was found in the citadel at Ecbatʹana, in the province of Meʹdia, and the following memorandum was written on it:"
+
+- triggers: ["!ezra6:3 ","!ezr6:3 "]
+  replace: "“In the first year of King Cyrus, King Cyrus issued an order concerning the house of God in Jerusalem: ‘Let the house be rebuilt as the place where they are to offer sacrifices, and its foundations are to be set in place; its height is to be 60 cubits, its width 60 cubits,"
+
+- triggers: ["!ezra6:4 ","!ezr6:4 "]
+  replace: "with three layers of large stones rolled into place and one layer of timbers; and let the expense be paid from the king’s house."
+
+- triggers: ["!ezra6:5 ","!ezr6:5 "]
+  replace: "Also, let the gold and silver vessels of the house of God that Nebuchadnezʹzar took out of the temple that was in Jerusalem and brought to Babylon be returned, so that they may be put in their place in the temple in Jerusalem and be deposited in the house of God.’"
+
+- triggers: ["!ezra6:6 ","!ezr6:6 "]
+  replace: "“So now Tatʹtenai the governor of the region Beyond the River, Sheʹthar-bozʹenai, and your colleagues, the lesser governors of the region Beyond the River—stay away from there."
+
+- triggers: ["!ezra6:7 ","!ezr6:7 "]
+  replace: "Do not interfere with the work on that house of God. The governor of the Jews and the elders of the Jews will rebuild that house of God in its former place."
+
+- triggers: ["!ezra6:8 ","!ezr6:8 "]
+  replace: "Furthermore, I am issuing an order as to what you are to do for these elders of the Jews for rebuilding that house of God: From the royal treasury, from the tax collected in the region Beyond the River, the expenses are to be promptly given to these men to continue without interruption."
+
+- triggers: ["!ezra6:9 ","!ezr6:9 "]
+  replace: "And whatever is needed—young bulls as well as rams and lambs for the burnt offerings to the God of heaven, wheat, salt, wine, and oil, just as the priests who are in Jerusalem say—is to be given them continually day by day without fail,"
+
+- triggers: ["!ezra6:10 ","!ezr6:10 "]
+  replace: "so that they may continually present offerings that please the God of the heavens and pray for the life of the king and his sons."
+
+- triggers: ["!ezra6:11 ","!ezr6:11 "]
+  replace: "I have also issued an order that if anyone violates this decree, a timber will be pulled out of his house and he will be lifted up and fastened to it, and his house will be turned into a public latrine for this offense."
+
+- triggers: ["!ezra6:12 ","!ezr6:12 "]
+  replace: "And may the God who has caused his name to reside there overthrow any king and people who lift a hand to violate this order and destroy that house of God, which is in Jerusalem. I, Dariʹus, issue this order. Let it be done promptly.”"
+
+- triggers: ["!ezra6:13 ","!ezr6:13 "]
+  replace: "Then Tatʹtenai the governor of the region Beyond the River, Sheʹthar-bozʹenai, and their colleagues promptly carried out everything that King Dariʹus had ordered."
+
+- triggers: ["!ezra6:14 ","!ezr6:14 "]
+  replace: "And the elders of the Jews continued building and making progress, urged on by the prophesying of Hagʹgai the prophet and Zechariʹah the grandson of Idʹdo; they finished building it by the order of the God of Israel and by the order of Cyrus and Dariʹus and King Artaxerxʹes of Persia."
+
+- triggers: ["!ezra6:15 ","!ezr6:15 "]
+  replace: "They completed the house by the third day of the month of Aʹdar, in the sixth year of the reign of King Dariʹus."
+
+- triggers: ["!ezra6:16 ","!ezr6:16 "]
+  replace: "Then the Israelites, the priests, the Levites, and the rest of the former exiles held the inauguration of this house of God with joy."
+
+- triggers: ["!ezra6:17 ","!ezr6:17 "]
+  replace: "And they presented for the inauguration of this house of God 100 bulls, 200 rams, 400 lambs, and as a sin offering for all Israel 12 male goats, corresponding to the number of the tribes of Israel."
+
+- triggers: ["!ezra6:18 ","!ezr6:18 "]
+  replace: "And they appointed the priests in their groups and the Levites in their divisions for the service of God in Jerusalem, according to what is written in the book of Moses."
+
+- triggers: ["!ezra6:19 ","!ezr6:19 "]
+  replace: "And the former exiles held the Passover on the 14th day of the first month."
+
+- triggers: ["!ezra6:20 ","!ezr6:20 "]
+  replace: "The priests and the Levites, without exception, had cleansed themselves, so they were all clean; they slaughtered the Passover sacrifice for all the former exiles, for their fellow priests, and for themselves."
+
+- triggers: ["!ezra6:21 ","!ezr6:21 "]
+  replace: "Then the Israelites who had returned from the exile ate of it, along with everyone who had joined them and had separated himself from the uncleanness of the nations of the land to worship Jehovah the God of Israel."
+
+- triggers: ["!ezra6:22 ","!ezr6:22 "]
+  replace: "They also joyfully held the Festival of Unleavened Bread for seven days, for Jehovah caused them to rejoice and he had made the heart of the king of Assyrʹia favorable toward them, so that he supported them in the work of the house of the true God, the God of Israel."
+
+- triggers: ["!ezra7:1 ","!ezr7:1 "]
+  replace: "After these things, during the reign of King Artaxerxʹes of Persia, Ezʹra returned. He was the son of Seraiʹah, son of Azariʹah, son of Hilkiʹah,"
+
+- triggers: ["!ezra7:2 ","!ezr7:2 "]
+  replace: "son of Shalʹlum, son of Zaʹdok, son of Ahiʹtub,"
+
+- triggers: ["!ezra7:3 ","!ezr7:3 "]
+  replace: "son of Amariʹah, son of Azariʹah, son of Meraʹioth,"
+
+- triggers: ["!ezra7:4 ","!ezr7:4 "]
+  replace: "son of Zerahiʹah, son of Uzʹzi, son of Bukʹki,"
+
+- triggers: ["!ezra7:5 ","!ezr7:5 "]
+  replace: "son of Abishuʹa, son of Phinʹehas, son of Eleaʹzar, son of Aaron the chief priest."
+
+- triggers: ["!ezra7:6 ","!ezr7:6 "]
+  replace: "This Ezʹra came up from Babylon. He was a copyist who was well-versed in the Law of Moses, which Jehovah the God of Israel had given. The king granted everything he requested, for the hand of Jehovah his God was upon him."
+
+- triggers: ["!ezra7:7 ","!ezr7:7 "]
+  replace: "Some of the Israelites, the priests, the Levites, the singers, the gatekeepers, and the temple servants, went up to Jerusalem in the seventh year of King Artaxerxʹes."
+
+- triggers: ["!ezra7:8 ","!ezr7:8 "]
+  replace: "And Ezʹra came to Jerusalem in the fifth month, in the seventh year of the king."
+
+- triggers: ["!ezra7:9 ","!ezr7:9 "]
+  replace: "On the first day of the first month, he began the journey from Babylon, and he arrived in Jerusalem on the first day of the fifth month, for the good hand of his God was upon him."
+
+- triggers: ["!ezra7:10 ","!ezr7:10 "]
+  replace: "Ezʹra had prepared his heart to consult the Law of Jehovah and to practice it, and to teach its regulations and judgments in Israel."
+
+- triggers: ["!ezra7:11 ","!ezr7:11 "]
+  replace: "This is a copy of the letter that King Artaxerxʹes gave to Ezʹra the priest and copyist, an expert in the study of the commandments of Jehovah and of his regulations to Israel:"
+
+- triggers: ["!ezra7:12 ","!ezr7:12 "]
+  replace: "“Artaxerxʹes, the king of kings, to Ezʹra the priest, the copyist of the Law of the God of the heavens: May you have perfect peace. And now"
+
+- triggers: ["!ezra7:13 ","!ezr7:13 "]
+  replace: "I have issued an order that everyone in my realm of the people of Israel and their priests and Levites who is willing to go with you to Jerusalem should go."
+
+- triggers: ["!ezra7:14 ","!ezr7:14 "]
+  replace: "For you are sent by the king and his seven advisers to investigate whether the Law of your God, which is with you, is being applied in Judah and Jerusalem,"
+
+- triggers: ["!ezra7:15 ","!ezr7:15 "]
+  replace: "and to take the silver and the gold that the king and his advisers have voluntarily given to the God of Israel, whose residence is in Jerusalem,"
+
+- triggers: ["!ezra7:16 ","!ezr7:16 "]
+  replace: "with all the silver and the gold that you receive in all the province of Babylon, along with the gift that the people and the priests voluntarily give to the house of their God, which is in Jerusalem."
+
+- triggers: ["!ezra7:17 ","!ezr7:17 "]
+  replace: "And you are to buy promptly with this money bulls, rams, lambs, along with their grain offerings and their drink offerings, and you are to present them on the altar of the house of your God in Jerusalem."
+
+- triggers: ["!ezra7:18 ","!ezr7:18 "]
+  replace: "“And whatever seems good to you and to your brothers to do, you may do with the rest of the silver and the gold, according to the will of your God."
+
+- triggers: ["!ezra7:19 ","!ezr7:19 "]
+  replace: "And all the vessels that are given to you for the service of the house of your God, you are to deliver before God at Jerusalem."
+
+- triggers: ["!ezra7:20 ","!ezr7:20 "]
+  replace: "And the rest of the necessities of the house of your God that you are required to give, you will give out of the royal treasury."
+
+- triggers: ["!ezra7:21 ","!ezr7:21 "]
+  replace: "“I, King Artaxerxʹes, have issued an order to all the treasurers in the region Beyond the River, that everything that Ezʹra the priest, the copyist of the Law of the God of the heavens, requests of you is to be done promptly,"
+
+- triggers: ["!ezra7:22 ","!ezr7:22 "]
+  replace: "up to 100 talents of silver, 100 cor measures of wheat, 100 bath measures of wine, 100 bath measures of oil, and salt without limit."
+
+- triggers: ["!ezra7:23 ","!ezr7:23 "]
+  replace: "Let everything that is ordered by the God of the heavens be done with zeal for the house of the God of the heavens, so that there may be no wrath against the king’s realm and his sons."
+
+- triggers: ["!ezra7:24 ","!ezr7:24 "]
+  replace: "And you are further advised that it is not permitted to impose any tax, tribute, or toll on any of the priests and Levites, musicians, doorkeepers, temple servants, and workers of this house of God."
+
+- triggers: ["!ezra7:25 ","!ezr7:25 "]
+  replace: "“And you, Ezʹra, according to the wisdom that you possess from your God, appoint magistrates and judges to judge all the people in the region Beyond the River, all those who know the laws of your God; and you should instruct anyone who does not know them."
+
+- triggers: ["!ezra7:26 ","!ezr7:26 "]
+  replace: "And everyone who does not observe the Law of your God and the law of the king should have judgment executed on him promptly, whether it is death, banishment, a fine, or imprisonment.”"
+
+- triggers: ["!ezra7:27 ","!ezr7:27 "]
+  replace: "May Jehovah the God of our forefathers be praised, who put it into the heart of the king to beautify the house of Jehovah in Jerusalem!"
+
+- triggers: ["!ezra7:28 ","!ezr7:28 "]
+  replace: "And he has shown me loyal love before the king and his advisers and all the mighty princes of the king. So I took courage because the hand of Jehovah my God was upon me, and I gathered out of Israel leading men to go up with me."
+
+- triggers: ["!ezra8:1 ","!ezr8:1 "]
+  replace: "Now these were the heads of their paternal houses and the genealogical enrollment of those who went up with me out of Babylon during the reign of King Artaxerxʹes:"
+
+- triggers: ["!ezra8:2 ","!ezr8:2 "]
+  replace: "of the sons of Phinʹehas, Gerʹshom; of the sons of Ithʹamar, Daniel; of the sons of David, Hatʹtush;"
+
+- triggers: ["!ezra8:3 ","!ezr8:3 "]
+  replace: "of the sons of Shecaniʹah, of the sons of Paʹrosh, Zechariʹah, and with him there was an enrollment of 150 males;"
+
+- triggers: ["!ezra8:4 ","!ezr8:4 "]
+  replace: "of the sons of Paʹhath-moʹab, Elʹieho-eʹnai the son of Zerahiʹah, and with him 200 males;"
+
+- triggers: ["!ezra8:5 ","!ezr8:5 "]
+  replace: "of the sons of Zatʹtu, Shecaniʹah the son of Jahaziʹel, and with him 300 males;"
+
+- triggers: ["!ezra8:6 ","!ezr8:6 "]
+  replace: "of the sons of Aʹdin, Eʹbed the son of Jonʹathan, and with him 50 males;"
+
+- triggers: ["!ezra8:7 ","!ezr8:7 "]
+  replace: "of the sons of Eʹlam, Jeshaʹiah the son of Athaliʹah, and with him 70 males;"
+
+- triggers: ["!ezra8:8 ","!ezr8:8 "]
+  replace: "of the sons of Shephatiʹah, Zebadiʹah the son of Miʹchael, and with him 80 males;"
+
+- triggers: ["!ezra8:9 ","!ezr8:9 "]
+  replace: "of the sons of Joʹab, Obadiʹah the son of Jehiʹel, and with him 218 males;"
+
+- triggers: ["!ezra8:10 ","!ezr8:10 "]
+  replace: "of the sons of Baʹni, Sheloʹmith the son of Josiphiʹah, and with him 160 males;"
+
+- triggers: ["!ezra8:11 ","!ezr8:11 "]
+  replace: "of the sons of Beʹbai, Zechariʹah the son of Beʹbai, and with him 28 males;"
+
+- triggers: ["!ezra8:12 ","!ezr8:12 "]
+  replace: "of the sons of Azʹgad, Johaʹnan the son of Hakʹkatan, and with him 110 males;"
+
+- triggers: ["!ezra8:13 ","!ezr8:13 "]
+  replace: "of the sons of Adoniʹkam, those who were the last, and these were their names: Eliphʹelet, Jeiʹel, and Shemaiʹah, and with them 60 males;"
+
+- triggers: ["!ezra8:14 ","!ezr8:14 "]
+  replace: "and of the sons of Bigʹvai, Uʹthai and Zabʹbud, and with them 70 males."
+
+- triggers: ["!ezra8:15 ","!ezr8:15 "]
+  replace: "I assembled them at the river that comes to Ahaʹva, and we camped there for three days. But when I examined the people and the priests, I did not find any of the Levites there."
+
+- triggers: ["!ezra8:16 ","!ezr8:16 "]
+  replace: "So I sent for Elieʹzer, Arʹiel, Shemaiʹah, Elnaʹthan, Jaʹrib, Elnaʹthan, Nathan, Zechariʹah, and Meshulʹlam, who were leading men, and for Joiʹarib and Elnaʹthan, who were instructors."
+
+- triggers: ["!ezra8:17 ","!ezr8:17 "]
+  replace: "Then I gave them a command concerning Idʹdo the leader in the place called Casiphiʹa. I told them to tell Idʹdo and his brothers, the temple servants who were in Casiphiʹa, to bring to us ministers for the house of our God."
+
+- triggers: ["!ezra8:18 ","!ezr8:18 "]
+  replace: "Since the good hand of our God was upon us, they brought a discreet man from the sons of Mahʹli the grandson of Leʹvi the son of Israel, namely, Sherebiʹah, and his sons and his brothers, 18 men;"
+
+- triggers: ["!ezra8:19 ","!ezr8:19 "]
+  replace: "and Hashabiʹah, and with him Jeshaʹiah from the Merarʹites, his brothers and their sons,"
+
+- triggers: ["!ezra8:20 ","!ezr8:20 "]
+  replace: "men. 20 And there were 220 of the temple servants, whom David and the princes gave to the service of the Levites, all of whom had been designated by name."
+
+- triggers: ["!ezra8:21 ","!ezr8:21 "]
+  replace: "Then I proclaimed a fast there at the river Ahaʹva, to humble ourselves before our God, to seek guidance from him for our journey, for us and for our children and for all our goods."
+
+- triggers: ["!ezra8:22 ","!ezr8:22 "]
+  replace: "I was ashamed to ask the king for soldiers and horsemen to protect us against the enemies along the way, because we had said to the king: “The good hand of our God is over all those seeking him, but his strength and his anger are against all those abandoning him.”"
+
+- triggers: ["!ezra8:23 ","!ezr8:23 "]
+  replace: "So we fasted and made request of our God concerning this, and he listened to our entreaty."
+
+- triggers: ["!ezra8:24 ","!ezr8:24 "]
+  replace: "I now set apart 12 of the chiefs of the priests, namely, Sherebiʹah and Hashabiʹah, along with ten of their brothers."
+
+- triggers: ["!ezra8:25 ","!ezr8:25 "]
+  replace: "Then I weighed out to them the silver and the gold and the utensils, the contribution that the king and his advisers and his princes and all the Israelites who were present there had made to the house of our God."
+
+- triggers: ["!ezra8:26 ","!ezr8:26 "]
+  replace: "Thus I weighed out into their hand 650 talents of silver, 100 silver utensils worth 2 talents, 100 talents of gold,"
+
+- triggers: ["!ezra8:27 ","!ezr8:27 "]
+  replace: "20 small gold bowls worth 1,000 darics, and 2 utensils of fine copper, gleaming red, as desirable as gold."
+
+- triggers: ["!ezra8:28 ","!ezr8:28 "]
+  replace: "Then I said to them: “You are holy to Jehovah, and the utensils are holy, and the silver and the gold are a voluntary offering to Jehovah the God of your forefathers."
+
+- triggers: ["!ezra8:29 ","!ezr8:29 "]
+  replace: "Guard them carefully until you weigh them out before the chiefs of the priests and the Levites and the princes of the paternal houses of Israel in Jerusalem, in the chambers of the house of Jehovah.”"
+
+- triggers: ["!ezra8:30 ","!ezr8:30 "]
+  replace: "And the priests and the Levites took the silver and the gold and the utensils that had been weighed out to them, in order to bring them to Jerusalem to the house of our God."
+
+- triggers: ["!ezra8:31 ","!ezr8:31 "]
+  replace: "Finally we pulled away from the river Ahaʹva on the 12th day of the first month to go to Jerusalem, and the hand of our God was over us, and he rescued us from the hand of the enemy and from ambush along the way."
+
+- triggers: ["!ezra8:32 ","!ezr8:32 "]
+  replace: "So we came to Jerusalem and stayed there for three days."
+
+- triggers: ["!ezra8:33 ","!ezr8:33 "]
+  replace: "And on the fourth day, we weighed out the silver and the gold and the utensils in the house of our God and handed them over to Merʹemoth son of Uriʹjah the priest, and with him was Eleaʹzar son of Phinʹehas, and with them were the Levites Joʹzabad son of Jeshʹua and Noadiʹah son of Binʹnui."
+
+- triggers: ["!ezra8:34 ","!ezr8:34 "]
+  replace: "Everything was numbered and weighed, and all the weight was recorded."
+
+- triggers: ["!ezra8:35 ","!ezr8:35 "]
+  replace: "Those coming out of the captivity, the former exiles, presented burnt sacrifices to the God of Israel, 12 bulls for all Israel, 96 rams, 77 male lambs, and 12 male goats as a sin offering; all of this was a burnt offering to Jehovah."
+
+- triggers: ["!ezra8:36 ","!ezr8:36 "]
+  replace: "Then we gave the decrees of the king to the satraps of the king and the governors of the region Beyond the River, and they supported the people and the house of the true God."
+
+- triggers: ["!ezra9:1 ","!ezr9:1 "]
+  replace: "And as soon as these things had been done, the princes approached me and said: “The people of Israel and the priests and the Levites have not separated themselves from the peoples of the lands and their detestable practices, those of the Caʹnaanites, the Hitʹtites, the Perʹizzites, the Jebʹusites, the Amʹmonites, the Moʹabites, the Egyptians, and the Amʹorites."
+
+- triggers: ["!ezra9:2 ","!ezr9:2 "]
+  replace: "They have taken some of their daughters as wives for themselves and for their sons. Now they, the holy offspring, have become mingled with the peoples of the lands. The princes and the deputy rulers have been the foremost offenders in this unfaithfulness.”"
+
+- triggers: ["!ezra9:3 ","!ezr9:3 "]
+  replace: "Now as soon as I heard of this, I ripped apart my garment and my sleeveless coat and pulled out some of the hair of my head and my beard, and I sat down in shock."
+
+- triggers: ["!ezra9:4 ","!ezr9:4 "]
+  replace: "Then everyone who had reverence for the words of the God of Israel gathered around me because of the unfaithfulness of the exiled people, while I was sitting in shock until the evening grain offering."
+
+- triggers: ["!ezra9:5 ","!ezr9:5 "]
+  replace: "And at the time of the evening grain offering, I stood up from my humiliation, with my garment and my sleeveless coat torn apart, and I got down on my knees and spread out my hands to Jehovah my God."
+
+- triggers: ["!ezra9:6 ","!ezr9:6 "]
+  replace: "And I said: “O my God, I feel ashamed and embarrassed to raise my face to you, O my God, for our errors have multiplied over our heads and our guilt has mounted up to the heavens."
+
+- triggers: ["!ezra9:7 ","!ezr9:7 "]
+  replace: "From the days of our forefathers until this day our guilt has been great; and because of our errors, we, our kings, and our priests have been given into the hand of the kings of the lands, to the sword, to captivity, to plunder, and to disgrace, as is the case today."
+
+- triggers: ["!ezra9:8 ","!ezr9:8 "]
+  replace: "But now for a brief moment, favor has come from Jehovah our God by letting a remnant escape and by giving us a secure position in his holy place, to make our eyes shine, O our God, and to revive us a little in our slavery."
+
+- triggers: ["!ezra9:9 ","!ezr9:9 "]
+  replace: "For although we are slaves, our God has not abandoned us in our slavery; but he has extended his loyal love toward us before the kings of Persia, to revive us so as to raise up the house of our God and to restore its ruins and to give us a stone wall in Judah and in Jerusalem."
+
+- triggers: ["!ezra9:10 ","!ezr9:10 "]
+  replace: "“But now what can we say, O our God, after this? For we have left your commandments,"
+
+- triggers: ["!ezra9:11 ","!ezr9:11 "]
+  replace: "which you gave us through your servants the prophets, saying: ‘The land that you are going in to take possession of is an impure land because of the impurity of the peoples of the lands, because of their detestable practices with which they have filled it from end to end with their uncleanness."
+
+- triggers: ["!ezra9:12 ","!ezr9:12 "]
+  replace: "Therefore, do not give your daughters to their sons, neither accept their daughters for your sons; and you must never seek their peace and their prosperity, so that you may grow strong and eat the good of the land and take possession of it for your sons forever.’"
+
+- triggers: ["!ezra9:13 ","!ezr9:13 "]
+  replace: "And after all that has come upon us for our bad deeds and our great guilt—for you, O our God, have not dealt with us according to our error, and you have allowed those of us here to escape—"
+
+- triggers: ["!ezra9:14 ","!ezr9:14 "]
+  replace: "are we to break your commandments again and form marriage alliances with the peoples who practice these detestable things? Would you not become so angry with us that you would completely destroy us, leaving no remnant or survivor?"
+
+- triggers: ["!ezra9:15 ","!ezr9:15 "]
+  replace: "O Jehovah the God of Israel, you are righteous, for we have survived as a remnant to this day. Here we are before you in our guilt, for it is impossible to stand before you because of this.”"
+
+- triggers: ["!ezra10:1 ","!ezr10:1 "]
+  replace: "While Ezʹra was praying and making confession, weeping and lying prostrate before the house of the true God, a large crowd of men, women, and children of Israel gathered around him, for the people were weeping profusely."
+
+- triggers: ["!ezra10:2 ","!ezr10:2 "]
+  replace: "Then Shecaniʹah the son of Jehiʹel of the sons of Eʹlam said to Ezʹra: “We have acted unfaithfully against our God by marrying foreign women from the peoples of the land. Despite this, there is still hope for Israel."
+
+- triggers: ["!ezra10:3 ","!ezr10:3 "]
+  replace: "Now let us make a covenant with our God to send away all the wives and those born from them, in harmony with the direction of Jehovah and of those who have reverence for the commandment of our God. Let us act according to the Law."
+
+- triggers: ["!ezra10:4 ","!ezr10:4 "]
+  replace: "Get up, for this matter is your responsibility, and we are with you. Be strong and take action.”"
+
+- triggers: ["!ezra10:5 ","!ezr10:5 "]
+  replace: "At that Ezʹra rose and had the chiefs of the priests, the Levites, and all Israel take an oath to do what had been said. So they took an oath."
+
+- triggers: ["!ezra10:6 ","!ezr10:6 "]
+  replace: "Ezʹra now got up from before the house of the true God and went to the chamber of Jehohaʹnan the son of Eliʹashib. Although he went there, he ate no food and drank no water, for he was in mourning because of the unfaithfulness of the exiled people."
+
+- triggers: ["!ezra10:7 ","!ezr10:7 "]
+  replace: "Then they made a proclamation throughout Judah and Jerusalem that all the former exiles gather together at Jerusalem;"
+
+- triggers: ["!ezra10:8 ","!ezr10:8 "]
+  replace: "and according to the decision of the princes and the elders, anyone who did not come within three days’ time would have all his goods confiscated, and he would be banished from the congregation of the exiled people."
+
+- triggers: ["!ezra10:9 ","!ezr10:9 "]
+  replace: "So all the men of Judah and Benjamin gathered together at Jerusalem within three days, that is, in the ninth month, on the 20th day of the month. All the people were sitting in a courtyard of the house of the true God, shivering because of the matter at hand and because of the heavy rain."
+
+- triggers: ["!ezra10:10 ","!ezr10:10 "]
+  replace: "Then Ezʹra the priest rose and said to them: “You have acted unfaithfully by marrying foreign women, and so you have added to the guilt of Israel."
+
+- triggers: ["!ezra10:11 ","!ezr10:11 "]
+  replace: "Now make confession to Jehovah the God of your forefathers and do his will. Separate yourselves from the peoples of the land and from these foreign wives.”"
+
+- triggers: ["!ezra10:12 ","!ezr10:12 "]
+  replace: "To this the whole congregation answered with a loud voice: “It is our duty to do exactly as you say."
+
+- triggers: ["!ezra10:13 ","!ezr10:13 "]
+  replace: "However, there are many people, and it is the rainy season. It is not possible to stand outside, and the matter will not take just one or two days, for we have rebelled extensively in this matter."
+
+- triggers: ["!ezra10:14 ","!ezr10:14 "]
+  replace: "So, please, let our princes represent the entire congregation; and let all those in our cities who have married foreign women come at an appointed time, along with the elders and judges of each city, until we turn back the burning anger of our God from us concerning this matter.”"
+
+- triggers: ["!ezra10:15 ","!ezr10:15 "]
+  replace: "However, Jonʹathan the son of Asʹahel and Jahzeiʹah the son of Tikʹvah objected to this, and the Levites Meshulʹlam and Shabʹbethai supported them."
+
+- triggers: ["!ezra10:16 ","!ezr10:16 "]
+  replace: "But the former exiles did what was agreed on; and Ezʹra the priest and the family heads of their paternal houses, all designated by name, convened separately on the first day of the tenth month to look into the matter;"
+
+- triggers: ["!ezra10:17 ","!ezr10:17 "]
+  replace: "and by the first day of the first month they finished dealing with all the men who had married foreign women."
+
+- triggers: ["!ezra10:18 ","!ezr10:18 "]
+  replace: "And it was discovered that some of the sons of the priests had married foreign women: of the sons of Jeshʹua the son of Jehozʹadak and his brothers, Maaseiʹah, Elieʹzer, Jaʹrib, and Gedaliʹah."
+
+- triggers: ["!ezra10:19 ","!ezr10:19 "]
+  replace: "But they promised to send their wives away, and since they were guilty, they would offer a ram of the flock for their guilt."
+
+- triggers: ["!ezra10:20 ","!ezr10:20 "]
+  replace: "Of the sons of Imʹmer, there were Hanaʹni and Zebadiʹah;"
+
+- triggers: ["!ezra10:21 ","!ezr10:21 "]
+  replace: "and of the sons of Haʹrim, Maaseiʹah, Eliʹjah, Shemaiʹah, Jehiʹel, and Uzziʹah;"
+
+- triggers: ["!ezra10:22 ","!ezr10:22 "]
+  replace: "and of the sons of Pashʹhur, Elioeʹnai, Maaseiʹah, Ishʹmael, Nethanʹel, Joʹzabad and Eleaʹsah."
+
+- triggers: ["!ezra10:23 ","!ezr10:23 "]
+  replace: "And of the Levites, there were Joʹzabad, Shimʹei, Kelaiʹah (that is, Keliʹta), Pethahiʹah, Judah, and Elieʹzer;"
+
+- triggers: ["!ezra10:24 ","!ezr10:24 "]
+  replace: "and of the singers, Eliʹashib; and of the gatekeepers, Shalʹlum, Teʹlem, and Uʹri."
+
+- triggers: ["!ezra10:25 ","!ezr10:25 "]
+  replace: "And of Israel, of the sons of Paʹrosh, there were Ramiʹah, Izziʹah, Malchiʹjah, Mijʹamin, Eleaʹzar, Malchiʹjah, and Benaiʹah;"
+
+- triggers: ["!ezra10:26 ","!ezr10:26 "]
+  replace: "and of the sons of Eʹlam, Mattaniʹah, Zechariʹah, Jehiʹel, Abʹdi, Jerʹemoth, and Eliʹjah;"
+
+- triggers: ["!ezra10:27 ","!ezr10:27 "]
+  replace: "and of the sons of Zatʹtu, Elioeʹnai, Eliʹashib, Mattaniʹah, Jerʹemoth, Zaʹbad, and Aziʹza;"
+
+- triggers: ["!ezra10:28 ","!ezr10:28 "]
+  replace: "and of the sons of Beʹbai, Jehohaʹnan, Hananiʹah, Zabʹbai, and Athʹlai;"
+
+- triggers: ["!ezra10:29 ","!ezr10:29 "]
+  replace: "and of the sons of Baʹni, Meshulʹlam, Malʹluch, Adaiʹah, Jaʹshub, Sheʹal, and Jerʹemoth;"
+
+- triggers: ["!ezra10:30 ","!ezr10:30 "]
+  replace: "and of the sons of Paʹhath-moʹab, Adʹna, Cheʹlal, Benaiʹah, Maaseiʹah, Mattaniʹah, Bezʹalel, Binʹnui, and Manasʹseh;"
+
+- triggers: ["!ezra10:31 ","!ezr10:31 "]
+  replace: "and of the sons of Haʹrim, Elieʹzer, Isshiʹjah, Malchiʹjah, Shemaiʹah, Shimʹeon,"
+
+- triggers: ["!ezra10:32 ","!ezr10:32 "]
+  replace: "Benjamin, Malʹluch, and Shemariʹah;"
+
+- triggers: ["!ezra10:33 ","!ezr10:33 "]
+  replace: "of the sons of Haʹshum, Matteʹnai, Matʹtattah, Zaʹbad, Eliphʹelet, Jerʹemai, Manasʹseh, and Shimʹei;"
+
+- triggers: ["!ezra10:34 ","!ezr10:34 "]
+  replace: "of the sons of Baʹni, Maadaʹi, Amʹram, Uʹel,"
+
+- triggers: ["!ezra10:35 ","!ezr10:35 "]
+  replace: "Benaiʹah, Bedeiʹah, Chelʹuhi,"
+
+- triggers: ["!ezra10:36 ","!ezr10:36 "]
+  replace: "Vaniʹah, Merʹemoth, Eliʹashib,"
+
+- triggers: ["!ezra10:37 ","!ezr10:37 "]
+  replace: "Mattaniʹah, Matteʹnai, and Jaʹasu;"
+
+- triggers: ["!ezra10:38 ","!ezr10:38 "]
+  replace: "and of the sons of Binʹnui, Shimʹei,"
+
+- triggers: ["!ezra10:39 ","!ezr10:39 "]
+  replace: "Shelemiʹah, Nathan, Adaiʹah,"
+
+- triggers: ["!ezra10:40 ","!ezr10:40 "]
+  replace: "Machnadʹebai, Shaʹshai, Shaʹrai,"
+
+- triggers: ["!ezra10:41 ","!ezr10:41 "]
+  replace: "Azʹarel, Shelemiʹah, Shemariʹah,"
+
+- triggers: ["!ezra10:42 ","!ezr10:42 "]
+  replace: "Shalʹlum, Amariʹah, and Joseph;"
+
+- triggers: ["!ezra10:43 ","!ezr10:43 "]
+  replace: "and of the sons of Neʹbo, Jeiʹel, Mattithiʹah, Zaʹbad, Zebiʹna, Jadʹdai, Joel, and Benaiʹah."
+
+- triggers: ["!ezra10:44 ","!ezr10:44 "]
+  replace: "All of these had taken foreign wives, and they sent their wives away, along with their sons."
+

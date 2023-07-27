@@ -1,0 +1,2578 @@
+matches:
+- triggers: ["!leviticus1:1 ","!lev1:1 ","!le1:1 "]
+  replace: "And Jehovah called Moses and spoke to him from the tent of meeting, saying:"
+
+- triggers: ["!leviticus1:2 ","!lev1:2 ","!le1:2 "]
+  replace: "“Speak to the Israelites and tell them, ‘If any one of you would present an offering to Jehovah from the domestic animals, you should present your offering from the herd or from the flock."
+
+- triggers: ["!leviticus1:3 ","!lev1:3 ","!le1:3 "]
+  replace: "“‘If his offering is a burnt offering from the herd, he should present a sound male animal. He should present it of his own free will before Jehovah at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus1:4 ","!lev1:4 ","!le1:4 "]
+  replace: "He is to lay his hand on the head of the burnt offering, and it will be accepted in his behalf to make atonement for him."
+
+- triggers: ["!leviticus1:5 ","!lev1:5 ","!le1:5 "]
+  replace: "“‘Then the young bull must be slaughtered before Jehovah, and the sons of Aaron, the priests, will present the blood and sprinkle the blood on all sides of the altar, which is at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus1:6 ","!lev1:6 ","!le1:6 "]
+  replace: "The burnt offering should be skinned and cut into pieces."
+
+- triggers: ["!leviticus1:7 ","!lev1:7 ","!le1:7 "]
+  replace: "The sons of Aaron, the priests, are to put fire on the altar and arrange wood on the fire."
+
+- triggers: ["!leviticus1:8 ","!lev1:8 ","!le1:8 "]
+  replace: "The sons of Aaron, the priests, will arrange the pieces of the offering with the head and the suet over the wood that is on the fire on the altar."
+
+- triggers: ["!leviticus1:9 ","!lev1:9 ","!le1:9 "]
+  replace: "Its intestines and its shanks will be washed with water, and the priest is to make all of it smoke on the altar as a burnt offering, an offering made by fire of a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus1:10 ","!lev1:10 ","!le1:10 "]
+  replace: "“‘If his offering for a burnt offering is from the flock, from the young rams or the goats, he should present a sound male."
+
+- triggers: ["!leviticus1:11 ","!lev1:11 ","!le1:11 "]
+  replace: "It is to be slaughtered at the north side of the altar before Jehovah, and the sons of Aaron, the priests, will sprinkle its blood on all sides of the altar."
+
+- triggers: ["!leviticus1:12 ","!lev1:12 ","!le1:12 "]
+  replace: "He will cut it up into pieces, and with its head and its suet, the priest will arrange them over the wood on the fire on the altar."
+
+- triggers: ["!leviticus1:13 ","!lev1:13 ","!le1:13 "]
+  replace: "He will wash the intestines and the shanks with water, and the priest will present all of it and make it smoke on the altar. It is a burnt offering, an offering made by fire of a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus1:14 ","!lev1:14 ","!le1:14 "]
+  replace: "“‘However, if he offers birds as a burnt offering to Jehovah, he will present his offering from the turtledoves or the young pigeons."
+
+- triggers: ["!leviticus1:15 ","!lev1:15 ","!le1:15 "]
+  replace: "The priest will present it at the altar and nip off its head and make it smoke on the altar, but its blood should be drained out on the side of the altar."
+
+- triggers: ["!leviticus1:16 ","!lev1:16 ","!le1:16 "]
+  replace: "He should remove its crop and its feathers and throw them beside the altar, to the east, to the place for the ashes."
+
+- triggers: ["!leviticus1:17 ","!lev1:17 ","!le1:17 "]
+  replace: "He will split it at its wings without dividing it into two parts. Then the priest will make it smoke on the altar over the wood that is on the fire. It is a burnt offering, an offering made by fire of a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus2:1 ","!lev2:1 ","!le2:1 "]
+  replace: "“‘Now if someone presents a grain offering to Jehovah, his offering must be fine flour, and he should pour oil on it and put frankincense on it."
+
+- triggers: ["!leviticus2:2 ","!lev2:2 ","!le2:2 "]
+  replace: "Then he will bring it to the sons of Aaron, the priests, and the priest will take a handful of the fine flour and oil and all its frankincense, and he will make it smoke as a token offering on the altar, an offering made by fire of a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus2:3 ","!lev2:3 ","!le2:3 "]
+  replace: "Whatever is left of the grain offering belongs to Aaron and his sons as something most holy from Jehovah’s offerings made by fire."
+
+- triggers: ["!leviticus2:4 ","!lev2:4 ","!le2:4 "]
+  replace: "“‘If you present a grain offering that has been baked in the oven, it should be of fine flour, unleavened ring-shaped loaves mixed with oil or unleavened wafers spread with oil."
+
+- triggers: ["!leviticus2:5 ","!lev2:5 ","!le2:5 "]
+  replace: "“‘If your offering is a grain offering from the griddle, it should be of fine, unleavened flour mixed with oil."
+
+- triggers: ["!leviticus2:6 ","!lev2:6 ","!le2:6 "]
+  replace: "It should be broken into pieces, and you are to pour oil on it. It is a grain offering."
+
+- triggers: ["!leviticus2:7 ","!lev2:7 ","!le2:7 "]
+  replace: "“‘If your offering is a grain offering prepared in a pan, it should be made of fine flour with oil."
+
+- triggers: ["!leviticus2:8 ","!lev2:8 ","!le2:8 "]
+  replace: "You should bring the grain offering that was made of these to Jehovah, and it will be presented to the priest, who will bring it near to the altar."
+
+- triggers: ["!leviticus2:9 ","!lev2:9 ","!le2:9 "]
+  replace: "And the priest will lift off some of the grain offering as a token offering and make it smoke on the altar as an offering made by fire of a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus2:10 ","!lev2:10 ","!le2:10 "]
+  replace: "What is left of the grain offering belongs to Aaron and his sons as something most holy of Jehovah’s offerings by fire."
+
+- triggers: ["!leviticus2:11 ","!lev2:11 ","!le2:11 "]
+  replace: "“‘No grain offering that you present to Jehovah should be leavened, for you must not make any sourdough or honey smoke as an offering made by fire to Jehovah."
+
+- triggers: ["!leviticus2:12 ","!lev2:12 ","!le2:12 "]
+  replace: "“‘You may present them to Jehovah as an offering of the firstfruits, but they must not be brought to the altar as a pleasing aroma."
+
+- triggers: ["!leviticus2:13 ","!lev2:13 ","!le2:13 "]
+  replace: "“‘Every grain offering you make is to be seasoned with salt; and you must not allow the salt of the covenant of your God to be missing from your grain offering. Along with every offering of yours, you will present salt."
+
+- triggers: ["!leviticus2:14 ","!lev2:14 ","!le2:14 "]
+  replace: "“‘If you present the grain offering of the first ripe fruits to Jehovah, you should present new grain roasted with fire, coarsely crushed new kernels, as the grain offering of your first ripe fruits."
+
+- triggers: ["!leviticus2:15 ","!lev2:15 ","!le2:15 "]
+  replace: "You are to put oil on it and place frankincense on it. It is a grain offering."
+
+- triggers: ["!leviticus2:16 ","!lev2:16 ","!le2:16 "]
+  replace: "The priest will make it smoke as a token offering, that is, some of the coarse grain and oil along with all its frankincense, as an offering made by fire to Jehovah."
+
+- triggers: ["!leviticus3:1 ","!lev3:1 ","!le3:1 "]
+  replace: "“‘If his offering is a communion sacrifice and if he is presenting it from the herd, whether a male or a female, he should present a sound animal before Jehovah."
+
+- triggers: ["!leviticus3:2 ","!lev3:2 ","!le3:2 "]
+  replace: "He is to lay his hand on the head of his offering, and it will be slaughtered at the entrance of the tent of meeting; and Aaron’s sons, the priests, will sprinkle the blood on all sides of the altar."
+
+- triggers: ["!leviticus3:3 ","!lev3:3 ","!le3:3 "]
+  replace: "He will present part of the communion sacrifice as an offering made by fire to Jehovah: the fat that covers the intestines, all the fat that surrounds the intestines,"
+
+- triggers: ["!leviticus3:4 ","!lev3:4 ","!le3:4 "]
+  replace: "and the two kidneys with the fat on them that is near the loins. He will also remove the appendage of the liver along with the kidneys."
+
+- triggers: ["!leviticus3:5 ","!lev3:5 ","!le3:5 "]
+  replace: "Aaron’s sons will make it smoke on the altar on top of the burnt offering that is placed on the wood that is over the fire; it is an offering made by fire as a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus3:6 ","!lev3:6 ","!le3:6 "]
+  replace: "“‘If his offering is from the flock for a communion sacrifice to Jehovah, he will present a sound male or a female animal."
+
+- triggers: ["!leviticus3:7 ","!lev3:7 ","!le3:7 "]
+  replace: "If he is presenting a young ram as his offering, then he will present it before Jehovah."
+
+- triggers: ["!leviticus3:8 ","!lev3:8 ","!le3:8 "]
+  replace: "He will lay his hand on the head of his offering, and it will be slaughtered in front of the tent of meeting. Aaron’s sons will sprinkle its blood on all sides of the altar."
+
+- triggers: ["!leviticus3:9 ","!lev3:9 ","!le3:9 "]
+  replace: "He will present the fat from the communion sacrifice as an offering made by fire to Jehovah. He will remove the entire fat tail near the backbone, the fat that covers the intestines, all the fat that surrounds the intestines,"
+
+- triggers: ["!leviticus3:10 ","!lev3:10 ","!le3:10 "]
+  replace: "and the two kidneys with the fat on them that is near the loins. He will also remove the appendage of the liver along with the kidneys."
+
+- triggers: ["!leviticus3:11 ","!lev3:11 ","!le3:11 "]
+  replace: "And the priest will make it smoke on the altar as food, an offering made by fire to Jehovah."
+
+- triggers: ["!leviticus3:12 ","!lev3:12 ","!le3:12 "]
+  replace: "“‘If his offering is a goat, then he will present it before Jehovah."
+
+- triggers: ["!leviticus3:13 ","!lev3:13 ","!le3:13 "]
+  replace: "He will lay his hand on its head, and it will be slaughtered before the tent of meeting, and Aaron’s sons must sprinkle its blood on all sides of the altar."
+
+- triggers: ["!leviticus3:14 ","!lev3:14 ","!le3:14 "]
+  replace: "The part he will present as his offering made by fire to Jehovah is the fat that covers the intestines, all the fat that surrounds the intestines,"
+
+- triggers: ["!leviticus3:15 ","!lev3:15 ","!le3:15 "]
+  replace: "and the two kidneys with the fat on them that is near the loins. He will also remove the appendage of the liver along with the kidneys."
+
+- triggers: ["!leviticus3:16 ","!lev3:16 ","!le3:16 "]
+  replace: "The priest will make them smoke on the altar as food, an offering made by fire for a pleasing aroma. All the fat belongs to Jehovah."
+
+- triggers: ["!leviticus3:17 ","!lev3:17 ","!le3:17 "]
+  replace: "“‘It is a lasting statute for your generations, in all your dwelling places: You must not eat any fat or any blood at all.’”"
+
+- triggers: ["!leviticus4:1 ","!lev4:1 ","!le4:1 "]
+  replace: "Jehovah went on to say to Moses:"
+
+- triggers: ["!leviticus4:2 ","!lev4:2 ","!le4:2 "]
+  replace: "“Tell the Israelites, ‘If someone sins unintentionally by doing any of the things that Jehovah commanded should not be done:"
+
+- triggers: ["!leviticus4:3 ","!lev4:3 ","!le4:3 "]
+  replace: "“‘If the anointed priest sins and brings guilt on the people, then he must present a sound young bull to Jehovah as a sin offering for the sin he committed."
+
+- triggers: ["!leviticus4:4 ","!lev4:4 ","!le4:4 "]
+  replace: "He will bring the bull to the entrance of the tent of meeting before Jehovah and lay his hand on the bull’s head, and he is to slaughter the bull before Jehovah."
+
+- triggers: ["!leviticus4:5 ","!lev4:5 ","!le4:5 "]
+  replace: "Then the anointed priest will take some of the bull’s blood and bring it into the tent of meeting;"
+
+- triggers: ["!leviticus4:6 ","!lev4:6 ","!le4:6 "]
+  replace: "and the priest will dip his finger in the blood and spatter some of the blood seven times before Jehovah in front of the curtain of the holy place."
+
+- triggers: ["!leviticus4:7 ","!lev4:7 ","!le4:7 "]
+  replace: "The priest will also put some of the blood on the horns of the altar of perfumed incense, which is before Jehovah in the tent of meeting; and he will pour all the rest of the bull’s blood at the base of the altar of burnt offering, which is at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus4:8 ","!lev4:8 ","!le4:8 "]
+  replace: "“‘He will then remove all the fat of the bull of the sin offering, including the fat that covers the intestines and the fat that surrounds the intestines,"
+
+- triggers: ["!leviticus4:9 ","!lev4:9 ","!le4:9 "]
+  replace: "and the two kidneys with the fat on them that is near the loins. And he will remove the appendage of the liver along with the kidneys."
+
+- triggers: ["!leviticus4:10 ","!lev4:10 ","!le4:10 "]
+  replace: "It will be the same as what is removed from a bull of the communion sacrifice. And the priest will make them smoke on the altar of burnt offering."
+
+- triggers: ["!leviticus4:11 ","!lev4:11 ","!le4:11 "]
+  replace: "“‘But as for the skin of the bull and all its flesh along with its head, its shanks, its intestines, and its dung—"
+
+- triggers: ["!leviticus4:12 ","!lev4:12 ","!le4:12 "]
+  replace: "all the rest of the bull—he will have it taken to the outskirts of the camp to a clean place where the ashes are discarded, and he will burn it on wood in the fire. It should be burned where the ashes are discarded."
+
+- triggers: ["!leviticus4:13 ","!lev4:13 ","!le4:13 "]
+  replace: "“‘Now if the entire assembly of Israel has become guilty by committing a sin unintentionally, but the congregation was unaware that they had done something that Jehovah commanded them not to do,"
+
+- triggers: ["!leviticus4:14 ","!lev4:14 ","!le4:14 "]
+  replace: "and then the sin becomes known, the congregation must present a young bull for a sin offering and bring it before the tent of meeting."
+
+- triggers: ["!leviticus4:15 ","!lev4:15 ","!le4:15 "]
+  replace: "The elders of the assembly will lay their hands on the bull’s head before Jehovah, and the bull will be slaughtered before Jehovah."
+
+- triggers: ["!leviticus4:16 ","!lev4:16 ","!le4:16 "]
+  replace: "“‘Then the anointed priest will bring some of the bull’s blood into the tent of meeting."
+
+- triggers: ["!leviticus4:17 ","!lev4:17 ","!le4:17 "]
+  replace: "The priest is to dip his finger into the blood and spatter some of it seven times before Jehovah in front of the curtain."
+
+- triggers: ["!leviticus4:18 ","!lev4:18 ","!le4:18 "]
+  replace: "He will then put some of the blood on the horns of the altar that is before Jehovah, which is in the tent of meeting; and he will pour all the rest of the blood at the base of the altar of burnt offering, which is at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus4:19 ","!lev4:19 ","!le4:19 "]
+  replace: "He will remove all its fat and make it smoke on the altar."
+
+- triggers: ["!leviticus4:20 ","!lev4:20 ","!le4:20 "]
+  replace: "He is to do to the bull just as he did to the other bull of the sin offering. That is how he will do it, and the priest will make atonement for them, and they will be forgiven."
+
+- triggers: ["!leviticus4:21 ","!lev4:21 ","!le4:21 "]
+  replace: "He will have the bull taken to the outskirts of the camp and will burn it, just as he burned the first bull. It is a sin offering for the congregation."
+
+- triggers: ["!leviticus4:22 ","!lev4:22 ","!le4:22 "]
+  replace: "“‘When a chieftain unintentionally sins by doing one of all the things that Jehovah his God commands should not be done and has become guilty,"
+
+- triggers: ["!leviticus4:23 ","!lev4:23 ","!le4:23 "]
+  replace: "or if he becomes aware of a sin that he has committed against the commandment, then he must bring a sound young male goat as his offering."
+
+- triggers: ["!leviticus4:24 ","!lev4:24 ","!le4:24 "]
+  replace: "He will lay his hand on the head of the young goat and slaughter it in the place where the burnt offering is slaughtered before Jehovah. It is a sin offering."
+
+- triggers: ["!leviticus4:25 ","!lev4:25 ","!le4:25 "]
+  replace: "The priest will take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and he will pour the rest of its blood at the base of the altar of burnt offering."
+
+- triggers: ["!leviticus4:26 ","!lev4:26 ","!le4:26 "]
+  replace: "He will make all its fat smoke on the altar like the fat of the communion sacrifice; and the priest will make atonement for him for his sin, and it will be forgiven him."
+
+- triggers: ["!leviticus4:27 ","!lev4:27 ","!le4:27 "]
+  replace: "“‘If any one of the people of the land sins unintentionally and becomes guilty by doing one of the things that Jehovah commands should not be done,"
+
+- triggers: ["!leviticus4:28 ","!lev4:28 ","!le4:28 "]
+  replace: "or if he becomes aware of a sin that he has committed, then he should bring a sound young female goat as his offering for the sin he has committed."
+
+- triggers: ["!leviticus4:29 ","!lev4:29 ","!le4:29 "]
+  replace: "He will lay his hand on the head of the sin offering and slaughter the sin offering in the same place as the burnt offering."
+
+- triggers: ["!leviticus4:30 ","!lev4:30 ","!le4:30 "]
+  replace: "The priest will take some of its blood with his finger and put it on the horns of the altar of burnt offering, and he will pour all the rest of its blood at the base of the altar."
+
+- triggers: ["!leviticus4:31 ","!lev4:31 ","!le4:31 "]
+  replace: "He will remove all its fat, just as the fat is removed from the communion sacrifice, and the priest will make it smoke on the altar as a pleasing aroma to Jehovah; and the priest will make atonement for him, and it will be forgiven him."
+
+- triggers: ["!leviticus4:32 ","!lev4:32 ","!le4:32 "]
+  replace: "“‘But if he offers a lamb as his sin offering, he should bring a sound female lamb."
+
+- triggers: ["!leviticus4:33 ","!lev4:33 ","!le4:33 "]
+  replace: "He will lay his hand on the head of the sin offering and slaughter it as a sin offering in the place where the burnt offering is slaughtered."
+
+- triggers: ["!leviticus4:34 ","!lev4:34 ","!le4:34 "]
+  replace: "The priest will take some of the blood of the sin offering with his finger and put it on the horns of the altar of burnt offering, and he will pour all the rest of its blood at the base of the altar."
+
+- triggers: ["!leviticus4:35 ","!lev4:35 ","!le4:35 "]
+  replace: "He will remove all its fat the same way that the fat of the young ram of the communion sacrifice is removed, and the priest will make them smoke on the altar on top of Jehovah’s offerings made by fire; and the priest will make atonement for him for the sin that he has committed, and it will be forgiven him."
+
+- triggers: ["!leviticus5:1 ","!lev5:1 ","!le5:1 "]
+  replace: "“‘If someone sins because he has heard a public call to testify and he is a witness or has seen or learned about it and he does not report it, then he will answer for his error."
+
+- triggers: ["!leviticus5:2 ","!lev5:2 ","!le5:2 "]
+  replace: "“‘Or when a person touches anything unclean, whether the dead body of an unclean wild animal, an unclean domestic animal, or an unclean swarming creature, he is unclean and has become guilty even if he does not realize it."
+
+- triggers: ["!leviticus5:3 ","!lev5:3 ","!le5:3 "]
+  replace: "Or in case someone without being aware of it touches human uncleanness—anything unclean that may make him unclean—and he comes to know it, then he becomes guilty."
+
+- triggers: ["!leviticus5:4 ","!lev5:4 ","!le5:4 "]
+  replace: "“‘Or if someone rashly swears to do something—whether it is to do good or to do evil, no matter what it may be—and he was unaware of it, but then he realizes that he has sworn rashly, he becomes guilty."
+
+- triggers: ["!leviticus5:5 ","!lev5:5 ","!le5:5 "]
+  replace: "“‘If he becomes guilty as respects one of these things, then he must confess in what way he has sinned."
+
+- triggers: ["!leviticus5:6 ","!lev5:6 ","!le5:6 "]
+  replace: "He will also bring his guilt offering to Jehovah for the sin that he committed, namely, a female from the flock, either a female lamb or a young female goat, for a sin offering. Then the priest will make atonement for him for his sin."
+
+- triggers: ["!leviticus5:7 ","!lev5:7 ","!le5:7 "]
+  replace: "“‘If, though, he cannot afford a sheep, he must bring to Jehovah two turtledoves or two young pigeons as his guilt offering for the sin, one for a sin offering and one for a burnt offering."
+
+- triggers: ["!leviticus5:8 ","!lev5:8 ","!le5:8 "]
+  replace: "He is to bring them to the priest, who will present first the one for the sin offering and nip off its head at the front of its neck, without severing it."
+
+- triggers: ["!leviticus5:9 ","!lev5:9 ","!le5:9 "]
+  replace: "He will spatter some of the blood of the sin offering on the side of the altar, but the remainder of the blood will be drained out at the base of the altar. It is a sin offering."
+
+- triggers: ["!leviticus5:10 ","!lev5:10 ","!le5:10 "]
+  replace: "He will handle the other one as a burnt offering according to the regular procedure; and the priest will make atonement for him for the sin that he has committed, and it will be forgiven him."
+
+- triggers: ["!leviticus5:11 ","!lev5:11 ","!le5:11 "]
+  replace: "“‘Now if he cannot afford two turtledoves or two young pigeons, he must bring as his offering for his sin a tenth of an eʹphah of fine flour for a sin offering. He should not add oil to it or place frankincense on it, for it is a sin offering."
+
+- triggers: ["!leviticus5:12 ","!lev5:12 ","!le5:12 "]
+  replace: "He will bring it to the priest, and the priest will take from it his handful as a token offering and make it smoke on the altar on top of Jehovah’s offerings made by fire. It is a sin offering."
+
+- triggers: ["!leviticus5:13 ","!lev5:13 ","!le5:13 "]
+  replace: "The priest will make atonement for him for the sin that he has committed, any one of these sins, and it will be forgiven him. The remainder of the offering will become the priest’s, just like the grain offering.’”"
+
+- triggers: ["!leviticus5:14 ","!lev5:14 ","!le5:14 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus5:15 ","!lev5:15 ","!le5:15 "]
+  replace: "“If someone behaves unfaithfully by unintentionally sinning against the holy things of Jehovah, he is to bring to Jehovah a sound ram from the flock as a guilt offering; its value in silver shekels is set according to the standard shekel of the holy place."
+
+- triggers: ["!leviticus5:16 ","!lev5:16 ","!le5:16 "]
+  replace: "And he will make compensation for the sin he has committed against the holy place and he will also add a fifth of its value. He will give it to the priest, so that the priest may make atonement for him with the ram of the guilt offering, and it will be forgiven him."
+
+- triggers: ["!leviticus5:17 ","!lev5:17 ","!le5:17 "]
+  replace: "“If someone sins by doing any of the things that Jehovah commands should not be done, even if he is not aware of it, he is still guilty and will answer for his error."
+
+- triggers: ["!leviticus5:18 ","!lev5:18 ","!le5:18 "]
+  replace: "He should bring to the priest a sound ram from the flock according to the estimated value, for a guilt offering. Then the priest will make atonement for him for the unintentional mistake that he unknowingly committed, and it will be forgiven him."
+
+- triggers: ["!leviticus5:19 ","!lev5:19 ","!le5:19 "]
+  replace: "It is a guilt offering. He has certainly become guilty of sinning against Jehovah.”"
+
+- triggers: ["!leviticus6:1 ","!lev6:1 ","!le6:1 "]
+  replace: "Jehovah went on to say to Moses:"
+
+- triggers: ["!leviticus6:2 ","!lev6:2 ","!le6:2 "]
+  replace: "“If someone sins and behaves unfaithfully toward Jehovah by deceiving his neighbor in connection with something entrusted to him, or something deposited with him, or he robs or defrauds his neighbor,"
+
+- triggers: ["!leviticus6:3 ","!lev6:3 ","!le6:3 "]
+  replace: "or he finds something lost and is deceptive about it, and if he swears falsely over any such sin he may commit, this is what he should do:"
+
+- triggers: ["!leviticus6:4 ","!lev6:4 ","!le6:4 "]
+  replace: "If he has sinned and is guilty, he must return what he stole, what he extorted, what he took by fraud, what was entrusted to him, or the lost thing that he found,"
+
+- triggers: ["!leviticus6:5 ","!lev6:5 ","!le6:5 "]
+  replace: "or anything about which he swore falsely, and he must make full compensation for it, and he will add to it a fifth of its value. He will give it to the owner on the day his guilt is proved."
+
+- triggers: ["!leviticus6:6 ","!lev6:6 ","!le6:6 "]
+  replace: "And he will bring to the priest as his guilt offering to Jehovah a sound ram from the flock according to the assessed value, for a guilt offering."
+
+- triggers: ["!leviticus6:7 ","!lev6:7 ","!le6:7 "]
+  replace: "The priest will make atonement for him before Jehovah, and he will be forgiven for anything he may have done resulting in his guilt.”"
+
+- triggers: ["!leviticus6:8 ","!lev6:8 ","!le6:8 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus6:9 ","!lev6:9 ","!le6:9 "]
+  replace: "“Command Aaron and his sons and say, ‘This is the law of the burnt offering: The burnt offering will remain on the hearth on the altar all night long until the morning, and the fire will be kept burning on the altar."
+
+- triggers: ["!leviticus6:10 ","!lev6:10 ","!le6:10 "]
+  replace: "The priest will clothe himself with his official dress of linen, and he will put the linen shorts on over his flesh. Then he will remove the ashes of the burnt offering that the fire had consumed on the altar and place them beside the altar."
+
+- triggers: ["!leviticus6:11 ","!lev6:11 ","!le6:11 "]
+  replace: "Then he will take off his garments and put on other garments and take the ashes to a clean place outside the camp."
+
+- triggers: ["!leviticus6:12 ","!lev6:12 ","!le6:12 "]
+  replace: "The fire will be kept burning on the altar. It must not go out. The priest must burn wood on it each morning and arrange the burnt offering over it, and he will make the fat of the communion sacrifices smoke over it."
+
+- triggers: ["!leviticus6:13 ","!lev6:13 ","!le6:13 "]
+  replace: "Fire will be kept constantly burning on the altar. It must not go out."
+
+- triggers: ["!leviticus6:14 ","!lev6:14 ","!le6:14 "]
+  replace: "“‘Now this is the law of the grain offering: You sons of Aaron are to present it before Jehovah in front of the altar."
+
+- triggers: ["!leviticus6:15 ","!lev6:15 ","!le6:15 "]
+  replace: "One of them will take a handful from the fine flour of the grain offering and some of its oil and all the frankincense that is on the grain offering, and he will make it smoke on the altar as a pleasing aroma for a token offering to Jehovah."
+
+- triggers: ["!leviticus6:16 ","!lev6:16 ","!le6:16 "]
+  replace: "Aaron and his sons will eat what is left of it. It will be eaten as unleavened bread in a holy place. They will eat it in the courtyard of the tent of meeting."
+
+- triggers: ["!leviticus6:17 ","!lev6:17 ","!le6:17 "]
+  replace: "It should not be baked with anything leavened. I have given it as their share out of my offerings made by fire. It is something most holy, like the sin offering and like the guilt offering."
+
+- triggers: ["!leviticus6:18 ","!lev6:18 ","!le6:18 "]
+  replace: "Every male among the sons of Aaron will eat it. It is their permanent allowance throughout your generations from Jehovah’s offerings made by fire. Everything that touches them will become holy.’”"
+
+- triggers: ["!leviticus6:19 ","!lev6:19 ","!le6:19 "]
+  replace: "Jehovah spoke again to Moses:"
+
+- triggers: ["!leviticus6:20 ","!lev6:20 ","!le6:20 "]
+  replace: "“This is the offering that Aaron and his sons will present to Jehovah on the day he is anointed: the tenth of an eʹphah of fine flour as a regular grain offering, half of it in the morning and half of it in the evening."
+
+- triggers: ["!leviticus6:21 ","!lev6:21 ","!le6:21 "]
+  replace: "It will be made with oil on a griddle. You will bring it well-mixed with oil and present it in pieces as a baked product of the grain offering as a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus6:22 ","!lev6:22 ","!le6:22 "]
+  replace: "The anointed priest who succeeds him from among his sons will make it. It is a lasting regulation: As a whole offering it will be made to smoke to Jehovah."
+
+- triggers: ["!leviticus6:23 ","!lev6:23 ","!le6:23 "]
+  replace: "Every grain offering of a priest should be a whole offering. It must not be eaten.”"
+
+- triggers: ["!leviticus6:24 ","!lev6:24 ","!le6:24 "]
+  replace: "Jehovah spoke again to Moses and said:"
+
+- triggers: ["!leviticus6:25 ","!lev6:25 ","!le6:25 "]
+  replace: "“Tell Aaron and his sons, ‘This is the law of the sin offering: In the place where the burnt offering is slaughtered, the sin offering will also be slaughtered before Jehovah. It is a most holy thing."
+
+- triggers: ["!leviticus6:26 ","!lev6:26 ","!le6:26 "]
+  replace: "The priest who offers it for sin will eat it. It will be eaten in a holy place, in the courtyard of the tent of meeting."
+
+- triggers: ["!leviticus6:27 ","!lev6:27 ","!le6:27 "]
+  replace: "“‘Everything that touches its flesh will become holy, and when anyone spatters some of its blood on his garment, you should wash what was spattered with blood in a holy place."
+
+- triggers: ["!leviticus6:28 ","!lev6:28 ","!le6:28 "]
+  replace: "The earthenware vessel in which it was boiled is to be shattered. But if it was boiled in a copper vessel, then the vessel must be scoured and washed with water."
+
+- triggers: ["!leviticus6:29 ","!lev6:29 ","!le6:29 "]
+  replace: "“‘Every male among the priests will eat it. It is something most holy."
+
+- triggers: ["!leviticus6:30 ","!lev6:30 ","!le6:30 "]
+  replace: "However, no sin offering is to be eaten if some of its blood is brought into the tent of meeting to make atonement in the holy place. It is to be burned with fire."
+
+- triggers: ["!leviticus7:1 ","!lev7:1 ","!le7:1 "]
+  replace: "“‘This is the law of the guilt offering: It is something most holy."
+
+- triggers: ["!leviticus7:2 ","!lev7:2 ","!le7:2 "]
+  replace: "They will slaughter the guilt offering in the place where they slaughter the burnt offerings, and its blood should be sprinkled on all sides of the altar."
+
+- triggers: ["!leviticus7:3 ","!lev7:3 ","!le7:3 "]
+  replace: "He will present all its fat, including the fat tail, the fat that covers the intestines,"
+
+- triggers: ["!leviticus7:4 ","!lev7:4 ","!le7:4 "]
+  replace: "and the two kidneys with their fat that is near the loins. He will also remove the appendage of the liver along with the kidneys."
+
+- triggers: ["!leviticus7:5 ","!lev7:5 ","!le7:5 "]
+  replace: "The priest will make them smoke on the altar as an offering made by fire to Jehovah. It is a guilt offering."
+
+- triggers: ["!leviticus7:6 ","!lev7:6 ","!le7:6 "]
+  replace: "Every male among the priests will eat it, and it should be eaten in a holy place. It is something most holy."
+
+- triggers: ["!leviticus7:7 ","!lev7:7 ","!le7:7 "]
+  replace: "The law regarding the sin offering applies to the guilt offering; it belongs to the priest who makes atonement with it."
+
+- triggers: ["!leviticus7:8 ","!lev7:8 ","!le7:8 "]
+  replace: "“‘When the priest presents the burnt offering for someone, the skin of the burnt offering that was presented to the priest will become his."
+
+- triggers: ["!leviticus7:9 ","!lev7:9 ","!le7:9 "]
+  replace: "“‘Every grain offering that is baked in the oven or prepared in the pan or on the griddle belongs to the priest who presents it. It will become his."
+
+- triggers: ["!leviticus7:10 ","!lev7:10 ","!le7:10 "]
+  replace: "But every grain offering that is mixed with oil or that is dry will be for all of Aaron’s sons; each will have an equal share."
+
+- triggers: ["!leviticus7:11 ","!lev7:11 ","!le7:11 "]
+  replace: "“‘Now this is the law of the communion sacrifice that one may present to Jehovah:"
+
+- triggers: ["!leviticus7:12 ","!lev7:12 ","!le7:12 "]
+  replace: "If he presents it as an expression of thanksgiving, he will present along with the thanksgiving sacrifice unleavened ring-shaped loaves mixed with oil, unleavened wafers spread with oil, and ring-shaped loaves made with fine flour, well-mixed and blended with oil."
+
+- triggers: ["!leviticus7:13 ","!lev7:13 ","!le7:13 "]
+  replace: "He will present his offering along with ring-shaped loaves of leavened bread and the thanksgiving sacrifice of his communion sacrifices."
+
+- triggers: ["!leviticus7:14 ","!lev7:14 ","!le7:14 "]
+  replace: "He is to present from it one of each offering as a sacred portion to Jehovah; it will belong to the priest who sprinkles the blood of the communion sacrifices."
+
+- triggers: ["!leviticus7:15 ","!lev7:15 ","!le7:15 "]
+  replace: "The flesh of the thanksgiving sacrifice of his communion sacrifices is to be eaten on the day he offers it. He must not save any of it until morning."
+
+- triggers: ["!leviticus7:16 ","!lev7:16 ","!le7:16 "]
+  replace: "“‘If the sacrifice of his offering is a vow or a voluntary offering, it is to be eaten on the day he presents his sacrifice, and what is left of it may also be eaten on the next day."
+
+- triggers: ["!leviticus7:17 ","!lev7:17 ","!le7:17 "]
+  replace: "But whatever is left of the flesh of the sacrifice on the third day is to be burned with fire."
+
+- triggers: ["!leviticus7:18 ","!lev7:18 ","!le7:18 "]
+  replace: "However, if any of the flesh of his communion sacrifice is eaten on the third day, the one presenting it will not be accepted with approval. It will not be credited to him; it is an offensive thing, and the person who eats some of it will answer for his error."
+
+- triggers: ["!leviticus7:19 ","!lev7:19 ","!le7:19 "]
+  replace: "Flesh that touches anything unclean is not to be eaten. It is to be burned with fire. Everyone who is clean may eat the clean flesh."
+
+- triggers: ["!leviticus7:20 ","!lev7:20 ","!le7:20 "]
+  replace: "“‘But any person who is unclean and eats the flesh of the communion sacrifice, which is for Jehovah, that person must be cut off from his people."
+
+- triggers: ["!leviticus7:21 ","!lev7:21 ","!le7:21 "]
+  replace: "If someone touches anything unclean, whether the uncleanness of a man or an unclean animal or any unclean disgusting thing, and eats some of the flesh of the communion sacrifice, which is for Jehovah, that person must be cut off from his people.’”"
+
+- triggers: ["!leviticus7:22 ","!lev7:22 ","!le7:22 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus7:23 ","!lev7:23 ","!le7:23 "]
+  replace: "“Tell the Israelites, ‘You must not eat any fat of a bull or a young ram or a goat."
+
+- triggers: ["!leviticus7:24 ","!lev7:24 ","!le7:24 "]
+  replace: "The fat of an animal found dead and the fat of an animal killed by another animal may be used for any other purpose, but you must never eat it."
+
+- triggers: ["!leviticus7:25 ","!lev7:25 ","!le7:25 "]
+  replace: "For whoever eats fat from an animal that he presents as an offering made by fire to Jehovah must be cut off from his people."
+
+- triggers: ["!leviticus7:26 ","!lev7:26 ","!le7:26 "]
+  replace: "“‘You must not eat any blood in any of your dwelling places, whether that of birds or that of animals."
+
+- triggers: ["!leviticus7:27 ","!lev7:27 ","!le7:27 "]
+  replace: "Anyone who eats any blood must be cut off from his people.’”"
+
+- triggers: ["!leviticus7:28 ","!lev7:28 ","!le7:28 "]
+  replace: "Jehovah went on to speak to Moses, saying:"
+
+- triggers: ["!leviticus7:29 ","!lev7:29 ","!le7:29 "]
+  replace: "“Tell the Israelites, ‘Whoever presents his communion sacrifice to Jehovah will bring part of the offering from his communion sacrifice to Jehovah."
+
+- triggers: ["!leviticus7:30 ","!lev7:30 ","!le7:30 "]
+  replace: "He will bring in his own hands the fat along with the breast as an offering made by fire to Jehovah, and he will wave it back and forth as a wave offering before Jehovah."
+
+- triggers: ["!leviticus7:31 ","!lev7:31 ","!le7:31 "]
+  replace: "The priest will make the fat smoke on the altar, but the breast will belong to Aaron and his sons."
+
+- triggers: ["!leviticus7:32 ","!lev7:32 ","!le7:32 "]
+  replace: "“‘You will give the right leg as a sacred portion to the priest from your communion sacrifices."
+
+- triggers: ["!leviticus7:33 ","!lev7:33 ","!le7:33 "]
+  replace: "The son of Aaron who presents the blood of the communion sacrifices and the fat will have the right leg as his portion."
+
+- triggers: ["!leviticus7:34 ","!lev7:34 ","!le7:34 "]
+  replace: "For I take the breast of the wave offering and the leg of the sacred portion from the communion sacrifices of the Israelites, and I give them to Aaron the priest and his sons as a lasting regulation for the Israelites."
+
+- triggers: ["!leviticus7:35 ","!lev7:35 ","!le7:35 "]
+  replace: "“‘This was the portion from Jehovah’s offerings made by fire to be set aside for the priests, for Aaron and his sons, on the day he presented them to serve as priests to Jehovah."
+
+- triggers: ["!leviticus7:36 ","!lev7:36 ","!le7:36 "]
+  replace: "Jehovah commanded to give them this portion from the Israelites on the day he anointed them. It is a permanent statute for their generations.’”"
+
+- triggers: ["!leviticus7:37 ","!lev7:37 ","!le7:37 "]
+  replace: "This is the law concerning the burnt offering, the grain offering, the sin offering, the guilt offering, the installation sacrifice, and the communion sacrifice,"
+
+- triggers: ["!leviticus7:38 ","!lev7:38 ","!le7:38 "]
+  replace: "just as Jehovah commanded Moses on Mount Siʹnai in the day he commanded the Israelites to present their offerings to Jehovah in the wilderness of Siʹnai."
+
+- triggers: ["!leviticus8:1 ","!lev8:1 ","!le8:1 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus8:2 ","!lev8:2 ","!le8:2 "]
+  replace: "“Take Aaron and his sons with him, the garments, the anointing oil, the bull of the sin offering, the two rams, and the basket of unleavened bread,"
+
+- triggers: ["!leviticus8:3 ","!lev8:3 ","!le8:3 "]
+  replace: "and make all the assembly gather together at the entrance of the tent of meeting.”"
+
+- triggers: ["!leviticus8:4 ","!lev8:4 ","!le8:4 "]
+  replace: "Then Moses did just as Jehovah had commanded him, and the assembly gathered together at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus8:5 ","!lev8:5 ","!le8:5 "]
+  replace: "Moses now said to the assembly: “This is what Jehovah has commanded us to do.”"
+
+- triggers: ["!leviticus8:6 ","!lev8:6 ","!le8:6 "]
+  replace: "So Moses brought Aaron and his sons near and washed them with water."
+
+- triggers: ["!leviticus8:7 ","!lev8:7 ","!le8:7 "]
+  replace: "After that he put the robe on him, wrapped him with the sash, clothed him with the sleeveless coat, and put the ephʹod on him and tied it with the woven belt of the ephʹod, binding it securely on him."
+
+- triggers: ["!leviticus8:8 ","!lev8:8 ","!le8:8 "]
+  replace: "Next he placed the breastpiece on him and put the Uʹrim and the Thumʹmim in the breastpiece."
+
+- triggers: ["!leviticus8:9 ","!lev8:9 ","!le8:9 "]
+  replace: "Then he placed the turban on his head, and he put on the front of the turban the shining plate of gold, the holy sign of dedication, just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus8:10 ","!lev8:10 ","!le8:10 "]
+  replace: "Moses then took the anointing oil and anointed the tabernacle and all that was in it and sanctified them."
+
+- triggers: ["!leviticus8:11 ","!lev8:11 ","!le8:11 "]
+  replace: "After that he spattered some of it seven times on the altar and anointed the altar and all its utensils and the basin and its stand in order to sanctify them."
+
+- triggers: ["!leviticus8:12 ","!lev8:12 ","!le8:12 "]
+  replace: "Finally he poured some of the anointing oil on Aaron’s head and anointed him in order to sanctify him."
+
+- triggers: ["!leviticus8:13 ","!lev8:13 ","!le8:13 "]
+  replace: "Moses then brought Aaron’s sons near and clothed them with robes and wrapped them with sashes and put headgear on them, just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus8:14 ","!lev8:14 ","!le8:14 "]
+  replace: "Then he brought the bull of the sin offering, and Aaron and his sons laid their hands on the head of the bull of the sin offering."
+
+- triggers: ["!leviticus8:15 ","!lev8:15 ","!le8:15 "]
+  replace: "Moses slaughtered it and took the blood with his finger and put it on the horns of the altar on all sides, and he purified the altar from sin, but the rest of the blood he poured at the base of the altar, in order to sanctify it to make atonement on it."
+
+- triggers: ["!leviticus8:16 ","!lev8:16 ","!le8:16 "]
+  replace: "After that he took all the fat that was on the intestines, the appendage of the liver, and the two kidneys and their fat, and Moses made them smoke on the altar."
+
+- triggers: ["!leviticus8:17 ","!lev8:17 ","!le8:17 "]
+  replace: "Then he had the rest of the bull, its skin, its flesh, and its dung, burned with fire outside the camp, just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus8:18 ","!lev8:18 ","!le8:18 "]
+  replace: "He now brought the ram of the burnt offering near, and Aaron and his sons laid their hands on the head of the ram."
+
+- triggers: ["!leviticus8:19 ","!lev8:19 ","!le8:19 "]
+  replace: "Moses then slaughtered it and sprinkled the blood on all sides of the altar."
+
+- triggers: ["!leviticus8:20 ","!lev8:20 ","!le8:20 "]
+  replace: "He cut the ram into its pieces, and Moses made the head, the pieces, and the suet smoke."
+
+- triggers: ["!leviticus8:21 ","!lev8:21 ","!le8:21 "]
+  replace: "He washed the intestines and the shanks with water, and Moses made the entire ram smoke on the altar. It was a burnt offering as a pleasing aroma. It was an offering made by fire to Jehovah, just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus8:22 ","!lev8:22 ","!le8:22 "]
+  replace: "Then he brought the second ram, the ram of the installation, and Aaron and his sons laid their hands on the ram’s head."
+
+- triggers: ["!leviticus8:23 ","!lev8:23 ","!le8:23 "]
+  replace: "Moses slaughtered it and took some of its blood and put it on Aaron’s right earlobe and on the thumb of his right hand and on the big toe of his right foot."
+
+- triggers: ["!leviticus8:24 ","!lev8:24 ","!le8:24 "]
+  replace: "Next Moses brought Aaron’s sons forward and put some of the blood on their right earlobe and on the thumb of their right hand and on the big toe of their right foot; but Moses sprinkled the rest of the blood on all sides of the altar."
+
+- triggers: ["!leviticus8:25 ","!lev8:25 ","!le8:25 "]
+  replace: "Then he took the fat, the fat tail, all the fat that was on the intestines, the appendage of the liver, the two kidneys and their fat, and the right leg."
+
+- triggers: ["!leviticus8:26 ","!lev8:26 ","!le8:26 "]
+  replace: "He took out of the basket of unleavened bread that was before Jehovah one unleavened ring-shaped loaf, one ring-shaped loaf of oiled bread, and one wafer. He then placed them on the pieces of fat and the right leg."
+
+- triggers: ["!leviticus8:27 ","!lev8:27 ","!le8:27 "]
+  replace: "After that he put all of them on the palms of Aaron and the palms of his sons and began to wave them back and forth as a wave offering before Jehovah."
+
+- triggers: ["!leviticus8:28 ","!lev8:28 ","!le8:28 "]
+  replace: "Then Moses took them from their hands and made them smoke on the altar on top of the burnt offering. They were an installation sacrifice as a pleasing aroma. It was an offering made by fire to Jehovah."
+
+- triggers: ["!leviticus8:29 ","!lev8:29 ","!le8:29 "]
+  replace: "Moses then took the breast and waved it back and forth as a wave offering before Jehovah. From the installation ram it became the portion for Moses, just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus8:30 ","!lev8:30 ","!le8:30 "]
+  replace: "And Moses took some of the anointing oil and some of the blood that was on the altar and spattered it on Aaron and his garments and on his sons and the garments of his sons who were with him. Thus he sanctified Aaron and his garments and his sons and their garments."
+
+- triggers: ["!leviticus8:31 ","!lev8:31 ","!le8:31 "]
+  replace: "Then Moses said to Aaron and his sons: “Boil the flesh at the entrance of the tent of meeting, and you will eat it there with the bread that is in the installation basket, just as I was commanded, ‘Aaron and his sons will eat it.’"
+
+- triggers: ["!leviticus8:32 ","!lev8:32 ","!le8:32 "]
+  replace: "What is left over of the flesh and the bread you will burn with fire."
+
+- triggers: ["!leviticus8:33 ","!lev8:33 ","!le8:33 "]
+  replace: "You must not go out from the entrance of the tent of meeting for seven days, until the days for completing your installation are over, because it will take seven days to install you as priests."
+
+- triggers: ["!leviticus8:34 ","!lev8:34 ","!le8:34 "]
+  replace: "Jehovah commanded that we do what we have done today in order to make atonement for you."
+
+- triggers: ["!leviticus8:35 ","!lev8:35 ","!le8:35 "]
+  replace: "You will stay at the entrance of the tent of meeting day and night for seven days and carry out your obligation to Jehovah, so that you may not die; for so I have been commanded.”"
+
+- triggers: ["!leviticus8:36 ","!lev8:36 ","!le8:36 "]
+  replace: "And Aaron and his sons did all the things that Jehovah had commanded by means of Moses."
+
+- triggers: ["!leviticus9:1 ","!lev9:1 ","!le9:1 "]
+  replace: "On the eighth day, Moses called Aaron and his sons and the elders of Israel."
+
+- triggers: ["!leviticus9:2 ","!lev9:2 ","!le9:2 "]
+  replace: "He said to Aaron: “Take for yourself a young calf for a sin offering and a ram for a burnt offering, sound ones, and present them before Jehovah."
+
+- triggers: ["!leviticus9:3 ","!lev9:3 ","!le9:3 "]
+  replace: "But you will say to the Israelites, ‘Take a male goat for a sin offering and a calf and a young ram, each a year old, sound ones, for a burnt offering,"
+
+- triggers: ["!leviticus9:4 ","!lev9:4 ","!le9:4 "]
+  replace: "and a bull and a ram for communion sacrifices, to sacrifice them before Jehovah, and a grain offering mixed with oil, for today Jehovah will appear to you.’”"
+
+- triggers: ["!leviticus9:5 ","!lev9:5 ","!le9:5 "]
+  replace: "So they took what Moses had commanded before the tent of meeting. Then the whole assembly came forward and stood before Jehovah."
+
+- triggers: ["!leviticus9:6 ","!lev9:6 ","!le9:6 "]
+  replace: "And Moses said: “This is what Jehovah has commanded you to do, so that the glory of Jehovah may appear to you.”"
+
+- triggers: ["!leviticus9:7 ","!lev9:7 ","!le9:7 "]
+  replace: "Then Moses said to Aaron: “Approach the altar and present your sin offering and your burnt offering, and make atonement in your own behalf and in behalf of your house; and present the offering of the people, and make atonement in their behalf, just as Jehovah has commanded.”"
+
+- triggers: ["!leviticus9:8 ","!lev9:8 ","!le9:8 "]
+  replace: "Aaron immediately approached the altar and slaughtered the calf of the sin offering that was for him."
+
+- triggers: ["!leviticus9:9 ","!lev9:9 ","!le9:9 "]
+  replace: "Then Aaron’s sons presented the blood to him, and he dipped his finger in the blood and put it on the horns of the altar, and he poured the rest of the blood at the base of the altar."
+
+- triggers: ["!leviticus9:10 ","!lev9:10 ","!le9:10 "]
+  replace: "He made the fat and the kidneys and the appendage of the liver from the sin offering smoke on the altar, just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus9:11 ","!lev9:11 ","!le9:11 "]
+  replace: "And he burned the flesh and the skin with fire outside the camp."
+
+- triggers: ["!leviticus9:12 ","!lev9:12 ","!le9:12 "]
+  replace: "Then he slaughtered the burnt offering, and Aaron’s sons handed him the blood, and he sprinkled it on all sides of the altar."
+
+- triggers: ["!leviticus9:13 ","!lev9:13 ","!le9:13 "]
+  replace: "They handed him the pieces of the burnt offering along with the head, and he made them smoke on the altar."
+
+- triggers: ["!leviticus9:14 ","!lev9:14 ","!le9:14 "]
+  replace: "Further, he washed the intestines and the shanks and made them smoke on the burnt offering on the altar."
+
+- triggers: ["!leviticus9:15 ","!lev9:15 ","!le9:15 "]
+  replace: "He then presented the offering of the people and took the goat of the sin offering that was for the people and slaughtered it and made a sin offering with it like the first one."
+
+- triggers: ["!leviticus9:16 ","!lev9:16 ","!le9:16 "]
+  replace: "And he presented the burnt offering and handled it according to the regular procedure."
+
+- triggers: ["!leviticus9:17 ","!lev9:17 ","!le9:17 "]
+  replace: "He next presented the grain offering, filling his hand with some of it and making it smoke on the altar, in addition to the burnt offering of the morning."
+
+- triggers: ["!leviticus9:18 ","!lev9:18 ","!le9:18 "]
+  replace: "After that he slaughtered the bull and the ram of the communion sacrifice that was for the people. Then Aaron’s sons handed him the blood, and he sprinkled it around on all sides of the altar."
+
+- triggers: ["!leviticus9:19 ","!lev9:19 ","!le9:19 "]
+  replace: "As for the pieces of fat of the bull, the fat tail of the ram, the fat covering the internal organs, the kidneys, and the appendage of the liver,"
+
+- triggers: ["!leviticus9:20 ","!lev9:20 ","!le9:20 "]
+  replace: "they placed all those pieces of fat on the breasts, after which he made the pieces of fat smoke on the altar."
+
+- triggers: ["!leviticus9:21 ","!lev9:21 ","!le9:21 "]
+  replace: "But the breasts and the right leg Aaron waved back and forth as a wave offering before Jehovah, just as Moses had commanded."
+
+- triggers: ["!leviticus9:22 ","!lev9:22 ","!le9:22 "]
+  replace: "Then Aaron raised his hands toward the people and blessed them and came down from making the sin offering and the burnt offering and the communion sacrifices."
+
+- triggers: ["!leviticus9:23 ","!lev9:23 ","!le9:23 "]
+  replace: "Finally Moses and Aaron went into the tent of meeting and came out and blessed the people. Jehovah’s glory now appeared to all the people,"
+
+- triggers: ["!leviticus9:24 ","!lev9:24 ","!le9:24 "]
+  replace: "and fire came out from Jehovah and began consuming the burnt offering and the pieces of fat on the altar. When all the people saw it, they started shouting and they fell with their faces to the ground."
+
+- triggers: ["!leviticus10:1 ","!lev10:1 ","!le10:1 "]
+  replace: "Later Aaron’s sons Naʹdab and Abiʹhu each took his fire holder and put fire in it and placed incense on it. Then they began offering before Jehovah unauthorized fire, which he had not commanded them to do."
+
+- triggers: ["!leviticus10:2 ","!lev10:2 ","!le10:2 "]
+  replace: "At this a fire came out from before Jehovah and consumed them, so that they died before Jehovah."
+
+- triggers: ["!leviticus10:3 ","!lev10:3 ","!le10:3 "]
+  replace: "Then Moses said to Aaron: “This is what Jehovah has said, ‘I will be made holy among those near to me, and I will be glorified before all the people.’” And Aaron kept silent."
+
+- triggers: ["!leviticus10:4 ","!lev10:4 ","!le10:4 "]
+  replace: "So Moses called Mishʹael and Elzaʹphan, the sons of Uzʹziel, Aaron’s uncle, and said to them: “Come here, carry your brothers from in front of the holy place to a place outside the camp.”"
+
+- triggers: ["!leviticus10:5 ","!lev10:5 ","!le10:5 "]
+  replace: "So they came forward and carried the men away in their robes to a place outside the camp, just as Moses had told them."
+
+- triggers: ["!leviticus10:6 ","!lev10:6 ","!le10:6 "]
+  replace: "Moses then said to Aaron and his other sons Eleaʹzar and Ithʹamar: “Do not let your heads go ungroomed or tear your garments, so that you may not die and that God may not become indignant against all the assembly. Your brothers of the whole house of Israel will weep over those whom Jehovah has killed by the fire."
+
+- triggers: ["!leviticus10:7 ","!lev10:7 ","!le10:7 "]
+  replace: "You must not go out from the entrance of the tent of meeting or you will die, for Jehovah’s anointing oil is upon you.” So they did according to Moses’ word."
+
+- triggers: ["!leviticus10:8 ","!lev10:8 ","!le10:8 "]
+  replace: "Then Jehovah said to Aaron:"
+
+- triggers: ["!leviticus10:9 ","!lev10:9 ","!le10:9 "]
+  replace: "“Do not drink wine or other alcoholic beverages, you and your sons with you, when you come into the tent of meeting, so that you will not die. It is a permanent statute for your generations."
+
+- triggers: ["!leviticus10:10 ","!lev10:10 ","!le10:10 "]
+  replace: "This is to distinguish between the holy thing and the profane and between the unclean thing and the clean,"
+
+- triggers: ["!leviticus10:11 ","!lev10:11 ","!le10:11 "]
+  replace: "and to teach the Israelites all the regulations that Jehovah has spoken to them through Moses.”"
+
+- triggers: ["!leviticus10:12 ","!lev10:12 ","!le10:12 "]
+  replace: "Then Moses spoke to Aaron and to Eleaʹzar and Ithʹamar, his sons who were left: “Take what was left of the grain offering from Jehovah’s offerings made by fire and eat it as unleavened bread near the altar, because it is something most holy."
+
+- triggers: ["!leviticus10:13 ","!lev10:13 ","!le10:13 "]
+  replace: "You must eat it in a holy place, because it is your allowance and the allowance of your sons from Jehovah’s offerings made by fire, for this is what I have been commanded."
+
+- triggers: ["!leviticus10:14 ","!lev10:14 ","!le10:14 "]
+  replace: "You will also eat the breast of the wave offering and the leg of the sacred portion in a clean place, you and your sons and your daughters with you, because these things have been given as your allowance and the allowance of your sons from the communion sacrifices of the Israelites."
+
+- triggers: ["!leviticus10:15 ","!lev10:15 ","!le10:15 "]
+  replace: "They will bring the leg of the sacred portion and the breast of the wave offering along with the offerings of fat made by fire, in order to wave the wave offering back and forth before Jehovah; and it will serve as a permanent allowance for you and your sons with you, just as Jehovah has commanded.”"
+
+- triggers: ["!leviticus10:16 ","!lev10:16 ","!le10:16 "]
+  replace: "And Moses diligently searched for the goat of the sin offering, and he discovered that it had been burned up. So he grew indignant at Eleaʹzar and Ithʹamar, Aaron’s sons who were left, and he said:"
+
+- triggers: ["!leviticus10:17 ","!lev10:17 ","!le10:17 "]
+  replace: "“Why did you not eat the sin offering in the holy place, since it is something most holy and he has given it to you so that you may answer for the error of the assembly and make atonement for them before Jehovah?"
+
+- triggers: ["!leviticus10:18 ","!lev10:18 ","!le10:18 "]
+  replace: "Look! Its blood has not been brought inside the holy place. You certainly should have eaten it in the holy place, just as I was commanded.”"
+
+- triggers: ["!leviticus10:19 ","!lev10:19 ","!le10:19 "]
+  replace: "Aaron replied to Moses: “Look! Today they presented their sin offering and their burnt offering before Jehovah, and yet these things happened to me. If I had eaten the sin offering today, would that have been pleasing to Jehovah?”"
+
+- triggers: ["!leviticus10:20 ","!lev10:20 ","!le10:20 "]
+  replace: "When Moses heard that, he was satisfied."
+
+- triggers: ["!leviticus11:1 ","!lev11:1 ","!le11:1 "]
+  replace: "Then Jehovah said to Moses and Aaron:"
+
+- triggers: ["!leviticus11:2 ","!lev11:2 ","!le11:2 "]
+  replace: "“Tell the Israelites, ‘These are the living creatures of the earth that you may eat:"
+
+- triggers: ["!leviticus11:3 ","!lev11:3 ","!le11:3 "]
+  replace: "Every animal that has a split hoof and a cleft in its hooves and that chews the cud may be eaten."
+
+- triggers: ["!leviticus11:4 ","!lev11:4 ","!le11:4 "]
+  replace: "“‘But you must not eat these animals that chew the cud or have a split hoof: the camel, which chews the cud but does not have a split hoof. It is unclean for you."
+
+- triggers: ["!leviticus11:5 ","!lev11:5 ","!le11:5 "]
+  replace: "Also the rock badger, because it chews the cud but does not have a split hoof. It is unclean for you."
+
+- triggers: ["!leviticus11:6 ","!lev11:6 ","!le11:6 "]
+  replace: "Also the hare, because it chews the cud but does not have a split hoof. It is unclean for you."
+
+- triggers: ["!leviticus11:7 ","!lev11:7 ","!le11:7 "]
+  replace: "Also the pig, because it has a split hoof and a cleft in the hoof but does not chew the cud. It is unclean for you."
+
+- triggers: ["!leviticus11:8 ","!lev11:8 ","!le11:8 "]
+  replace: "You must not eat any of their flesh or touch their dead body. They are unclean for you."
+
+- triggers: ["!leviticus11:9 ","!lev11:9 ","!le11:9 "]
+  replace: "“‘This is what you may eat of everything in the waters: Anything in the waters that has fins and scales, whether in the seas or in the rivers, it you may eat."
+
+- triggers: ["!leviticus11:10 ","!lev11:10 ","!le11:10 "]
+  replace: "But anything in the seas and in the rivers that has no fins and scales, among all the swarming creatures and of every other living creature that is in the waters, it is a loathsome thing for you."
+
+- triggers: ["!leviticus11:11 ","!lev11:11 ","!le11:11 "]
+  replace: "Yes, they should be loathsome to you, and you must not eat any of their flesh and you must loathe their carcasses."
+
+- triggers: ["!leviticus11:12 ","!lev11:12 ","!le11:12 "]
+  replace: "Everything in the waters that has no fins and scales is a loathsome thing to you."
+
+- triggers: ["!leviticus11:13 ","!lev11:13 ","!le11:13 "]
+  replace: "“‘These are the flying creatures that you are to loathe; they should not be eaten, for they are loathsome: the eagle, the osprey, the black vulture,"
+
+- triggers: ["!leviticus11:14 ","!lev11:14 ","!le11:14 "]
+  replace: "the red kite and every kind of black kite,"
+
+- triggers: ["!leviticus11:15 ","!lev11:15 ","!le11:15 "]
+  replace: "every kind of raven,"
+
+- triggers: ["!leviticus11:16 ","!lev11:16 ","!le11:16 "]
+  replace: "the ostrich, the owl, the gull, every kind of falcon,"
+
+- triggers: ["!leviticus11:17 ","!lev11:17 ","!le11:17 "]
+  replace: "the little owl, the cormorant, the long-eared owl,"
+
+- triggers: ["!leviticus11:18 ","!lev11:18 ","!le11:18 "]
+  replace: "the swan, the pelican, the vulture,"
+
+- triggers: ["!leviticus11:19 ","!lev11:19 ","!le11:19 "]
+  replace: "the stork, every kind of heron, the hoopoe, and the bat."
+
+- triggers: ["!leviticus11:20 ","!lev11:20 ","!le11:20 "]
+  replace: "Every winged swarming creature that goes on all fours is something loathsome to you."
+
+- triggers: ["!leviticus11:21 ","!lev11:21 ","!le11:21 "]
+  replace: "“‘Of the winged swarming creatures that move on all fours, you may eat only those that have jointed legs above their feet for leaping on the ground."
+
+- triggers: ["!leviticus11:22 ","!lev11:22 ","!le11:22 "]
+  replace: "Of these you may eat: various kinds of migratory locusts, other edible locusts, crickets, and grasshoppers."
+
+- triggers: ["!leviticus11:23 ","!lev11:23 ","!le11:23 "]
+  replace: "All other winged swarming creatures with four legs are something loathsome to you."
+
+- triggers: ["!leviticus11:24 ","!lev11:24 ","!le11:24 "]
+  replace: "By these you would make yourselves unclean. Everyone touching their dead bodies will be unclean until the evening."
+
+- triggers: ["!leviticus11:25 ","!lev11:25 ","!le11:25 "]
+  replace: "Anyone carrying any of their dead bodies should wash his garments; he will be unclean until the evening."
+
+- triggers: ["!leviticus11:26 ","!lev11:26 ","!le11:26 "]
+  replace: "“‘Any animal that has a split hoof but does not have a cleft and does not chew its cud is unclean to you. Everyone touching them will be unclean."
+
+- triggers: ["!leviticus11:27 ","!lev11:27 ","!le11:27 "]
+  replace: "Every living creature that walks on paws among the creatures that walk on all fours is unclean to you. Everyone touching their dead bodies will be unclean until the evening."
+
+- triggers: ["!leviticus11:28 ","!lev11:28 ","!le11:28 "]
+  replace: "The one who carries their dead bodies should wash his garments, and he will be unclean until the evening. They are unclean to you."
+
+- triggers: ["!leviticus11:29 ","!lev11:29 ","!le11:29 "]
+  replace: "“‘These are the swarming creatures of the earth that are unclean to you: the mole rat, the mouse, every kind of lizard,"
+
+- triggers: ["!leviticus11:30 ","!lev11:30 ","!le11:30 "]
+  replace: "the gecko, the large lizard, the newt, the sand lizard, and the chameleon."
+
+- triggers: ["!leviticus11:31 ","!lev11:31 ","!le11:31 "]
+  replace: "These swarming creatures are unclean to you. Everyone touching their dead bodies will be unclean until the evening."
+
+- triggers: ["!leviticus11:32 ","!lev11:32 ","!le11:32 "]
+  replace: "“‘Now anything they fall on when they die will be unclean, whether a wooden utensil, a garment, a skin, or a piece of sackcloth. Any utensil that is used should be immersed in water, and it will be unclean until the evening; then it will be clean."
+
+- triggers: ["!leviticus11:33 ","!lev11:33 ","!le11:33 "]
+  replace: "If they fall into an earthenware vessel, you are to smash it, and anything that was in it will be unclean."
+
+- triggers: ["!leviticus11:34 ","!lev11:34 ","!le11:34 "]
+  replace: "Any kind of food that comes in contact with water from such a vessel will be unclean, and any drinkable liquid in such a vessel will be unclean."
+
+- triggers: ["!leviticus11:35 ","!lev11:35 ","!le11:35 "]
+  replace: "Anything their dead bodies fall on will be unclean. Whether oven or small stove, it should be broken into pieces. They are unclean, and they will remain unclean to you."
+
+- triggers: ["!leviticus11:36 ","!lev11:36 ","!le11:36 "]
+  replace: "Only a spring and a cistern for storing water will continue clean, but anyone touching their dead bodies will be unclean."
+
+- triggers: ["!leviticus11:37 ","!lev11:37 ","!le11:37 "]
+  replace: "If their dead bodies fall on a plant seed that is to be sown, it is clean."
+
+- triggers: ["!leviticus11:38 ","!lev11:38 ","!le11:38 "]
+  replace: "But if water is put on a seed and part of their dead body falls on it, the seed is unclean to you."
+
+- triggers: ["!leviticus11:39 ","!lev11:39 ","!le11:39 "]
+  replace: "“‘Now if an animal that you use for food dies, whoever touches its dead body will be unclean until the evening."
+
+- triggers: ["!leviticus11:40 ","!lev11:40 ","!le11:40 "]
+  replace: "Whoever eats any of its dead body should wash his garments, and he will be unclean until the evening. Whoever carries off its dead body should wash his garments, and he will be unclean until the evening."
+
+- triggers: ["!leviticus11:41 ","!lev11:41 ","!le11:41 "]
+  replace: "Every swarming creature of the earth is something loathsome. It must not be eaten."
+
+- triggers: ["!leviticus11:42 ","!lev11:42 ","!le11:42 "]
+  replace: "You must not eat any creature that crawls on its belly, any creature that goes on all fours, or any of earth’s swarming creatures with a great number of legs, for they are something loathsome."
+
+- triggers: ["!leviticus11:43 ","!lev11:43 ","!le11:43 "]
+  replace: "Do not make yourselves loathsome by means of any swarming creature, and do not defile yourselves and become unclean by them."
+
+- triggers: ["!leviticus11:44 ","!lev11:44 ","!le11:44 "]
+  replace: "For I am Jehovah your God, and you must sanctify yourselves and become holy, because I am holy. So you must not make yourselves unclean by any swarming creature that moves on the earth."
+
+- triggers: ["!leviticus11:45 ","!lev11:45 ","!le11:45 "]
+  replace: "For I am Jehovah, who is leading you up out of the land of Egypt to prove myself God to you, and you must be holy, because I am holy."
+
+- triggers: ["!leviticus11:46 ","!lev11:46 ","!le11:46 "]
+  replace: "“‘This is the law about the animals, the flying creatures, every living creature that moves through the waters, and concerning every creature that swarms on the earth,"
+
+- triggers: ["!leviticus11:47 ","!lev11:47 ","!le11:47 "]
+  replace: "in order to make a distinction between the unclean and the clean and between the living creatures that may be eaten and those that may not be eaten.’”"
+
+- triggers: ["!leviticus12:1 ","!lev12:1 ","!le12:1 "]
+  replace: "Jehovah went on to say to Moses:"
+
+- triggers: ["!leviticus12:2 ","!lev12:2 ","!le12:2 "]
+  replace: "“Tell the Israelites, ‘If a woman becomes pregnant and gives birth to a male, she will be unclean for seven days, just as she is in the days of the impurity when she is menstruating."
+
+- triggers: ["!leviticus12:3 ","!lev12:3 ","!le12:3 "]
+  replace: "On the eighth day, the flesh of his foreskin will be circumcised."
+
+- triggers: ["!leviticus12:4 ","!lev12:4 ","!le12:4 "]
+  replace: "She will continue cleansing herself from the blood for the next 33 days. She should not touch any holy thing, and she should not come into the holy place until she fulfills the days of her purification."
+
+- triggers: ["!leviticus12:5 ","!lev12:5 ","!le12:5 "]
+  replace: "“‘If she should give birth to a female, she will then be unclean for 14 days, just as she would be during her menstruation. She will continue cleansing herself from the blood for the next 6"
+
+- triggers: ["!leviticus12:6 ","!lev12:6 ","!le12:6 "]
+  replace: "days. 6 When the days of her purification for a son or a daughter are completed, she will bring a young ram in its first year for a burnt offering and a young pigeon or a turtledove for a sin offering to the entrance of the tent of meeting, to the priest."
+
+- triggers: ["!leviticus12:7 ","!lev12:7 ","!le12:7 "]
+  replace: "He will present it before Jehovah and make atonement for her, and she will be clean from her flow of blood. This is the law about the woman who gives birth to either a male or a female."
+
+- triggers: ["!leviticus12:8 ","!lev12:8 ","!le12:8 "]
+  replace: "But if she cannot afford a sheep, she must then take two turtledoves or two young pigeons, one for a burnt offering and one for a sin offering, and the priest will make atonement for her, and she will be clean.’”"
+
+- triggers: ["!leviticus13:1 ","!lev13:1 ","!le13:1 "]
+  replace: "Jehovah continued to speak to Moses and Aaron, saying:"
+
+- triggers: ["!leviticus13:2 ","!lev13:2 ","!le13:2 "]
+  replace: "“If a man develops on his skin a swelling, a scab, or a blotch and it could become the disease of leprosy on his skin, he must then be brought to Aaron the priest or to one of his sons, the priests."
+
+- triggers: ["!leviticus13:3 ","!lev13:3 ","!le13:3 "]
+  replace: "The priest will examine the infection on his skin. When the hair in the infection has turned white and the appearance of the infection is deeper than the skin, it is the disease of leprosy. The priest will examine it and declare him unclean."
+
+- triggers: ["!leviticus13:4 ","!lev13:4 ","!le13:4 "]
+  replace: "But if the blotch on his skin is white and its appearance is not deeper than the skin and the hair has not turned white, the priest will then quarantine the infected person for seven days."
+
+- triggers: ["!leviticus13:5 ","!lev13:5 ","!le13:5 "]
+  replace: "The priest will then examine him on the seventh day, and if it appears that the infection has stopped and has not spread on the skin, the priest will quarantine him for another seven days."
+
+- triggers: ["!leviticus13:6 ","!lev13:6 ","!le13:6 "]
+  replace: "“The priest should examine him again on the seventh day, and if the infection has faded and has not spread in the skin, the priest will declare him clean; it was only a scab. The man will then wash his garments and be clean."
+
+- triggers: ["!leviticus13:7 ","!lev13:7 ","!le13:7 "]
+  replace: "But if the scab has definitely spread on the skin after he appears before the priest to establish his purification, he will then appear again before the priest."
+
+- triggers: ["!leviticus13:8 ","!lev13:8 ","!le13:8 "]
+  replace: "The priest will examine it, and if the scab has spread in the skin, the priest will then declare him unclean. It is leprosy."
+
+- triggers: ["!leviticus13:9 ","!lev13:9 ","!le13:9 "]
+  replace: "“If the disease of leprosy develops in a man, he must then be brought to the priest,"
+
+- triggers: ["!leviticus13:10 ","!lev13:10 ","!le13:10 "]
+  replace: "and the priest will examine him. If there is a white swelling on the skin and it has turned the hair white and there is an open sore in the swelling,"
+
+- triggers: ["!leviticus13:11 ","!lev13:11 ","!le13:11 "]
+  replace: "it is chronic leprosy on his skin, and the priest will declare him unclean. He should not quarantine him, for he is unclean."
+
+- triggers: ["!leviticus13:12 ","!lev13:12 ","!le13:12 "]
+  replace: "Now if the leprosy breaks out all over the skin and the leprosy covers the person with the disease from head to foot, as far as the priest can see,"
+
+- triggers: ["!leviticus13:13 ","!lev13:13 ","!le13:13 "]
+  replace: "and the priest has examined him and sees that the leprosy has covered all his skin, he will then declare the infected person clean. All of it has turned white, and he is clean."
+
+- triggers: ["!leviticus13:14 ","!lev13:14 ","!le13:14 "]
+  replace: "But whenever an open sore appears in it, he will be unclean."
+
+- triggers: ["!leviticus13:15 ","!lev13:15 ","!le13:15 "]
+  replace: "When the priest sees the open sore, he will declare him unclean. The open sore is unclean. It is leprosy."
+
+- triggers: ["!leviticus13:16 ","!lev13:16 ","!le13:16 "]
+  replace: "But if the open sore again turns white, he will then come to the priest."
+
+- triggers: ["!leviticus13:17 ","!lev13:17 ","!le13:17 "]
+  replace: "The priest will examine him, and if the infection has turned white, the priest will then declare the infected person clean. He is clean."
+
+- triggers: ["!leviticus13:18 ","!lev13:18 ","!le13:18 "]
+  replace: "“If a person develops a boil on his skin and it heals,"
+
+- triggers: ["!leviticus13:19 ","!lev13:19 ","!le13:19 "]
+  replace: "but in the place of the boil a white swelling or a reddish-white blotch has developed, he must then show himself to the priest."
+
+- triggers: ["!leviticus13:20 ","!lev13:20 ","!le13:20 "]
+  replace: "The priest will examine it, and if it appears to be deeper than the skin and its hair has turned white, the priest will then declare him unclean. It is the disease of leprosy that has broken out in the boil."
+
+- triggers: ["!leviticus13:21 ","!lev13:21 ","!le13:21 "]
+  replace: "But if the priest examines it and sees that there is no white hair in it and it is not deeper than the skin and appears faded, the priest will then quarantine him for seven days."
+
+- triggers: ["!leviticus13:22 ","!lev13:22 ","!le13:22 "]
+  replace: "And if it has clearly spread on the skin, the priest will then declare him unclean. It is a disease."
+
+- triggers: ["!leviticus13:23 ","!lev13:23 ","!le13:23 "]
+  replace: "But if the blotch stays in one place and has not spread, it is only the inflammation from the boil, and the priest will declare him clean."
+
+- triggers: ["!leviticus13:24 ","!lev13:24 ","!le13:24 "]
+  replace: "“Or if someone has a scar from the fire and the raw flesh of the scar becomes a reddish-white blotch or a white one,"
+
+- triggers: ["!leviticus13:25 ","!lev13:25 ","!le13:25 "]
+  replace: "the priest will then examine it. If the hair in the blotch has turned white and it appears to be deeper than the skin, it is leprosy that has broken out in the scar, and the priest will declare him unclean. It is the disease of leprosy."
+
+- triggers: ["!leviticus13:26 ","!lev13:26 ","!le13:26 "]
+  replace: "But if the priest examines it and sees that there is no white hair in the blotch and it is not deeper than the skin and it is faded, the priest will then quarantine him for seven days."
+
+- triggers: ["!leviticus13:27 ","!lev13:27 ","!le13:27 "]
+  replace: "The priest will examine him on the seventh day, and if it has clearly spread on the skin, the priest will then declare him unclean. It is the disease of leprosy."
+
+- triggers: ["!leviticus13:28 ","!lev13:28 ","!le13:28 "]
+  replace: "But if the blotch stays in one place and has not spread over the skin and it is faded, it is only a swelling of the scar, and the priest will declare him clean, because it is an inflammation of the scar."
+
+- triggers: ["!leviticus13:29 ","!lev13:29 ","!le13:29 "]
+  replace: "“When a man or a woman develops an infection on the head or on the chin,"
+
+- triggers: ["!leviticus13:30 ","!lev13:30 ","!le13:30 "]
+  replace: "the priest will then examine the infection. If it appears to be deeper than the skin and the hair is yellow and thin, the priest will then declare such one unclean; it is an infection of the scalp or the beard. It is leprosy of the head or of the chin."
+
+- triggers: ["!leviticus13:31 ","!lev13:31 ","!le13:31 "]
+  replace: "But if the priest sees that the infection does not appear to be deeper than the skin and there is no black hair in it, the priest should quarantine the infected person for seven days."
+
+- triggers: ["!leviticus13:32 ","!lev13:32 ","!le13:32 "]
+  replace: "The priest will examine the infection on the seventh day, and if the infected area has not spread and no yellow hair has developed in it and the appearance of the infected area is not deeper than the skin,"
+
+- triggers: ["!leviticus13:33 ","!lev13:33 ","!le13:33 "]
+  replace: "the person should have himself shaved, but he will not have the infected area shaved. Then the priest will quarantine the infected person for seven days."
+
+- triggers: ["!leviticus13:34 ","!lev13:34 ","!le13:34 "]
+  replace: "“The priest will again examine the infected area on the seventh day, and if the infection of the scalp and beard has not spread on the skin and it does not appear deeper than the skin, the priest must then declare him clean, and he should wash his garments and be clean."
+
+- triggers: ["!leviticus13:35 ","!lev13:35 ","!le13:35 "]
+  replace: "But if the infection clearly spreads on the skin after his purification,"
+
+- triggers: ["!leviticus13:36 ","!lev13:36 ","!le13:36 "]
+  replace: "the priest will examine him, and if the infection has spread on the skin, the priest does not need to look for yellow hair; that person is unclean."
+
+- triggers: ["!leviticus13:37 ","!lev13:37 ","!le13:37 "]
+  replace: "But if the examination shows that the infection has not spread and black hair has grown on it, the infection has been healed. He is clean, and the priest will declare him clean."
+
+- triggers: ["!leviticus13:38 ","!lev13:38 ","!le13:38 "]
+  replace: "“If a man or a woman develops blotches on the skin and the blotches are white,"
+
+- triggers: ["!leviticus13:39 ","!lev13:39 ","!le13:39 "]
+  replace: "the priest will examine them. If the skin blotches are faded white, it is a harmless rash that has broken out on the skin. That person is clean."
+
+- triggers: ["!leviticus13:40 ","!lev13:40 ","!le13:40 "]
+  replace: "“If a man loses the hair of his head and becomes bald, he is clean."
+
+- triggers: ["!leviticus13:41 ","!lev13:41 ","!le13:41 "]
+  replace: "If he loses the hair on the front of his head and becomes bald there, he is clean."
+
+- triggers: ["!leviticus13:42 ","!lev13:42 ","!le13:42 "]
+  replace: "But if a reddish-white sore develops on the bald part of his scalp or on his forehead, it is leprosy breaking out on his scalp or on his forehead."
+
+- triggers: ["!leviticus13:43 ","!lev13:43 ","!le13:43 "]
+  replace: "The priest will examine him, and if the swelling from the infection is reddish-white on the bald spot on top of his head or on his forehead and it looks like leprosy on his skin,"
+
+- triggers: ["!leviticus13:44 ","!lev13:44 ","!le13:44 "]
+  replace: "he is a leper. He is unclean, and the priest should declare him unclean because of the disease on his head."
+
+- triggers: ["!leviticus13:45 ","!lev13:45 ","!le13:45 "]
+  replace: "As for the leper who has the disease, his garments should be torn and his head should be left ungroomed and he should cover over his mustache and call out, ‘Unclean, unclean!’"
+
+- triggers: ["!leviticus13:46 ","!lev13:46 ","!le13:46 "]
+  replace: "He will be unclean the whole time that he has the disease. Since he is unclean, he should live in isolation. His dwelling place will be outside the camp."
+
+- triggers: ["!leviticus13:47 ","!lev13:47 ","!le13:47 "]
+  replace: "“If the disease of leprosy contaminates a garment, whether a woolen or a linen garment,"
+
+- triggers: ["!leviticus13:48 ","!lev13:48 ","!le13:48 "]
+  replace: "either in the warp or in the woof of the linen or of the wool, or in a skin or in anything made of skin,"
+
+- triggers: ["!leviticus13:49 ","!lev13:49 ","!le13:49 "]
+  replace: "and the yellowish-green or reddish stain from the disease contaminates the garment, a skin, the warp, the woof, or any article of skin, it is a contamination from leprosy, and it should be shown to the priest."
+
+- triggers: ["!leviticus13:50 ","!lev13:50 ","!le13:50 "]
+  replace: "The priest will examine the disease, and he must quarantine the disease for seven days."
+
+- triggers: ["!leviticus13:51 ","!lev13:51 ","!le13:51 "]
+  replace: "When he examines the disease on the seventh day and sees that it has spread in the garment, in the warp, in the woof, or in the skin (regardless of what the skin is used for), the disease is malignant leprosy, and it is unclean."
+
+- triggers: ["!leviticus13:52 ","!lev13:52 ","!le13:52 "]
+  replace: "He should burn the garment or the warp or the woof in the wool or in the linen or any article of skin in which the disease has developed, for it is malignant leprosy. It should be burned in the fire."
+
+- triggers: ["!leviticus13:53 ","!lev13:53 ","!le13:53 "]
+  replace: "“But if the priest examines it and the disease has not spread in the garment or in the warp or in the woof or in any article of skin,"
+
+- triggers: ["!leviticus13:54 ","!lev13:54 ","!le13:54 "]
+  replace: "the priest will then command that they should wash the contaminated item, and he will quarantine it for another seven days."
+
+- triggers: ["!leviticus13:55 ","!lev13:55 ","!le13:55 "]
+  replace: "The priest will then examine the contaminated item after it has been thoroughly washed. If the appearance of the contamination has not changed, even if the disease has not spread, it is unclean. You should burn it in the fire because it has been eaten away, either from its underside or from its outside."
+
+- triggers: ["!leviticus13:56 ","!lev13:56 ","!le13:56 "]
+  replace: "“But if the priest has examined it and the contaminated part is faded after it has been thoroughly washed, he will then tear it out of the garment or the skin or the warp or the woof."
+
+- triggers: ["!leviticus13:57 ","!lev13:57 ","!le13:57 "]
+  replace: "However, if it still appears in another part of the garment or in the warp or in the woof or in any article of skin, it is spreading, and you should burn any contaminated item in the fire."
+
+- triggers: ["!leviticus13:58 ","!lev13:58 ","!le13:58 "]
+  replace: "But when the contamination disappears from the garment or the warp or the woof or any article of skin that you wash, it should then be washed a second time, and it will be clean."
+
+- triggers: ["!leviticus13:59 ","!lev13:59 ","!le13:59 "]
+  replace: "“This is the law of the disease of leprosy in a garment of wool or of linen, or in the warp or in the woof, or in any article of skin, for declaring it clean or unclean.”"
+
+- triggers: ["!leviticus14:1 ","!lev14:1 ","!le14:1 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus14:2 ","!lev14:2 ","!le14:2 "]
+  replace: "“This is to be the law of the leper on the day his purification is established, when he is to be brought to the priest."
+
+- triggers: ["!leviticus14:3 ","!lev14:3 ","!le14:3 "]
+  replace: "The priest will go outside the camp and examine him. If the leper has been cured of the leprosy,"
+
+- triggers: ["!leviticus14:4 ","!lev14:4 ","!le14:4 "]
+  replace: "the priest will command him to bring two live clean birds, cedarwood, scarlet material, and hyssop for his cleansing."
+
+- triggers: ["!leviticus14:5 ","!lev14:5 ","!le14:5 "]
+  replace: "The priest will command that the one bird be killed in an earthenware vessel over running water."
+
+- triggers: ["!leviticus14:6 ","!lev14:6 ","!le14:6 "]
+  replace: "But he should take the living bird along with the cedarwood, the scarlet material, and the hyssop, and dip them together in the blood of the bird that was killed over the running water."
+
+- triggers: ["!leviticus14:7 ","!lev14:7 ","!le14:7 "]
+  replace: "Then he will spatter it seven times on the one cleansing himself from the leprosy and declare him clean, and he will set the living bird free in the open field."
+
+- triggers: ["!leviticus14:8 ","!lev14:8 ","!le14:8 "]
+  replace: "“The one cleansing himself must wash his garments and shave off all his hair and bathe in water, and he will be clean. Afterward, he may come into the camp, but he will dwell outside his tent for seven days."
+
+- triggers: ["!leviticus14:9 ","!lev14:9 ","!le14:9 "]
+  replace: "On the seventh day, he should shave off all the hair on his head and his chin and his eyebrows. After he shaves off all his hair, he will wash his garments and bathe himself in water, and he will be clean."
+
+- triggers: ["!leviticus14:10 ","!lev14:10 ","!le14:10 "]
+  replace: "“On the eighth day, he will take two sound young rams, one sound female lamb in its first year, three tenths of an eʹphah of fine flour mixed with oil as a grain offering, and one log measure of oil;"
+
+- triggers: ["!leviticus14:11 ","!lev14:11 ","!le14:11 "]
+  replace: "and the priest who declares him clean will present the man who is cleansing himself, along with the offerings, before Jehovah at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus14:12 ","!lev14:12 ","!le14:12 "]
+  replace: "The priest will take the one young ram and offer it as a guilt offering together with the log measure of oil, and he will wave them back and forth as a wave offering before Jehovah."
+
+- triggers: ["!leviticus14:13 ","!lev14:13 ","!le14:13 "]
+  replace: "Then he will slaughter the young ram in the place where the sin offering and the burnt offering are usually slaughtered, in a holy place, because, like the sin offering, the guilt offering belongs to the priest. It is something most holy."
+
+- triggers: ["!leviticus14:14 ","!lev14:14 ","!le14:14 "]
+  replace: "“Then the priest will take some of the blood of the guilt offering, and the priest will put it on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot."
+
+- triggers: ["!leviticus14:15 ","!lev14:15 ","!le14:15 "]
+  replace: "And the priest will take some of the log measure of oil and pour it into his own left palm."
+
+- triggers: ["!leviticus14:16 ","!lev14:16 ","!le14:16 "]
+  replace: "The priest will then dip his right finger into the oil that is in his left palm and spatter some of the oil with his finger seven times before Jehovah."
+
+- triggers: ["!leviticus14:17 ","!lev14:17 ","!le14:17 "]
+  replace: "Then the priest will put some of the remaining oil in his palm on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot over the blood of the guilt offering."
+
+- triggers: ["!leviticus14:18 ","!lev14:18 ","!le14:18 "]
+  replace: "The priest will put what is left over of the oil in his palm on the head of the one cleansing himself, and the priest will make atonement for him before Jehovah."
+
+- triggers: ["!leviticus14:19 ","!lev14:19 ","!le14:19 "]
+  replace: "“The priest will sacrifice the sin offering and make atonement for the one cleansing himself from his impurity, and afterward he will slaughter the burnt offering."
+
+- triggers: ["!leviticus14:20 ","!lev14:20 ","!le14:20 "]
+  replace: "And the priest will offer up the burnt offering and the grain offering on the altar, and the priest will make atonement for him, and he will be clean."
+
+- triggers: ["!leviticus14:21 ","!lev14:21 ","!le14:21 "]
+  replace: "“However, if he is poor and does not have enough means, he will then take one young ram as a guilt offering for a wave offering, in order to make atonement for himself, along with one tenth of an eʹphah of fine flour mixed with oil as a grain offering, a log measure of oil,"
+
+- triggers: ["!leviticus14:22 ","!lev14:22 ","!le14:22 "]
+  replace: "and two turtledoves or two young pigeons, according to his means. The one will serve as a sin offering, and the other as a burnt offering."
+
+- triggers: ["!leviticus14:23 ","!lev14:23 ","!le14:23 "]
+  replace: "On the eighth day, he will bring them for establishing his purification to the priest at the entrance of the tent of meeting before Jehovah."
+
+- triggers: ["!leviticus14:24 ","!lev14:24 ","!le14:24 "]
+  replace: "“The priest will take the young ram of the guilt offering and the log measure of oil, and the priest will wave them back and forth as a wave offering before Jehovah."
+
+- triggers: ["!leviticus14:25 ","!lev14:25 ","!le14:25 "]
+  replace: "He will then slaughter the young ram of the guilt offering, and the priest will take some of the blood of the guilt offering and put it on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot."
+
+- triggers: ["!leviticus14:26 ","!lev14:26 ","!le14:26 "]
+  replace: "The priest will pour some of the oil into his own left palm,"
+
+- triggers: ["!leviticus14:27 ","!lev14:27 ","!le14:27 "]
+  replace: "and he will then spatter with his right finger some of the oil that is in his left palm seven times before Jehovah."
+
+- triggers: ["!leviticus14:28 ","!lev14:28 ","!le14:28 "]
+  replace: "And the priest will put some of the oil that is in his palm on the right earlobe of the one cleansing himself and on the thumb of his right hand and on the big toe of his right foot on the same places that he put the blood of the guilt offering."
+
+- triggers: ["!leviticus14:29 ","!lev14:29 ","!le14:29 "]
+  replace: "The priest will then put what is left over of the oil in his palm on the head of the one cleansing himself, in order to make atonement for him before Jehovah."
+
+- triggers: ["!leviticus14:30 ","!lev14:30 ","!le14:30 "]
+  replace: "“He will offer up one of the turtledoves or one of the young pigeons, according to his means,"
+
+- triggers: ["!leviticus14:31 ","!lev14:31 ","!le14:31 "]
+  replace: "the one he can afford, as a sin offering and the other as a burnt offering along with the grain offering; and the priest will make atonement for the one cleansing himself before Jehovah."
+
+- triggers: ["!leviticus14:32 ","!lev14:32 ","!le14:32 "]
+  replace: "“This is the law for the one in whom the disease of leprosy was but who does not have the means when establishing his purification.”"
+
+- triggers: ["!leviticus14:33 ","!lev14:33 ","!le14:33 "]
+  replace: "Then Jehovah said to Moses and Aaron:"
+
+- triggers: ["!leviticus14:34 ","!lev14:34 ","!le14:34 "]
+  replace: "“When you come into the land of Caʹnaan, which I am giving you as a possession, and I contaminate a house in your land with the disease of leprosy,"
+
+- triggers: ["!leviticus14:35 ","!lev14:35 ","!le14:35 "]
+  replace: "the one to whom the house belongs should then come and tell the priest, ‘Some kind of contamination has appeared in my house.’"
+
+- triggers: ["!leviticus14:36 ","!lev14:36 ","!le14:36 "]
+  replace: "The priest will give orders to clear out the house before he comes to examine the contamination, in order that he may not declare everything that is in the house unclean; and after that the priest will come in to inspect the house."
+
+- triggers: ["!leviticus14:37 ","!lev14:37 ","!le14:37 "]
+  replace: "He will examine the affected area, and if the walls of the house are contaminated with yellowish-green or reddish depressions and they appear to be deeper than the wall surface,"
+
+- triggers: ["!leviticus14:38 ","!lev14:38 ","!le14:38 "]
+  replace: "the priest will then go out of the house to the entryway of the house and quarantine the house for seven days."
+
+- triggers: ["!leviticus14:39 ","!lev14:39 ","!le14:39 "]
+  replace: "“Then the priest will return on the seventh day and make an inspection. If the contamination has spread in the walls of the house,"
+
+- triggers: ["!leviticus14:40 ","!lev14:40 ","!le14:40 "]
+  replace: "the priest will then give orders, and the contaminated stones must be torn out and thrown outside the city into an unclean place."
+
+- triggers: ["!leviticus14:41 ","!lev14:41 ","!le14:41 "]
+  replace: "Then he is to have the inside of the house thoroughly scraped, and the plaster and mortar that is removed should be discarded outside the city in an unclean place."
+
+- triggers: ["!leviticus14:42 ","!lev14:42 ","!le14:42 "]
+  replace: "They will then insert other stones in the place of the stones they removed, and he should use different mortar and have the house plastered."
+
+- triggers: ["!leviticus14:43 ","!lev14:43 ","!le14:43 "]
+  replace: "“If, though, the contamination returns and breaks out in the house after the stones were torn out and the house was scraped and replastered,"
+
+- triggers: ["!leviticus14:44 ","!lev14:44 ","!le14:44 "]
+  replace: "the priest will then go in and inspect it. If the contamination has spread in the house, it is malignant leprosy in the house. The house is unclean."
+
+- triggers: ["!leviticus14:45 ","!lev14:45 ","!le14:45 "]
+  replace: "He will then have the house pulled down—its stones, its timbers, and all the plaster and mortar of the house—and carried outside the city to an unclean place."
+
+- triggers: ["!leviticus14:46 ","!lev14:46 ","!le14:46 "]
+  replace: "But whoever enters the house any of the days it is quarantined will be unclean until the evening;"
+
+- triggers: ["!leviticus14:47 ","!lev14:47 ","!le14:47 "]
+  replace: "and whoever lies down in the house should wash his garments, and whoever eats in the house should wash his garments."
+
+- triggers: ["!leviticus14:48 ","!lev14:48 ","!le14:48 "]
+  replace: "“However, if the priest comes and sees that the contamination has not spread in the house after the house was replastered, the priest will then declare the house clean, because the contamination has been healed."
+
+- triggers: ["!leviticus14:49 ","!lev14:49 ","!le14:49 "]
+  replace: "In order to purify the house from uncleanness, he will take two birds, cedarwood, scarlet material, and hyssop."
+
+- triggers: ["!leviticus14:50 ","!lev14:50 ","!le14:50 "]
+  replace: "He is to kill the one bird in an earthenware vessel over running water."
+
+- triggers: ["!leviticus14:51 ","!lev14:51 ","!le14:51 "]
+  replace: "Then he will take the cedarwood, the hyssop, the scarlet material, and the live bird and dip them in the blood of the bird that was killed and in the running water, and he must spatter it toward the house seven times."
+
+- triggers: ["!leviticus14:52 ","!lev14:52 ","!le14:52 "]
+  replace: "And he will purify the house from uncleanness with the blood of the bird, the running water, the live bird, the cedarwood, the hyssop, and the scarlet material."
+
+- triggers: ["!leviticus14:53 ","!lev14:53 ","!le14:53 "]
+  replace: "He will then set the live bird free outside the city in the open field and make atonement for the house, and it will be clean."
+
+- triggers: ["!leviticus14:54 ","!lev14:54 ","!le14:54 "]
+  replace: "“This is the law respecting any case of leprosy, infection of the scalp or the beard,"
+
+- triggers: ["!leviticus14:55 ","!lev14:55 ","!le14:55 "]
+  replace: "leprosy of the garment or the house,"
+
+- triggers: ["!leviticus14:56 ","!lev14:56 ","!le14:56 "]
+  replace: "and respecting swellings, scabs, and blotches,"
+
+- triggers: ["!leviticus14:57 ","!lev14:57 ","!le14:57 "]
+  replace: "in order to determine when something is unclean and when something is clean. This is the law about leprosy.”"
+
+- triggers: ["!leviticus15:1 ","!lev15:1 ","!le15:1 "]
+  replace: "Jehovah continued to speak to Moses and Aaron, saying:"
+
+- triggers: ["!leviticus15:2 ","!lev15:2 ","!le15:2 "]
+  replace: "“Speak to the Israelites and tell them, ‘If a man has a discharge from his genital organ, this discharge makes him unclean."
+
+- triggers: ["!leviticus15:3 ","!lev15:3 ","!le15:3 "]
+  replace: "He is unclean from the discharge, whether the discharge continues to flow from his genitals or is obstructed, he is still unclean."
+
+- triggers: ["!leviticus15:4 ","!lev15:4 ","!le15:4 "]
+  replace: "“‘Any bed that the one with the discharge lies on will be unclean, and anything he sits on will be unclean."
+
+- triggers: ["!leviticus15:5 ","!lev15:5 ","!le15:5 "]
+  replace: "A man who touches his bed must wash his garments, and he should bathe in water and be unclean until the evening."
+
+- triggers: ["!leviticus15:6 ","!lev15:6 ","!le15:6 "]
+  replace: "Anyone who sits on an article that the one having a discharge sat on should wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:7 ","!lev15:7 ","!le15:7 "]
+  replace: "Whoever touches the flesh of the one having a discharge should wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:8 ","!lev15:8 ","!le15:8 "]
+  replace: "If the one who has a discharge spits on someone clean, that person must wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:9 ","!lev15:9 ","!le15:9 "]
+  replace: "Any saddle that the one with the discharge rides on will be unclean."
+
+- triggers: ["!leviticus15:10 ","!lev15:10 ","!le15:10 "]
+  replace: "Anyone touching anything that was under him will be unclean until the evening, and anyone who carries those items will wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:11 ","!lev15:11 ","!le15:11 "]
+  replace: "If the one with the discharge has not washed his hands in water and he touches someone, that person must then wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:12 ","!lev15:12 ","!le15:12 "]
+  replace: "An earthenware vessel that the one having a discharge touches should be smashed, and any wooden vessel should be washed with water."
+
+- triggers: ["!leviticus15:13 ","!lev15:13 ","!le15:13 "]
+  replace: "“‘When the discharge stops and the person becomes clean from it, he will then count seven days for his purification, and he must wash his garments, bathe himself in running water, and he will be clean."
+
+- triggers: ["!leviticus15:14 ","!lev15:14 ","!le15:14 "]
+  replace: "On the eighth day, he should take two turtledoves or two young pigeons and come before Jehovah at the entrance of the tent of meeting and give them to the priest."
+
+- triggers: ["!leviticus15:15 ","!lev15:15 ","!le15:15 "]
+  replace: "And the priest will offer them, the one as a sin offering and the other as a burnt offering, and the priest will make atonement for him before Jehovah concerning his discharge."
+
+- triggers: ["!leviticus15:16 ","!lev15:16 ","!le15:16 "]
+  replace: "“‘Now if a man has an emission of semen, he should bathe his whole body in water and be unclean until the evening."
+
+- triggers: ["!leviticus15:17 ","!lev15:17 ","!le15:17 "]
+  replace: "He must wash with water any garment and any skin with semen on it, and it will be unclean until the evening."
+
+- triggers: ["!leviticus15:18 ","!lev15:18 ","!le15:18 "]
+  replace: "“‘When a man lies with a woman and has an emission of semen, they should bathe in water and be unclean until the evening."
+
+- triggers: ["!leviticus15:19 ","!lev15:19 ","!le15:19 "]
+  replace: "“‘If a woman has a discharge of blood from her body, she will continue in her menstrual impurity for seven days. Anyone touching her will be unclean until the evening."
+
+- triggers: ["!leviticus15:20 ","!lev15:20 ","!le15:20 "]
+  replace: "Anything she lies down on in her menstrual impurity will be unclean, and everything she sits on will be unclean."
+
+- triggers: ["!leviticus15:21 ","!lev15:21 ","!le15:21 "]
+  replace: "Anyone touching her bed should wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:22 ","!lev15:22 ","!le15:22 "]
+  replace: "Anyone touching any article she sat on should wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:23 ","!lev15:23 ","!le15:23 "]
+  replace: "If she sat on the bed or on another article, his touching it will make him unclean until the evening."
+
+- triggers: ["!leviticus15:24 ","!lev15:24 ","!le15:24 "]
+  replace: "And if a man lies down with her and her menstrual impurity comes on him, he will then be unclean for seven days, and any bed on which he lies down will be unclean."
+
+- triggers: ["!leviticus15:25 ","!lev15:25 ","!le15:25 "]
+  replace: "“‘When a woman’s discharge of blood flows for many days when it is not the regular time of her menstruation, or if she should have a flow longer than her usual menstruation, she will be unclean during all the days of her discharge, as in the days of her menstrual impurity."
+
+- triggers: ["!leviticus15:26 ","!lev15:26 ","!le15:26 "]
+  replace: "Any bed she lies on during the days of her discharge will become like the bed of her menstrual impurity, and any article she sits on will become unclean like the uncleanness of her menstrual impurity."
+
+- triggers: ["!leviticus15:27 ","!lev15:27 ","!le15:27 "]
+  replace: "Anyone touching them will be unclean, and he must wash his garments, bathe in water, and be unclean until the evening."
+
+- triggers: ["!leviticus15:28 ","!lev15:28 ","!le15:28 "]
+  replace: "“‘However, when she is clean from her discharge, she will count for herself seven days, and afterward she will be clean."
+
+- triggers: ["!leviticus15:29 ","!lev15:29 ","!le15:29 "]
+  replace: "On the eighth day, she should take two turtledoves or two young pigeons, and she will bring them to the priest at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus15:30 ","!lev15:30 ","!le15:30 "]
+  replace: "The priest will make the one a sin offering and the other a burnt offering, and the priest will make atonement for her before Jehovah concerning her unclean discharge."
+
+- triggers: ["!leviticus15:31 ","!lev15:31 ","!le15:31 "]
+  replace: "“‘Thus you must keep the Israelites separate from their uncleanness, so that they do not die in their uncleanness by defiling my tabernacle, which is in their midst."
+
+- triggers: ["!leviticus15:32 ","!lev15:32 ","!le15:32 "]
+  replace: "“‘This is the law about the man having a discharge, the man who is unclean because of an emission of semen,"
+
+- triggers: ["!leviticus15:33 ","!lev15:33 ","!le15:33 "]
+  replace: "the woman during her menstrual impurity, any male or female who has a discharge flowing from the body, and a man who lies down with an unclean woman.’”"
+
+- triggers: ["!leviticus16:1 ","!lev16:1 ","!le16:1 "]
+  replace: "Jehovah spoke to Moses after the death of Aaron’s two sons who died for approaching Jehovah."
+
+- triggers: ["!leviticus16:2 ","!lev16:2 ","!le16:2 "]
+  replace: "Jehovah said to Moses: “Tell Aaron your brother that he may not come at just any time into the holy place inside the curtain, in front of the cover on the Ark, so that he may not die, for I will appear over the cover in a cloud."
+
+- triggers: ["!leviticus16:3 ","!lev16:3 ","!le16:3 "]
+  replace: "“This is what Aaron should bring when he comes into the holy place: a young bull for a sin offering and a ram for a burnt offering."
+
+- triggers: ["!leviticus16:4 ","!lev16:4 ","!le16:4 "]
+  replace: "He should put on the holy linen robe, and the linen shorts should cover his body, and he should wrap himself with the linen sash and his head with the linen turban. They are holy garments. He will bathe himself in water and put them on."
+
+- triggers: ["!leviticus16:5 ","!lev16:5 ","!le16:5 "]
+  replace: "“He should take from the assembly of the Israelites two young male goats for a sin offering and one ram for a burnt offering."
+
+- triggers: ["!leviticus16:6 ","!lev16:6 ","!le16:6 "]
+  replace: "“Aaron must then present the bull of the sin offering, which is for himself, and he will make atonement in behalf of himself and his house."
+
+- triggers: ["!leviticus16:7 ","!lev16:7 ","!le16:7 "]
+  replace: "“He will then take the two goats and make them stand before Jehovah at the entrance of the tent of meeting."
+
+- triggers: ["!leviticus16:8 ","!lev16:8 ","!le16:8 "]
+  replace: "Aaron will draw lots over the two goats, the one lot for Jehovah and the other lot for Azaʹzel."
+
+- triggers: ["!leviticus16:9 ","!lev16:9 ","!le16:9 "]
+  replace: "Aaron will present the goat that was designated by lot for Jehovah and make it a sin offering."
+
+- triggers: ["!leviticus16:10 ","!lev16:10 ","!le16:10 "]
+  replace: "But the goat designated by lot for Azaʹzel should be brought alive to stand before Jehovah in order to perform the atonement upon it, so that it may be sent away for Azaʹzel into the wilderness."
+
+- triggers: ["!leviticus16:11 ","!lev16:11 ","!le16:11 "]
+  replace: "“Aaron will present the bull of the sin offering, which is for himself, and make atonement in behalf of himself and his house; afterward he will slaughter the bull of the sin offering, which is for himself."
+
+- triggers: ["!leviticus16:12 ","!lev16:12 ","!le16:12 "]
+  replace: "“He will then take the fire holder full of burning coals from the altar before Jehovah and two handfuls of fine perfumed incense, and he will bring them inside the curtain."
+
+- triggers: ["!leviticus16:13 ","!lev16:13 ","!le16:13 "]
+  replace: "He will also put the incense on the fire before Jehovah, and the cloud of the incense will envelop the Ark cover, which is on the Testimony, so that he may not die."
+
+- triggers: ["!leviticus16:14 ","!lev16:14 ","!le16:14 "]
+  replace: "“He will take some of the bull’s blood and spatter it with his finger in front of the cover on the east side, and he will spatter some of the blood with his finger seven times before the cover."
+
+- triggers: ["!leviticus16:15 ","!lev16:15 ","!le16:15 "]
+  replace: "“He will then slaughter the goat of the sin offering, which is for the people, and bring its blood inside the curtain and do with its blood the same as he did with the bull’s blood; he is to spatter it toward the cover and before the cover."
+
+- triggers: ["!leviticus16:16 ","!lev16:16 ","!le16:16 "]
+  replace: "“He must make atonement for the holy place concerning the acts of uncleanness of the Israelites and concerning their transgressions and their sins, and that is what he should do for the tent of meeting, which is located among them in the midst of their acts of uncleanness."
+
+- triggers: ["!leviticus16:17 ","!lev16:17 ","!le16:17 "]
+  replace: "“No other man should be in the tent of meeting from the time he goes in to make atonement in the holy place until he comes out. He will make atonement in behalf of himself and his house and in behalf of the entire congregation of Israel."
+
+- triggers: ["!leviticus16:18 ","!lev16:18 ","!le16:18 "]
+  replace: "“He will then come out to the altar, which is before Jehovah, and make atonement for it, and he will take some of the bull’s blood and some of the goat’s blood and put it on the horns of the altar on all sides."
+
+- triggers: ["!leviticus16:19 ","!lev16:19 ","!le16:19 "]
+  replace: "He will also spatter some of the blood on it with his finger seven times and cleanse it and sanctify it from the acts of uncleanness of the Israelites."
+
+- triggers: ["!leviticus16:20 ","!lev16:20 ","!le16:20 "]
+  replace: "“When he has finished making atonement for the holy place and the tent of meeting and the altar, he will also present the live goat."
+
+- triggers: ["!leviticus16:21 ","!lev16:21 ","!le16:21 "]
+  replace: "Aaron will lay both his hands on the head of the live goat and confess over it all the errors of the Israelites and all their transgressions and all their sins, and he will put them on the head of the goat and send it away into the wilderness by the hand of a man designated to do this."
+
+- triggers: ["!leviticus16:22 ","!lev16:22 ","!le16:22 "]
+  replace: "The goat will carry upon itself all their errors into a desert land, and he will send the goat away into the wilderness."
+
+- triggers: ["!leviticus16:23 ","!lev16:23 ","!le16:23 "]
+  replace: "“Aaron will then enter into the tent of meeting and take off the linen garments that he put on when he went into the holy place, and he will lay them down there."
+
+- triggers: ["!leviticus16:24 ","!lev16:24 ","!le16:24 "]
+  replace: "He must bathe himself in water in a holy place and put on his garments; then he will come out and offer up his burnt offering and the people’s burnt offering and make atonement in his own behalf and in behalf of the people."
+
+- triggers: ["!leviticus16:25 ","!lev16:25 ","!le16:25 "]
+  replace: "He will make the fat of the sin offering smoke on the altar."
+
+- triggers: ["!leviticus16:26 ","!lev16:26 ","!le16:26 "]
+  replace: "“The man who sent away the goat for Azaʹzel should wash his garments and bathe himself in water, and after that he may come into the camp."
+
+- triggers: ["!leviticus16:27 ","!lev16:27 ","!le16:27 "]
+  replace: "“And the bull of the sin offering and the goat of the sin offering, whose blood was brought into the holy place to make atonement, will be taken outside the camp, and their skins and their flesh and their dung will be burned in the fire."
+
+- triggers: ["!leviticus16:28 ","!lev16:28 ","!le16:28 "]
+  replace: "The one who burns them should wash his garments and bathe himself in water, and after that he may come into the camp."
+
+- triggers: ["!leviticus16:29 ","!lev16:29 ","!le16:29 "]
+  replace: "“It will serve as a lasting statute for you: In the seventh month, on the tenth of the month, you should afflict yourselves, and you must not do any work, whether a native or a foreigner who is residing among you."
+
+- triggers: ["!leviticus16:30 ","!lev16:30 ","!le16:30 "]
+  replace: "On this day atonement will be made for you, to declare you clean. You will be clean from all your sins before Jehovah."
+
+- triggers: ["!leviticus16:31 ","!lev16:31 ","!le16:31 "]
+  replace: "It is a sabbath of complete rest for you, and you should afflict yourselves. It is a lasting statute."
+
+- triggers: ["!leviticus16:32 ","!lev16:32 ","!le16:32 "]
+  replace: "“The priest who is anointed and installed to serve as priest in place of his father will make atonement and put on the linen garments, the holy garments."
+
+- triggers: ["!leviticus16:33 ","!lev16:33 ","!le16:33 "]
+  replace: "He will make atonement for the holy sanctuary, the tent of meeting, and the altar; and he will make atonement for the priests and for all the people of the congregation."
+
+- triggers: ["!leviticus16:34 ","!lev16:34 ","!le16:34 "]
+  replace: "This will serve as a lasting statute for you, to make atonement for the Israelites concerning all their sins once each year.” So he did just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus17:1 ","!lev17:1 ","!le17:1 "]
+  replace: "Jehovah went on to say to Moses:"
+
+- triggers: ["!leviticus17:2 ","!lev17:2 ","!le17:2 "]
+  replace: "“Speak to Aaron and his sons and all the Israelites and say to them, ‘This is what Jehovah has commanded:"
+
+- triggers: ["!leviticus17:3 ","!lev17:3 ","!le17:3 "]
+  replace: "“‘“If any man of the house of Israel slaughters a bull or a young ram or a goat in the camp or if he slaughters it outside the camp,"
+
+- triggers: ["!leviticus17:4 ","!lev17:4 ","!le17:4 "]
+  replace: "instead of bringing it to the entrance of the tent of meeting to present it as an offering to Jehovah before the tabernacle of Jehovah, bloodguilt will be counted to that man. He has shed blood, and that man must be cut off from among his people."
+
+- triggers: ["!leviticus17:5 ","!lev17:5 ","!le17:5 "]
+  replace: "This is so that the Israelites will bring the sacrifices, which they now sacrifice in the open field, to Jehovah, to the entrance of the tent of meeting, to the priest. They are to sacrifice these as communion sacrifices to Jehovah."
+
+- triggers: ["!leviticus17:6 ","!lev17:6 ","!le17:6 "]
+  replace: "And the priest will sprinkle the blood on Jehovah’s altar at the entrance of the tent of meeting and make the fat smoke as a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus17:7 ","!lev17:7 ","!le17:7 "]
+  replace: "So they should no longer offer sacrifices to the goatlike demons, with which they are prostituting themselves. This will serve as a lasting statute for you throughout your generations.”’"
+
+- triggers: ["!leviticus17:8 ","!lev17:8 ","!le17:8 "]
+  replace: "“You should say to them, ‘Any man of the house of Israel or any foreigner who is residing in your midst who offers up a burnt offering or a sacrifice"
+
+- triggers: ["!leviticus17:9 ","!lev17:9 ","!le17:9 "]
+  replace: "and does not bring it to the entrance of the tent of meeting to offer it to Jehovah must be cut off from his people."
+
+- triggers: ["!leviticus17:10 ","!lev17:10 ","!le17:10 "]
+  replace: "“‘If any man of the house of Israel or any foreigner who is residing in your midst eats any sort of blood, I will certainly set my face against the one who is eating the blood, and I will cut him off from among his people."
+
+- triggers: ["!leviticus17:11 ","!lev17:11 ","!le17:11 "]
+  replace: "For the life of the flesh is in the blood, and I myself have given it on the altar for you to make atonement for yourselves, because it is the blood that makes atonement by means of the life in it."
+
+- triggers: ["!leviticus17:12 ","!lev17:12 ","!le17:12 "]
+  replace: "That is why I have said to the Israelites: “None of you should eat blood, and no foreigner who is residing in your midst should eat blood.”"
+
+- triggers: ["!leviticus17:13 ","!lev17:13 ","!le17:13 "]
+  replace: "“‘If one of the Israelites or some foreigner who is residing in your midst is hunting and catches a wild animal or a bird that may be eaten, he must pour its blood out and cover it with dust."
+
+- triggers: ["!leviticus17:14 ","!lev17:14 ","!le17:14 "]
+  replace: "For the life of every sort of flesh is its blood, because the life is in it. Consequently, I said to the Israelites: “You must not eat the blood of any sort of flesh because the life of every sort of flesh is its blood. Anyone eating it will be cut off.”"
+
+- triggers: ["!leviticus17:15 ","!lev17:15 ","!le17:15 "]
+  replace: "If anyone, whether a native or a foreigner, eats an animal found dead or one torn by a wild animal, he must then wash his garments and bathe in water and be unclean until the evening; then he will be clean."
+
+- triggers: ["!leviticus17:16 ","!lev17:16 ","!le17:16 "]
+  replace: "But if he does not wash them and does not bathe himself, he will answer for his error.’”"
+
+- triggers: ["!leviticus18:1 ","!lev18:1 ","!le18:1 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus18:2 ","!lev18:2 ","!le18:2 "]
+  replace: "“Speak to the Israelites and say to them, ‘I am Jehovah your God."
+
+- triggers: ["!leviticus18:3 ","!lev18:3 ","!le18:3 "]
+  replace: "You must not behave as they do in the land of Egypt, where you were dwelling, and you must not do what they do in the land of Caʹnaan, where I am bringing you. And you must not walk in their statutes."
+
+- triggers: ["!leviticus18:4 ","!lev18:4 ","!le18:4 "]
+  replace: "You should carry out my judicial decisions, and you should keep my statutes and walk in them. I am Jehovah your God."
+
+- triggers: ["!leviticus18:5 ","!lev18:5 ","!le18:5 "]
+  replace: "You must keep my statutes and my judicial decisions; anyone who does so will live by means of them. I am Jehovah."
+
+- triggers: ["!leviticus18:6 ","!lev18:6 ","!le18:6 "]
+  replace: "“‘No man among you should approach any of his close relatives to have sexual relations. I am Jehovah."
+
+- triggers: ["!leviticus18:7 ","!lev18:7 ","!le18:7 "]
+  replace: "You must not have sexual relations with your father, and you must not have sexual relations with your mother. She is your mother, and you must not have sexual relations with her."
+
+- triggers: ["!leviticus18:8 ","!lev18:8 ","!le18:8 "]
+  replace: "“‘You must not have sexual relations with your father’s wife. It is exposing your father to shame."
+
+- triggers: ["!leviticus18:9 ","!lev18:9 ","!le18:9 "]
+  replace: "“‘You must not have sexual relations with your sister, either the daughter of your father or the daughter of your mother, whether she is born in the same household or born outside of it."
+
+- triggers: ["!leviticus18:10 ","!lev18:10 ","!le18:10 "]
+  replace: "“‘You must not have sexual relations with the daughter of your son or the daughter of your daughter, because they are your own nakedness."
+
+- triggers: ["!leviticus18:11 ","!lev18:11 ","!le18:11 "]
+  replace: "“‘You must not have sexual relations with the daughter of your father’s wife, the offspring of your father, because she is your sister."
+
+- triggers: ["!leviticus18:12 ","!lev18:12 ","!le18:12 "]
+  replace: "“‘You must not have sexual relations with your father’s sister. She is your father’s blood relative."
+
+- triggers: ["!leviticus18:13 ","!lev18:13 ","!le18:13 "]
+  replace: "“‘You must not have sexual relations with your mother’s sister, because she is your mother’s blood relative."
+
+- triggers: ["!leviticus18:14 ","!lev18:14 ","!le18:14 "]
+  replace: "“‘You must not expose your father’s brother to shame by having sexual relations with his wife. She is your aunt."
+
+- triggers: ["!leviticus18:15 ","!lev18:15 ","!le18:15 "]
+  replace: "“‘You must not have sexual relations with your daughter-in-law. She is your son’s wife, and you must not have relations with her."
+
+- triggers: ["!leviticus18:16 ","!lev18:16 ","!le18:16 "]
+  replace: "“‘You must not have sexual relations with your brother’s wife, because it is exposing your brother to shame."
+
+- triggers: ["!leviticus18:17 ","!lev18:17 ","!le18:17 "]
+  replace: "“‘You must not have sexual relations with a woman and her daughter. You must not take the daughter of her son and the daughter of her daughter in order to have relations. They are her close relatives; it is an obscene act."
+
+- triggers: ["!leviticus18:18 ","!lev18:18 ","!le18:18 "]
+  replace: "“‘You must not take a woman in addition to her sister as a rival wife and have sexual relations with her while her sister is alive."
+
+- triggers: ["!leviticus18:19 ","!lev18:19 ","!le18:19 "]
+  replace: "“‘You must not approach a woman during her menstrual impurity to have sexual relations with her."
+
+- triggers: ["!leviticus18:20 ","!lev18:20 ","!le18:20 "]
+  replace: "“‘You must not have sexual intercourse with the wife of your fellow man, making yourself unclean."
+
+- triggers: ["!leviticus18:21 ","!lev18:21 ","!le18:21 "]
+  replace: "“‘You must not allow any of your offspring to be offered to Moʹlech. You must not profane the name of your God in that way. I am Jehovah."
+
+- triggers: ["!leviticus18:22 ","!lev18:22 ","!le18:22 "]
+  replace: "“‘You must not lie down with a male in the same way that you lie down with a woman. It is a detestable act."
+
+- triggers: ["!leviticus18:23 ","!lev18:23 ","!le18:23 "]
+  replace: "“‘A man must not have sexual intercourse with an animal to become unclean by it; nor should a woman offer herself to an animal to have intercourse with it. It is a violation of what is natural."
+
+- triggers: ["!leviticus18:24 ","!lev18:24 ","!le18:24 "]
+  replace: "“‘Do not make yourselves unclean by any of these things, for it is by all these things that the nations that I am driving out from before you have made themselves unclean."
+
+- triggers: ["!leviticus18:25 ","!lev18:25 ","!le18:25 "]
+  replace: "Therefore, the land is unclean, and I will bring punishment on it for its error, and the land will vomit its inhabitants out."
+
+- triggers: ["!leviticus18:26 ","!lev18:26 ","!le18:26 "]
+  replace: "But you yourselves must keep my statutes and my judicial decisions, and you must not do any of these detestable things, whether a native or a foreigner who is residing among you."
+
+- triggers: ["!leviticus18:27 ","!lev18:27 ","!le18:27 "]
+  replace: "For all these detestable things were done by the men who lived in the land before you, and now the land is unclean."
+
+- triggers: ["!leviticus18:28 ","!lev18:28 ","!le18:28 "]
+  replace: "Then the land will not have to vomit you out for defiling it in the same way that it will vomit out the nations that were before you."
+
+- triggers: ["!leviticus18:29 ","!lev18:29 ","!le18:29 "]
+  replace: "If anyone does any of these detestable things, all those doing them must be cut off from among their people."
+
+- triggers: ["!leviticus18:30 ","!lev18:30 ","!le18:30 "]
+  replace: "You must keep your obligation to me by not practicing any of the detestable customs that were carried on before you, so that you do not make yourselves unclean by them. I am Jehovah your God.’”"
+
+- triggers: ["!leviticus19:1 ","!lev19:1 ","!le19:1 "]
+  replace: "Jehovah spoke further to Moses, saying:"
+
+- triggers: ["!leviticus19:2 ","!lev19:2 ","!le19:2 "]
+  replace: "“Speak to the entire assembly of the Israelites and tell them, ‘You should be holy, because I, Jehovah your God, am holy."
+
+- triggers: ["!leviticus19:3 ","!lev19:3 ","!le19:3 "]
+  replace: "“‘Each of you should respect his mother and his father, and you should keep my sabbaths. I am Jehovah your God."
+
+- triggers: ["!leviticus19:4 ","!lev19:4 ","!le19:4 "]
+  replace: "Do not turn to worthless gods or make for yourselves gods of cast metal. I am Jehovah your God."
+
+- triggers: ["!leviticus19:5 ","!lev19:5 ","!le19:5 "]
+  replace: "“‘Now if you offer a communion sacrifice to Jehovah, you should sacrifice it in such a way that you gain approval for yourselves."
+
+- triggers: ["!leviticus19:6 ","!lev19:6 ","!le19:6 "]
+  replace: "It should be eaten on the day of your sacrifice and on the next day, but what is left over until the third day should be burned in the fire."
+
+- triggers: ["!leviticus19:7 ","!lev19:7 ","!le19:7 "]
+  replace: "If, though, any of it is eaten on the third day, it is an offensive thing that will not be accepted with approval."
+
+- triggers: ["!leviticus19:8 ","!lev19:8 ","!le19:8 "]
+  replace: "The one eating it will answer for his error because he has profaned a holy thing of Jehovah, and that person must be cut off from his people."
+
+- triggers: ["!leviticus19:9 ","!lev19:9 ","!le19:9 "]
+  replace: "“‘When you reap the harvest of your land, you must not reap the edge of your field completely and you must not pick up the gleaning of your harvest."
+
+- triggers: ["!leviticus19:10 ","!lev19:10 ","!le19:10 "]
+  replace: "Also, you must not gather the leftovers of your vineyard or pick up the scattered grapes of your vineyard. You should leave them for the poor and the foreign resident. I am Jehovah your God."
+
+- triggers: ["!leviticus19:11 ","!lev19:11 ","!le19:11 "]
+  replace: "“‘You must not steal, you must not deceive, and you must not deal falsely with one another."
+
+- triggers: ["!leviticus19:12 ","!lev19:12 ","!le19:12 "]
+  replace: "You must not swear to a lie in my name and thus profane the name of your God. I am Jehovah."
+
+- triggers: ["!leviticus19:13 ","!lev19:13 ","!le19:13 "]
+  replace: "You must not defraud your fellow man, and you must not rob. You should not withhold the wages of a hired worker all night until morning."
+
+- triggers: ["!leviticus19:14 ","!lev19:14 ","!le19:14 "]
+  replace: "“‘You must not curse a deaf man or put an obstacle before a blind man, and you must be in fear of your God. I am Jehovah."
+
+- triggers: ["!leviticus19:15 ","!lev19:15 ","!le19:15 "]
+  replace: "“‘You must not be unjust in your judgment. You must not show partiality to the poor or show preference to the rich. With justice you should judge your fellow man."
+
+- triggers: ["!leviticus19:16 ","!lev19:16 ","!le19:16 "]
+  replace: "“‘You must not go around spreading slander among your people. You must not stand up against the life of your fellow man. I am Jehovah."
+
+- triggers: ["!leviticus19:17 ","!lev19:17 ","!le19:17 "]
+  replace: "“‘You must not hate your brother in your heart. You should by all means reprove your fellow man, so that you will not bear sin along with him."
+
+- triggers: ["!leviticus19:18 ","!lev19:18 ","!le19:18 "]
+  replace: "“‘You must not take vengeance nor hold a grudge against the sons of your people, and you must love your fellow man as yourself. I am Jehovah."
+
+- triggers: ["!leviticus19:19 ","!lev19:19 ","!le19:19 "]
+  replace: "“‘You should keep my statutes: You must not interbreed two sorts of your domestic animals. You must not sow your field with two sorts of seed, and you must not wear a garment made with two sorts of thread mixed together."
+
+- triggers: ["!leviticus19:20 ","!lev19:20 ","!le19:20 "]
+  replace: "“‘Now if a man lies down with a woman and has intercourse with her and she is a servant who is designated for another man, but she has not been redeemed or given her freedom, there should be a punishment. However, they should not be put to death, for she was not yet set free."
+
+- triggers: ["!leviticus19:21 ","!lev19:21 ","!le19:21 "]
+  replace: "He should bring his guilt offering to Jehovah to the entrance of the tent of meeting, a ram of guilt offering."
+
+- triggers: ["!leviticus19:22 ","!lev19:22 ","!le19:22 "]
+  replace: "The priest will make atonement for him with the ram of the guilt offering before Jehovah for the sin that he committed, and he will be forgiven for the sin that he committed."
+
+- triggers: ["!leviticus19:23 ","!lev19:23 ","!le19:23 "]
+  replace: "“‘When you come into the land and you plant any tree for food, you must consider its fruitage impure and forbidden. For three years it will be forbidden to you. It must not be eaten."
+
+- triggers: ["!leviticus19:24 ","!lev19:24 ","!le19:24 "]
+  replace: "But in the fourth year, all its fruit will be holy for rejoicing before Jehovah."
+
+- triggers: ["!leviticus19:25 ","!lev19:25 ","!le19:25 "]
+  replace: "Then in the fifth year, you may eat its fruit in order to add its produce to your harvest. I am Jehovah your God."
+
+- triggers: ["!leviticus19:26 ","!lev19:26 ","!le19:26 "]
+  replace: "“‘You must eat nothing containing blood. “‘You must not look for omens or practice magic."
+
+- triggers: ["!leviticus19:27 ","!lev19:27 ","!le19:27 "]
+  replace: "“‘You must not shave the hair on the side of your head or disfigure the edges of your beard."
+
+- triggers: ["!leviticus19:28 ","!lev19:28 ","!le19:28 "]
+  replace: "“‘You must not make cuts in your flesh for a dead person, and you must not make tattoo markings on yourselves. I am Jehovah."
+
+- triggers: ["!leviticus19:29 ","!lev19:29 ","!le19:29 "]
+  replace: "“‘Do not dishonor your daughter by making her a prostitute, so that the land may not commit prostitution and be filled with loose morals."
+
+- triggers: ["!leviticus19:30 ","!lev19:30 ","!le19:30 "]
+  replace: "“‘You must keep my sabbaths, and you must show reverence for my sanctuary. I am Jehovah."
+
+- triggers: ["!leviticus19:31 ","!lev19:31 ","!le19:31 "]
+  replace: "“‘Do not turn to the spirit mediums, and do not consult fortune-tellers so as to become unclean by them. I am Jehovah your God."
+
+- triggers: ["!leviticus19:32 ","!lev19:32 ","!le19:32 "]
+  replace: "“‘Before gray hair you should rise up, and you must show honor to an older man, and you must be in fear of your God. I am Jehovah."
+
+- triggers: ["!leviticus19:33 ","!lev19:33 ","!le19:33 "]
+  replace: "“‘If a foreigner resides with you in your land, you must not mistreat him."
+
+- triggers: ["!leviticus19:34 ","!lev19:34 ","!le19:34 "]
+  replace: "The foreigner who resides with you should become to you like a native among you; and you must love him as yourself, for you were foreign residents in the land of Egypt. I am Jehovah your God."
+
+- triggers: ["!leviticus19:35 ","!lev19:35 ","!le19:35 "]
+  replace: "“‘You must not use dishonest standards in measuring length, weight, or volume."
+
+- triggers: ["!leviticus19:36 ","!lev19:36 ","!le19:36 "]
+  replace: "You should use accurate scales, accurate weights, an accurate dry measure, and an accurate liquid measure. I am Jehovah your God, who brought you out of the land of Egypt."
+
+- triggers: ["!leviticus19:37 ","!lev19:37 ","!le19:37 "]
+  replace: "So you must keep all my statutes and all my judicial decisions, and you must follow them. I am Jehovah.’”"
+
+- triggers: ["!leviticus20:1 ","!lev20:1 ","!le20:1 "]
+  replace: "Jehovah went on speaking to Moses, saying:"
+
+- triggers: ["!leviticus20:2 ","!lev20:2 ","!le20:2 "]
+  replace: "“You are to say to the Israelites, ‘Any man of Israel and any foreigner who resides in Israel who gives any of his offspring to Moʹlech should be put to death without fail. The people of the land should stone him to death."
+
+- triggers: ["!leviticus20:3 ","!lev20:3 ","!le20:3 "]
+  replace: "I myself will set my face against that man, and I will cut him off from among his people, because he has given some of his offspring to Moʹlech and has defiled my holy place and has profaned my holy name."
+
+- triggers: ["!leviticus20:4 ","!lev20:4 ","!le20:4 "]
+  replace: "If the people of the land should deliberately close their eyes to what that man does when he gives his offspring to Moʹlech and they do not put him to death,"
+
+- triggers: ["!leviticus20:5 ","!lev20:5 ","!le20:5 "]
+  replace: "then I myself will certainly set my face against that man and his family. I will cut off that man from his people along with all who join him in prostituting themselves to Moʹlech."
+
+- triggers: ["!leviticus20:6 ","!lev20:6 ","!le20:6 "]
+  replace: "“‘As for the person who turns to the spirit mediums and the fortune-tellers so as to commit spiritual prostitution with them, I will certainly turn against that person and cut him off from his people."
+
+- triggers: ["!leviticus20:7 ","!lev20:7 ","!le20:7 "]
+  replace: "“‘You must sanctify yourselves and become holy, because I am Jehovah your God."
+
+- triggers: ["!leviticus20:8 ","!lev20:8 ","!le20:8 "]
+  replace: "And you must keep my statutes and carry them out. I am Jehovah, who is sanctifying you."
+
+- triggers: ["!leviticus20:9 ","!lev20:9 ","!le20:9 "]
+  replace: "“‘If there is any man who curses his father or his mother, he should be put to death without fail. Since he has cursed his father or his mother, his own blood is upon him."
+
+- triggers: ["!leviticus20:10 ","!lev20:10 ","!le20:10 "]
+  replace: "“‘Now regarding a man who commits adultery with another man’s wife: The one who commits adultery with the wife of his fellow man should be put to death without fail, the adulterer and the adulteress."
+
+- triggers: ["!leviticus20:11 ","!lev20:11 ","!le20:11 "]
+  replace: "A man who lies down with his father’s wife has exposed his father to shame. Both of them should be put to death without fail. Their own blood is upon them."
+
+- triggers: ["!leviticus20:12 ","!lev20:12 ","!le20:12 "]
+  replace: "If a man lies down with his daughter-in-law, both of them should be put to death without fail. They have violated what is natural. Their own blood is upon them."
+
+- triggers: ["!leviticus20:13 ","!lev20:13 ","!le20:13 "]
+  replace: "“‘If a man lies down with a male the same as one lies down with a woman, both of them have done a detestable thing. They should be put to death without fail. Their own blood is upon them."
+
+- triggers: ["!leviticus20:14 ","!lev20:14 ","!le20:14 "]
+  replace: "“‘If a man takes a woman and her mother, it is an obscene act. They should burn him and them in the fire, so that obscene conduct may not continue among you."
+
+- triggers: ["!leviticus20:15 ","!lev20:15 ","!le20:15 "]
+  replace: "“‘If a man has intercourse with a beast, he should be put to death without fail, and you should kill the beast."
+
+- triggers: ["!leviticus20:16 ","!lev20:16 ","!le20:16 "]
+  replace: "If a woman approaches any beast to have intercourse with it, you must kill the woman and the beast. They should be put to death without fail. Their own blood is upon them."
+
+- triggers: ["!leviticus20:17 ","!lev20:17 ","!le20:17 "]
+  replace: "“‘If a man has sexual relations with his sister, the daughter of his father or the daughter of his mother, and he sees her nakedness and she sees his nakedness, it is a disgrace. They must be cut off before the eyes of the sons of their people. He has exposed his sister to shame. He should answer for his error."
+
+- triggers: ["!leviticus20:18 ","!lev20:18 ","!le20:18 "]
+  replace: "“‘If a man lies down with a menstruating woman and has sexual relations with her, both he and she have exposed her flow of blood. Both of them must be cut off from among their people."
+
+- triggers: ["!leviticus20:19 ","!lev20:19 ","!le20:19 "]
+  replace: "“‘You must not have sexual relations with your mother’s sister or your father’s sister, because that would be exposing a blood relative to shame. They should answer for their error."
+
+- triggers: ["!leviticus20:20 ","!lev20:20 ","!le20:20 "]
+  replace: "A man who lies down with his uncle’s wife has exposed his uncle to shame. They should answer for their sin. They should die childless."
+
+- triggers: ["!leviticus20:21 ","!lev20:21 ","!le20:21 "]
+  replace: "If a man takes his brother’s wife, it is something abhorrent. He has exposed his brother to shame. They should become childless."
+
+- triggers: ["!leviticus20:22 ","!lev20:22 ","!le20:22 "]
+  replace: "“‘You must keep all my statutes and all my judicial decisions and carry them out, so that the land where I am bringing you to dwell will not vomit you out."
+
+- triggers: ["!leviticus20:23 ","!lev20:23 ","!le20:23 "]
+  replace: "You must not walk in the statutes of the nations that I am driving out from before you; for they have done all these things and I abhor them."
+
+- triggers: ["!leviticus20:24 ","!lev20:24 ","!le20:24 "]
+  replace: "That is why I said to you: “You will take possession of their land, and I will give it to you as your possession, a land flowing with milk and honey. Jehovah your God I am, who has set you apart from the peoples.”"
+
+- triggers: ["!leviticus20:25 ","!lev20:25 ","!le20:25 "]
+  replace: "You must make a distinction between the clean animal and the unclean and between the unclean bird and the clean; you must not make yourselves loathsome by means of an animal or a bird or anything that creeps on the ground that I set apart for you to regard as unclean."
+
+- triggers: ["!leviticus20:26 ","!lev20:26 ","!le20:26 "]
+  replace: "You must be holy to me, because I, Jehovah, am holy, and I am setting you apart from the peoples to become mine."
+
+- triggers: ["!leviticus20:27 ","!lev20:27 ","!le20:27 "]
+  replace: "“‘Any man or woman who acts as a spirit medium or is a fortune-teller should be put to death without fail. The people should stone them to death. Their own blood is upon them.’”"
+
+- triggers: ["!leviticus21:1 ","!lev21:1 ","!le21:1 "]
+  replace: "Jehovah went on to say to Moses: “Talk to the priests, Aaron’s sons, and say to them, ‘No one should defile himself for a dead person among his people."
+
+- triggers: ["!leviticus21:2 ","!lev21:2 ","!le21:2 "]
+  replace: "But he may do so for a close blood relative, for his mother, his father, his son, his daughter, his brother,"
+
+- triggers: ["!leviticus21:3 ","!lev21:3 ","!le21:3 "]
+  replace: "and he may defile himself for his sister if she is a virgin who is near to him and has not yet married."
+
+- triggers: ["!leviticus21:4 ","!lev21:4 ","!le21:4 "]
+  replace: "He may not defile himself and make himself profane for a woman who belongs to a husband of his people."
+
+- triggers: ["!leviticus21:5 ","!lev21:5 ","!le21:5 "]
+  replace: "They should not make their heads bald or shave off the fringe of their beard or make cuts on their body."
+
+- triggers: ["!leviticus21:6 ","!lev21:6 ","!le21:6 "]
+  replace: "They should be holy to their God, and they should not profane the name of their God, for they are presenting Jehovah’s offerings made by fire, the bread of their God, and they must be holy."
+
+- triggers: ["!leviticus21:7 ","!lev21:7 ","!le21:7 "]
+  replace: "They should not marry a prostitute, a woman who has been defiled, or a woman divorced from her husband, because the priest is holy to his God."
+
+- triggers: ["!leviticus21:8 ","!lev21:8 ","!le21:8 "]
+  replace: "You must sanctify him, because he is one presenting the bread of your God. He should be holy to you, because I, Jehovah, the one sanctifying you, am holy."
+
+- triggers: ["!leviticus21:9 ","!lev21:9 ","!le21:9 "]
+  replace: "“‘Now if the daughter of a priest should profane herself by committing prostitution, she is profaning her father. She should be burned in the fire."
+
+- triggers: ["!leviticus21:10 ","!lev21:10 ","!le21:10 "]
+  replace: "“‘The high priest of his brothers, on whose head the anointing oil is poured and who has been installed to wear the priestly garments, should not let his head go ungroomed or tear his garments."
+
+- triggers: ["!leviticus21:11 ","!lev21:11 ","!le21:11 "]
+  replace: "He should not approach any dead person; he may not defile himself even for his father or his mother."
+
+- triggers: ["!leviticus21:12 ","!lev21:12 ","!le21:12 "]
+  replace: "He should not go out from the sanctuary and should not profane the sanctuary of his God, for the sign of dedication, the anointing oil of his God, is upon him. I am Jehovah."
+
+- triggers: ["!leviticus21:13 ","!lev21:13 ","!le21:13 "]
+  replace: "“‘He must take as a wife a woman who is a virgin."
+
+- triggers: ["!leviticus21:14 ","!lev21:14 ","!le21:14 "]
+  replace: "He may not marry a widow, a divorced woman, one who has been defiled, or a prostitute; but he should take a virgin from his people as a wife."
+
+- triggers: ["!leviticus21:15 ","!lev21:15 ","!le21:15 "]
+  replace: "He should not profane his offspring among his people, for I am Jehovah, who is sanctifying him.’”"
+
+- triggers: ["!leviticus21:16 ","!lev21:16 ","!le21:16 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus21:17 ","!lev21:17 ","!le21:17 "]
+  replace: "“Tell Aaron, ‘No man of your offspring throughout their generations who has a defect may approach to present the bread of his God."
+
+- triggers: ["!leviticus21:18 ","!lev21:18 ","!le21:18 "]
+  replace: "If there is any man who has a defect, he may not approach: a man who is blind or lame or has a disfigured face or one limb too long,"
+
+- triggers: ["!leviticus21:19 ","!lev21:19 ","!le21:19 "]
+  replace: "a man with a fractured foot or a fractured hand,"
+
+- triggers: ["!leviticus21:20 ","!lev21:20 ","!le21:20 "]
+  replace: "a hunchback or a dwarf, or a man with an eye defect or eczema or ringworm or damaged testicles."
+
+- triggers: ["!leviticus21:21 ","!lev21:21 ","!le21:21 "]
+  replace: "No man of the offspring of Aaron the priest who has a defect may approach to present Jehovah’s offerings made by fire. Because he has a defect, he may not approach to present the bread of his God."
+
+- triggers: ["!leviticus21:22 ","!lev21:22 ","!le21:22 "]
+  replace: "He may eat the bread of his God from the most holy things and from the holy things."
+
+- triggers: ["!leviticus21:23 ","!lev21:23 ","!le21:23 "]
+  replace: "However, he may not come near the curtain, and he may not approach the altar, because there is a defect in him; and he should not profane my sanctuary, for I am Jehovah, who is sanctifying them.’”"
+
+- triggers: ["!leviticus21:24 ","!lev21:24 ","!le21:24 "]
+  replace: "So Moses spoke to Aaron and his sons and all the Israelites."
+
+- triggers: ["!leviticus22:1 ","!lev22:1 ","!le22:1 "]
+  replace: "Jehovah spoke further to Moses, saying:"
+
+- triggers: ["!leviticus22:2 ","!lev22:2 ","!le22:2 "]
+  replace: "“Tell Aaron and his sons that they should be careful how they handle the holy things of the Israelites and not profane my holy name regarding the things they are sanctifying to me. I am Jehovah."
+
+- triggers: ["!leviticus22:3 ","!lev22:3 ","!le22:3 "]
+  replace: "Say to them, ‘Throughout your generations, any of your offspring who, while he is unclean, comes near to the holy things that the Israelites sanctify to Jehovah, that person will be cut off from before me. I am Jehovah."
+
+- triggers: ["!leviticus22:4 ","!lev22:4 ","!le22:4 "]
+  replace: "No man of Aaron’s offspring who has leprosy or a discharge may eat of the holy things until he becomes clean, neither the man who touches someone who became unclean by a dead person, nor a man who has a seminal emission,"
+
+- triggers: ["!leviticus22:5 ","!lev22:5 ","!le22:5 "]
+  replace: "nor a man who touches an unclean swarming creature or who touches a man who is unclean for any reason and who can make him unclean."
+
+- triggers: ["!leviticus22:6 ","!lev22:6 ","!le22:6 "]
+  replace: "The person who touches any of these will be unclean until the evening and may not eat any of the holy things, but he should bathe himself in water."
+
+- triggers: ["!leviticus22:7 ","!lev22:7 ","!le22:7 "]
+  replace: "When the sun has set, he will be clean, and afterward he may eat some of the holy things because it is his food."
+
+- triggers: ["!leviticus22:8 ","!lev22:8 ","!le22:8 "]
+  replace: "Also, he should not eat any animal found dead or anything torn by wild animals and become unclean by it. I am Jehovah."
+
+- triggers: ["!leviticus22:9 ","!lev22:9 ","!le22:9 "]
+  replace: "“‘They must keep their obligation to me, so that they may not incur sin because of it and have to die for it because they were profaning it. I am Jehovah, who is sanctifying them."
+
+- triggers: ["!leviticus22:10 ","!lev22:10 ","!le22:10 "]
+  replace: "“‘No unauthorized person may eat anything holy. No foreign guest of a priest or hired worker may eat anything holy."
+
+- triggers: ["!leviticus22:11 ","!lev22:11 ","!le22:11 "]
+  replace: "But if a priest should purchase someone with his own money, that person may share in eating it. Slaves born in his house may also share in eating his food."
+
+- triggers: ["!leviticus22:12 ","!lev22:12 ","!le22:12 "]
+  replace: "If the daughter of a priest should marry someone who is not a priest, she may not eat of the contribution of the holy things."
+
+- triggers: ["!leviticus22:13 ","!lev22:13 ","!le22:13 "]
+  replace: "But if the daughter of a priest should become a widow or is divorced and she has no offspring and she returns to her father’s house as in her youth, she may eat some of her father’s food; but no unauthorized person may eat it."
+
+- triggers: ["!leviticus22:14 ","!lev22:14 ","!le22:14 "]
+  replace: "“‘Now if a man eats a holy thing by mistake, he must add a fifth of its value and give the holy offering to the priest."
+
+- triggers: ["!leviticus22:15 ","!lev22:15 ","!le22:15 "]
+  replace: "So they should not profane the holy things of the Israelites that they contribute to Jehovah"
+
+- triggers: ["!leviticus22:16 ","!lev22:16 ","!le22:16 "]
+  replace: "and cause them to incur punishment for their guilt because of eating their holy things; for I am Jehovah, who is sanctifying them.’”"
+
+- triggers: ["!leviticus22:17 ","!lev22:17 ","!le22:17 "]
+  replace: "Jehovah continued speaking to Moses, saying:"
+
+- triggers: ["!leviticus22:18 ","!lev22:18 ","!le22:18 "]
+  replace: "“Speak to Aaron and his sons and all the Israelites and say to them, ‘When an Israelite man or a foreign resident in Israel presents a burnt offering to Jehovah to fulfill his vows or to make a voluntary offering,"
+
+- triggers: ["!leviticus22:19 ","!lev22:19 ","!le22:19 "]
+  replace: "he should present a sound male from the herd, the young rams, or the goats, in order to gain approval."
+
+- triggers: ["!leviticus22:20 ","!lev22:20 ","!le22:20 "]
+  replace: "You must not present anything with a defect, for it will not serve to gain approval for you."
+
+- triggers: ["!leviticus22:21 ","!lev22:21 ","!le22:21 "]
+  replace: "“‘If a man presents a communion sacrifice to Jehovah to pay a vow or as a voluntary offering, it should be a sound animal from the herd or the flock, in order to gain approval. No defect at all should be in it."
+
+- triggers: ["!leviticus22:22 ","!lev22:22 ","!le22:22 "]
+  replace: "No offering should be blind, have a fracture, a cut, a wart, scabbiness, or ringworm; you must not present any of these to Jehovah or make such an offering on the altar for Jehovah."
+
+- triggers: ["!leviticus22:23 ","!lev22:23 ","!le22:23 "]
+  replace: "You may present a bull or a sheep with a limb that is too long or too short as a voluntary offering, but it will not be accepted with approval as a vow offering."
+
+- triggers: ["!leviticus22:24 ","!lev22:24 ","!le22:24 "]
+  replace: "You must not present to Jehovah one having the testicles damaged or crushed or pulled off or cut off, and you should not offer such animals in your land."
+
+- triggers: ["!leviticus22:25 ","!lev22:25 ","!le22:25 "]
+  replace: "And you must not present any of these from the hand of a foreigner as the bread of your God, for they are corrupted and defective. They will not be accepted with approval for you.’”"
+
+- triggers: ["!leviticus22:26 ","!lev22:26 ","!le22:26 "]
+  replace: "Jehovah spoke further to Moses, saying:"
+
+- triggers: ["!leviticus22:27 ","!lev22:27 ","!le22:27 "]
+  replace: "“When a bull or a young ram or a goat is born, it will continue with its mother for seven days, but from the eighth day forward it will be accepted with approval as an offering, an offering made by fire to Jehovah."
+
+- triggers: ["!leviticus22:28 ","!lev22:28 ","!le22:28 "]
+  replace: "As for a bull or a sheep, you must not slaughter it and its young on the same day."
+
+- triggers: ["!leviticus22:29 ","!lev22:29 ","!le22:29 "]
+  replace: "“If you sacrifice a thanksgiving sacrifice to Jehovah, you should sacrifice it to gain approval for yourselves."
+
+- triggers: ["!leviticus22:30 ","!lev22:30 ","!le22:30 "]
+  replace: "It should be eaten on that day. You must not leave any of it until morning. I am Jehovah."
+
+- triggers: ["!leviticus22:31 ","!lev22:31 ","!le22:31 "]
+  replace: "“You must keep my commandments and carry them out. I am Jehovah."
+
+- triggers: ["!leviticus22:32 ","!lev22:32 ","!le22:32 "]
+  replace: "You must not profane my holy name, and I must be sanctified in the midst of the Israelites. I am Jehovah, who is sanctifying you,"
+
+- triggers: ["!leviticus22:33 ","!lev22:33 ","!le22:33 "]
+  replace: "the one bringing you out of the land of Egypt to prove myself God to you. I am Jehovah.”"
+
+- triggers: ["!leviticus23:1 ","!lev23:1 ","!le23:1 "]
+  replace: "Jehovah continued speaking to Moses, saying:"
+
+- triggers: ["!leviticus23:2 ","!lev23:2 ","!le23:2 "]
+  replace: "“Speak to the Israelites and tell them, ‘The seasonal festivals of Jehovah that you should proclaim are holy conventions. These are my seasonal festivals:"
+
+- triggers: ["!leviticus23:3 ","!lev23:3 ","!le23:3 "]
+  replace: "“‘Six days work may be done, but on the seventh day is a sabbath of complete rest, a holy convention. You may not do any sort of work. It is to be a sabbath to Jehovah wherever you dwell."
+
+- triggers: ["!leviticus23:4 ","!lev23:4 ","!le23:4 "]
+  replace: "“‘These are the seasonal festivals of Jehovah, holy conventions that you should proclaim at the times appointed for them:"
+
+- triggers: ["!leviticus23:5 ","!lev23:5 ","!le23:5 "]
+  replace: "In the first month, on the 14th day of the month, at twilight is the Passover to Jehovah."
+
+- triggers: ["!leviticus23:6 ","!lev23:6 ","!le23:6 "]
+  replace: "“‘On the 15th day of this month is the Festival of Unleavened Bread to Jehovah. Seven days you should eat unleavened bread."
+
+- triggers: ["!leviticus23:7 ","!lev23:7 ","!le23:7 "]
+  replace: "On the first day, you will observe a holy convention. You should not do any hard work."
+
+- triggers: ["!leviticus23:8 ","!lev23:8 ","!le23:8 "]
+  replace: "But you are to present an offering made by fire to Jehovah for seven days. There will be a holy convention on the seventh day. You should not do any hard work.’”"
+
+- triggers: ["!leviticus23:9 ","!lev23:9 ","!le23:9 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus23:10 ","!lev23:10 ","!le23:10 "]
+  replace: "“Speak to the Israelites and tell them, ‘When you eventually come into the land that I am giving you and you have reaped its harvest, you must bring a sheaf of the firstfruits of your harvest to the priest."
+
+- triggers: ["!leviticus23:11 ","!lev23:11 ","!le23:11 "]
+  replace: "And he will wave the sheaf back and forth before Jehovah to gain approval for you. The priest should wave it on the day after the Sabbath."
+
+- triggers: ["!leviticus23:12 ","!lev23:12 ","!le23:12 "]
+  replace: "On the day you have the sheaf waved, you must offer a sound young ram in its first year, as a burnt offering to Jehovah."
+
+- triggers: ["!leviticus23:13 ","!lev23:13 ","!le23:13 "]
+  replace: "Its grain offering will be two tenths of an eʹphah of fine flour mixed with oil, as an offering made by fire to Jehovah, a pleasing aroma. Its drink offering will be a fourth of a hin of wine."
+
+- triggers: ["!leviticus23:14 ","!lev23:14 ","!le23:14 "]
+  replace: "You must not eat any bread, roasted grain, or new grain until this day, until you bring the offering of your God. It is a lasting statute for all your generations wherever you dwell."
+
+- triggers: ["!leviticus23:15 ","!lev23:15 ","!le23:15 "]
+  replace: "“‘You are to count seven sabbaths from the day after the Sabbath, from the day that you bring the sheaf of the wave offering. They should be complete weeks."
+
+- triggers: ["!leviticus23:16 ","!lev23:16 ","!le23:16 "]
+  replace: "You will count off 50 days until the day after the seventh Sabbath, and then you should present a new grain offering to Jehovah."
+
+- triggers: ["!leviticus23:17 ","!lev23:17 ","!le23:17 "]
+  replace: "You should bring from your dwelling places two loaves as a wave offering. These should be made of two tenths of an eʹphah of fine flour. They should be baked with leaven, as first ripe fruits to Jehovah."
+
+- triggers: ["!leviticus23:18 ","!lev23:18 ","!le23:18 "]
+  replace: "And you should present along with the loaves seven sound male lambs, each a year old, and one young bull and two rams. They will serve as a burnt offering to Jehovah along with the corresponding grain offering and drink offerings, as an offering made by fire, of a pleasing aroma to Jehovah."
+
+- triggers: ["!leviticus23:19 ","!lev23:19 ","!le23:19 "]
+  replace: "And you must offer one young goat as a sin offering and two male lambs, each a year old, as a communion sacrifice."
+
+- triggers: ["!leviticus23:20 ","!lev23:20 ","!le23:20 "]
+  replace: "The priest will wave them back and forth along with the loaves of the first ripe fruits, as a wave offering before Jehovah, together with the two male lambs. They should serve as something holy to Jehovah for the priest."
+
+- triggers: ["!leviticus23:21 ","!lev23:21 ","!le23:21 "]
+  replace: "On this day you will make a proclamation for a holy convention for yourselves. You may not do any hard work. It is a lasting statute in all your dwelling places for all your generations."
+
+- triggers: ["!leviticus23:22 ","!lev23:22 ","!le23:22 "]
+  replace: "“‘When you reap the harvest of your land, you must not reap the edge of your field completely and you should not pick up what is left from your harvest. You should leave it for the poor and for the foreign resident. I am Jehovah your God.’”"
+
+- triggers: ["!leviticus23:23 ","!lev23:23 ","!le23:23 "]
+  replace: "Jehovah went on speaking to Moses, saying:"
+
+- triggers: ["!leviticus23:24 ","!lev23:24 ","!le23:24 "]
+  replace: "“Tell the Israelites, ‘In the seventh month, on the first of the month, you should observe a complete rest, a memorial signaled by a trumpet blast, a holy convention."
+
+- triggers: ["!leviticus23:25 ","!lev23:25 ","!le23:25 "]
+  replace: "You may not do any hard work, and you will present an offering made by fire to Jehovah.’”"
+
+- triggers: ["!leviticus23:26 ","!lev23:26 ","!le23:26 "]
+  replace: "Jehovah spoke further to Moses, saying:"
+
+- triggers: ["!leviticus23:27 ","!lev23:27 ","!le23:27 "]
+  replace: "“However, on the tenth of this seventh month is the Day of Atonement. You should observe a holy convention, and you must afflict yourselves and present an offering made by fire to Jehovah."
+
+- triggers: ["!leviticus23:28 ","!lev23:28 ","!le23:28 "]
+  replace: "You are not to do any sort of work on this particular day because it is a day of atonement to make atonement for you before Jehovah your God."
+
+- triggers: ["!leviticus23:29 ","!lev23:29 ","!le23:29 "]
+  replace: "Anyone who will not afflict himself on this day will be cut off from his people."
+
+- triggers: ["!leviticus23:30 ","!lev23:30 ","!le23:30 "]
+  replace: "And I will destroy from among his people every person who does any sort of work on this day."
+
+- triggers: ["!leviticus23:31 ","!lev23:31 ","!le23:31 "]
+  replace: "You must not do any sort of work. It is a lasting statute for all your generations wherever you dwell."
+
+- triggers: ["!leviticus23:32 ","!lev23:32 ","!le23:32 "]
+  replace: "It is a sabbath of complete rest for you, and you will afflict yourselves on the ninth of the month in the evening. You should observe your sabbath from evening to evening.”"
+
+- triggers: ["!leviticus23:33 ","!lev23:33 ","!le23:33 "]
+  replace: "Jehovah continued speaking to Moses, saying:"
+
+- triggers: ["!leviticus23:34 ","!lev23:34 ","!le23:34 "]
+  replace: "“Tell the Israelites, ‘On the 15th day of this seventh month is the Festival of Booths for seven days to Jehovah."
+
+- triggers: ["!leviticus23:35 ","!lev23:35 ","!le23:35 "]
+  replace: "There is to be a holy convention on the first day, and you should not do any hard work."
+
+- triggers: ["!leviticus23:36 ","!lev23:36 ","!le23:36 "]
+  replace: "Seven days you must present an offering made by fire to Jehovah. On the eighth day, you should observe a holy convention, and you should present an offering made by fire to Jehovah. It is a solemn assembly. You may not do any hard work."
+
+- triggers: ["!leviticus23:37 ","!lev23:37 ","!le23:37 "]
+  replace: "“‘These are the seasonal festivals of Jehovah that you should proclaim as holy conventions for presenting an offering made by fire to Jehovah: the burnt offering and the grain offering of the sacrifice and the drink offerings according to the daily schedule."
+
+- triggers: ["!leviticus23:38 ","!lev23:38 ","!le23:38 "]
+  replace: "These are in addition to what is offered on Jehovah’s sabbaths, and your gifts, your vow offerings, and your voluntary offerings, which you should give to Jehovah."
+
+- triggers: ["!leviticus23:39 ","!lev23:39 ","!le23:39 "]
+  replace: "However, on the 15th day of the seventh month, when you have gathered the produce of the land, you should celebrate the festival of Jehovah for seven days. On the first day is a complete rest and on the eighth day is a complete rest."
+
+- triggers: ["!leviticus23:40 ","!lev23:40 ","!le23:40 "]
+  replace: "On the first day, you will take the fruit of majestic trees, the fronds of palm trees, the branches of leafy trees and poplars of the valley, and you will rejoice before Jehovah your God for seven days."
+
+- triggers: ["!leviticus23:41 ","!lev23:41 ","!le23:41 "]
+  replace: "You will celebrate it as a festival to Jehovah for seven days in the year. As a lasting statute during all your generations, you should celebrate it in the seventh month."
+
+- triggers: ["!leviticus23:42 ","!lev23:42 ","!le23:42 "]
+  replace: "You should dwell in the booths for seven days. All the natives in Israel should dwell in the booths,"
+
+- triggers: ["!leviticus23:43 ","!lev23:43 ","!le23:43 "]
+  replace: "so that your future generations may know that it was in the booths that I made the Israelites dwell when I was bringing them out of the land of Egypt. I am Jehovah your God.’”"
+
+- triggers: ["!leviticus23:44 ","!lev23:44 ","!le23:44 "]
+  replace: "So Moses spoke of the seasonal festivals of Jehovah to the Israelites."
+
+- triggers: ["!leviticus24:1 ","!lev24:1 ","!le24:1 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus24:2 ","!lev24:2 ","!le24:2 "]
+  replace: "“Command the Israelites to bring to you pure, beaten olive oil for the lights, to keep the lamps lit constantly."
+
+- triggers: ["!leviticus24:3 ","!lev24:3 ","!le24:3 "]
+  replace: "Outside the curtain of the Testimony in the tent of meeting, Aaron should arrange to keep the lamps lit from evening to morning before Jehovah constantly. It is a permanent statute for all your generations."
+
+- triggers: ["!leviticus24:4 ","!lev24:4 ","!le24:4 "]
+  replace: "He should set the lamps in order on the lampstand of pure gold before Jehovah constantly."
+
+- triggers: ["!leviticus24:5 ","!lev24:5 ","!le24:5 "]
+  replace: "“You will take fine flour and bake it into 12 ring-shaped loaves. Two tenths of an eʹphah should go into each loaf."
+
+- triggers: ["!leviticus24:6 ","!lev24:6 ","!le24:6 "]
+  replace: "You will place them in two sets of layers, six to the layer set, on the table of pure gold before Jehovah."
+
+- triggers: ["!leviticus24:7 ","!lev24:7 ","!le24:7 "]
+  replace: "You should put pure frankincense on each layer set, and it will serve as the bread for a token offering made by fire to Jehovah."
+
+- triggers: ["!leviticus24:8 ","!lev24:8 ","!le24:8 "]
+  replace: "On each Sabbath day, he should regularly arrange it before Jehovah. It is a lasting covenant with the Israelites."
+
+- triggers: ["!leviticus24:9 ","!lev24:9 ","!le24:9 "]
+  replace: "It will become Aaron’s and his sons’, and they will eat it in a holy place, because it is something most holy for him from Jehovah’s offerings made by fire, as a lasting regulation.”"
+
+- triggers: ["!leviticus24:10 ","!lev24:10 ","!le24:10 "]
+  replace: "Now among the Israelites was a son of an Israelite woman and an Egyptian man, and a fight broke out between him and an Israelite man in the camp."
+
+- triggers: ["!leviticus24:11 ","!lev24:11 ","!le24:11 "]
+  replace: "The son of the Israelite woman began to abuse the Name and to curse it. So they brought him to Moses. Incidentally, his mother was Sheloʹmith, the daughter of Dibʹri of the tribe of Dan."
+
+- triggers: ["!leviticus24:12 ","!lev24:12 ","!le24:12 "]
+  replace: "They placed him in custody until Jehovah’s decision was made clear to them."
+
+- triggers: ["!leviticus24:13 ","!lev24:13 ","!le24:13 "]
+  replace: "Then Jehovah said to Moses:"
+
+- triggers: ["!leviticus24:14 ","!lev24:14 ","!le24:14 "]
+  replace: "“Bring the one who cursed to the outside of the camp, and all those who heard him must lay their hands on his head, and then the entire assembly must stone him."
+
+- triggers: ["!leviticus24:15 ","!lev24:15 ","!le24:15 "]
+  replace: "And you should tell the Israelites, ‘If any man curses his God, he will answer for his sin."
+
+- triggers: ["!leviticus24:16 ","!lev24:16 ","!le24:16 "]
+  replace: "So the abuser of Jehovah’s name should be put to death without fail. The entire assembly should stone him without fail. The foreign resident should be put to death the same as the native for his abusing the Name."
+
+- triggers: ["!leviticus24:17 ","!lev24:17 ","!le24:17 "]
+  replace: "“‘If a man takes a human life, he should be put to death without fail."
+
+- triggers: ["!leviticus24:18 ","!lev24:18 ","!le24:18 "]
+  replace: "Anyone who strikes and kills a domestic animal should make compensation for it, life for life."
+
+- triggers: ["!leviticus24:19 ","!lev24:19 ","!le24:19 "]
+  replace: "If a man injures his fellow man, then what he has done should be done to him."
+
+- triggers: ["!leviticus24:20 ","!lev24:20 ","!le24:20 "]
+  replace: "Fracture for fracture, eye for eye, tooth for tooth, the same sort of injury he inflicted should be inflicted on him."
+
+- triggers: ["!leviticus24:21 ","!lev24:21 ","!le24:21 "]
+  replace: "The man who strikes and kills an animal should make compensation for it, but the one who strikes and kills a man should be put to death."
+
+- triggers: ["!leviticus24:22 ","!lev24:22 ","!le24:22 "]
+  replace: "“‘One judicial decision will apply for you, whether a foreign resident or a native, because I am Jehovah your God.’”"
+
+- triggers: ["!leviticus24:23 ","!lev24:23 ","!le24:23 "]
+  replace: "Moses then spoke to the Israelites, and they brought the one who uttered the curse to the outside of the camp, and they stoned him. Thus the Israelites did just as Jehovah had commanded Moses."
+
+- triggers: ["!leviticus25:1 ","!lev25:1 ","!le25:1 "]
+  replace: "Jehovah spoke further to Moses on Mount Siʹnai, saying:"
+
+- triggers: ["!leviticus25:2 ","!lev25:2 ","!le25:2 "]
+  replace: "“Speak to the Israelites and tell them, ‘When you eventually come into the land that I am giving you, then the land will observe a sabbath to Jehovah."
+
+- triggers: ["!leviticus25:3 ","!lev25:3 ","!le25:3 "]
+  replace: "Six years you should sow your field with seed, and six years you should prune your vineyard, and you will gather the land’s produce."
+
+- triggers: ["!leviticus25:4 ","!lev25:4 ","!le25:4 "]
+  replace: "But in the seventh year, there should be a sabbath of complete rest for the land, a sabbath to Jehovah. You should not sow your field with seed or prune your vineyard."
+
+- triggers: ["!leviticus25:5 ","!lev25:5 ","!le25:5 "]
+  replace: "You must not reap what grows on its own from the grain left after the harvest, and the grapes of your unpruned vine you must not gather. There should be a year of complete rest for the land."
+
+- triggers: ["!leviticus25:6 ","!lev25:6 ","!le25:6 "]
+  replace: "However, you may eat the food that grows in the land during its sabbath; you, your male and female slaves, your hired worker, and the foreign settlers who are residing with you may eat it,"
+
+- triggers: ["!leviticus25:7 ","!lev25:7 ","!le25:7 "]
+  replace: "as well as the domestic and the wild animals in your land. Everything the land produces may be eaten."
+
+- triggers: ["!leviticus25:8 ","!lev25:8 ","!le25:8 "]
+  replace: "“‘You will count off seven sabbath years, seven times seven years, and the days of the seven sabbath years will amount to 4"
+
+- triggers: ["!leviticus25:9 ","!lev25:9 ","!le25:9 "]
+  replace: "years. 9 You will then sound the horn loudly in the seventh month, on the tenth of the month; on the Day of Atonement, you should cause the sound of the horn to be heard in all your land."
+
+- triggers: ["!leviticus25:10 ","!lev25:10 ","!le25:10 "]
+  replace: "You must sanctify the 50th year and proclaim liberty in the land to all its inhabitants. It will become a Jubilee for you, and each of you will return to his property and each of you should return to his family."
+
+- triggers: ["!leviticus25:11 ","!lev25:11 ","!le25:11 "]
+  replace: "A Jubilee is what that 50th year will become for you. You will not sow seed or reap what grew on its own from leftover grain nor gather the grapes of unpruned vines."
+
+- triggers: ["!leviticus25:12 ","!lev25:12 ","!le25:12 "]
+  replace: "For it is a Jubilee. It is to be holy to you. You may eat only what the land produces by itself."
+
+- triggers: ["!leviticus25:13 ","!lev25:13 ","!le25:13 "]
+  replace: "“‘In this year of the Jubilee, each of you should return to his property."
+
+- triggers: ["!leviticus25:14 ","!lev25:14 ","!le25:14 "]
+  replace: "If you sell anything to your fellow man or if you buy from him, do not exploit one another."
+
+- triggers: ["!leviticus25:15 ","!lev25:15 ","!le25:15 "]
+  replace: "You should buy from your fellow man, taking into account the number of the years after the Jubilee, and he should sell to you according to the remaining years for crops."
+
+- triggers: ["!leviticus25:16 ","!lev25:16 ","!le25:16 "]
+  replace: "If there are many years remaining, he may increase its purchase price, and when there are few years left, he should reduce its purchase price, because he is selling you the number of crops to be produced."
+
+- triggers: ["!leviticus25:17 ","!lev25:17 ","!le25:17 "]
+  replace: "No one among you should exploit his fellow man, and you must be in fear of your God, for I am Jehovah your God."
+
+- triggers: ["!leviticus25:18 ","!lev25:18 ","!le25:18 "]
+  replace: "By your carrying out my statutes and keeping my judicial decisions, you will dwell in security in the land."
+
+- triggers: ["!leviticus25:19 ","!lev25:19 ","!le25:19 "]
+  replace: "The land will give its fruitage, and you will eat to satisfaction and dwell there in security."
+
+- triggers: ["!leviticus25:20 ","!lev25:20 ","!le25:20 "]
+  replace: "“‘But if you should say: “What will we eat in the seventh year if we may not sow seed or gather our crops?”"
+
+- triggers: ["!leviticus25:21 ","!lev25:21 ","!le25:21 "]
+  replace: "I will command my blessing for you in the sixth year, and the land will yield a crop sufficient for three years."
+
+- triggers: ["!leviticus25:22 ","!lev25:22 ","!le25:22 "]
+  replace: "Then you will sow seed in the eighth year and eat from the old crop until the ninth year. Until its crop arrives, you will eat from the old."
+
+- triggers: ["!leviticus25:23 ","!lev25:23 ","!le25:23 "]
+  replace: "“‘The land should not be sold on a permanent basis, because the land is mine. For you are foreign residents and settlers from my standpoint."
+
+- triggers: ["!leviticus25:24 ","!lev25:24 ","!le25:24 "]
+  replace: "Throughout the land of your possession, you should grant the right of buying back the land."
+
+- triggers: ["!leviticus25:25 ","!lev25:25 ","!le25:25 "]
+  replace: "“‘If your brother becomes poor and has to sell some of his property, a repurchaser who is closely related to him must come and buy back what his brother sold."
+
+- triggers: ["!leviticus25:26 ","!lev25:26 ","!le25:26 "]
+  replace: "If anyone has no repurchaser but he becomes prosperous and finds the means to repurchase it,"
+
+- triggers: ["!leviticus25:27 ","!lev25:27 ","!le25:27 "]
+  replace: "he should calculate its value for the years since he sold it and refund the difference to the man whom he sold it to. Then he may return to his property."
+
+- triggers: ["!leviticus25:28 ","!lev25:28 ","!le25:28 "]
+  replace: "“‘But if he does not find the means to get it back from him, what he sold will remain with the purchaser until the Jubilee year; and it will revert to him in the Jubilee, and he will return to his property."
+
+- triggers: ["!leviticus25:29 ","!lev25:29 ","!le25:29 "]
+  replace: "“‘Now if a man should sell a home in a walled city, his right of repurchase will also continue until the end of the year from the time of his completing the sale; his right of repurchase will be valid a whole year."
+
+- triggers: ["!leviticus25:30 ","!lev25:30 ","!le25:30 "]
+  replace: "But if it is not bought back by the end of one full year, the house within the walled city will become the permanent property of its purchaser throughout his generations. It should not be released in the Jubilee."
+
+- triggers: ["!leviticus25:31 ","!lev25:31 ","!le25:31 "]
+  replace: "However, the houses of settlements with no surrounding wall should be considered to be part of the field of the countryside. The right of repurchase should continue for it, and it should be released in the Jubilee."
+
+- triggers: ["!leviticus25:32 ","!lev25:32 ","!le25:32 "]
+  replace: "“‘As for the houses of the Levites within their cities, the Levites will have the permanent right to repurchase them."
+
+- triggers: ["!leviticus25:33 ","!lev25:33 ","!le25:33 "]
+  replace: "When the property of the Levites is not bought back, the house sold in the city belonging to them will also be released in the Jubilee, because the houses of the cities of the Levites are their property among the Israelites."
+
+- triggers: ["!leviticus25:34 ","!lev25:34 ","!le25:34 "]
+  replace: "Moreover, the field of pasture ground surrounding their cities may not be sold, for it is their permanent possession."
+
+- triggers: ["!leviticus25:35 ","!lev25:35 ","!le25:35 "]
+  replace: "“‘If your brother who is nearby becomes poor and cannot support himself, you must sustain him as you would a foreign resident and a settler, so that he may keep alive with you."
+
+- triggers: ["!leviticus25:36 ","!lev25:36 ","!le25:36 "]
+  replace: "Do not take interest or make a profit from him. You must be in fear of your God, and your brother will keep alive with you."
+
+- triggers: ["!leviticus25:37 ","!lev25:37 ","!le25:37 "]
+  replace: "You must not lend him your money on interest or give out your food for profit."
+
+- triggers: ["!leviticus25:38 ","!lev25:38 ","!le25:38 "]
+  replace: "I am Jehovah your God, who brought you out of the land of Egypt to give you the land of Caʹnaan, to prove myself your God."
+
+- triggers: ["!leviticus25:39 ","!lev25:39 ","!le25:39 "]
+  replace: "“‘If your brother who lives nearby becomes poor and he has to sell himself to you, you must not force him to do slave labor."
+
+- triggers: ["!leviticus25:40 ","!lev25:40 ","!le25:40 "]
+  replace: "He should be treated like a hired worker, like a settler. He should serve with you until the Jubilee year."
+
+- triggers: ["!leviticus25:41 ","!lev25:41 ","!le25:41 "]
+  replace: "Then he will leave you, he and his children with him, and return to his family. He should return to the property of his forefathers."
+
+- triggers: ["!leviticus25:42 ","!lev25:42 ","!le25:42 "]
+  replace: "For they are my slaves whom I brought out of the land of Egypt. They should not sell themselves the way a slave is sold."
+
+- triggers: ["!leviticus25:43 ","!lev25:43 ","!le25:43 "]
+  replace: "You must not treat him cruelly, and you must be in fear of your God."
+
+- triggers: ["!leviticus25:44 ","!lev25:44 ","!le25:44 "]
+  replace: "Your male and female slaves are to come from the nations around you, from them you may buy a male or a female slave."
+
+- triggers: ["!leviticus25:45 ","!lev25:45 ","!le25:45 "]
+  replace: "Also from the sons of the foreign settlers who are residing with you, from them and from their families that are born to them in your land you may buy slaves, and they will become your possession."
+
+- triggers: ["!leviticus25:46 ","!lev25:46 ","!le25:46 "]
+  replace: "You may pass them on as an inheritance to your sons after you to inherit as a permanent possession. You may use them as workers, but you must not subject your Israelite brothers to cruel treatment."
+
+- triggers: ["!leviticus25:47 ","!lev25:47 ","!le25:47 "]
+  replace: "“‘But if a foreign resident or a settler among you becomes wealthy and your brother has become poor alongside him and must sell himself to the foreign resident or the settler who lives among you, or to a member of the family of the foreign resident,"
+
+- triggers: ["!leviticus25:48 ","!lev25:48 ","!le25:48 "]
+  replace: "he will continue to have the right of repurchase after he has sold himself. One of his brothers may buy him back,"
+
+- triggers: ["!leviticus25:49 ","!lev25:49 ","!le25:49 "]
+  replace: "or his uncle or the son of his uncle may buy him back, or any close relative, one of his family, may buy him back. “‘Or if he himself has become wealthy, he may also buy himself back."
+
+- triggers: ["!leviticus25:50 ","!lev25:50 ","!le25:50 "]
+  replace: "He should calculate with his purchaser the time from the year he sold himself to him until the Jubilee year, and the money of his sale will correspond to the number of years. His workdays during that time will be assessed at the rate of a hired worker."
+
+- triggers: ["!leviticus25:51 ","!lev25:51 ","!le25:51 "]
+  replace: "If there are many years remaining, he should pay his repurchase price in proportion to the years that are left."
+
+- triggers: ["!leviticus25:52 ","!lev25:52 ","!le25:52 "]
+  replace: "But if only a few years remain until the Jubilee year, he should then calculate for himself and pay his repurchase price in proportion to the years remaining."
+
+- triggers: ["!leviticus25:53 ","!lev25:53 ","!le25:53 "]
+  replace: "He should continue to serve him year by year as a hired worker; and you should see to it that he does not treat him cruelly."
+
+- triggers: ["!leviticus25:54 ","!lev25:54 ","!le25:54 "]
+  replace: "However, if he cannot buy himself back on these terms, he will then go free in the year of Jubilee, he and his children with him."
+
+- triggers: ["!leviticus25:55 ","!lev25:55 ","!le25:55 "]
+  replace: "“‘For the Israelites are my own slaves. They are my slaves whom I brought out of the land of Egypt. I am Jehovah your God."
+
+- triggers: ["!leviticus26:1 ","!lev26:1 ","!le26:1 "]
+  replace: "“‘You must not make worthless gods for yourselves, and you must not set up a carved image or a sacred pillar for yourselves, and you must not put a stone figure in your land in order to bow down toward it; for I am Jehovah your God."
+
+- triggers: ["!leviticus26:2 ","!lev26:2 ","!le26:2 "]
+  replace: "You should keep my sabbaths and show reverence for my sanctuary. I am Jehovah."
+
+- triggers: ["!leviticus26:3 ","!lev26:3 ","!le26:3 "]
+  replace: "“‘If you continue walking in my statutes and keeping my commandments and you carry them out,"
+
+- triggers: ["!leviticus26:4 ","!lev26:4 ","!le26:4 "]
+  replace: "I will give you showers of rain at their proper time, and the land will yield its produce, and the trees of the field will give their fruit."
+
+- triggers: ["!leviticus26:5 ","!lev26:5 ","!le26:5 "]
+  replace: "Your threshing season will extend until your grape harvest, and the grape harvest will extend until the sowing season; and you will eat your bread to satisfaction and dwell in security in your land."
+
+- triggers: ["!leviticus26:6 ","!lev26:6 ","!le26:6 "]
+  replace: "I will put peace in the land, and you will lie down with no one making you afraid; and I will rid the land of vicious wild animals, and a sword of war will not pass through your land."
+
+- triggers: ["!leviticus26:7 ","!lev26:7 ","!le26:7 "]
+  replace: "You will certainly pursue your enemies, and they will fall before you by the sword."
+
+- triggers: ["!leviticus26:8 ","!lev26:8 ","!le26:8 "]
+  replace: "Five of you will pursue 100, and 100 of you will pursue 10,000, and your enemies will fall before you by the sword."
+
+- triggers: ["!leviticus26:9 ","!lev26:9 ","!le26:9 "]
+  replace: "“‘I will direct my favor to you and make you fruitful and multiply you, and I will keep my covenant with you."
+
+- triggers: ["!leviticus26:10 ","!lev26:10 ","!le26:10 "]
+  replace: "While you are still eating the old produce of the preceding year, you will need to clear out the old to make way for the new."
+
+- triggers: ["!leviticus26:11 ","!lev26:11 ","!le26:11 "]
+  replace: "And I will place my tabernacle in your midst, and I will not reject you."
+
+- triggers: ["!leviticus26:12 ","!lev26:12 ","!le26:12 "]
+  replace: "I will walk among you and be your God, and you for your part will be my people."
+
+- triggers: ["!leviticus26:13 ","!lev26:13 ","!le26:13 "]
+  replace: "I am Jehovah your God, who brought you out of the land of Egypt to be their slaves no longer, and I broke the bars of your yoke and made you walk with heads held high."
+
+- triggers: ["!leviticus26:14 ","!lev26:14 ","!le26:14 "]
+  replace: "“‘However, if you will not listen to me or keep all these commandments,"
+
+- triggers: ["!leviticus26:15 ","!lev26:15 ","!le26:15 "]
+  replace: "and if you reject my statutes, and if you abhor my judicial decisions so that you do not keep all my commandments, and you violate my covenant,"
+
+- triggers: ["!leviticus26:16 ","!lev26:16 ","!le26:16 "]
+  replace: "I, for my part, will do the following to you: I will punish you with distress, with tuberculosis and burning fever, making your eyes fail and your life waste away. You will sow your seed simply for nothing, for your enemies will eat it."
+
+- triggers: ["!leviticus26:17 ","!lev26:17 ","!le26:17 "]
+  replace: "I will set my face against you, and you will be defeated by your enemies; and those who hate you will tread on you, and you will flee when no one is pursuing you."
+
+- triggers: ["!leviticus26:18 ","!lev26:18 ","!le26:18 "]
+  replace: "“‘If even this does not make you listen to me, I will have to chastise you seven times as much for your sins."
+
+- triggers: ["!leviticus26:19 ","!lev26:19 ","!le26:19 "]
+  replace: "I will break your stubborn pride and make your heavens like iron and your earth like copper."
+
+- triggers: ["!leviticus26:20 ","!lev26:20 ","!le26:20 "]
+  replace: "You will exhaust your strength for nothing, as your land will not yield its produce, and the trees of the land will not produce fruit."
+
+- triggers: ["!leviticus26:21 ","!lev26:21 ","!le26:21 "]
+  replace: "“‘But if you keep walking in opposition to me and refuse to listen to me, I will then have to strike you seven times as much, according to your sins."
+
+- triggers: ["!leviticus26:22 ","!lev26:22 ","!le26:22 "]
+  replace: "I will send the wild animals of the field among you, and they will bereave you of children and annihilate your domestic animals and reduce your numbers, and your roads will be deserted."
+
+- triggers: ["!leviticus26:23 ","!lev26:23 ","!le26:23 "]
+  replace: "“‘If in spite of these things you do not accept my correction and you insist on walking in opposition to me,"
+
+- triggers: ["!leviticus26:24 ","!lev26:24 ","!le26:24 "]
+  replace: "then I too will walk in opposition to you, and I myself will strike you seven times for your sins."
+
+- triggers: ["!leviticus26:25 ","!lev26:25 ","!le26:25 "]
+  replace: "I will bring an avenging sword upon you for breaking the covenant. If you gather yourselves into your cities, I will send disease into your midst, and you will be given into the hand of an enemy."
+
+- triggers: ["!leviticus26:26 ","!lev26:26 ","!le26:26 "]
+  replace: "When I destroy your supply of bread, ten women will be able to bake your bread in only one oven and then ration your bread by weight; and you will eat but you will not be satisfied."
+
+- triggers: ["!leviticus26:27 ","!lev26:27 ","!le26:27 "]
+  replace: "“‘If in spite of this you will not listen to me and you insist on walking in opposition to me,"
+
+- triggers: ["!leviticus26:28 ","!lev26:28 ","!le26:28 "]
+  replace: "I will intensify my opposition to you, and I myself will have to chastise you seven times for your sins."
+
+- triggers: ["!leviticus26:29 ","!lev26:29 ","!le26:29 "]
+  replace: "So you will have to eat the flesh of your sons, and you will eat the flesh of your daughters."
+
+- triggers: ["!leviticus26:30 ","!lev26:30 ","!le26:30 "]
+  replace: "I will annihilate your sacred high places and cut down your incense stands and pile your carcasses on the carcasses of your disgusting idols, and I will turn away from you in disgust."
+
+- triggers: ["!leviticus26:31 ","!lev26:31 ","!le26:31 "]
+  replace: "I will give your cities to the sword and make your sanctuaries desolate, and I will not smell the pleasing aromas of your sacrifices."
+
+- triggers: ["!leviticus26:32 ","!lev26:32 ","!le26:32 "]
+  replace: "I myself will make the land desolate, and your enemies who are dwelling in it will stare in amazement over it."
+
+- triggers: ["!leviticus26:33 ","!lev26:33 ","!le26:33 "]
+  replace: "And I will scatter you among the nations, and I will unsheathe a sword after you; and your land will be made desolate, and your cities will be devastated."
+
+- triggers: ["!leviticus26:34 ","!lev26:34 ","!le26:34 "]
+  replace: "“‘At that time the land will pay off its sabbaths all the days it lies desolate, while you are in the land of your enemies. At that time the land will rest, as it must repay its sabbaths."
+
+- triggers: ["!leviticus26:35 ","!lev26:35 ","!le26:35 "]
+  replace: "All the days it lies desolate it will rest, because it did not rest during your sabbaths when you were dwelling on it."
+
+- triggers: ["!leviticus26:36 ","!lev26:36 ","!le26:36 "]
+  replace: "“‘As for those who survive, I will fill their hearts with despair in the lands of their enemies; and the sound of a blowing leaf will cause them to flee, and they will flee like someone running from the sword and fall without anyone pursuing them."
+
+- triggers: ["!leviticus26:37 ","!lev26:37 ","!le26:37 "]
+  replace: "They will stumble over one another like those running from a sword, though no one is pursuing them. You will not be able to resist your enemies."
+
+- triggers: ["!leviticus26:38 ","!lev26:38 ","!le26:38 "]
+  replace: "You will perish among the nations, and the land of your enemies will consume you."
+
+- triggers: ["!leviticus26:39 ","!lev26:39 ","!le26:39 "]
+  replace: "Those of you who remain will be left to rot in the lands of your enemies because of your error. Yes, they will rot away because of the errors of their fathers."
+
+- triggers: ["!leviticus26:40 ","!lev26:40 ","!le26:40 "]
+  replace: "Then they will confess their own error and the error and unfaithfulness of their fathers and admit that they behaved unfaithfully by walking in opposition to me."
+
+- triggers: ["!leviticus26:41 ","!lev26:41 ","!le26:41 "]
+  replace: "Then I also walked in opposition to them by bringing them into the land of their enemies. “‘Perhaps then their uncircumcised heart will be humbled, and then they will pay off their error."
+
+- triggers: ["!leviticus26:42 ","!lev26:42 ","!le26:42 "]
+  replace: "And I will remember my covenant with Jacob, and my covenant with Isaac, and I will remember my covenant with Abraham, and I will remember the land."
+
+- triggers: ["!leviticus26:43 ","!lev26:43 ","!le26:43 "]
+  replace: "While the land was abandoned by them, it was paying off its sabbaths and lying desolate without them, and they were paying for their error, because they rejected my judicial decisions and they abhorred my statutes."
+
+- triggers: ["!leviticus26:44 ","!lev26:44 ","!le26:44 "]
+  replace: "But despite all of this, while they are in the land of their enemies, I will never completely reject them nor cast them away to the point of exterminating them, which would violate my covenant with them, for I am Jehovah their God."
+
+- triggers: ["!leviticus26:45 ","!lev26:45 ","!le26:45 "]
+  replace: "For their sakes I will remember the covenant with their ancestors whom I brought out of the land of Egypt under the eyes of the nations, in order to prove myself their God. I am Jehovah.’”"
+
+- triggers: ["!leviticus26:46 ","!lev26:46 ","!le26:46 "]
+  replace: "These are the regulations, the judicial decisions, and the laws that Jehovah established between himself and the Israelites on Mount Siʹnai through Moses."
+
+- triggers: ["!leviticus27:1 ","!lev27:1 ","!le27:1 "]
+  replace: "Jehovah continued to speak to Moses, saying:"
+
+- triggers: ["!leviticus27:2 ","!lev27:2 ","!le27:2 "]
+  replace: "“Speak to the Israelites and tell them, ‘If a man makes a special vow to offer the estimated value of a person to Jehovah,"
+
+- triggers: ["!leviticus27:3 ","!lev27:3 ","!le27:3 "]
+  replace: "the estimated value of a male from 20 to 60 years old will be 50 shekels of silver by the standard shekel of the holy place."
+
+- triggers: ["!leviticus27:4 ","!lev27:4 ","!le27:4 "]
+  replace: "But if it is a female, the estimated value will be 30 shekels."
+
+- triggers: ["!leviticus27:5 ","!lev27:5 ","!le27:5 "]
+  replace: "If the age is from 5 to 20 years old, the estimated value of the male will be 20 shekels and 10 shekels for the female."
+
+- triggers: ["!leviticus27:6 ","!lev27:6 ","!le27:6 "]
+  replace: "If the age is from one month up to five years old, the estimated value of the male will be five shekels of silver and three shekels of silver for the female."
+
+- triggers: ["!leviticus27:7 ","!lev27:7 ","!le27:7 "]
+  replace: "“‘If the age is 60 years and over, the estimated value will be 15 shekels for the male and 10 shekels for the female."
+
+- triggers: ["!leviticus27:8 ","!lev27:8 ","!le27:8 "]
+  replace: "But if he is too poor to pay the estimated value, the person will stand before the priest, and the priest will set a value on him. The priest will make the valuation according to what the one making the vow can afford."
+
+- triggers: ["!leviticus27:9 ","!lev27:9 ","!le27:9 "]
+  replace: "“‘If the vow involves an animal that is suitable for offering to Jehovah, whatever may be given to Jehovah will become something holy."
+
+- triggers: ["!leviticus27:10 ","!lev27:10 ","!le27:10 "]
+  replace: "He may not replace it or exchange it with good for bad or with bad for good. But if he should exchange it with one animal for another animal, the original and what is exchanged for it will both become holy."
+
+- triggers: ["!leviticus27:11 ","!lev27:11 ","!le27:11 "]
+  replace: "If it is an unclean animal that may not be presented as an offering to Jehovah, he will then stand the animal before the priest."
+
+- triggers: ["!leviticus27:12 ","!lev27:12 ","!le27:12 "]
+  replace: "The priest will then set its value, as to whether it is good or bad. The value estimated by the priest will stand."
+
+- triggers: ["!leviticus27:13 ","!lev27:13 ","!le27:13 "]
+  replace: "But if he ever wants to buy it back, he must then give a fifth of it in addition to the estimated value."
+
+- triggers: ["!leviticus27:14 ","!lev27:14 ","!le27:14 "]
+  replace: "“‘Now if a man should sanctify his house as something holy to Jehovah, the priest will then set its value, whether it is good or bad. According to the value that the priest sets, that is what it will cost."
+
+- triggers: ["!leviticus27:15 ","!lev27:15 ","!le27:15 "]
+  replace: "But if the one who sanctifies his house wants to buy it back, he must then give a fifth of the money of the estimated value in addition to it, and it will become his."
+
+- triggers: ["!leviticus27:16 ","!lev27:16 ","!le27:16 "]
+  replace: "“‘If a man sanctifies to Jehovah some of the field that he possesses, the value will be estimated in proportion to the seed needed to sow it: a hoʹmer of barley seed will be 50 shekels of silver."
+
+- triggers: ["!leviticus27:17 ","!lev27:17 ","!le27:17 "]
+  replace: "If he sanctifies his field from the year of Jubilee, the estimated value stands."
+
+- triggers: ["!leviticus27:18 ","!lev27:18 ","!le27:18 "]
+  replace: "If he sanctifies his field after the Jubilee, the priest will calculate for him the price in proportion to the years that are left until the next year of Jubilee, and a deduction should be made from the estimated value."
+
+- triggers: ["!leviticus27:19 ","!lev27:19 ","!le27:19 "]
+  replace: "But if the one who sanctified it should ever buy the field back, he must then give a fifth of the money of the estimated value in addition to it, and it will remain his."
+
+- triggers: ["!leviticus27:20 ","!lev27:20 ","!le27:20 "]
+  replace: "Now if he should not buy the field back and the field is sold to another man, it may not be bought back again."
+
+- triggers: ["!leviticus27:21 ","!lev27:21 ","!le27:21 "]
+  replace: "When the field is released in the Jubilee, it will become something holy to Jehovah, as a field that is devoted to him. It will become the property of the priests."
+
+- triggers: ["!leviticus27:22 ","!lev27:22 ","!le27:22 "]
+  replace: "“‘If a man sanctifies to Jehovah a field he purchased that is not part of his hereditary property,"
+
+- triggers: ["!leviticus27:23 ","!lev27:23 ","!le27:23 "]
+  replace: "the priest will calculate for him the amount of the valuation up until the year of Jubilee, and he will give the estimated value on that day. It is something holy to Jehovah."
+
+- triggers: ["!leviticus27:24 ","!lev27:24 ","!le27:24 "]
+  replace: "In the year of Jubilee, the field will return to the one he bought it from, to the one the land belongs to."
+
+- triggers: ["!leviticus27:25 ","!lev27:25 ","!le27:25 "]
+  replace: "“‘Every value should be estimated by the standard shekel of the holy place. The shekel should amount to 20 geʹrahs."
+
+- triggers: ["!leviticus27:26 ","!lev27:26 ","!le27:26 "]
+  replace: "“‘However, no one should sanctify the firstborn of the animals, since it is born as the firstborn for Jehovah. Whether bull or sheep, it already belongs to Jehovah."
+
+- triggers: ["!leviticus27:27 ","!lev27:27 ","!le27:27 "]
+  replace: "If it is among the unclean animals and he redeems it according to the estimated value, he should give a fifth of it in addition to it. But if it is not bought back, it will be sold according to the estimated value."
+
+- triggers: ["!leviticus27:28 ","!lev27:28 ","!le27:28 "]
+  replace: "“‘But no devoted thing that a man devotes unconditionally to Jehovah from his belongings may be sold or bought back, whether from mankind or animals or the field he possesses. Every devoted thing is something most holy to Jehovah."
+
+- triggers: ["!leviticus27:29 ","!lev27:29 ","!le27:29 "]
+  replace: "Furthermore, no condemned person who is set apart for destruction may be redeemed. He should be put to death without fail."
+
+- triggers: ["!leviticus27:30 ","!lev27:30 ","!le27:30 "]
+  replace: "“‘Every tenth part of the land, whether from the produce of the field or the fruit of the trees, belongs to Jehovah. It is something holy to Jehovah."
+
+- triggers: ["!leviticus27:31 ","!lev27:31 ","!le27:31 "]
+  replace: "If a man ever wants to buy any of his tenth part back, he should give a fifth of it in addition to it."
+
+- triggers: ["!leviticus27:32 ","!lev27:32 ","!le27:32 "]
+  replace: "As for every tenth part of the herd and flock, everything that passes under the shepherd’s staff, the tenth animal should become something holy to Jehovah."
+
+- triggers: ["!leviticus27:33 ","!lev27:33 ","!le27:33 "]
+  replace: "He should not examine whether it is good or bad, neither should he exchange it. But if he would ever try to exchange it, both the original and what is exchanged for it should become something holy. It may not be bought back.’”"
+
+- triggers: ["!leviticus27:34 ","!lev27:34 ","!le27:34 "]
+  replace: "These are the commandments that Jehovah gave to Moses for the Israelites on Mount Siʹnai."
+

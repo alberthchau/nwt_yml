@@ -1,0 +1,145 @@
+matches:
+- triggers: ["!jonah1:1 ","!jon1:1 "]
+  replace: "The word of Jehovah came to Joʹnah the son of Amitʹtai, saying:"
+
+- triggers: ["!jonah1:2 ","!jon1:2 "]
+  replace: "“Get up, go to Ninʹeveh the great city, and proclaim judgment against her, for their wickedness has come to my attention.”"
+
+- triggers: ["!jonah1:3 ","!jon1:3 "]
+  replace: "But Joʹnah got up to run away from Jehovah to Tarʹshish; he went down to Jopʹpa and found a ship going to Tarʹshish. So he paid the fare and went aboard to go with them to Tarʹshish, away from Jehovah."
+
+- triggers: ["!jonah1:4 ","!jon1:4 "]
+  replace: "Then Jehovah hurled a strong wind at the sea, and there was such a violent storm on the sea that the ship was about to be wrecked."
+
+- triggers: ["!jonah1:5 ","!jon1:5 "]
+  replace: "The mariners were so frightened that each of them began to call on his god for help. And they began throwing the articles of the ship into the sea, to make it lighter. But Joʹnah had gone down into the inner part of the ship, where he lay down and fell fast asleep."
+
+- triggers: ["!jonah1:6 ","!jon1:6 "]
+  replace: "The ship captain approached and said to him: “Why are you sleeping? Get up, call out to your god! Perhaps the true God will show his concern for us, and we will not perish.”"
+
+- triggers: ["!jonah1:7 ","!jon1:7 "]
+  replace: "Then they said to one another: “Come, let us cast lots to find out who is to blame for this calamity.” So they cast lots, and the lot fell to Joʹnah."
+
+- triggers: ["!jonah1:8 ","!jon1:8 "]
+  replace: "They said to him: “Please tell us, who is to blame for this calamity that has come upon us? What is your work, and where do you come from? What is your country, and from what people are you?”"
+
+- triggers: ["!jonah1:9 ","!jon1:9 "]
+  replace: "He replied: “I am a Hebrew, and I fear Jehovah the God of the heavens, the One who made the sea and the dry land.”"
+
+- triggers: ["!jonah1:10 ","!jon1:10 "]
+  replace: "At this the men became even more afraid, and they asked him: “What have you done?” (The men learned that he was running away from Jehovah, because he had told them.)"
+
+- triggers: ["!jonah1:11 ","!jon1:11 "]
+  replace: "So they said to him: “What should we do to you to make the sea calm down for us?” For the sea was growing more and more stormy."
+
+- triggers: ["!jonah1:12 ","!jon1:12 "]
+  replace: "He replied: “Lift me up and throw me into the sea, and the sea will calm down for you; for I know that it is because of me that this violent storm has come upon you.”"
+
+- triggers: ["!jonah1:13 ","!jon1:13 "]
+  replace: "However, the men rowed hard to bring the ship back to dry land, but they could not, because the sea grew more and more stormy around them."
+
+- triggers: ["!jonah1:14 ","!jon1:14 "]
+  replace: "Then they called out to Jehovah and said: “Ah, now, O Jehovah, please, may we not perish because of this man! Do not hold us responsible for innocent blood, since you have done as you pleased, O Jehovah.”"
+
+- triggers: ["!jonah1:15 ","!jon1:15 "]
+  replace: "Then they lifted Joʹnah up and threw him into the sea; and the sea ceased its raging."
+
+- triggers: ["!jonah1:16 ","!jon1:16 "]
+  replace: "Then the men were struck with great fear of Jehovah, and they offered a sacrifice to Jehovah and made vows."
+
+- triggers: ["!jonah1:17 ","!jon1:17 "]
+  replace: "Jehovah now sent a huge fish to swallow Joʹnah, so that Joʹnah came to be in the belly of the fish for three days and three nights."
+
+- triggers: ["!jonah2:1 ","!jon2:1 "]
+  replace: "Then Joʹnah prayed to Jehovah his God from the belly of the fish,"
+
+- triggers: ["!jonah2:2 ","!jon2:2 "]
+  replace: "and he said: “Out of my distress I called out to Jehovah, and he answered me. Out of the depths of the Grave I cried for help. You heard my voice."
+
+- triggers: ["!jonah2:3 ","!jon2:3 "]
+  replace: "When you threw me to the depths, into the heart of the open sea, Then the currents engulfed me. All your breakers and waves swept over me."
+
+- triggers: ["!jonah2:4 ","!jon2:4 "]
+  replace: "And I said, ‘I have been driven away from your sight! How will I gaze again upon your holy temple?’"
+
+- triggers: ["!jonah2:5 ","!jon2:5 "]
+  replace: "Waters engulfed me and threatened my life; The watery deep closed in on me. Weeds were wrapped around my head."
+
+- triggers: ["!jonah2:6 ","!jon2:6 "]
+  replace: "To the bottoms of the mountains I sank down. The bars of the earth were closing upon me forever. But out of the pit you brought up my life, O Jehovah my God."
+
+- triggers: ["!jonah2:7 ","!jon2:7 "]
+  replace: "When my life was ebbing away, Jehovah was the One whom I remembered. Then my prayer came in to you, into your holy temple."
+
+- triggers: ["!jonah2:8 ","!jon2:8 "]
+  replace: "Those who are devoted to the worthless idols forsake their source of loyal love."
+
+- triggers: ["!jonah2:9 ","!jon2:9 "]
+  replace: "But as for me, with the voice of thanksgiving I will sacrifice to you. What I have vowed, I will pay. Salvation is from Jehovah.”"
+
+- triggers: ["!jonah2:10 ","!jon2:10 "]
+  replace: "In time Jehovah commanded the fish, and it vomited Joʹnah out onto the dry land."
+
+- triggers: ["!jonah3:1 ","!jon3:1 "]
+  replace: "Then the word of Jehovah came to Joʹnah a second time, saying:"
+
+- triggers: ["!jonah3:2 ","!jon3:2 "]
+  replace: "“Get up, go to Ninʹeveh the great city, and proclaim to her the message that I tell you.”"
+
+- triggers: ["!jonah3:3 ","!jon3:3 "]
+  replace: "So Joʹnah got up and went to Ninʹeveh in obedience to the word of Jehovah. Now Ninʹeveh was a very large city—a walking distance of three days."
+
+- triggers: ["!jonah3:4 ","!jon3:4 "]
+  replace: "Then Joʹnah entered the city, and walking a day’s journey, he was proclaiming: “In just 40 days more, Ninʹeveh will be overthrown.”"
+
+- triggers: ["!jonah3:5 ","!jon3:5 "]
+  replace: "And the men of Ninʹeveh put faith in God, and they proclaimed a fast and put on sackcloth, from the greatest to the least of them."
+
+- triggers: ["!jonah3:6 ","!jon3:6 "]
+  replace: "When the message reached the king of Ninʹeveh, he rose up from his throne and took off his royal garment and covered himself with sackcloth and sat down in the ashes."
+
+- triggers: ["!jonah3:7 ","!jon3:7 "]
+  replace: "Furthermore, he issued a proclamation throughout Ninʹeveh, “By the decree of the king and his nobles: No man or beast, herd or flock, should eat anything at all. They should not take food, nor should they drink any water."
+
+- triggers: ["!jonah3:8 ","!jon3:8 "]
+  replace: "Let them be covered with sackcloth, both man and beast; and let them call out earnestly to God and turn from their evil ways and from the violence they practice."
+
+- triggers: ["!jonah3:9 ","!jon3:9 "]
+  replace: "Who knows whether the true God may reconsider what he intends to do and turn from his burning anger, so that we may not perish?”"
+
+- triggers: ["!jonah3:10 ","!jon3:10 "]
+  replace: "When the true God saw what they did, how they had turned back from their evil ways, he reconsidered the calamity that he said he would bring on them, and he did not bring it."
+
+- triggers: ["!jonah4:1 ","!jon4:1 "]
+  replace: "But this was highly displeasing to Joʹnah, and he became hot with anger."
+
+- triggers: ["!jonah4:2 ","!jon4:2 "]
+  replace: "So he prayed to Jehovah: “Ah, now, Jehovah, was this not my concern when I was in my own land? That is why I tried to flee to Tarʹshish in the first place; for I knew that you are a compassionate and merciful God, slow to anger and abundant in loyal love, one who feels grieved over calamity."
+
+- triggers: ["!jonah4:3 ","!jon4:3 "]
+  replace: "Now, O Jehovah, please take away my life, for it is better for me to die than to live.”"
+
+- triggers: ["!jonah4:4 ","!jon4:4 "]
+  replace: "Jehovah asked: “Is it right for you to be so angry?”"
+
+- triggers: ["!jonah4:5 ","!jon4:5 "]
+  replace: "Joʹnah then went out of the city and sat down east of the city. He made a shelter for himself there and sat in its shade to see what would happen to the city."
+
+- triggers: ["!jonah4:6 ","!jon4:6 "]
+  replace: "Jehovah God then provided a bottle-gourd plant to grow up over Joʹnah, to give him shade for his head and to relieve his misery. And Joʹnah was very pleased with the bottle-gourd plant."
+
+- triggers: ["!jonah4:7 ","!jon4:7 "]
+  replace: "But the true God sent a worm at the break of dawn on the next day, and it attacked the bottle-gourd plant, and it withered."
+
+- triggers: ["!jonah4:8 ","!jon4:8 "]
+  replace: "When the sun began to shine, God also sent a scorching east wind, and the sun beat down on Joʹnah’s head, and he grew faint. He kept asking to die, and he kept saying, “It is better for me to die than to live.”"
+
+- triggers: ["!jonah4:9 ","!jon4:9 "]
+  replace: "God asked Joʹnah: “Is it right for you to be so angry over the bottle-gourd plant?” At that he said: “I have a right to be angry, so angry that I want to die.”"
+
+- triggers: ["!jonah4:10 ","!jon4:10 "]
+  replace: "But Jehovah said: “You felt sorry for the bottle-gourd plant, which you did not work for, nor did you make it grow; it grew in one night and perished in one night."
+
+- triggers: ["!jonah4:11 ","!jon4:11 "]
+  replace: "Should I not also feel sorry for Ninʹeveh the great city, in which there are more than 120,000 men who do not even know right from wrong, as well as their many animals?”"
+

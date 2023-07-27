@@ -1,0 +1,439 @@
+matches:
+- triggers: ["!amos1:1 ","!am1:1 "]
+  replace: "The words of Aʹmos, who was among the sheep raisers from Tekoʹa, which he received in vision concerning Israel in the days of King Uzziʹah of Judah and in the days of Jeroboʹam son of Joʹash, the king of Israel, two years before the earthquake."
+
+- triggers: ["!amos1:2 ","!am1:2 "]
+  replace: "He said: “Jehovah will roar out of Zion, And he will raise his voice out of Jerusalem. The pastures of the shepherds will mourn, And the summit of Carʹmel will dry up.”"
+
+- triggers: ["!amos1:3 ","!am1:3 "]
+  replace: "“This is what Jehovah says, ‘“For three revolts of Damascus, and for four, I will not reverse it, Because they threshed Gilʹead with iron threshing sledges."
+
+- triggers: ["!amos1:4 ","!am1:4 "]
+  replace: "So I will send a fire upon the house of Hazʹael, And it will consume the fortified towers of Ben-haʹdad."
+
+- triggers: ["!amos1:5 ","!am1:5 "]
+  replace: "I will break the bars of Damascus; I will destroy the inhabitants from Bikʹath-aʹven And the one ruling from Beth-eʹden; And the people of Syria will go as exiles to Kir,” says Jehovah.’"
+
+- triggers: ["!amos1:6 ","!am1:6 "]
+  replace: "This is what Jehovah says, ‘“For three revolts of Gazʹa, and for four, I will not reverse it, Because they took a whole group of exiles to hand them over to Eʹdom."
+
+- triggers: ["!amos1:7 ","!am1:7 "]
+  replace: "So I will send a fire onto the wall of Gazʹa, And it will consume her fortified towers."
+
+- triggers: ["!amos1:8 ","!am1:8 "]
+  replace: "I will destroy the inhabitants from Ashʹdod, And the one ruling from Ashʹkelon; I will turn my hand against Ekʹron, And the remaining Philisʹtines will perish,” says the Sovereign Lord Jehovah.’"
+
+- triggers: ["!amos1:9 ","!am1:9 "]
+  replace: "This is what Jehovah says, ‘For three revolts of Tyre, and for four, I will not reverse it, Because they handed over a whole group of exiles to Eʹdom, And because they did not remember the covenant of brothers."
+
+- triggers: ["!amos1:10 ","!am1:10 "]
+  replace: "So I will send a fire onto the wall of Tyre, And it will consume her fortified towers.’"
+
+- triggers: ["!amos1:11 ","!am1:11 "]
+  replace: "This is what Jehovah says, ‘For three revolts of Eʹdom, and for four, I will not reverse it, Because he pursued his own brother with the sword, And because he refused to show mercy; In his anger he keeps tearing them apart relentlessly, And he remains furious with them continually."
+
+- triggers: ["!amos1:12 ","!am1:12 "]
+  replace: "So I will send a fire into Teʹman, And it will consume the fortified towers of Bozʹrah.’"
+
+- triggers: ["!amos1:13 ","!am1:13 "]
+  replace: "This is what Jehovah says, ‘“For three revolts of the Amʹmonites, and for four, I will not reverse it, Because they ripped open the pregnant women of Gilʹead to widen out their own territory."
+
+- triggers: ["!amos1:14 ","!am1:14 "]
+  replace: "So I will set fire to the wall of Rabʹbah, And it will consume her fortified towers, With a war cry in the day of battle, With a tempest in the day of storm wind."
+
+- triggers: ["!amos1:15 ","!am1:15 "]
+  replace: "And their king will go into exile together with his princes,” says Jehovah.’"
+
+- triggers: ["!amos2:1 ","!am2:1 "]
+  replace: "“This is what Jehovah says, ‘“For three revolts of Moʹab, and for four, I will not reverse it, Because he burned the bones of the king of Eʹdom for lime."
+
+- triggers: ["!amos2:2 ","!am2:2 "]
+  replace: "So I will send a fire into Moʹab, And it will consume the fortified towers of Keʹrioth; Moʹab will die amid an uproar, With a war cry, with the sound of a horn."
+
+- triggers: ["!amos2:3 ","!am2:3 "]
+  replace: "I will remove the ruler from her midst And kill all her princes along with him,” says Jehovah.’"
+
+- triggers: ["!amos2:4 ","!am2:4 "]
+  replace: "This is what Jehovah says, ‘For three revolts of Judah, and for four, I will not reverse it, Because they rejected the law of Jehovah, And because they did not keep his regulations; But the same lies their forefathers followed have led them astray."
+
+- triggers: ["!amos2:5 ","!am2:5 "]
+  replace: "So I will send a fire into Judah, And it will consume the fortified towers of Jerusalem.’"
+
+- triggers: ["!amos2:6 ","!am2:6 "]
+  replace: "This is what Jehovah says, ‘For three revolts of Israel, and for four, I will not reverse it, Because they sell the righteous for silver, And the poor for a pair of sandals."
+
+- triggers: ["!amos2:7 ","!am2:7 "]
+  replace: "They trample the heads of the lowly into the dust of the earth, And they block the path of the meek. A man and his father have relations with the same girl, Profaning my holy name."
+
+- triggers: ["!amos2:8 ","!am2:8 "]
+  replace: "They stretch out next to every altar on garments they seized as security for a loan; And the wine they drink at the house of their gods was obtained from those they fined.’"
+
+- triggers: ["!amos2:9 ","!am2:9 "]
+  replace: "‘But it was I who annihilated the Amʹorite before them, Who was as tall as the cedars and as strong as the oaks; I destroyed his fruit above and his roots below."
+
+- triggers: ["!amos2:10 ","!am2:10 "]
+  replace: "I brought you up out of the land of Egypt, And I made you walk through the wilderness 40 years, To take possession of the land of the Amʹorite."
+
+- triggers: ["!amos2:11 ","!am2:11 "]
+  replace: "I raised up some of your sons as prophets And some of your young men as Nazʹirites. Is this not so, O people of Israel?’ declares Jehovah."
+
+- triggers: ["!amos2:12 ","!am2:12 "]
+  replace: "‘But you kept giving the Nazʹirites wine to drink, And you commanded the prophets: “You must not prophesy.”"
+
+- triggers: ["!amos2:13 ","!am2:13 "]
+  replace: "So I will crush you in your place, Just as a wagon loaded with cut grain crushes what is under it."
+
+- triggers: ["!amos2:14 ","!am2:14 "]
+  replace: "The swift one will have no place to flee, The strong one will not retain his power, And no warrior will escape with his life."
+
+- triggers: ["!amos2:15 ","!am2:15 "]
+  replace: "The bowman will not stand his ground, The swift of foot will not escape, And the horseman will not escape with his life."
+
+- triggers: ["!amos2:16 ","!am2:16 "]
+  replace: "Even the most courageous among the warriors Will flee naked in that day,’ declares Jehovah.”"
+
+- triggers: ["!amos3:1 ","!am3:1 "]
+  replace: "“Hear this word that Jehovah has spoken concerning you, O people of Israel, concerning the whole family that I brought up out of the land of Egypt:"
+
+- triggers: ["!amos3:2 ","!am3:2 "]
+  replace: "‘You alone I have known out of all the families of the earth. That is why I will call you to account for all your errors."
+
+- triggers: ["!amos3:3 ","!am3:3 "]
+  replace: "Will two walk together unless they have agreed to meet?"
+
+- triggers: ["!amos3:4 ","!am3:4 "]
+  replace: "Will a lion roar in the forest when it has no prey? Will a young lion growl from its lair when it has caught nothing?"
+
+- triggers: ["!amos3:5 ","!am3:5 "]
+  replace: "Will a bird fall into a trap on the ground when there is no snare for it? Does a trap spring up from the ground when it has caught nothing?"
+
+- triggers: ["!amos3:6 ","!am3:6 "]
+  replace: "If a horn is blown in a city, do the people not tremble? If a calamity occurs in the city, is it not Jehovah who has acted?"
+
+- triggers: ["!amos3:7 ","!am3:7 "]
+  replace: "For the Sovereign Lord Jehovah will not do a thing Unless he has revealed his confidential matter to his servants the prophets."
+
+- triggers: ["!amos3:8 ","!am3:8 "]
+  replace: "The lion has roared! Who will not be afraid? The Sovereign Lord Jehovah has spoken! Who will not prophesy?’"
+
+- triggers: ["!amos3:9 ","!am3:9 "]
+  replace: "‘Proclaim it on the fortified towers of Ashʹdod And on the fortified towers in the land of Egypt. Say: “Gather together against the mountains of Samarʹia; See the turmoil in her midst And the defrauding within her."
+
+- triggers: ["!amos3:10 ","!am3:10 "]
+  replace: "For they do not know how to do what is right,” declares Jehovah, “Those who are storing up violence and destruction in their fortified towers.”’"
+
+- triggers: ["!amos3:11 ","!am3:11 "]
+  replace: "Therefore this is what the Sovereign Lord Jehovah says, ‘An adversary will surround the land, He will strip you of your strength, And your fortified towers will be plundered.’"
+
+- triggers: ["!amos3:12 ","!am3:12 "]
+  replace: "This is what Jehovah says, ‘Just as the shepherd snatches away two legs or a piece of an ear from the mouth of the lion, That is how the people of Israel will be snatched away, Those now sitting in Samarʹia on splendid beds and on fine couches.’"
+
+- triggers: ["!amos3:13 ","!am3:13 "]
+  replace: "‘Hear and warn the house of Jacob,’ declares the Sovereign Lord Jehovah, the God of armies."
+
+- triggers: ["!amos3:14 ","!am3:14 "]
+  replace: "‘For in the day I call Israel to account for all his revolts, I will also call for an accounting against the altars of Bethʹel; The horns of the altar will be cut off and fall to the earth."
+
+- triggers: ["!amos3:15 ","!am3:15 "]
+  replace: "I will strike down the winter house along with the summer house.’ ‘The houses of ivory will perish, And the great houses will come to their end,’ declares Jehovah.”"
+
+- triggers: ["!amos4:1 ","!am4:1 "]
+  replace: "“Hear this word, you cows of Baʹshan, Who are on the mountain of Samarʹia, You women who are defrauding the lowly and crushing the poor, Who say to their husbands, ‘Bring us something to drink!’"
+
+- triggers: ["!amos4:2 ","!am4:2 "]
+  replace: "The Sovereign Lord Jehovah has sworn by his holiness, ‘“Look! The days are coming upon you when he will lift you up with butcher hooks And the rest of you with fishhooks."
+
+- triggers: ["!amos4:3 ","!am4:3 "]
+  replace: "You will go out through the breaches in the wall, each one straight ahead; And you will be cast out to Harʹmon,” declares Jehovah.’"
+
+- triggers: ["!amos4:4 ","!am4:4 "]
+  replace: "‘Come to Bethʹel and commit transgression, To Gilʹgal and transgress even more! Bring your sacrifices in the morning, And your tithes on the third day."
+
+- triggers: ["!amos4:5 ","!am4:5 "]
+  replace: "Burn a thanksgiving sacrifice of leavened bread; Loudly proclaim your voluntary offerings! For that is what you love to do, O people of Israel,’ declares the Sovereign Lord Jehovah."
+
+- triggers: ["!amos4:6 ","!am4:6 "]
+  replace: "‘And for my part, I made your teeth clean of food in all your cities And caused a lack of bread in all your houses; But you did not come back to me,’ declares Jehovah."
+
+- triggers: ["!amos4:7 ","!am4:7 "]
+  replace: "‘I also withheld rain from you three months before the harvest; I made it rain on one city but not on another city. One plot of land would have rain, But another plot of land where there was no rain would dry up."
+
+- triggers: ["!amos4:8 ","!am4:8 "]
+  replace: "People of two or three cities staggered to one city to drink water, And they would not get satisfied; But you did not come back to me,’ declares Jehovah."
+
+- triggers: ["!amos4:9 ","!am4:9 "]
+  replace: "‘I struck you with scorching heat and mildew. You multiplied your gardens and vineyards, But the locust would devour your fig trees and olive trees; And you still did not come back to me,’ declares Jehovah."
+
+- triggers: ["!amos4:10 ","!am4:10 "]
+  replace: "‘I sent among you a pestilence like that of Egypt. With the sword I killed your young men and captured your horses. I made the stench of your camps rise up into your nostrils; But you did not come back to me,’ declares Jehovah."
+
+- triggers: ["!amos4:11 ","!am4:11 "]
+  replace: "‘I caused an overthrow among you Like God’s overthrow of Sodʹom and Gomorʹrah. And you were like a log snatched out of the fire; But you did not come back to me,’ declares Jehovah."
+
+- triggers: ["!amos4:12 ","!am4:12 "]
+  replace: "So that is what I will do to you, O Israel. Because this is what I will do to you, Get ready to meet your God, O Israel."
+
+- triggers: ["!amos4:13 ","!am4:13 "]
+  replace: "For look! he is the One who formed the mountains and created the wind; He tells man what His thoughts are, He turns the dawn into darkness, And he treads on earth’s high places; Jehovah the God of armies is his name.”"
+
+- triggers: ["!amos5:1 ","!am5:1 "]
+  replace: "“Hear this word that I am taking up against you as a dirge, O house of Israel:"
+
+- triggers: ["!amos5:2 ","!am5:2 "]
+  replace: "‘The virgin, Israel, has fallen; She cannot get up again. She has been abandoned on her own ground; There is no one to raise her up.’"
+
+- triggers: ["!amos5:3 ","!am5:3 "]
+  replace: "“For this is what the Sovereign Lord Jehovah says: ‘The city that marches out with a thousand will have a hundred left; And the one that goes out with a hundred will have ten left, for the house of Israel.’"
+
+- triggers: ["!amos5:4 ","!am5:4 "]
+  replace: "“For this is what Jehovah says to the house of Israel: ‘Search for me and keep living."
+
+- triggers: ["!amos5:5 ","!am5:5 "]
+  replace: "Do not search for Bethʹel, Do not go to Gilʹgal or pass over to Beʹer-sheʹba, For Gilʹgal will certainly go into exile, And Bethʹel will come to nothing."
+
+- triggers: ["!amos5:6 ","!am5:6 "]
+  replace: "Search for Jehovah, and keep living, So that he does not burst out like a fire on the house of Joseph, Consuming Bethʹel, with no one to extinguish it."
+
+- triggers: ["!amos5:7 ","!am5:7 "]
+  replace: "You turn justice into wormwood, And you cast righteousness to the earth."
+
+- triggers: ["!amos5:8 ","!am5:8 "]
+  replace: "The One who made the Kiʹmah constellation and the Keʹsil constellation, The One who turns deep shadow into morning, The One who makes day as dark as night, The One who summons the waters of the sea To pour them out on the surface of the earth —Jehovah is his name."
+
+- triggers: ["!amos5:9 ","!am5:9 "]
+  replace: "He will cause destruction to burst out against the strong, Bringing destruction on fortified places."
+
+- triggers: ["!amos5:10 ","!am5:10 "]
+  replace: "They hate those who give reproof in the city gate, And they detest those who speak truthfully."
+
+- triggers: ["!amos5:11 ","!am5:11 "]
+  replace: "Because you demand farm rent from the poor And you take his grain as tribute, You will not keep dwelling in the houses of hewn stone that you have built Nor drink the wine from the choice vineyards that you have planted."
+
+- triggers: ["!amos5:12 ","!am5:12 "]
+  replace: "For I know how many your revolts are And how great your sins are —You harass the righteous, You take bribes, And you deny the rights of the poor in the city gate."
+
+- triggers: ["!amos5:13 ","!am5:13 "]
+  replace: "Therefore, those with insight will keep silent at that time, For it will be a time of calamity."
+
+- triggers: ["!amos5:14 ","!am5:14 "]
+  replace: "Search for what is good, and not what is bad, So that you may keep living. Then Jehovah the God of armies may be with you, Just as you say he is."
+
+- triggers: ["!amos5:15 ","!am5:15 "]
+  replace: "Hate what is bad, and love what is good, Let justice prevail in the city gate. It may be that Jehovah the God of armies Will show favor to the remaining ones of Joseph.’"
+
+- triggers: ["!amos5:16 ","!am5:16 "]
+  replace: "“Therefore this is what Jehovah the God of armies, Jehovah, says: ‘In all the public squares there will be wailing, And in all the streets they will say, “Alas, alas!” They will call on the farmers to mourn And the professional mourners to wail.’"
+
+- triggers: ["!amos5:17 ","!am5:17 "]
+  replace: "‘In every vineyard there will be wailing; For I will pass through your midst,’ says Jehovah."
+
+- triggers: ["!amos5:18 ","!am5:18 "]
+  replace: "‘Woe to those who yearn for the day of Jehovah! What, then, will the day of Jehovah mean for you? It will be darkness, and not light."
+
+- triggers: ["!amos5:19 ","!am5:19 "]
+  replace: "It will be like a man who flees from a lion and is confronted by a bear, And when he enters his house and leans his hand against the wall, a snake bites him."
+
+- triggers: ["!amos5:20 ","!am5:20 "]
+  replace: "Will not the day of Jehovah be darkness, and not light; Will it not have gloom, and not brightness?"
+
+- triggers: ["!amos5:21 ","!am5:21 "]
+  replace: "I hate, I despise your festivals, And I take no pleasure in the aroma of your solemn assemblies."
+
+- triggers: ["!amos5:22 ","!am5:22 "]
+  replace: "Even if you offer me whole burnt offerings and gift offerings, I will find no pleasure in them; And I will not look with favor on your communion sacrifices of fattened animals."
+
+- triggers: ["!amos5:23 ","!am5:23 "]
+  replace: "Spare me the din of your songs; And let me not hear the melodies of your stringed instruments."
+
+- triggers: ["!amos5:24 ","!am5:24 "]
+  replace: "Let justice flow down like waters, And righteousness like an ever-flowing stream."
+
+- triggers: ["!amos5:25 ","!am5:25 "]
+  replace: "Did you bring me sacrifices and gift offerings For those 40 years in the wilderness, O house of Israel?"
+
+- triggers: ["!amos5:26 ","!am5:26 "]
+  replace: "Now you will have to carry away Sakʹkuth your king and Kaiʹwan, Your images, the star of your god, whom you made for yourselves,"
+
+- triggers: ["!amos5:27 ","!am5:27 "]
+  replace: "And I will send you into exile beyond Damascus,’ says he whose name is Jehovah the God of armies.”"
+
+- triggers: ["!amos6:1 ","!am6:1 "]
+  replace: "“Woe to the self-assured ones in Zion, To those feeling secure in the mountain of Samarʹia, The prominent men of the foremost of nations, Those to whom the house of Israel comes!"
+
+- triggers: ["!amos6:2 ","!am6:2 "]
+  replace: "Cross over to Calʹneh and see. Go from there to Great Haʹmath, And go down to Gath of the Philisʹtines. Are they better than these kingdoms, Or is their territory larger than yours?"
+
+- triggers: ["!amos6:3 ","!am6:3 "]
+  replace: "Are you putting out of your mind the day of calamity And bringing in a reign of violence?"
+
+- triggers: ["!amos6:4 ","!am6:4 "]
+  replace: "They lie on beds of ivory and sprawl out on couches, Eating the rams of the flock and the fattened calves;"
+
+- triggers: ["!amos6:5 ","!am6:5 "]
+  replace: "They improvise songs to the sound of the harp, And like David, they invent musical instruments;"
+
+- triggers: ["!amos6:6 ","!am6:6 "]
+  replace: "They drink wine by the bowlful And anoint themselves with the choicest oils. But they are unconcerned about the catastrophe of Joseph."
+
+- triggers: ["!amos6:7 ","!am6:7 "]
+  replace: "So they will go into exile at the head of the exiles, And the revelry of those sprawled out will come to an end."
+
+- triggers: ["!amos6:8 ","!am6:8 "]
+  replace: "‘The Sovereign Lord Jehovah has sworn by himself,’ declares Jehovah the God of armies, ‘“I detest the pride of Jacob, I hate his fortified towers, And I will hand over the city and what fills it."
+
+- triggers: ["!amos6:9 ","!am6:9 "]
+  replace: "“‘“And if ten men are left in one house, they will also die."
+
+- triggers: ["!amos6:10 ","!am6:10 "]
+  replace: "A relative will come to carry them out and burn them one by one. He will bring their bones out from the house; then he will say to whoever is in the inner rooms of the house, ‘Are there any more with you?’ And he will say, ‘Nobody!’ Then he will say, ‘Keep silent! For it is not the time to make any mention of the name of Jehovah.’”"
+
+- triggers: ["!amos6:11 ","!am6:11 "]
+  replace: "For it is Jehovah giving the command, And he will strike down the great house into rubble, And the small house into debris."
+
+- triggers: ["!amos6:12 ","!am6:12 "]
+  replace: "Do horses run on a crag, Or will one plow there with cattle? For you have turned justice into a poisonous plant, And the fruit of righteousness into wormwood."
+
+- triggers: ["!amos6:13 ","!am6:13 "]
+  replace: "You rejoice over what is worthless, And you say, “Have we not become powerful in our own strength?”"
+
+- triggers: ["!amos6:14 ","!am6:14 "]
+  replace: "Therefore, O house of Israel, I will bring against you a nation,’ declares Jehovah the God of armies, ‘And they will oppress you from Leʹbo-haʹmath down to the Wadi of the Arʹabah.’”"
+
+- triggers: ["!amos7:1 ","!am7:1 "]
+  replace: "This is what the Sovereign Lord Jehovah showed me: Look! He formed a locust swarm when the late crop was beginning to come up. This was the later crop after the king’s hay had been cut."
+
+- triggers: ["!amos7:2 ","!am7:2 "]
+  replace: "When the swarm finished eating up the vegetation of the land, I said: “O Sovereign Lord Jehovah, please forgive! How can Jacob survive? For he is weak!”"
+
+- triggers: ["!amos7:3 ","!am7:3 "]
+  replace: "So Jehovah reconsidered this. “It will not happen,” Jehovah said."
+
+- triggers: ["!amos7:4 ","!am7:4 "]
+  replace: "This is what the Sovereign Lord Jehovah showed me: Look! The Sovereign Lord Jehovah called for a punishment by fire. It consumed the vast deep waters, and it consumed a portion of the land."
+
+- triggers: ["!amos7:5 ","!am7:5 "]
+  replace: "Then I said: “O Sovereign Lord Jehovah, please hold this back. How can Jacob survive? For he is weak!”"
+
+- triggers: ["!amos7:6 ","!am7:6 "]
+  replace: "So Jehovah reconsidered this. “That too will not happen,” the Sovereign Lord Jehovah said."
+
+- triggers: ["!amos7:7 ","!am7:7 "]
+  replace: "This is what he showed me: Look! Jehovah was standing on a wall made with a plumb line, and there was a plumb line in his hand."
+
+- triggers: ["!amos7:8 ","!am7:8 "]
+  replace: "Then Jehovah said to me: “What do you see, Aʹmos?” So I said: “A plumb line.” Jehovah then said: “Here I am putting a plumb line among my people Israel. I will no longer pardon them."
+
+- triggers: ["!amos7:9 ","!am7:9 "]
+  replace: "The high places of Isaac will be desolated, and the sanctuaries of Israel will be devastated; and I will come against the house of Jeroboʹam with a sword.”"
+
+- triggers: ["!amos7:10 ","!am7:10 "]
+  replace: "Amaziʹah the priest of Bethʹel sent this message to King Jeroboʹam of Israel: “Aʹmos is conspiring against you right in the midst of the house of Israel. The land cannot put up with all his words."
+
+- triggers: ["!amos7:11 ","!am7:11 "]
+  replace: "For this is what Aʹmos says, ‘Jeroboʹam will die by the sword, and Israel will surely go into exile from its land.’”"
+
+- triggers: ["!amos7:12 ","!am7:12 "]
+  replace: "Amaziʹah then said to Aʹmos: “O visionary, go, run away to the land of Judah, earn your bread there, and there you may prophesy."
+
+- triggers: ["!amos7:13 ","!am7:13 "]
+  replace: "But you must no longer prophesy at Bethʹel, for it is the sanctuary of a king and the house of a kingdom.”"
+
+- triggers: ["!amos7:14 ","!am7:14 "]
+  replace: "Then Aʹmos answered Amaziʹah: “I was not a prophet nor the son of a prophet; but I was a herdsman, and I took care of sycamore fig trees."
+
+- triggers: ["!amos7:15 ","!am7:15 "]
+  replace: "But Jehovah took me away from following the flock, and Jehovah said to me, ‘Go, prophesy to my people Israel.’"
+
+- triggers: ["!amos7:16 ","!am7:16 "]
+  replace: "So now hear the word of Jehovah: ‘You are saying, “Do not prophesy against Israel, and do not preach against the house of Isaac.”"
+
+- triggers: ["!amos7:17 ","!am7:17 "]
+  replace: "Therefore this is what Jehovah says: “Your wife will become a prostitute in the city, and your sons and your daughters will fall by the sword. Your land will be apportioned out with a measuring line, and you yourself will die in an unclean land; and Israel will surely go into exile from its land.”’”"
+
+- triggers: ["!amos8:1 ","!am8:1 "]
+  replace: "This is what the Sovereign Lord Jehovah showed me: Look! There was a basket of summer fruit."
+
+- triggers: ["!amos8:2 ","!am8:2 "]
+  replace: "Then he said, “What do you see, Aʹmos?” I replied, “A basket of summer fruit.” Then Jehovah said to me: “The end has come for my people Israel. I will no longer pardon them."
+
+- triggers: ["!amos8:3 ","!am8:3 "]
+  replace: "‘The songs of the temple will turn into wailing in that day,’ declares the Sovereign Lord Jehovah. ‘There will be many carcasses thrown everywhere—hush!’"
+
+- triggers: ["!amos8:4 ","!am8:4 "]
+  replace: "Hear this, you who trample on the poor And who bring the meek of the land to an end,"
+
+- triggers: ["!amos8:5 ","!am8:5 "]
+  replace: "Who say, ‘When will the new moon festival be over, that we may sell our grain, And the Sabbath, that we may offer grain for sale? So that we may make the eʹphah measure smaller And the shekel weight greater, To falsify our scales of deception;"
+
+- triggers: ["!amos8:6 ","!am8:6 "]
+  replace: "So that we may buy the needy for silver And the poor for a pair of sandals, And sell the worthless part of the grain.’"
+
+- triggers: ["!amos8:7 ","!am8:7 "]
+  replace: "Jehovah has sworn by the Pride of Jacob, ‘Never will I forget all their deeds."
+
+- triggers: ["!amos8:8 ","!am8:8 "]
+  replace: "On this account the land will tremble, And every inhabitant in it will mourn. Will it not all rise like the Nile, And surge and sink down like the Nile of Egypt?’"
+
+- triggers: ["!amos8:9 ","!am8:9 "]
+  replace: "‘In that day,’ declares the Sovereign Lord Jehovah, ‘I will make the sun go down at high noon, And I will darken the land on a bright day."
+
+- triggers: ["!amos8:10 ","!am8:10 "]
+  replace: "I will turn your festivals into mourning And all your songs into dirges. I will put sackcloth on all hips and make every head bald; I will make it like the mourning for an only son, And the end of it like a bitter day.’"
+
+- triggers: ["!amos8:11 ","!am8:11 "]
+  replace: "‘Look! The days are coming,’ declares the Sovereign Lord Jehovah, ‘When I will send a famine into the land, Not a famine for bread or a thirst for water, But for hearing the words of Jehovah."
+
+- triggers: ["!amos8:12 ","!am8:12 "]
+  replace: "They will stagger from sea to sea And from the north to the east. They will rove about searching for the word of Jehovah, but they will not find it."
+
+- triggers: ["!amos8:13 ","!am8:13 "]
+  replace: "In that day beautiful virgins will faint, Also young men, because of the thirst;"
+
+- triggers: ["!amos8:14 ","!am8:14 "]
+  replace: "Those who swear by the guilt of Samarʹia and who say, “As surely as your god lives, O Dan!” And, “As surely as the way of Beʹer-sheʹba lives!” They will fall, and they will not rise up again.’”"
+
+- triggers: ["!amos9:1 ","!am9:1 "]
+  replace: "I saw Jehovah stationed above the altar, and he said: “Strike the head of the pillar, and the thresholds will shake. Cut them off at the head, and I will kill the last of them with the sword. No one who flees will get away, and no one trying to escape will succeed."
+
+- triggers: ["!amos9:2 ","!am9:2 "]
+  replace: "If they dig down into the Grave, From there my hand will take them; And if they go up to the heavens, From there I will bring them down."
+
+- triggers: ["!amos9:3 ","!am9:3 "]
+  replace: "And if they hide themselves on the top of Carʹmel, From there I will search them out and take them. If they conceal themselves from my eyes on the bottom of the sea, There I will command the serpent to bite them."
+
+- triggers: ["!amos9:4 ","!am9:4 "]
+  replace: "If they go into captivity before their enemies, From there I will command the sword, and it will kill them; I will fix my eyes on them for bad, and not for good."
+
+- triggers: ["!amos9:5 ","!am9:5 "]
+  replace: "For the Sovereign Lord, Jehovah of the armies, is the One who touches the land, So that it melts, and all its inhabitants will mourn; And all of it will rise like the Nile, And sink down like the Nile of Egypt."
+
+- triggers: ["!amos9:6 ","!am9:6 "]
+  replace: "‘The one who builds his stairs in the heavens And establishes his structure over the earth; The one who summons the waters of the sea, To pour them out on the surface of the earth —Jehovah is his name.’"
+
+- triggers: ["!amos9:7 ","!am9:7 "]
+  replace: "‘Are you not like the sons of the Cushʹites to me, O people of Israel?’ declares Jehovah. ‘Did I not bring Israel up out of the land of Egypt, The Philisʹtines out of Crete, and Syria out of Kir?’"
+
+- triggers: ["!amos9:8 ","!am9:8 "]
+  replace: "‘Look! The eyes of the Sovereign Lord Jehovah are on the sinful kingdom, And he will annihilate it from the surface of the land. But I will not completely annihilate the house of Jacob,’ declares Jehovah."
+
+- triggers: ["!amos9:9 ","!am9:9 "]
+  replace: "‘For look! I am giving the command, And I will shake the house of Israel among all the nations, Just as one shakes a sieve, And not a pebble falls to the ground."
+
+- triggers: ["!amos9:10 ","!am9:10 "]
+  replace: "They will die by the sword, all the sinners of my people, Those who are saying, “The calamity will not come near us or reach us.”’"
+
+- triggers: ["!amos9:11 ","!am9:11 "]
+  replace: "‘In that day I will raise up the booth of David that is fallen, I will repair the breaches, And I will restore its ruins; I will rebuild it as in the days of long ago,"
+
+- triggers: ["!amos9:12 ","!am9:12 "]
+  replace: "So that they may take possession of what is remaining of Eʹdom, And all the nations on whom my name has been called,’ declares Jehovah, who is doing this."
+
+- triggers: ["!amos9:13 ","!am9:13 "]
+  replace: "‘Look! The days are coming,’ declares Jehovah, ‘When the plowman will overtake the harvester, And the treader of grapes, the one carrying seed; And the mountains will drip with sweet wine, And all the hills will flow with it."
+
+- triggers: ["!amos9:14 ","!am9:14 "]
+  replace: "I will gather back the captives of my people Israel, And they will rebuild the desolated cities and inhabit them; They will plant vineyards and drink their wine, And make gardens and eat their fruit.’"
+
+- triggers: ["!amos9:15 ","!am9:15 "]
+  replace: "‘I will plant them on their land, And they will never again be uprooted From their land that I have given them,’ says Jehovah your God.”"
+

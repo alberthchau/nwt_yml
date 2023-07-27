@@ -1,0 +1,3211 @@
+matches:
+- triggers: ["!job1:1 "]
+  replace: "There was a man in the land of Uz whose name was Job. He was an upright man of integrity; he feared God and shunned what was bad."
+
+- triggers: ["!job1:2 "]
+  replace: "Seven sons and three daughters were born to him."
+
+- triggers: ["!job1:3 "]
+  replace: "His livestock amounted to 7,000 sheep, 3,000 camels, 1,000 cattle, and 500 donkeys, along with a very large number of servants, so that he became the greatest of all the people of the East."
+
+- triggers: ["!job1:4 "]
+  replace: "Each of his sons would hold a banquet at his house on his own set day. They would invite their three sisters to eat and drink with them."
+
+- triggers: ["!job1:5 "]
+  replace: "After a series of banquet days was complete, Job would send for them in order to sanctify them. Then he would get up early in the morning and offer up burnt sacrifices for each of them. For Job said: “Maybe my sons have sinned and have cursed God in their heart.” That is what Job would always do."
+
+- triggers: ["!job1:6 "]
+  replace: "Now the day came when the sons of the true God entered to take their station before Jehovah, and Satan also entered among them."
+
+- triggers: ["!job1:7 "]
+  replace: "Then Jehovah said to Satan: “Where have you come from?” Satan answered Jehovah: “From roving about on the earth and from walking about in it.”"
+
+- triggers: ["!job1:8 "]
+  replace: "And Jehovah said to Satan: “Have you taken note of my servant Job? There is no one like him on the earth. He is an upright man of integrity, fearing God and shunning what is bad.”"
+
+- triggers: ["!job1:9 "]
+  replace: "At that Satan answered Jehovah: “Is it for nothing that Job has feared God?"
+
+- triggers: ["!job1:10 "]
+  replace: "Have you not put up a protective hedge around him and his house and everything he has? You have blessed the work of his hands, and his livestock has spread out in the land."
+
+- triggers: ["!job1:11 "]
+  replace: "But, for a change, stretch out your hand and strike everything he has, and he will surely curse you to your very face.”"
+
+- triggers: ["!job1:12 "]
+  replace: "Then Jehovah said to Satan: “Look! Everything that he has is in your hand. Only do not lay your hand on the man himself!” So Satan went out from the presence of Jehovah."
+
+- triggers: ["!job1:13 "]
+  replace: "Now on the day when his sons and daughters were eating and drinking wine in their oldest brother’s house,"
+
+- triggers: ["!job1:14 "]
+  replace: "a messenger came to Job and said: “The cattle were plowing and the donkeys were grazing beside them"
+
+- triggers: ["!job1:15 "]
+  replace: "when the Sabeʹans attacked and took them, and they killed the servants with the sword. I am the only one who escaped to tell you.”"
+
+- triggers: ["!job1:16 "]
+  replace: "While he was still speaking, another one came and said: “Fire from God fell from the heavens and blazed among the sheep and the servants and consumed them! I am the only one who escaped to tell you.”"
+
+- triggers: ["!job1:17 "]
+  replace: "While he was still speaking, another one came and said: “The Chaldeʹans formed three bands and made a raid on the camels and took them, and they killed the servants with the sword. I am the only one who escaped to tell you.”"
+
+- triggers: ["!job1:18 "]
+  replace: "While he was still speaking, yet another one came and said: “Your sons and your daughters were eating and drinking wine in their oldest brother’s house."
+
+- triggers: ["!job1:19 "]
+  replace: "Suddenly a great wind came from the wilderness, and it struck the four corners of the house, so that it fell on the young people and they were killed. I am the only one who escaped to tell you.”"
+
+- triggers: ["!job1:20 "]
+  replace: "At that Job got up and ripped apart his garment and cut the hair off his head; then he fell to the ground and bowed down"
+
+- triggers: ["!job1:21 "]
+  replace: "and said: “Naked I came out of my mother’s womb, And naked I will return. Jehovah has given, and Jehovah has taken away. Let the name of Jehovah continue to be praised.”"
+
+- triggers: ["!job1:22 "]
+  replace: "In all of this, Job did not sin or accuse God of doing anything wrong."
+
+- triggers: ["!job2:1 "]
+  replace: "Afterward the day came when the sons of the true God entered to take their station before Jehovah, and Satan also entered among them to take his station before Jehovah."
+
+- triggers: ["!job2:2 "]
+  replace: "Then Jehovah said to Satan: “Where have you come from?” Satan answered Jehovah: “From roving about on the earth and from walking about in it.”"
+
+- triggers: ["!job2:3 "]
+  replace: "And Jehovah said to Satan: “Have you taken note of my servant Job? There is no one like him on the earth. He is an upright man of integrity, fearing God and shunning what is bad. He is still holding firmly to his integrity, even though you try to incite me against him to destroy him for no reason.”"
+
+- triggers: ["!job2:4 "]
+  replace: "But Satan answered Jehovah: “Skin for skin. A man will give everything that he has for his life."
+
+- triggers: ["!job2:5 "]
+  replace: "But, for a change, stretch out your hand and strike his bone and flesh, and he will surely curse you to your very face.”"
+
+- triggers: ["!job2:6 "]
+  replace: "Then Jehovah said to Satan: “Look! He is in your hand! Only do not take his life!”"
+
+- triggers: ["!job2:7 "]
+  replace: "So Satan went out from the presence of Jehovah and struck Job with painful boils from the sole of his foot to the crown of his head."
+
+- triggers: ["!job2:8 "]
+  replace: "And Job took a piece of broken pottery to scrape himself, and he was sitting among the ashes."
+
+- triggers: ["!job2:9 "]
+  replace: "Finally his wife said to him: “Are you still holding firmly to your integrity? Curse God and die!”"
+
+- triggers: ["!job2:10 "]
+  replace: "But he said to her: “You are talking like one of the senseless women. Should we accept only what is good from the true God and not accept also what is bad?” In all of this, Job did not sin with his lips."
+
+- triggers: ["!job2:11 "]
+  replace: "Three companions of Job heard about all the calamities that had come upon him, and each came from his own place—Elʹiphaz the Teʹmanite, Bilʹdad the Shuʹhite, and Zoʹphar the Naʹamathite. So they agreed to meet together to go and sympathize with Job and comfort him."
+
+- triggers: ["!job2:12 "]
+  replace: "When they saw him from a distance, they did not recognize him. They began to weep loudly and to rip their garments apart, and they threw dust into the air and onto their heads."
+
+- triggers: ["!job2:13 "]
+  replace: "Then they sat on the ground with him for seven days and seven nights. No one said a word to him, for they saw that his pain was very great."
+
+- triggers: ["!job3:1 "]
+  replace: "It was after this that Job began to speak and to curse the day of his birth."
+
+- triggers: ["!job3:2 "]
+  replace: "Job said:"
+
+- triggers: ["!job3:3 "]
+  replace: "“Let the day perish on which I was born, Also the night when someone said: ‘A man has been conceived!’"
+
+- triggers: ["!job3:4 "]
+  replace: "Let that day be darkness. Let God above show no concern for it; Let no light shine upon it."
+
+- triggers: ["!job3:5 "]
+  replace: "Let the deepest darkness reclaim it. Let a rain cloud settle over it. Let whatever darkens the day terrify it."
+
+- triggers: ["!job3:6 "]
+  replace: "That night—let the gloom seize it; Let it not rejoice among the days of a year, And let it not enter among the number of the months."
+
+- triggers: ["!job3:7 "]
+  replace: "Indeed! Let that night become barren; Let no joyful cry be heard in it."
+
+- triggers: ["!job3:8 "]
+  replace: "Let those who curse the day put a curse on it, Those who are able to awaken Leviʹathan."
+
+- triggers: ["!job3:9 "]
+  replace: "Let the stars of its twilight grow dark; Let it wait in vain for daylight, And let it not see the rays of dawn."
+
+- triggers: ["!job3:10 "]
+  replace: "For it did not close the doors of my mother’s womb; Nor did it hide trouble from my eyes."
+
+- triggers: ["!job3:11 "]
+  replace: "Why did I not die at birth? Why did I not perish when I came from the womb?"
+
+- triggers: ["!job3:12 "]
+  replace: "Why were there knees to receive me And breasts to nurse me?"
+
+- triggers: ["!job3:13 "]
+  replace: "For now I would be lying down undisturbed; I would be sleeping and at rest"
+
+- triggers: ["!job3:14 "]
+  replace: "With kings of the earth and their advisers, Who built for themselves places that are now in ruins,"
+
+- triggers: ["!job3:15 "]
+  replace: "Or with princes who possessed gold, Whose houses were filled with silver."
+
+- triggers: ["!job3:16 "]
+  replace: "Or why was I not like a hidden miscarriage, Like children who have never seen the light?"
+
+- triggers: ["!job3:17 "]
+  replace: "There even the wicked have ceased from agitation; There the weary are at rest."
+
+- triggers: ["!job3:18 "]
+  replace: "There the prisoners are at ease together; They do not hear the voice of the one forcing them to work."
+
+- triggers: ["!job3:19 "]
+  replace: "Small and great are the same there, And the slave is set free from his master."
+
+- triggers: ["!job3:20 "]
+  replace: "Why does he give light to one who is suffering And life to those in bitter distress?"
+
+- triggers: ["!job3:21 "]
+  replace: "Why do they long for death, but it does not come? They dig for it more than for hidden treasures,"
+
+- triggers: ["!job3:22 "]
+  replace: "Those who are rejoicing greatly, Who are happy when they find the grave."
+
+- triggers: ["!job3:23 "]
+  replace: "Why does he give light to a man who has lost his way, Whom God has hedged in?"
+
+- triggers: ["!job3:24 "]
+  replace: "For in place of my food comes my sighing, And my groaning pours out like water."
+
+- triggers: ["!job3:25 "]
+  replace: "For what I have dreaded has come upon me, And what I have feared has befallen me."
+
+- triggers: ["!job3:26 "]
+  replace: "I have had no peace, no quiet, no rest, But trouble keeps coming.”"
+
+- triggers: ["!job4:1 "]
+  replace: "Elʹiphaz the Teʹmanite then said in reply:"
+
+- triggers: ["!job4:2 "]
+  replace: "“If someone tries to speak to you, will you become impatient? For who can hold back from speaking?"
+
+- triggers: ["!job4:3 "]
+  replace: "True, you have corrected many, And you used to strengthen the weak hands."
+
+- triggers: ["!job4:4 "]
+  replace: "Your words would raise up anyone stumbling, And you would strengthen those whose knees were buckling."
+
+- triggers: ["!job4:5 "]
+  replace: "But now it has happened to you, and you are overwhelmed; It touches you, and you are dismayed."
+
+- triggers: ["!job4:6 "]
+  replace: "Does your reverence for God not give you confidence? Does your way of integrity not give you hope?"
+
+- triggers: ["!job4:7 "]
+  replace: "Remember, please: What innocent person has ever perished? When have the upright ever been destroyed?"
+
+- triggers: ["!job4:8 "]
+  replace: "What I have seen is that those who plow what is harmful And those who sow trouble will reap the same."
+
+- triggers: ["!job4:9 "]
+  replace: "By the breath of God they perish, And through a blast of his anger they come to an end."
+
+- triggers: ["!job4:10 "]
+  replace: "The lion roars, and a young lion growls, But even the teeth of strong lions are broken."
+
+- triggers: ["!job4:11 "]
+  replace: "A lion perishes for lack of prey, And the cubs of a lion are scattered."
+
+- triggers: ["!job4:12 "]
+  replace: "Now a word was brought to me in secret, And a whisper of it reached my ear."
+
+- triggers: ["!job4:13 "]
+  replace: "In troubling thoughts during visions of the night, When deep sleep falls upon men,"
+
+- triggers: ["!job4:14 "]
+  replace: "A terrible trembling came upon me, Filling all my bones with dread."
+
+- triggers: ["!job4:15 "]
+  replace: "A spirit passed over my face; The hair of my flesh bristled."
+
+- triggers: ["!job4:16 "]
+  replace: "It then stood still, But I did not recognize its appearance. A form was in front of my eyes; There was a calm, and then I heard a voice:"
+
+- triggers: ["!job4:17 "]
+  replace: "‘Can a mortal man be more righteous than God? Can a man be cleaner than his own Maker?’"
+
+- triggers: ["!job4:18 "]
+  replace: "Look! He has no faith in his servants, And he finds fault with his angels."
+
+- triggers: ["!job4:19 "]
+  replace: "How much more so with those dwelling in houses of clay, Whose foundation is in the dust, Who are crushed as easily as a moth!"
+
+- triggers: ["!job4:20 "]
+  replace: "They are completely crushed from morning to evening; They perish forever, and no one takes notice."
+
+- triggers: ["!job4:21 "]
+  replace: "Are they not like a tent whose cord is pulled out? They die without wisdom."
+
+- triggers: ["!job5:1 "]
+  replace: "“Call, please! Is there anyone answering you? To which of the holy ones will you turn?"
+
+- triggers: ["!job5:2 "]
+  replace: "For resentment will kill the foolish one, And envy will put the simpleminded to death."
+
+- triggers: ["!job5:3 "]
+  replace: "I have seen the foolish one taking root, But suddenly his dwelling place is cursed."
+
+- triggers: ["!job5:4 "]
+  replace: "His sons are far from safety, And they are crushed at the city gate, with no one to save them."
+
+- triggers: ["!job5:5 "]
+  replace: "The hungry one eats what he harvests, Taking it even from among the thorns, And their possessions are ensnared."
+
+- triggers: ["!job5:6 "]
+  replace: "For harmful things do not sprout from the dust, And trouble does not spring from the ground."
+
+- triggers: ["!job5:7 "]
+  replace: "For man is born for trouble, As surely as sparks fly upward."
+
+- triggers: ["!job5:8 "]
+  replace: "But I would appeal to God, And to God I would submit my case,"
+
+- triggers: ["!job5:9 "]
+  replace: "To the One doing great and unsearchable things, Wonderful things without number."
+
+- triggers: ["!job5:10 "]
+  replace: "He gives rain to the earth And sends waters upon the fields."
+
+- triggers: ["!job5:11 "]
+  replace: "He raises the lowly up high, And he raises up the dejected one to salvation."
+
+- triggers: ["!job5:12 "]
+  replace: "He frustrates the schemes of the crafty, So that the work of their hands does not succeed."
+
+- triggers: ["!job5:13 "]
+  replace: "He catches the wise in their own cunning, So that the plans of the shrewd are thwarted."
+
+- triggers: ["!job5:14 "]
+  replace: "They meet with darkness during the day, And they grope about at midday as if it were night."
+
+- triggers: ["!job5:15 "]
+  replace: "He saves from the sword of their mouth, Saving the poor from the hand of the strong,"
+
+- triggers: ["!job5:16 "]
+  replace: "So that there is hope for the lowly, But the mouth of unrighteousness is shut."
+
+- triggers: ["!job5:17 "]
+  replace: "Look! Happy is the man whom God reproves; So do not reject the discipline of the Almighty!"
+
+- triggers: ["!job5:18 "]
+  replace: "For he causes pain, but binds up the wound; He breaks apart, but heals with his own hands."
+
+- triggers: ["!job5:19 "]
+  replace: "He will save you from six calamities, Even the seventh will not harm you."
+
+- triggers: ["!job5:20 "]
+  replace: "During famine he will redeem you from death, And from the power of a sword during war."
+
+- triggers: ["!job5:21 "]
+  replace: "You will be protected from the lash of the tongue, And you will not fear devastation when it comes."
+
+- triggers: ["!job5:22 "]
+  replace: "You will laugh at destruction and hunger, And you will not fear the wild beasts of the earth."
+
+- triggers: ["!job5:23 "]
+  replace: "For the stones of the field will not harm you, And the wild beasts of the field will be at peace with you."
+
+- triggers: ["!job5:24 "]
+  replace: "You will know that your tent is secure, And nothing will be missing when you inspect your pasture."
+
+- triggers: ["!job5:25 "]
+  replace: "You will enjoy many children, And your descendants will be as plentiful as the vegetation of the earth."
+
+- triggers: ["!job5:26 "]
+  replace: "You will still be strong when you go to the grave, Like sheaves of grain gathered in their season."
+
+- triggers: ["!job5:27 "]
+  replace: "Look! We have investigated this, and it is so. Listen and accept it.”"
+
+- triggers: ["!job6:1 "]
+  replace: "Job then said in reply:"
+
+- triggers: ["!job6:2 "]
+  replace: "“If only my anguish could be fully weighed And put on scales together with my calamity!"
+
+- triggers: ["!job6:3 "]
+  replace: "For now it is heavier than the sands of the seas. That is why my words have been wild talk."
+
+- triggers: ["!job6:4 "]
+  replace: "For the arrows of the Almighty have pierced me, And my spirit is drinking their venom; The terrors from God are lined up against me."
+
+- triggers: ["!job6:5 "]
+  replace: "Will a wild donkey cry out when it has grass, Or will a bull bellow when it has fodder?"
+
+- triggers: ["!job6:6 "]
+  replace: "Is tasteless food eaten without salt, Or is there flavor in the juice of a mallow?"
+
+- triggers: ["!job6:7 "]
+  replace: "I have refused to touch such things. They are like contamination in my food."
+
+- triggers: ["!job6:8 "]
+  replace: "O that my request would be realized And that God would grant my desire!"
+
+- triggers: ["!job6:9 "]
+  replace: "That God would be willing to crush me, And that he would reach out his hand and do away with me!"
+
+- triggers: ["!job6:10 "]
+  replace: "For even that would bring me comfort; I would leap for joy despite the unrelenting pain, For I have not denied the sayings of the Holy One."
+
+- triggers: ["!job6:11 "]
+  replace: "Do I have the strength to keep waiting? And what end awaits me, that I should continue to live?"
+
+- triggers: ["!job6:12 "]
+  replace: "Is my strength like that of rock? Or is my flesh made of copper?"
+
+- triggers: ["!job6:13 "]
+  replace: "Is there any way that I can help myself When all my means of support has been driven from me?"
+
+- triggers: ["!job6:14 "]
+  replace: "Anyone who withholds loyal love from his fellow man Will forsake the fear of the Almighty."
+
+- triggers: ["!job6:15 "]
+  replace: "My own brothers have been as treacherous as a winter stream, Like the water of winter streams that dry up."
+
+- triggers: ["!job6:16 "]
+  replace: "They are darkened by ice, And in them the melting snow is hidden."
+
+- triggers: ["!job6:17 "]
+  replace: "But in due season they become waterless and come to an end; When it becomes hot, they dry up."
+
+- triggers: ["!job6:18 "]
+  replace: "Their course is diverted; They flow into the desert and vanish."
+
+- triggers: ["!job6:19 "]
+  replace: "The caravans of Teʹma look for them; The travelers from Sheʹba wait for them."
+
+- triggers: ["!job6:20 "]
+  replace: "They are ashamed because of their misplaced trust; They come there only to be disappointed."
+
+- triggers: ["!job6:21 "]
+  replace: "For this is how you have become to me; You have seen the terror of my calamity, and you are afraid."
+
+- triggers: ["!job6:22 "]
+  replace: "Have I said, ‘Give me something,’ Or requested that you make a gift for me from your wealth?"
+
+- triggers: ["!job6:23 "]
+  replace: "Have I asked to be rescued from the hand of an enemy Or to be saved from oppressors?"
+
+- triggers: ["!job6:24 "]
+  replace: "Instruct me, and I will be silent; Help me to understand my mistake."
+
+- triggers: ["!job6:25 "]
+  replace: "Honest words are not painful! But what benefit can be found in your reproof?"
+
+- triggers: ["!job6:26 "]
+  replace: "Are you scheming to reprove my words, A desperate man’s sayings, which the wind blows away?"
+
+- triggers: ["!job6:27 "]
+  replace: "You would also cast lots over an orphan And sell your own friend!"
+
+- triggers: ["!job6:28 "]
+  replace: "So now turn and look at me, For I would not lie to your very faces."
+
+- triggers: ["!job6:29 "]
+  replace: "Reconsider, please—do not misjudge me— Yes, reconsider, for my righteousness is yet intact."
+
+- triggers: ["!job6:30 "]
+  replace: "Is my tongue speaking unjustly? Does my palate not discern that something is wrong?"
+
+- triggers: ["!job7:1 "]
+  replace: "“Is not the life of mortal man on earth like compulsory labor, And are not his days like those of a hired worker?"
+
+- triggers: ["!job7:2 "]
+  replace: "Like a slave, he longs for the shadow, And like a hired worker, he waits for his wages."
+
+- triggers: ["!job7:3 "]
+  replace: "Thus I have been assigned months of futility And nights of misery have been counted out for me."
+
+- triggers: ["!job7:4 "]
+  replace: "When I lie down I ask, ‘When will I get up?’ But as the night drags on, I toss restlessly until the dawning of the day."
+
+- triggers: ["!job7:5 "]
+  replace: "My flesh is covered with maggots and clods of dirt; My skin is full of scabs and pus."
+
+- triggers: ["!job7:6 "]
+  replace: "My days go by more quickly than a weaver’s shuttle, And they come to an end without hope."
+
+- triggers: ["!job7:7 "]
+  replace: "Remember that my life is wind, That my eye will never again see happiness."
+
+- triggers: ["!job7:8 "]
+  replace: "The eye that sees me now will see me no more; Your eyes will look for me, but I will be gone."
+
+- triggers: ["!job7:9 "]
+  replace: "Like a cloud that fades and vanishes, The one who goes down to the Grave does not come back up."
+
+- triggers: ["!job7:10 "]
+  replace: "He will not return again to his house, And his place will acknowledge him no more."
+
+- triggers: ["!job7:11 "]
+  replace: "Therefore, I will not restrain my mouth. I will speak in the anguish of my spirit; I will complain in my bitter distress!"
+
+- triggers: ["!job7:12 "]
+  replace: "Am I the sea or a sea monster, That you should set a guard over me?"
+
+- triggers: ["!job7:13 "]
+  replace: "When I say, ‘My couch will comfort me; My bed will help ease my misery,’"
+
+- triggers: ["!job7:14 "]
+  replace: "Then you terrify me with dreams And frighten me with visions,"
+
+- triggers: ["!job7:15 "]
+  replace: "So that I would choose suffocation, Yes, death rather than this body of mine."
+
+- triggers: ["!job7:16 "]
+  replace: "I loathe my life; I do not want to go on living. Leave me alone, for my days are like a breath."
+
+- triggers: ["!job7:17 "]
+  replace: "What is mortal man that you should concern yourself with him And fix your attention on him?"
+
+- triggers: ["!job7:18 "]
+  replace: "Why do you inspect him every morning And test him every moment?"
+
+- triggers: ["!job7:19 "]
+  replace: "Will you not look away from me And leave me alone long enough to swallow my saliva?"
+
+- triggers: ["!job7:20 "]
+  replace: "If I have sinned, how could I harm you, the Observer of mankind? Why have you made me your target? Have I become a burden to you?"
+
+- triggers: ["!job7:21 "]
+  replace: "Why do you not pardon my transgression And excuse my error? For soon I will lie down in the dust, And you will look for me, but I will be gone.”"
+
+- triggers: ["!job8:1 "]
+  replace: "Bilʹdad the Shuʹhite then said in reply:"
+
+- triggers: ["!job8:2 "]
+  replace: "“How long will you keep speaking like this? The words of your mouth are but a mighty wind!"
+
+- triggers: ["!job8:3 "]
+  replace: "Will God pervert justice, Or will the Almighty pervert righteousness?"
+
+- triggers: ["!job8:4 "]
+  replace: "If your sons sinned against him, He let them be punished for their revolt;"
+
+- triggers: ["!job8:5 "]
+  replace: "But if you would just look to God And plead with the Almighty for favor,"
+
+- triggers: ["!job8:6 "]
+  replace: "And if you were truly pure and upright, He would pay attention to you And restore you to your rightful place."
+
+- triggers: ["!job8:7 "]
+  replace: "And though your beginning was small, Your future would be great."
+
+- triggers: ["!job8:8 "]
+  replace: "Ask, please, the former generation, And pay attention to the things their fathers found out."
+
+- triggers: ["!job8:9 "]
+  replace: "For we were born only yesterday, and we know nothing, Because our days on earth are a shadow."
+
+- triggers: ["!job8:10 "]
+  replace: "Will they not instruct you And tell you what they know?"
+
+- triggers: ["!job8:11 "]
+  replace: "Will a papyrus plant grow tall where there is no marsh? Will a reed grow tall without water?"
+
+- triggers: ["!job8:12 "]
+  replace: "While it is still in the bud, not yet plucked off, It will dry up before any other plant."
+
+- triggers: ["!job8:13 "]
+  replace: "This is the outcome of all who forget God, For the hope of the godless will perish,"
+
+- triggers: ["!job8:14 "]
+  replace: "Whose confidence is in vain And whose trust is as fragile as a spider’s web."
+
+- triggers: ["!job8:15 "]
+  replace: "He will lean against his house, but it will not keep standing; He will try to hold on to it, but it will not last."
+
+- triggers: ["!job8:16 "]
+  replace: "He is a moist plant in the sunlight, And his shoots spread out in the garden."
+
+- triggers: ["!job8:17 "]
+  replace: "In a heap of stones, his roots become entwined; He looks for a house among the stones."
+
+- triggers: ["!job8:18 "]
+  replace: "But when he is uprooted from his place, That place will deny him and say, ‘I have never seen you.’"
+
+- triggers: ["!job8:19 "]
+  replace: "Yes, that is how he will disappear; Then others will spring up from the dust."
+
+- triggers: ["!job8:20 "]
+  replace: "Surely God will not reject those who keep integrity; Nor will he support evil men,"
+
+- triggers: ["!job8:21 "]
+  replace: "For he will yet fill your mouth with laughter And your lips with shouts of joy."
+
+- triggers: ["!job8:22 "]
+  replace: "Those hating you will be clothed with shame, And the tent of wicked ones will be no more.”"
+
+- triggers: ["!job9:1 "]
+  replace: "Job said in reply:"
+
+- triggers: ["!job9:2 "]
+  replace: "“For a fact I know that this is so. But how can mortal man be in the right in a case with God?"
+
+- triggers: ["!job9:3 "]
+  replace: "If someone wishes to argue with Him, That one could not answer one of His questions in a thousand."
+
+- triggers: ["!job9:4 "]
+  replace: "He is wise in heart and mighty in power. Who can resist him and come off uninjured?"
+
+- triggers: ["!job9:5 "]
+  replace: "He moves mountains without anyone knowing it; He overturns them in his anger."
+
+- triggers: ["!job9:6 "]
+  replace: "He shakes the earth out of its place, So that its pillars tremble."
+
+- triggers: ["!job9:7 "]
+  replace: "He commands the sun not to shine And seals off the light of the stars;"
+
+- triggers: ["!job9:8 "]
+  replace: "He spreads out the heavens by himself, And he treads upon the high waves of the sea."
+
+- triggers: ["!job9:9 "]
+  replace: "He made the Ash, the Keʹsil, and the Kiʹmah constellations, And the constellations of the southern sky;"
+
+- triggers: ["!job9:10 "]
+  replace: "He does great and unsearchable things, Wonderful things that cannot be counted."
+
+- triggers: ["!job9:11 "]
+  replace: "He passes by me, and I cannot see him; He moves past me, but I do not discern him."
+
+- triggers: ["!job9:12 "]
+  replace: "When he snatches something, who can resist him? Who can say to him, ‘What are you doing?’"
+
+- triggers: ["!job9:13 "]
+  replace: "God will not restrain his anger; Even the helpers of Raʹhab will bow down to him."
+
+- triggers: ["!job9:14 "]
+  replace: "How much more when I answer him Must I choose my words carefully to argue with him!"
+
+- triggers: ["!job9:15 "]
+  replace: "Even if I were in the right, I would not answer him. I could only plead for mercy from my judge."
+
+- triggers: ["!job9:16 "]
+  replace: "If I call out to him, will he answer me? I do not believe that he will listen to my voice,"
+
+- triggers: ["!job9:17 "]
+  replace: "For he crushes me with a storm And multiplies my wounds for no reason."
+
+- triggers: ["!job9:18 "]
+  replace: "He does not let me catch my breath; He keeps filling me with bitter things."
+
+- triggers: ["!job9:19 "]
+  replace: "If it is a matter of power, he is the strong one. If it is a matter of justice, he says: ‘Who can call me to account?’"
+
+- triggers: ["!job9:20 "]
+  replace: "If I were in the right, my own mouth would condemn me; Even if I keep my integrity, he will declare me guilty."
+
+- triggers: ["!job9:21 "]
+  replace: "Even if I keep my integrity, I am not confident about myself; I reject this life of mine."
+
+- triggers: ["!job9:22 "]
+  replace: "It is all the same. That is why I say, ‘He destroys the innocent and the wicked alike.’"
+
+- triggers: ["!job9:23 "]
+  replace: "If a flash flood should cause sudden death, He would mock at the despair of the innocent."
+
+- triggers: ["!job9:24 "]
+  replace: "The earth has been handed over to the wicked; He covers the eyes of its judges. If it is not he, then, who is it?"
+
+- triggers: ["!job9:25 "]
+  replace: "Now my days are swifter than a runner; They run away without seeing good."
+
+- triggers: ["!job9:26 "]
+  replace: "They glide by like reed boats, Like eagles that swoop down on their prey."
+
+- triggers: ["!job9:27 "]
+  replace: "If I say, ‘I will forget my complaint, I will change my expression and be cheerful,’"
+
+- triggers: ["!job9:28 "]
+  replace: "I would still be afraid because of all my pains, And I know you would not find me innocent."
+
+- triggers: ["!job9:29 "]
+  replace: "I would be found guilty. So why should I struggle in vain?"
+
+- triggers: ["!job9:30 "]
+  replace: "If I wash myself in water from melting snow, And I cleanse my hands in lye,"
+
+- triggers: ["!job9:31 "]
+  replace: "Then you would dip me in a pit, So that even my own garments would detest me."
+
+- triggers: ["!job9:32 "]
+  replace: "For he is not a man like me that I may answer him, That we should go to court together."
+
+- triggers: ["!job9:33 "]
+  replace: "There is no person to decide between us, Who could serve as our judge."
+
+- triggers: ["!job9:34 "]
+  replace: "If he would stop beating me And not let his terror frighten me,"
+
+- triggers: ["!job9:35 "]
+  replace: "Then I would speak to him unafraid, For it is not in me to speak out of fear."
+
+- triggers: ["!job10:1 "]
+  replace: "“I loathe my life. I will give vent to my complaints. I will speak out in my bitter distress!"
+
+- triggers: ["!job10:2 "]
+  replace: "I will say to God: ‘Do not pronounce me guilty. Tell me why you are contending with me."
+
+- triggers: ["!job10:3 "]
+  replace: "Does it benefit you to oppress, To despise the work of your hands While you favor the advice of the wicked?"
+
+- triggers: ["!job10:4 "]
+  replace: "Do you have eyes of flesh, Or do you see as mortal man does?"
+
+- triggers: ["!job10:5 "]
+  replace: "Are your days like the days of mortals, Or are your years like those of a man,"
+
+- triggers: ["!job10:6 "]
+  replace: "That you should search out my error And keep looking for my sin?"
+
+- triggers: ["!job10:7 "]
+  replace: "You know that I am not guilty; And no one can save me from your hand."
+
+- triggers: ["!job10:8 "]
+  replace: "Your own hands have shaped me and made me, But now you would completely destroy me."
+
+- triggers: ["!job10:9 "]
+  replace: "Remember, please, that you made me out of clay, But now you make me return to dust."
+
+- triggers: ["!job10:10 "]
+  replace: "Did you not pour me out like milk And curdle me like cheese?"
+
+- triggers: ["!job10:11 "]
+  replace: "With skin and flesh you clothed me, And with bones and sinews you wove me together."
+
+- triggers: ["!job10:12 "]
+  replace: "You have given me life and loyal love; You have guarded my spirit with your care."
+
+- triggers: ["!job10:13 "]
+  replace: "But you secretly intended to do these things. I know that these things are from you."
+
+- triggers: ["!job10:14 "]
+  replace: "If I sinned, you would watch me, And you would not acquit me of my error."
+
+- triggers: ["!job10:15 "]
+  replace: "If I am guilty, too bad for me! And even if I am innocent, I cannot raise my head, For I am filled with dishonor and affliction."
+
+- triggers: ["!job10:16 "]
+  replace: "If I raise my head up, you hunt for me like a lion And again show your power against me."
+
+- triggers: ["!job10:17 "]
+  replace: "You bring new witnesses against me And increase your anger against me, As hardship after hardship comes upon me."
+
+- triggers: ["!job10:18 "]
+  replace: "So why did you bring me out from the womb? I should have died before any eye could see me."
+
+- triggers: ["!job10:19 "]
+  replace: "It would have been as though I never existed; I would have been taken straight from the womb to the grave.’"
+
+- triggers: ["!job10:20 "]
+  replace: "Are not my days few? Let him leave me alone; Let him turn his eyes away from me, so that I may find some relief"
+
+- triggers: ["!job10:21 "]
+  replace: "Before I go away—and I will not return— To the land of deepest darkness,"
+
+- triggers: ["!job10:22 "]
+  replace: "To the land of utter gloom, A land of deep shadow and disorder, Where even the light is like the gloom.”"
+
+- triggers: ["!job11:1 "]
+  replace: "Zoʹphar the Naʹamathite said in reply:"
+
+- triggers: ["!job11:2 "]
+  replace: "“Will all these words go unanswered, Or will a lot of talking make someone right?"
+
+- triggers: ["!job11:3 "]
+  replace: "Will your empty talk silence people? Will no one rebuke you for your mocking words?"
+
+- triggers: ["!job11:4 "]
+  replace: "For you say, ‘My teaching is pure, And I am clean in your eyes.’"
+
+- triggers: ["!job11:5 "]
+  replace: "But if only God would speak And open his lips to you!"
+
+- triggers: ["!job11:6 "]
+  replace: "Then he would reveal to you the secrets of wisdom, For practical wisdom has many sides. Then you would realize that God allows some of your error to be forgotten."
+
+- triggers: ["!job11:7 "]
+  replace: "Can you discover the deep things of God Or discover everything about the Almighty?"
+
+- triggers: ["!job11:8 "]
+  replace: "It is higher than heaven. What can you accomplish? It is deeper than the Grave. What can you know?"
+
+- triggers: ["!job11:9 "]
+  replace: "It is longer than the earth And broader than the sea."
+
+- triggers: ["!job11:10 "]
+  replace: "If he passes by and detains someone and convenes a court, Who can resist him?"
+
+- triggers: ["!job11:11 "]
+  replace: "For he knows when men are deceitful. When he sees what is evil, will he not take notice?"
+
+- triggers: ["!job11:12 "]
+  replace: "But an empty-headed man will understand Only when a wild donkey can give birth to a man."
+
+- triggers: ["!job11:13 "]
+  replace: "If only you would prepare your heart And stretch out your hands to him."
+
+- triggers: ["!job11:14 "]
+  replace: "If your hand is doing wrong, put it far away, And let no unrighteousness dwell in your tents."
+
+- triggers: ["!job11:15 "]
+  replace: "For then you could lift up your face with no defect; You could stand firm, free of fear."
+
+- triggers: ["!job11:16 "]
+  replace: "For then you will forget your trouble; You will remember it as waters that have flowed past you."
+
+- triggers: ["!job11:17 "]
+  replace: "Your life will become brighter than midday; Even its darkness will be like the morning."
+
+- triggers: ["!job11:18 "]
+  replace: "You will be confident because there is hope, And you will look around and lie down in security."
+
+- triggers: ["!job11:19 "]
+  replace: "You will lie down, with no one to make you afraid, And many people will seek your favor."
+
+- triggers: ["!job11:20 "]
+  replace: "But the eyes of the wicked will fail; And they will find no place to escape, And their only hope will be death.”"
+
+- triggers: ["!job12:1 "]
+  replace: "Then Job said in reply:"
+
+- triggers: ["!job12:2 "]
+  replace: "“Surely you are the people who know, And wisdom will die out with you!"
+
+- triggers: ["!job12:3 "]
+  replace: "But I too have understanding. I am not inferior to you. Who does not know these things?"
+
+- triggers: ["!job12:4 "]
+  replace: "I have become a laughingstock to my companions, One calling to God for an answer. A righteous and blameless man is a laughingstock."
+
+- triggers: ["!job12:5 "]
+  replace: "The carefree person has contempt for calamity, Thinking it is only for those whose feet are unsteady."
+
+- triggers: ["!job12:6 "]
+  replace: "The tents of robbers are at peace, And those who provoke God are secure, Those who have their god in their hands."
+
+- triggers: ["!job12:7 "]
+  replace: "However, ask, please, the animals, and they will instruct you; Also the birds of the heavens, and they will tell you."
+
+- triggers: ["!job12:8 "]
+  replace: "Or give consideration to the earth, and it will instruct you; And the fish of the sea will declare it to you."
+
+- triggers: ["!job12:9 "]
+  replace: "Who among all these does not know That the hand of Jehovah has done this?"
+
+- triggers: ["!job12:10 "]
+  replace: "In his hand is the life of every living thing And the spirit of every human."
+
+- triggers: ["!job12:11 "]
+  replace: "Does not the ear test out words As the tongue tastes food?"
+
+- triggers: ["!job12:12 "]
+  replace: "Is not wisdom found among the aged, And does not understanding come with a long life?"
+
+- triggers: ["!job12:13 "]
+  replace: "With him there are wisdom and mightiness; He has counsel and understanding."
+
+- triggers: ["!job12:14 "]
+  replace: "When he tears something down, it cannot be rebuilt; What he has shut, no man can open."
+
+- triggers: ["!job12:15 "]
+  replace: "When he withholds the waters, everything dries up; When he sends them out, they overwhelm the earth."
+
+- triggers: ["!job12:16 "]
+  replace: "With him there are strength and practical wisdom; To him belong the one going astray and the one leading astray;"
+
+- triggers: ["!job12:17 "]
+  replace: "He makes counselors go barefoot, And he makes fools of judges."
+
+- triggers: ["!job12:18 "]
+  replace: "He loosens the bonds imposed by kings, And he binds a belt around their waist."
+
+- triggers: ["!job12:19 "]
+  replace: "He makes priests walk barefoot, And he overthrows those who are firmly established in power;"
+
+- triggers: ["!job12:20 "]
+  replace: "He deprives trusted advisers of speech And takes away the sensibleness of old men;"
+
+- triggers: ["!job12:21 "]
+  replace: "He pours out contempt upon nobles, And he makes powerful ones weak;"
+
+- triggers: ["!job12:22 "]
+  replace: "He reveals deep things from the darkness, And he brings deep darkness into the light;"
+
+- triggers: ["!job12:23 "]
+  replace: "He makes nations grow great in order to destroy them; He enlarges nations, that he may lead them into exile."
+
+- triggers: ["!job12:24 "]
+  replace: "He takes away the understanding of the leaders of the people And makes them wander in trackless wastelands."
+
+- triggers: ["!job12:25 "]
+  replace: "They grope in darkness, where there is no light; He makes them wander about like drunken men."
+
+- triggers: ["!job13:1 "]
+  replace: "“Yes, my eye has seen all of this, My ear has heard and understood it."
+
+- triggers: ["!job13:2 "]
+  replace: "What you know, I also know; I am not inferior to you."
+
+- triggers: ["!job13:3 "]
+  replace: "For my part, I would rather speak to the Almighty himself; I desire to argue my case with God."
+
+- triggers: ["!job13:4 "]
+  replace: "But you are smearing me with lies; All of you are useless physicians."
+
+- triggers: ["!job13:5 "]
+  replace: "If only you would keep absolutely silent, That would show wisdom on your part."
+
+- triggers: ["!job13:6 "]
+  replace: "Listen, please, to my arguments, And pay attention to the pleadings of my lips."
+
+- triggers: ["!job13:7 "]
+  replace: "Will you speak unjustly on God’s behalf, And will you speak deceitfully for him?"
+
+- triggers: ["!job13:8 "]
+  replace: "Will you take his side, Will you try to plead the case of the true God?"
+
+- triggers: ["!job13:9 "]
+  replace: "Would it turn out well if he examined you? Will you fool him as you would a mortal man?"
+
+- triggers: ["!job13:10 "]
+  replace: "He will surely rebuke you If you secretly try to show favoritism."
+
+- triggers: ["!job13:11 "]
+  replace: "Will not his very dignity terrify you And the dread of him fall upon you?"
+
+- triggers: ["!job13:12 "]
+  replace: "Your wise sayings are proverbs of ashes; Your defenses are as fragile as defenses of clay."
+
+- triggers: ["!job13:13 "]
+  replace: "Keep silent before me, so that I may speak. Then let whatever may come upon me come!"
+
+- triggers: ["!job13:14 "]
+  replace: "Why do I put myself in danger And take my life in my hands?"
+
+- triggers: ["!job13:15 "]
+  replace: "Though he may slay me, I would still wait; I would argue my case before his face."
+
+- triggers: ["!job13:16 "]
+  replace: "He would then become my salvation, For no godless person may come in before him."
+
+- triggers: ["!job13:17 "]
+  replace: "Listen closely to my word; Pay attention to my declaration."
+
+- triggers: ["!job13:18 "]
+  replace: "See, now, I have prepared my legal case; I know I am in the right."
+
+- triggers: ["!job13:19 "]
+  replace: "Who will contend with me? I would die if I were to stay silent!"
+
+- triggers: ["!job13:20 "]
+  replace: "Only grant two things to me, O God, So that I will not conceal myself from before you:"
+
+- triggers: ["!job13:21 "]
+  replace: "Remove your heavy hand far away from me, And do not let the fear of you terrify me."
+
+- triggers: ["!job13:22 "]
+  replace: "Either call and I will answer, Or let me speak, and you answer me."
+
+- triggers: ["!job13:23 "]
+  replace: "What are my errors and sins? Reveal to me my transgression and my sin."
+
+- triggers: ["!job13:24 "]
+  replace: "Why do you hide your face And consider me your enemy?"
+
+- triggers: ["!job13:25 "]
+  replace: "Will you try to frighten a windblown leaf Or chase after dry stubble?"
+
+- triggers: ["!job13:26 "]
+  replace: "For you keep recording bitter accusations against me, And you make me answer for the sins of my youth."
+
+- triggers: ["!job13:27 "]
+  replace: "You have put my feet in stocks, You scrutinize all my paths, And you trace out each of my footprints."
+
+- triggers: ["!job13:28 "]
+  replace: "So man decays like something rotten, Like a garment eaten by moths."
+
+- triggers: ["!job14:1 "]
+  replace: "“Man, born of woman, Is short-lived and filled with trouble."
+
+- triggers: ["!job14:2 "]
+  replace: "He comes up like a blossom and then withers away; He flees like a shadow and disappears."
+
+- triggers: ["!job14:3 "]
+  replace: "Yes, you have fixed your eye upon him, And you bring him into judgment with yourself."
+
+- triggers: ["!job14:4 "]
+  replace: "Who can produce someone clean from someone unclean? No one can!"
+
+- triggers: ["!job14:5 "]
+  replace: "If his days are decided, The number of his months is with you; You have set a limit for him that he may not go beyond."
+
+- triggers: ["!job14:6 "]
+  replace: "Turn your gaze away from him so that he may rest, Until, like a hired worker, he finishes out his day."
+
+- triggers: ["!job14:7 "]
+  replace: "For there is hope even for a tree. If it is cut down, it will sprout again, And its twigs will continue to grow."
+
+- triggers: ["!job14:8 "]
+  replace: "If its root grows old in the ground And its stump dies in the soil,"
+
+- triggers: ["!job14:9 "]
+  replace: "At the scent of water it will sprout; And it will produce branches like a new plant."
+
+- triggers: ["!job14:10 "]
+  replace: "But a man dies and lies powerless; When a human expires, where is he?"
+
+- triggers: ["!job14:11 "]
+  replace: "Waters disappear from the sea, And a river drains away and dries up."
+
+- triggers: ["!job14:12 "]
+  replace: "Man also lies down and does not get up. Until heaven is no more, they will not wake up, Nor will they be aroused from their sleep."
+
+- triggers: ["!job14:13 "]
+  replace: "O that in the Grave you would conceal me, That you would hide me until your anger passes by, That you would set a time limit for me and remember me!"
+
+- triggers: ["!job14:14 "]
+  replace: "If a man dies, can he live again? I will wait all the days of my compulsory service Until my relief comes."
+
+- triggers: ["!job14:15 "]
+  replace: "You will call, and I will answer you. You will long for the work of your hands."
+
+- triggers: ["!job14:16 "]
+  replace: "But for now, you keep counting my every step; You watch only for my sin."
+
+- triggers: ["!job14:17 "]
+  replace: "My transgression is sealed up in a bag, And you seal up my error with glue."
+
+- triggers: ["!job14:18 "]
+  replace: "As a mountain falls and crumbles away And a rock is dislodged from its place,"
+
+- triggers: ["!job14:19 "]
+  replace: "As water wears away stones And its torrents wash away earth’s soil, So you have destroyed the hope of mortal man."
+
+- triggers: ["!job14:20 "]
+  replace: "You keep overpowering him until he perishes; You change his appearance, and you send him away."
+
+- triggers: ["!job14:21 "]
+  replace: "His sons are honored, but he does not know it; They become insignificant, but he does not realize it."
+
+- triggers: ["!job14:22 "]
+  replace: "He feels pain only while he is still in his flesh; He mourns only while he is still alive.”"
+
+- triggers: ["!job15:1 "]
+  replace: "Elʹiphaz the Teʹmanite said in reply:"
+
+- triggers: ["!job15:2 "]
+  replace: "“Will a wise person answer with empty arguments, Or will he fill his belly with the east wind?"
+
+- triggers: ["!job15:3 "]
+  replace: "Reproving with mere words is useless, And talk alone is of no benefit."
+
+- triggers: ["!job15:4 "]
+  replace: "For you undermine the fear of God, And you diminish any concern for God."
+
+- triggers: ["!job15:5 "]
+  replace: "For your error dictates what you say, And you choose crafty speech."
+
+- triggers: ["!job15:6 "]
+  replace: "Your own mouth condemns you, and not I; Your own lips testify against you."
+
+- triggers: ["!job15:7 "]
+  replace: "Were you the first man ever born, Or was your birth before that of the hills?"
+
+- triggers: ["!job15:8 "]
+  replace: "Do you listen to the confidential talk of God, Or do you limit wisdom to yourself?"
+
+- triggers: ["!job15:9 "]
+  replace: "What do you know that we do not know? What do you understand that we do not?"
+
+- triggers: ["!job15:10 "]
+  replace: "Both the gray-haired and the aged are among us, Men much older than your father."
+
+- triggers: ["!job15:11 "]
+  replace: "Are God’s consolations not enough for you, Or words spoken gently to you?"
+
+- triggers: ["!job15:12 "]
+  replace: "Why does your heart carry you away, And why do your eyes flash with anger?"
+
+- triggers: ["!job15:13 "]
+  replace: "For you turn your spirit against God himself, And you allow such words to go out of your own mouth."
+
+- triggers: ["!job15:14 "]
+  replace: "What is mortal man that he should be pure, Or anyone born of a woman that he should be righteous?"
+
+- triggers: ["!job15:15 "]
+  replace: "Look! He has no faith in his holy ones, And even the heavens are not pure in his eyes."
+
+- triggers: ["!job15:16 "]
+  replace: "How much less so when a person is detestable and corrupt, A man who drinks in unrighteousness just like water!"
+
+- triggers: ["!job15:17 "]
+  replace: "I will inform you; listen to me! I will relate what I have seen,"
+
+- triggers: ["!job15:18 "]
+  replace: "What wise men have related from their fathers, Things they have not hidden."
+
+- triggers: ["!job15:19 "]
+  replace: "To them alone the land was given, And no stranger passed among them."
+
+- triggers: ["!job15:20 "]
+  replace: "A wicked person suffers torment all his days, Throughout all the years reserved for the tyrant."
+
+- triggers: ["!job15:21 "]
+  replace: "Terrifying sounds are in his ears; In a time of peace, marauders attack him."
+
+- triggers: ["!job15:22 "]
+  replace: "He does not believe that he will escape from darkness; He is reserved for a sword."
+
+- triggers: ["!job15:23 "]
+  replace: "He wanders about in search of food—where is it? He well knows that the day of darkness is at hand."
+
+- triggers: ["!job15:24 "]
+  replace: "Distress and anguish keep terrifying him; They overpower him like a king ready to launch an attack."
+
+- triggers: ["!job15:25 "]
+  replace: "For he raises his hand against God himself And tries to defy the Almighty;"
+
+- triggers: ["!job15:26 "]
+  replace: "He stubbornly rushes against Him, With his thick, strong shield;"
+
+- triggers: ["!job15:27 "]
+  replace: "His face is covered with fat, And his hips bulge with fat;"
+
+- triggers: ["!job15:28 "]
+  replace: "He resides in cities that will be brought to ruin, In houses where no one will dwell, Which will become heaps of stones."
+
+- triggers: ["!job15:29 "]
+  replace: "He will not grow rich, and his wealth will not accumulate, Nor will his possessions spread over the land."
+
+- triggers: ["!job15:30 "]
+  replace: "He will not escape from darkness; A flame will dry up his twig, And he will pass away by a blast of God’s mouth."
+
+- triggers: ["!job15:31 "]
+  replace: "He should not go astray and trust in what is worthless, For what he gets in exchange will be worthless;"
+
+- triggers: ["!job15:32 "]
+  replace: "It will happen before his day, And his branches will never flourish."
+
+- triggers: ["!job15:33 "]
+  replace: "He will be like a vine that shakes off its unripe grapes, And like an olive tree that casts off its blossoms."
+
+- triggers: ["!job15:34 "]
+  replace: "For the assembly of godless ones is sterile, And fire will consume the tents of bribery."
+
+- triggers: ["!job15:35 "]
+  replace: "They conceive trouble and give birth to what is wicked, And their womb produces deceit.”"
+
+- triggers: ["!job16:1 "]
+  replace: "Job said in reply:"
+
+- triggers: ["!job16:2 "]
+  replace: "“I have heard many things like these before. All of you are troublesome comforters!"
+
+- triggers: ["!job16:3 "]
+  replace: "Is there an end to empty words? What provokes you to answer this way?"
+
+- triggers: ["!job16:4 "]
+  replace: "I could also speak as you do. If you were in my place, I could make persuasive speeches against you And shake my head at you."
+
+- triggers: ["!job16:5 "]
+  replace: "Instead, though, I would strengthen you with the words of my mouth, And the consolation of my lips would bring relief."
+
+- triggers: ["!job16:6 "]
+  replace: "If I speak, my own pain is not relieved, And if I stop speaking, how much is my pain reduced?"
+
+- triggers: ["!job16:7 "]
+  replace: "But now he has made me weary; He has devastated my whole household."
+
+- triggers: ["!job16:8 "]
+  replace: "You also seize me, and it has become a witness, So that my own skinniness rises up and testifies to my face."
+
+- triggers: ["!job16:9 "]
+  replace: "His anger has torn me to pieces, and he harbors animosity against me. He grinds his teeth against me. My adversary pierces me with his eyes."
+
+- triggers: ["!job16:10 "]
+  replace: "They have opened their mouth wide against me, And they have scornfully struck my cheeks; In large numbers they gather against me."
+
+- triggers: ["!job16:11 "]
+  replace: "God hands me over to young boys, And he thrusts me into the hands of the wicked."
+
+- triggers: ["!job16:12 "]
+  replace: "I was untroubled, but he shattered me; He grabbed me by the back of the neck and crushed me; Then he set me up as his target."
+
+- triggers: ["!job16:13 "]
+  replace: "His archers surround me; He pierces my kidneys and feels no compassion; He pours out my gall on the earth."
+
+- triggers: ["!job16:14 "]
+  replace: "He breaks through against me with breach after breach; He rushes at me like a warrior."
+
+- triggers: ["!job16:15 "]
+  replace: "I have sewn sackcloth together to cover my skin, And I have buried my dignity in the dust."
+
+- triggers: ["!job16:16 "]
+  replace: "My face is red from weeping, And on my eyelids is deep shadow,"
+
+- triggers: ["!job16:17 "]
+  replace: "Although my hands have done no violence And my prayer is pure."
+
+- triggers: ["!job16:18 "]
+  replace: "O earth, do not cover my blood! And let there be no resting-place for my outcry!"
+
+- triggers: ["!job16:19 "]
+  replace: "Even now, my witness is in the heavens; The one who can testify for me is in the heights."
+
+- triggers: ["!job16:20 "]
+  replace: "My companions ridicule me As my eye sheds tears to God."
+
+- triggers: ["!job16:21 "]
+  replace: "Let someone arbitrate between a man and God, As one would between a man and his fellow."
+
+- triggers: ["!job16:22 "]
+  replace: "For the years to come are few, And I will go away on the path of no return."
+
+- triggers: ["!job17:1 "]
+  replace: "“My spirit has been broken, my days have been extinguished; The graveyard awaits me."
+
+- triggers: ["!job17:2 "]
+  replace: "Mockers surround me, And my eye must gaze at their rebellious behavior."
+
+- triggers: ["!job17:3 "]
+  replace: "Please accept my security, and keep it with you. Who else will shake hands with me and pledge in my behalf?"
+
+- triggers: ["!job17:4 "]
+  replace: "For you have concealed discernment from their heart; That is why you do not exalt them."
+
+- triggers: ["!job17:5 "]
+  replace: "He may offer to share with his friends, While the eyes of his children fail."
+
+- triggers: ["!job17:6 "]
+  replace: "He has made me an object of scorn among the peoples, So that I became one in whose face they spit."
+
+- triggers: ["!job17:7 "]
+  replace: "From anguish my eyes grow dim, And all my limbs are but a shadow."
+
+- triggers: ["!job17:8 "]
+  replace: "Upright people stare in amazement at this, And the innocent one is disturbed over the godless."
+
+- triggers: ["!job17:9 "]
+  replace: "The righteous one keeps holding fast to his way, And the one with clean hands grows stronger."
+
+- triggers: ["!job17:10 "]
+  replace: "However, you may all come and resume your arguing, For I have not found anyone wise among you."
+
+- triggers: ["!job17:11 "]
+  replace: "My days are finished; My plans, the desires of my heart, have been shattered."
+
+- triggers: ["!job17:12 "]
+  replace: "They keep turning night into day, Saying, ‘Light must be near because it is dark.’"
+
+- triggers: ["!job17:13 "]
+  replace: "If I wait, the Grave will become my home; I will spread out my bed in darkness."
+
+- triggers: ["!job17:14 "]
+  replace: "I will call out to the pit, ‘You are my father!’ To the maggot, ‘My mother and my sister!’"
+
+- triggers: ["!job17:15 "]
+  replace: "Where, then, is my hope? Who can see hope for me?"
+
+- triggers: ["!job17:16 "]
+  replace: "It will go down to the barred gates of the Grave When we all descend together into the dust.”"
+
+- triggers: ["!job18:1 "]
+  replace: "Bilʹdad the Shuʹhite said in reply:"
+
+- triggers: ["!job18:2 "]
+  replace: "“How long before you stop making such speeches? Show some understanding so that we may then speak."
+
+- triggers: ["!job18:3 "]
+  replace: "Why should we be viewed as animals And be considered stupid in your eyes?"
+
+- triggers: ["!job18:4 "]
+  replace: "Even if you tear yourself to pieces in your anger, Will the earth be abandoned for your sake, Or will the rock move away from its place?"
+
+- triggers: ["!job18:5 "]
+  replace: "Yes, the light of the wicked will be extinguished, And the flame of his fire will not shine."
+
+- triggers: ["!job18:6 "]
+  replace: "The light in his tent will certainly grow dark, And the lamp over him will be extinguished."
+
+- triggers: ["!job18:7 "]
+  replace: "His vigorous stride is shortened, And his own counsel will make him fall."
+
+- triggers: ["!job18:8 "]
+  replace: "For his feet will lead him into a net, And he will wander onto its mesh."
+
+- triggers: ["!job18:9 "]
+  replace: "A trap will seize him by the heel; A snare will catch him."
+
+- triggers: ["!job18:10 "]
+  replace: "A rope is hidden for him on the ground, And a trap lies in his path."
+
+- triggers: ["!job18:11 "]
+  replace: "Terrors frighten him on all sides And chase him at his feet."
+
+- triggers: ["!job18:12 "]
+  replace: "His strength fails him, And disaster will make him stagger."
+
+- triggers: ["!job18:13 "]
+  replace: "His skin is eaten away; The most deadly disease consumes his limbs."
+
+- triggers: ["!job18:14 "]
+  replace: "He is torn away from the security of his tent And marched to the king of terrors."
+
+- triggers: ["!job18:15 "]
+  replace: "Strangers will live in his tent; Sulfur will be scattered on his home."
+
+- triggers: ["!job18:16 "]
+  replace: "His roots will dry up beneath him, And his branches will wither above him."
+
+- triggers: ["!job18:17 "]
+  replace: "The memory of him will fade from the earth, And in the street his name will be unknown."
+
+- triggers: ["!job18:18 "]
+  replace: "He will be driven from the light into the darkness And chased away from the productive land."
+
+- triggers: ["!job18:19 "]
+  replace: "He will have no offspring and no descendants among his people, And he will be without a survivor in the place where he lives."
+
+- triggers: ["!job18:20 "]
+  replace: "When his day comes, the people in the West will be appalled And the people in the East will be seized with horror."
+
+- triggers: ["!job18:21 "]
+  replace: "This is what happens to the tents of a wrongdoer And to the place of the one who has not known God.”"
+
+- triggers: ["!job19:1 "]
+  replace: "Job said in reply:"
+
+- triggers: ["!job19:2 "]
+  replace: "“How long will you keep irritating my soul, Crushing me with words?"
+
+- triggers: ["!job19:3 "]
+  replace: "These ten times you have rebuked me; You are not ashamed to deal harshly with me."
+
+- triggers: ["!job19:4 "]
+  replace: "And if indeed I made a mistake, My error remains with me."
+
+- triggers: ["!job19:5 "]
+  replace: "If you insist on exalting yourselves over me, Claiming that the reproach against me is justified,"
+
+- triggers: ["!job19:6 "]
+  replace: "Know, then, that it is God who has misled me, And he has caught me in his hunting net."
+
+- triggers: ["!job19:7 "]
+  replace: "Look! I keep crying out, ‘Violence!’ but I get no answer; I keep crying for help, but there is no justice."
+
+- triggers: ["!job19:8 "]
+  replace: "My path he has blocked with a stone wall, and I cannot pass by; He has covered my roadways with darkness."
+
+- triggers: ["!job19:9 "]
+  replace: "He has stripped me of my glory And removed the crown from my head."
+
+- triggers: ["!job19:10 "]
+  replace: "He breaks me down on all sides until I perish; My hope he uproots like a tree."
+
+- triggers: ["!job19:11 "]
+  replace: "His anger burns against me, And he views me as his enemy."
+
+- triggers: ["!job19:12 "]
+  replace: "His troops come together and besiege me, And they camp around my tent."
+
+- triggers: ["!job19:13 "]
+  replace: "My own brothers he has driven far away from me, And those who know me have turned away from me."
+
+- triggers: ["!job19:14 "]
+  replace: "My close companions are gone, And those whom I knew well have forgotten me."
+
+- triggers: ["!job19:15 "]
+  replace: "Guests in my house and my slave girls consider me a stranger; I am a foreigner in their eyes."
+
+- triggers: ["!job19:16 "]
+  replace: "I call for my servant, but he does not respond; With my mouth I beg him for compassion."
+
+- triggers: ["!job19:17 "]
+  replace: "My very breath has become loathsome to my wife, And I am a stench to my own brothers."
+
+- triggers: ["!job19:18 "]
+  replace: "Even young children despise me; When I rise up, they begin jeering at me."
+
+- triggers: ["!job19:19 "]
+  replace: "All my close friends detest me, And those whom I loved have turned against me."
+
+- triggers: ["!job19:20 "]
+  replace: "My bones stick to my skin and my flesh, And I escape with the skin of my teeth."
+
+- triggers: ["!job19:21 "]
+  replace: "Show me mercy, my companions, show me mercy, For God’s own hand has touched me."
+
+- triggers: ["!job19:22 "]
+  replace: "Why do you keep persecuting me as God does, Attacking me without letup?"
+
+- triggers: ["!job19:23 "]
+  replace: "If only my words were written down, If only they could be inscribed in a book!"
+
+- triggers: ["!job19:24 "]
+  replace: "O that they were carved forever in the rock, With an iron stylus and lead!"
+
+- triggers: ["!job19:25 "]
+  replace: "For I well know that my redeemer is alive; He will come later and rise up over the earth."
+
+- triggers: ["!job19:26 "]
+  replace: "After my skin has thus been destroyed, While yet in my flesh, I will see God,"
+
+- triggers: ["!job19:27 "]
+  replace: "Whom I will see for myself, Whom my own eyes will see, not someone else’s. But deep inside I feel overwhelmed!"
+
+- triggers: ["!job19:28 "]
+  replace: "For you say, ‘In what way are we persecuting him?’ Since the root of the problem is with me."
+
+- triggers: ["!job19:29 "]
+  replace: "Be in fear of the sword yourselves, For the sword brings punishment against errors; You should know that there is a judge.”"
+
+- triggers: ["!job20:1 "]
+  replace: "Zoʹphar the Naʹamathite said in reply:"
+
+- triggers: ["!job20:2 "]
+  replace: "“This is why my own troubling thoughts urge me to answer Because of the agitation I feel."
+
+- triggers: ["!job20:3 "]
+  replace: "I have heard a reproof that insults me; And my understanding impels me to reply."
+
+- triggers: ["!job20:4 "]
+  replace: "Surely you must have always known this, For it has been so since man was put on the earth,"
+
+- triggers: ["!job20:5 "]
+  replace: "That the joyful cry of the wicked is brief And the rejoicing of the godless one is for a moment."
+
+- triggers: ["!job20:6 "]
+  replace: "Although his greatness ascends to heaven And his head reaches to the clouds,"
+
+- triggers: ["!job20:7 "]
+  replace: "He will perish forever like his own dung; Those who used to see him will say, ‘Where is he?’"
+
+- triggers: ["!job20:8 "]
+  replace: "He will fly off like a dream, and they will not find him; He will be chased away like a vision of the night."
+
+- triggers: ["!job20:9 "]
+  replace: "The eye that once saw him will not do so again, And his place will behold him no more."
+
+- triggers: ["!job20:10 "]
+  replace: "His own children will seek the favor of the poor, And his own hands will give back his wealth."
+
+- triggers: ["!job20:11 "]
+  replace: "His bones were full of youthful vigor, But it will lie down with him in mere dust."
+
+- triggers: ["!job20:12 "]
+  replace: "If what is bad tastes sweet in his mouth, If he hides it under his tongue,"
+
+- triggers: ["!job20:13 "]
+  replace: "If he savors it and does not let it go But keeps holding it in his mouth,"
+
+- triggers: ["!job20:14 "]
+  replace: "His food will turn sour inside him; It will become like the poison of cobras within him."
+
+- triggers: ["!job20:15 "]
+  replace: "He has swallowed down wealth, but he will vomit it up; God will empty it out of his belly."
+
+- triggers: ["!job20:16 "]
+  replace: "The venom of cobras he will suck; The fangs of a viper will kill him."
+
+- triggers: ["!job20:17 "]
+  replace: "He will never see the streams of water, The torrents of honey and butter."
+
+- triggers: ["!job20:18 "]
+  replace: "He will give back his goods without consuming them; He will not enjoy the wealth from his trade."
+
+- triggers: ["!job20:19 "]
+  replace: "For he has crushed and abandoned the poor; He has seized a house that he did not build."
+
+- triggers: ["!job20:20 "]
+  replace: "But he will feel no peace within himself; His wealth will not help him escape."
+
+- triggers: ["!job20:21 "]
+  replace: "There is nothing left for him to devour; That is why his prosperity will not last."
+
+- triggers: ["!job20:22 "]
+  replace: "When his wealth reaches its peak, anxiety will overtake him; The full force of misfortune will come against him."
+
+- triggers: ["!job20:23 "]
+  replace: "As he fills his belly, God will send his burning anger upon him, Raining it down upon him into his bowels."
+
+- triggers: ["!job20:24 "]
+  replace: "When he flees from weapons of iron, Arrows from a copper bow will pierce him."
+
+- triggers: ["!job20:25 "]
+  replace: "He pulls an arrow from his back, A glittering weapon from his gall, And terror seizes him."
+
+- triggers: ["!job20:26 "]
+  replace: "Total darkness awaits his treasures; A fire that no one fanned will consume him; Calamity awaits any survivors in his tent."
+
+- triggers: ["!job20:27 "]
+  replace: "Heaven will uncover his error; The earth will rise up against him."
+
+- triggers: ["!job20:28 "]
+  replace: "A flood will sweep his house away; It will be a heavy torrent on the day of God’s anger."
+
+- triggers: ["!job20:29 "]
+  replace: "This is the wicked man’s share from God, The inheritance that God has decreed for him.”"
+
+- triggers: ["!job21:1 "]
+  replace: "Job said in reply:"
+
+- triggers: ["!job21:2 "]
+  replace: "“Listen carefully to what I say; Let this be the consolation you give me."
+
+- triggers: ["!job21:3 "]
+  replace: "Bear with me while I speak; After I speak, you may then mock me."
+
+- triggers: ["!job21:4 "]
+  replace: "Is my complaint directed toward a man? If it were, would I not lose patience?"
+
+- triggers: ["!job21:5 "]
+  replace: "Look at me and stare in amazement; Put your hand over your mouth."
+
+- triggers: ["!job21:6 "]
+  replace: "When I think about it, I am disturbed, And my whole body shudders."
+
+- triggers: ["!job21:7 "]
+  replace: "Why do the wicked live on, Grow old, and become wealthy?"
+
+- triggers: ["!job21:8 "]
+  replace: "Their children are always in their presence, And they get to see their descendants."
+
+- triggers: ["!job21:9 "]
+  replace: "Their houses are secure, they are free from fear, And God does not punish them with his rod."
+
+- triggers: ["!job21:10 "]
+  replace: "Their bulls breed without failure; Their cows give birth and do not miscarry."
+
+- triggers: ["!job21:11 "]
+  replace: "Their boys run outside just like a flock, And their children skip about."
+
+- triggers: ["!job21:12 "]
+  replace: "They sing accompanied by tambourine and harp And rejoice at the sound of the flute."
+
+- triggers: ["!job21:13 "]
+  replace: "They spend their days in contentment And go down peacefully to the Grave."
+
+- triggers: ["!job21:14 "]
+  replace: "But they say to the true God, ‘Leave us alone! We have no desire to know your ways."
+
+- triggers: ["!job21:15 "]
+  replace: "Who is the Almighty, that we should serve him? What would we gain by being acquainted with him?’"
+
+- triggers: ["!job21:16 "]
+  replace: "But I know that they do not control their own prosperity. The thinking of the wicked is far from me."
+
+- triggers: ["!job21:17 "]
+  replace: "How often is the lamp of the wicked extinguished? How often does disaster come upon them? How often does God deal out destruction to them in his anger?"
+
+- triggers: ["!job21:18 "]
+  replace: "Do they ever become like straw before the wind And like chaff that a storm wind carries away?"
+
+- triggers: ["!job21:19 "]
+  replace: "God will store up a man’s punishment for his own sons. But may God repay him so that he will know it."
+
+- triggers: ["!job21:20 "]
+  replace: "May his own eyes see his ruin, And may he be the one to drink from the rage of the Almighty."
+
+- triggers: ["!job21:21 "]
+  replace: "For what does he care about what happens to his house after him If the number of his months is cut short?"
+
+- triggers: ["!job21:22 "]
+  replace: "Can anyone teach knowledge to God, When He is the one who judges even the highest ones?"
+
+- triggers: ["!job21:23 "]
+  replace: "One man dies in his full vigor When he is completely carefree and at ease,"
+
+- triggers: ["!job21:24 "]
+  replace: "When his thighs are padded with fat And his bones are strong."
+
+- triggers: ["!job21:25 "]
+  replace: "But another man dies deeply distressed, Never having tasted good things."
+
+- triggers: ["!job21:26 "]
+  replace: "Together they will lie down in the dust, And maggots will cover both of them."
+
+- triggers: ["!job21:27 "]
+  replace: "Look! I know exactly what you are thinking And the schemes you devise to wrong me."
+
+- triggers: ["!job21:28 "]
+  replace: "For you say, ‘Where is the house of the prominent man, And where is the tent in which the wicked one lived?’"
+
+- triggers: ["!job21:29 "]
+  replace: "Have you not questioned travelers? Do you not carefully study their observations,"
+
+- triggers: ["!job21:30 "]
+  replace: "That an evil person is spared on the day of disaster And rescued on the day of fury?"
+
+- triggers: ["!job21:31 "]
+  replace: "Who will confront him about his way, And who will repay him for what he has done?"
+
+- triggers: ["!job21:32 "]
+  replace: "When he is carried to the graveyard, A vigil will be kept over his tomb."
+
+- triggers: ["!job21:33 "]
+  replace: "The clods of earth of the valley will be sweet to him, And all mankind follows after him Like the countless number before him."
+
+- triggers: ["!job21:34 "]
+  replace: "So why offer me meaningless comfort? There is nothing but deceit in your answers!”"
+
+- triggers: ["!job22:1 "]
+  replace: "Elʹiphaz the Teʹmanite said in reply:"
+
+- triggers: ["!job22:2 "]
+  replace: "“Can a man be of use to God? Can anyone with insight be of benefit to him?"
+
+- triggers: ["!job22:3 "]
+  replace: "Does the Almighty care that you are righteous, Or does he gain anything because you follow the course of integrity?"
+
+- triggers: ["!job22:4 "]
+  replace: "Will he punish you And enter into judgment with you for your reverence?"
+
+- triggers: ["!job22:5 "]
+  replace: "Is it not because your own wickedness is so great And there is no end to your errors?"
+
+- triggers: ["!job22:6 "]
+  replace: "For you seize a pledge from your brothers for no reason, And you strip people of their garments, leaving them naked."
+
+- triggers: ["!job22:7 "]
+  replace: "You do not give the tired one a drink of water, And you hold back food from the hungry."
+
+- triggers: ["!job22:8 "]
+  replace: "The land belongs to the powerful man, And the favored one dwells in it."
+
+- triggers: ["!job22:9 "]
+  replace: "But you sent away widows empty-handed, And you crushed the arms of fatherless children."
+
+- triggers: ["!job22:10 "]
+  replace: "That is why you are surrounded by traps, And sudden terrors frighten you;"
+
+- triggers: ["!job22:11 "]
+  replace: "That is why it is so dark that you cannot see, And a flood of water covers you."
+
+- triggers: ["!job22:12 "]
+  replace: "Is not God in the heights of heaven? And see how high all the stars are."
+
+- triggers: ["!job22:13 "]
+  replace: "But you have said: ‘What does God really know? Can he judge through thick gloom?"
+
+- triggers: ["!job22:14 "]
+  replace: "Clouds screen him off so that he does not see As he walks about on the vault of heaven.’"
+
+- triggers: ["!job22:15 "]
+  replace: "Will you follow the ancient path That wicked men have walked,"
+
+- triggers: ["!job22:16 "]
+  replace: "Men who have been snatched away before their time, Whose foundation was washed away by a flood?"
+
+- triggers: ["!job22:17 "]
+  replace: "They were saying to the true God: ‘Leave us alone!’ And ‘What can the Almighty do to us?’"
+
+- triggers: ["!job22:18 "]
+  replace: "Yet, he is the One who filled their houses with good things. (Such wicked thinking is far from my own.)"
+
+- triggers: ["!job22:19 "]
+  replace: "The righteous will see this and rejoice, And the innocent will mock them and say:"
+
+- triggers: ["!job22:20 "]
+  replace: "‘Our opponents have been destroyed, And a fire will consume what is left of them.’"
+
+- triggers: ["!job22:21 "]
+  replace: "Get to know Him, and you will be at peace; Then good things will come your way."
+
+- triggers: ["!job22:22 "]
+  replace: "Accept the law from his mouth, And keep his sayings in your heart."
+
+- triggers: ["!job22:23 "]
+  replace: "If you return to the Almighty, you will be restored; If you remove unrighteousness from your tent,"
+
+- triggers: ["!job22:24 "]
+  replace: "If you would throw your gold into the dust And the gold of Oʹphir into the rocky ravines,"
+
+- triggers: ["!job22:25 "]
+  replace: "Then the Almighty will become your gold, And he will be your choicest silver."
+
+- triggers: ["!job22:26 "]
+  replace: "For then your delight will be in the Almighty, And you will lift up your face to God."
+
+- triggers: ["!job22:27 "]
+  replace: "You will entreat him, and he will hear you; And your vows you will pay."
+
+- triggers: ["!job22:28 "]
+  replace: "Whatever you decide to do will succeed, And light will shine upon your path."
+
+- triggers: ["!job22:29 "]
+  replace: "For you will be humiliated when you speak arrogantly, But he will save the humble."
+
+- triggers: ["!job22:30 "]
+  replace: "He will rescue those who are innocent; So if your hands are clean, you will certainly be rescued.”"
+
+- triggers: ["!job23:1 "]
+  replace: "Job said in reply:"
+
+- triggers: ["!job23:2 "]
+  replace: "“Even today I will complain stubbornly; My strength is exhausted because of my sighing."
+
+- triggers: ["!job23:3 "]
+  replace: "If only I knew where to find God! I would go to his place of dwelling."
+
+- triggers: ["!job23:4 "]
+  replace: "I would present my case before him And fill my mouth with arguments;"
+
+- triggers: ["!job23:5 "]
+  replace: "I would learn how he would answer me And take note of what he says to me."
+
+- triggers: ["!job23:6 "]
+  replace: "Would he contend with me using his great power? No, surely he would give me a hearing."
+
+- triggers: ["!job23:7 "]
+  replace: "There the upright one could set matters straight with him, And I would be acquitted once and for all by my Judge."
+
+- triggers: ["!job23:8 "]
+  replace: "But if I go east, he is not there; And I return and I cannot find him."
+
+- triggers: ["!job23:9 "]
+  replace: "When he is working on the left, I cannot look upon him; Then he turns to the right, but I still do not see him."
+
+- triggers: ["!job23:10 "]
+  replace: "But he knows the path I have taken. After he has tested me, I will come out as pure gold."
+
+- triggers: ["!job23:11 "]
+  replace: "My feet have closely followed his footsteps; I have kept to his way without deviating."
+
+- triggers: ["!job23:12 "]
+  replace: "I have not departed from the commandment of his lips. I have treasured up his sayings even more than what was required of me."
+
+- triggers: ["!job23:13 "]
+  replace: "When he is determined, who can resist him? When he wants to do something, he does it."
+
+- triggers: ["!job23:14 "]
+  replace: "For he will carry out completely what has been determined for me, And he has many such things in store."
+
+- triggers: ["!job23:15 "]
+  replace: "That is why I am anxious because of him; When I think about him, my fear grows."
+
+- triggers: ["!job23:16 "]
+  replace: "God has made me fainthearted, And the Almighty has made me afraid."
+
+- triggers: ["!job23:17 "]
+  replace: "But I have not yet been silenced by the darkness Nor by the gloom that has covered my face."
+
+- triggers: ["!job24:1 "]
+  replace: "“Why does the Almighty not set a time? Why do those who know him not see his day?"
+
+- triggers: ["!job24:2 "]
+  replace: "People move boundary markers; They carry off flocks for their own pasture."
+
+- triggers: ["!job24:3 "]
+  replace: "They drive away the donkey of fatherless children And seize the widow’s bull as security for a loan."
+
+- triggers: ["!job24:4 "]
+  replace: "They force the poor off the road; The helpless of the earth must hide from them."
+
+- triggers: ["!job24:5 "]
+  replace: "The poor forage for food like wild donkeys in the wilderness; They seek food in the desert for their children."
+
+- triggers: ["!job24:6 "]
+  replace: "They must harvest in another’s field And glean from the vineyard of the wicked."
+
+- triggers: ["!job24:7 "]
+  replace: "They spend the night naked, without clothing; They have no covering for the cold."
+
+- triggers: ["!job24:8 "]
+  replace: "They are drenched by the mountain rains; They cling to the rocks for lack of shelter."
+
+- triggers: ["!job24:9 "]
+  replace: "The fatherless child is snatched away from the breast; And the garments of the poor are taken as security for a loan,"
+
+- triggers: ["!job24:10 "]
+  replace: "Forcing them to go about naked, without clothing, And hungry, as they carry the sheaves of grain."
+
+- triggers: ["!job24:11 "]
+  replace: "They toil among the terrace walls in the heat of the day; They tread the winepresses, yet they go thirsty."
+
+- triggers: ["!job24:12 "]
+  replace: "The dying keep groaning in the city; The fatally wounded cry for help, But God does not regard this as improper."
+
+- triggers: ["!job24:13 "]
+  replace: "There are those who rebel against light; They do not recognize its ways, And they do not follow its paths."
+
+- triggers: ["!job24:14 "]
+  replace: "The murderer rises at daybreak; He slays the helpless and the poor, While at night he engages in theft."
+
+- triggers: ["!job24:15 "]
+  replace: "The eye of the adulterer waits for the twilight, Saying, ‘No one will see me!’ And he covers his face."
+
+- triggers: ["!job24:16 "]
+  replace: "In the darkness they break into houses; By day they shut themselves in. They are strangers to the light."
+
+- triggers: ["!job24:17 "]
+  replace: "For morning is the same as deep darkness for them; They are familiar with the terrors of deep darkness."
+
+- triggers: ["!job24:18 "]
+  replace: "But they are swiftly carried away by the waters. Their portion of the land will be cursed. They will not return to their vineyards."
+
+- triggers: ["!job24:19 "]
+  replace: "Just as drought and heat take away the melted snow, The Grave takes away those who have sinned!"
+
+- triggers: ["!job24:20 "]
+  replace: "His mother will forget him; the maggot will feast on him. He will be remembered no more. And unrighteousness will be broken just like a tree."
+
+- triggers: ["!job24:21 "]
+  replace: "He preys on the barren woman, And mistreats the widow."
+
+- triggers: ["!job24:22 "]
+  replace: "God will use his strength to do away with the powerful; Though they may rise up, they have no assurance of life."
+
+- triggers: ["!job24:23 "]
+  replace: "God lets them become confident and secure, But his eyes are on everything they do."
+
+- triggers: ["!job24:24 "]
+  replace: "They are exalted for a little while, then they are no more. They are brought low and gathered like everyone else; They are cut off like heads of grain."
+
+- triggers: ["!job24:25 "]
+  replace: "Now who can prove me a liar Or refute my word?”"
+
+- triggers: ["!job25:1 "]
+  replace: "Bilʹdad the Shuʹhite said in reply:"
+
+- triggers: ["!job25:2 "]
+  replace: "“Rulership and fearsome might are his; He establishes peace in heaven."
+
+- triggers: ["!job25:3 "]
+  replace: "Can his troops be numbered? Upon whom does his light not rise?"
+
+- triggers: ["!job25:4 "]
+  replace: "So how can mortal man be righteous before God, Or how can one born of a woman be innocent?"
+
+- triggers: ["!job25:5 "]
+  replace: "Even the moon is not bright And the stars are not pure in his eyes,"
+
+- triggers: ["!job25:6 "]
+  replace: "How much less so mortal man, who is a maggot, And a son of man, who is a worm!”"
+
+- triggers: ["!job26:1 "]
+  replace: "Job said in reply:"
+
+- triggers: ["!job26:2 "]
+  replace: "“How you have helped the one with no power! How you have saved the arm that has no strength!"
+
+- triggers: ["!job26:3 "]
+  replace: "What great advice you have given to the one lacking wisdom! How freely you have revealed your practical wisdom!"
+
+- triggers: ["!job26:4 "]
+  replace: "To whom are you trying to speak, And who inspired you to say such things?"
+
+- triggers: ["!job26:5 "]
+  replace: "Those who are powerless in death tremble; They are even lower than the waters and their inhabitants."
+
+- triggers: ["!job26:6 "]
+  replace: "The Grave is naked in front of God, And the place of destruction lies uncovered."
+
+- triggers: ["!job26:7 "]
+  replace: "He stretches out the northern sky over empty space, Suspending the earth upon nothing;"
+
+- triggers: ["!job26:8 "]
+  replace: "He wraps up the waters in his clouds, So that the clouds do not burst under their weight;"
+
+- triggers: ["!job26:9 "]
+  replace: "He shuts off the view of his throne, Spreading out his cloud over it."
+
+- triggers: ["!job26:10 "]
+  replace: "He marks out the horizon on the surface of the waters; He makes a boundary between light and darkness."
+
+- triggers: ["!job26:11 "]
+  replace: "The very pillars of heaven shake; They are stunned by his rebuke."
+
+- triggers: ["!job26:12 "]
+  replace: "He stirs up the sea with his power, And by his understanding he breaks the sea monster to pieces."
+
+- triggers: ["!job26:13 "]
+  replace: "With his breath he makes the skies clear; His hand pierces the elusive serpent."
+
+- triggers: ["!job26:14 "]
+  replace: "Look! These are just the fringes of his ways; Only a faint whisper has been heard of him! So who can understand his mighty thunder?”"
+
+- triggers: ["!job27:1 "]
+  replace: "Job continued his discourse, saying:"
+
+- triggers: ["!job27:2 "]
+  replace: "“As surely as God lives, who has deprived me of justice, As the Almighty lives, who has made me bitter,"
+
+- triggers: ["!job27:3 "]
+  replace: "As long as my breath is within me And spirit from God is in my nostrils,"
+
+- triggers: ["!job27:4 "]
+  replace: "My lips will not speak unrighteousness; Nor will my tongue mutter deceit!"
+
+- triggers: ["!job27:5 "]
+  replace: "It is unthinkable for me to declare you men righteous! Until I die, I will not renounce my integrity!"
+
+- triggers: ["!job27:6 "]
+  replace: "I will maintain my righteousness and never let it go; My heart will not condemn me as long as I live."
+
+- triggers: ["!job27:7 "]
+  replace: "May my enemy become like the wicked, Those assaulting me like the unrighteous."
+
+- triggers: ["!job27:8 "]
+  replace: "For what hope does the godless man have when he is destroyed, When God takes away his life?"
+
+- triggers: ["!job27:9 "]
+  replace: "Will God hear his outcry When distress comes upon him?"
+
+- triggers: ["!job27:10 "]
+  replace: "Or will he find delight in the Almighty? Will he call on God at all times?"
+
+- triggers: ["!job27:11 "]
+  replace: "I will teach you about the power of God; I will not hide anything about the Almighty."
+
+- triggers: ["!job27:12 "]
+  replace: "Look! If you have all seen visions, Why are your speeches completely empty?"
+
+- triggers: ["!job27:13 "]
+  replace: "This is the wicked man’s share from God, The inheritance that tyrants receive from the Almighty."
+
+- triggers: ["!job27:14 "]
+  replace: "If his sons become many, they will fall by the sword, And his descendants will not have enough food."
+
+- triggers: ["!job27:15 "]
+  replace: "Those who survive him will be buried by the plague, And their widows will not weep for them."
+
+- triggers: ["!job27:16 "]
+  replace: "Even if he piles up silver like the dust And stores up fine clothing like the clay,"
+
+- triggers: ["!job27:17 "]
+  replace: "Though he may gather it, The righteous man will wear it, And the innocent will divide up his silver."
+
+- triggers: ["!job27:18 "]
+  replace: "The house he builds is as fragile as a moth’s cocoon, Like a shelter made by a watchman."
+
+- triggers: ["!job27:19 "]
+  replace: "He will go to bed rich but will gather nothing; When he opens his eyes, nothing will be there."
+
+- triggers: ["!job27:20 "]
+  replace: "Terror overtakes him like a flood; A storm snatches him away by night."
+
+- triggers: ["!job27:21 "]
+  replace: "An east wind will carry him off, and he will be gone; It sweeps him away from his place."
+
+- triggers: ["!job27:22 "]
+  replace: "It will hurl itself at him without pity As he desperately tries to flee from its force."
+
+- triggers: ["!job27:23 "]
+  replace: "It claps its hands at him And whistles at him from its place."
+
+- triggers: ["!job28:1 "]
+  replace: "“There is a place to mine silver And a place for gold that they refine;"
+
+- triggers: ["!job28:2 "]
+  replace: "Iron is taken from the ground, And copper is smelted from rocks."
+
+- triggers: ["!job28:3 "]
+  replace: "Man conquers the darkness; He probes to the limit in the gloom and darkness, Searching for ore."
+
+- triggers: ["!job28:4 "]
+  replace: "He sinks a shaft far from where people reside, In forgotten places, far from where people walk; Some men descend and swing suspended."
+
+- triggers: ["!job28:5 "]
+  replace: "Food grows on top of the earth; But below, there is an upheaval as if by fire."
+
+- triggers: ["!job28:6 "]
+  replace: "There in the stones is sapphire, And the dust contains gold."
+
+- triggers: ["!job28:7 "]
+  replace: "No bird of prey knows the path to it; The eye of a black kite has not seen it."
+
+- triggers: ["!job28:8 "]
+  replace: "No majestic beasts have trodden on it; The young lion has not prowled there."
+
+- triggers: ["!job28:9 "]
+  replace: "Man strikes the flinty rock with his hand; He overturns the mountains at their foundation."
+
+- triggers: ["!job28:10 "]
+  replace: "He cuts water channels in the rock; His eyes spot every precious thing."
+
+- triggers: ["!job28:11 "]
+  replace: "He dams up the sources of rivers And brings what was hidden to the light."
+
+- triggers: ["!job28:12 "]
+  replace: "But wisdom—where can it be found, And where is the source of understanding?"
+
+- triggers: ["!job28:13 "]
+  replace: "No man recognizes its value, And it cannot be found in the land of the living."
+
+- triggers: ["!job28:14 "]
+  replace: "The deep waters say, ‘It is not in me!’ And the sea says, ‘It is not with me!’"
+
+- triggers: ["!job28:15 "]
+  replace: "It cannot be bought with pure gold; Nor can silver be weighed out in exchange for it."
+
+- triggers: ["!job28:16 "]
+  replace: "It cannot be bought with gold of Oʹphir Nor with rare onyx and sapphire."
+
+- triggers: ["!job28:17 "]
+  replace: "Gold and glass cannot be compared to it; Nor can a vessel of fine gold be exchanged for it."
+
+- triggers: ["!job28:18 "]
+  replace: "Coral and crystal are not worthy of mention, For a bagful of wisdom is worth more than one full of pearls."
+
+- triggers: ["!job28:19 "]
+  replace: "The topaz of Cush cannot be compared to it; It cannot be purchased even with pure gold."
+
+- triggers: ["!job28:20 "]
+  replace: "But from where does wisdom come, And where is the source of understanding?"
+
+- triggers: ["!job28:21 "]
+  replace: "It has been hidden from the eyes of every living thing And concealed from the birds of the heavens."
+
+- triggers: ["!job28:22 "]
+  replace: "Destruction and death say, ‘Our ears have heard only a report of it.’"
+
+- triggers: ["!job28:23 "]
+  replace: "God understands the way to find it; He alone knows where it resides,"
+
+- triggers: ["!job28:24 "]
+  replace: "For he looks to the ends of the earth, And he sees everything under the heavens."
+
+- triggers: ["!job28:25 "]
+  replace: "When he set the force of the wind And measured out the waters,"
+
+- triggers: ["!job28:26 "]
+  replace: "When he made a regulation for the rain And a path for the thunderous storm cloud,"
+
+- triggers: ["!job28:27 "]
+  replace: "Then he saw wisdom and explained it; He established and tested it."
+
+- triggers: ["!job28:28 "]
+  replace: "And he said to man: ‘Look! The fear of Jehovah—that is wisdom, And to turn away from bad is understanding.’”"
+
+- triggers: ["!job29:1 "]
+  replace: "Job continued his discourse, saying:"
+
+- triggers: ["!job29:2 "]
+  replace: "“If only I were in the months gone by, In the days when God was watching over me,"
+
+- triggers: ["!job29:3 "]
+  replace: "When he caused his lamp to shine upon my head, When I walked through darkness by his light,"
+
+- triggers: ["!job29:4 "]
+  replace: "When I was in my prime, When God’s friendship was felt in my tent,"
+
+- triggers: ["!job29:5 "]
+  replace: "When the Almighty was still with me, When my children were all around me,"
+
+- triggers: ["!job29:6 "]
+  replace: "When my steps were awash in butter, And the rocks poured out streams of oil for me."
+
+- triggers: ["!job29:7 "]
+  replace: "When I used to go out to the city gate And take my seat in the public square,"
+
+- triggers: ["!job29:8 "]
+  replace: "The young men would see me and step aside, And even the old men would rise and remain standing."
+
+- triggers: ["!job29:9 "]
+  replace: "Princes refrained from speaking; They would put their hand over their mouth."
+
+- triggers: ["!job29:10 "]
+  replace: "The voices of the prominent men were silenced; Their tongue was stuck to the roof of their mouth."
+
+- triggers: ["!job29:11 "]
+  replace: "Whoever heard me would speak well of me, And those who saw me would testify for me."
+
+- triggers: ["!job29:12 "]
+  replace: "For I would rescue the poor who cried for help, Along with the fatherless child and anyone who had no helper."
+
+- triggers: ["!job29:13 "]
+  replace: "The one about to perish would bless me, And I made the heart of the widow rejoice."
+
+- triggers: ["!job29:14 "]
+  replace: "I put on righteousness as my clothing; My justice was like a robe and a turban."
+
+- triggers: ["!job29:15 "]
+  replace: "I became eyes to the blind And feet to the lame."
+
+- triggers: ["!job29:16 "]
+  replace: "I was a father to the poor; I would investigate the legal case of those I did not know."
+
+- triggers: ["!job29:17 "]
+  replace: "I would break the jaws of the wrongdoer And tear the prey away from his teeth."
+
+- triggers: ["!job29:18 "]
+  replace: "I used to say, ‘I will die in my own home, And my days will be as numerous as the grains of sand."
+
+- triggers: ["!job29:19 "]
+  replace: "My roots will spread out into the waters, And dew will stay all night on my branches."
+
+- triggers: ["!job29:20 "]
+  replace: "My glory is constantly renewed, And the bow in my hand will keep shooting.’"
+
+- triggers: ["!job29:21 "]
+  replace: "People would listen expectantly, Waiting in silence for my advice."
+
+- triggers: ["!job29:22 "]
+  replace: "After I had spoken, they had nothing more to say; My words would fall gently on their ears."
+
+- triggers: ["!job29:23 "]
+  replace: "They waited for me as for the rain; They opened their mouth wide as for the spring rain."
+
+- triggers: ["!job29:24 "]
+  replace: "When I smiled at them, they could hardly believe it; The light of my face would reassure them."
+
+- triggers: ["!job29:25 "]
+  replace: "I gave them direction as their head, And I lived like a king among his troops, Like one who comforts the mourners."
+
+- triggers: ["!job30:1 "]
+  replace: "“Now they laugh at me —Men younger than I am, Whose fathers I would have refused To put with the dogs that guarded my flock."
+
+- triggers: ["!job30:2 "]
+  replace: "Of what use was the power of their hands to me? Their vigor has perished."
+
+- triggers: ["!job30:3 "]
+  replace: "They are worn out from want and hunger; They gnaw at the parched ground That was already ruined and desolated."
+
+- triggers: ["!job30:4 "]
+  replace: "They gather the salt herb from the bushes; Their food is the root of broom trees."
+
+- triggers: ["!job30:5 "]
+  replace: "They are driven out of the community; People shout at them as they would at a thief."
+
+- triggers: ["!job30:6 "]
+  replace: "They live on the slopes of ravines, In holes in the ground and in the rocks."
+
+- triggers: ["!job30:7 "]
+  replace: "From the bushes they cry out And huddle together among the nettles."
+
+- triggers: ["!job30:8 "]
+  replace: "As sons of the senseless and the nameless ones, They have been driven out of the land."
+
+- triggers: ["!job30:9 "]
+  replace: "But now they mock me even in their songs; I have become an object of scorn to them."
+
+- triggers: ["!job30:10 "]
+  replace: "They detest me and keep their distance from me; They do not hesitate to spit in my face."
+
+- triggers: ["!job30:11 "]
+  replace: "Because God has disarmed me and humbled me, They throw off all restraint in my presence."
+
+- triggers: ["!job30:12 "]
+  replace: "On my right they rise up like a mob; They put me to flight And put up barriers of destruction in my path."
+
+- triggers: ["!job30:13 "]
+  replace: "They tear up my roadways And make my calamity worse, Without anyone to stop them."
+
+- triggers: ["!job30:14 "]
+  replace: "They come as if through a wide breach in the wall; They roll in amid the devastation."
+
+- triggers: ["!job30:15 "]
+  replace: "Terror overwhelms me; My dignity is driven away like the wind, And my salvation vanishes like a cloud."
+
+- triggers: ["!job30:16 "]
+  replace: "Now my life ebbs from me; Days of affliction take hold of me."
+
+- triggers: ["!job30:17 "]
+  replace: "Aching pierces my bones at night; The gnawing pain never stops."
+
+- triggers: ["!job30:18 "]
+  replace: "With great force my garment is disfigured; Like the collar of my garment, it chokes me."
+
+- triggers: ["!job30:19 "]
+  replace: "God has thrown me down into the mud; I am reduced to dust and ashes."
+
+- triggers: ["!job30:20 "]
+  replace: "I cry to you for help, but you do not answer me; I stand up, but you just look at me."
+
+- triggers: ["!job30:21 "]
+  replace: "You have cruelly turned against me; With the full might of your hand, you assault me."
+
+- triggers: ["!job30:22 "]
+  replace: "You pick me up and carry me off with the wind; Then you toss me about in the storm."
+
+- triggers: ["!job30:23 "]
+  replace: "For I know that you will bring me down to death, To the house where everyone living will meet."
+
+- triggers: ["!job30:24 "]
+  replace: "But no one would strike at a broken man As he cries for help during his time of disaster."
+
+- triggers: ["!job30:25 "]
+  replace: "Have I not wept for those who have fallen on hard times? Have I not grieved for the poor?"
+
+- triggers: ["!job30:26 "]
+  replace: "Although I hoped for good, bad came; I expected the light, but darkness came."
+
+- triggers: ["!job30:27 "]
+  replace: "The churning inside me did not stop; Days of affliction confronted me."
+
+- triggers: ["!job30:28 "]
+  replace: "I walk about gloomy; there is no sunlight. In the assembly, I rise and cry for help."
+
+- triggers: ["!job30:29 "]
+  replace: "I have become a brother to jackals And a companion to the daughters of the ostrich."
+
+- triggers: ["!job30:30 "]
+  replace: "My skin has blackened and fallen off; My bones burn from the heat."
+
+- triggers: ["!job30:31 "]
+  replace: "My harp is used only for mourning, And my flute for the sound of weeping."
+
+- triggers: ["!job31:1 "]
+  replace: "“I have made a covenant with my eyes. So how could I show improper attention to a virgin?"
+
+- triggers: ["!job31:2 "]
+  replace: "What, then, would be my share from God above, What inheritance from the Almighty on high?"
+
+- triggers: ["!job31:3 "]
+  replace: "Does not disaster await the wrongdoer And calamity those doing what is harmful?"
+
+- triggers: ["!job31:4 "]
+  replace: "Does he not see my ways And count all my steps?"
+
+- triggers: ["!job31:5 "]
+  replace: "Have I ever walked in untruth? Has my foot hurried to deceive?"
+
+- triggers: ["!job31:6 "]
+  replace: "Let God weigh me with accurate scales; Then he will recognize my integrity."
+
+- triggers: ["!job31:7 "]
+  replace: "If my footsteps deviate from the way Or my heart has followed after my eyes Or my hands have been defiled,"
+
+- triggers: ["!job31:8 "]
+  replace: "Then let me sow seed and someone else eat, And let what I plant be uprooted."
+
+- triggers: ["!job31:9 "]
+  replace: "If my heart has been enticed by a woman And I have lain in wait at my neighbor’s door,"
+
+- triggers: ["!job31:10 "]
+  replace: "Then let my wife grind grain for another man, And let other men have sexual relations with her."
+
+- triggers: ["!job31:11 "]
+  replace: "For that would be shameful conduct, An error deserving punishment by the judges."
+
+- triggers: ["!job31:12 "]
+  replace: "It would be a fire that would devour and destroy, Consuming even the roots of all my produce."
+
+- triggers: ["!job31:13 "]
+  replace: "If I denied justice to my male or female servants When they had a complaint against me,"
+
+- triggers: ["!job31:14 "]
+  replace: "What can I do when God confronts me? What can I answer him when he calls for an accounting?"
+
+- triggers: ["!job31:15 "]
+  replace: "Did not the One who made me in the womb also make them? Was it not the same One who formed us before our birth?"
+
+- triggers: ["!job31:16 "]
+  replace: "If I refused to give the poor what they desired Or saddened the eyes of the widow;"
+
+- triggers: ["!job31:17 "]
+  replace: "If I ate my portion of food alone Without sharing it with the orphans;"
+
+- triggers: ["!job31:18 "]
+  replace: "(For from my youth the orphan grew up with me as though I were his father, And I have been a guide for the widow from childhood.)"
+
+- triggers: ["!job31:19 "]
+  replace: "If I saw anyone perishing for lack of clothing Or a poor man with nothing to cover himself;"
+
+- triggers: ["!job31:20 "]
+  replace: "If he did not bless me As he warmed himself with the wool of my sheep;"
+
+- triggers: ["!job31:21 "]
+  replace: "If I shook my fist against the orphan When he needed my assistance in the city gate;"
+
+- triggers: ["!job31:22 "]
+  replace: "Then let my arm fall from my shoulder, And let my arm be broken at the elbow."
+
+- triggers: ["!job31:23 "]
+  replace: "For I dreaded disaster from God, And I could not stand before his dignity."
+
+- triggers: ["!job31:24 "]
+  replace: "If I put my confidence in gold Or said to fine gold, ‘You are my security!’"
+
+- triggers: ["!job31:25 "]
+  replace: "If I found my joy in my great wealth Because of the many possessions I acquired;"
+
+- triggers: ["!job31:26 "]
+  replace: "If I saw the sun shining Or the moon moving in its splendor;"
+
+- triggers: ["!job31:27 "]
+  replace: "And my heart was secretly enticed, And my mouth kissed my hand in worship of them;"
+
+- triggers: ["!job31:28 "]
+  replace: "Then that would be an error deserving punishment by the judges, For I would have denied the true God above."
+
+- triggers: ["!job31:29 "]
+  replace: "Have I ever rejoiced over the destruction of my enemy Or gloated because evil befell him?"
+
+- triggers: ["!job31:30 "]
+  replace: "I never allowed my mouth to sin By asking for his life in an oath."
+
+- triggers: ["!job31:31 "]
+  replace: "Have the men of my tent not said, ‘Who can find anyone who has not been satisfied with his food?’"
+
+- triggers: ["!job31:32 "]
+  replace: "No stranger had to spend the night outside; I opened my doors to the traveler."
+
+- triggers: ["!job31:33 "]
+  replace: "Have I ever tried to cover over my transgressions, like other men, By hiding my error in the pocket of my garment?"
+
+- triggers: ["!job31:34 "]
+  replace: "Have I been in fear of the reaction of the multitude, Or have I been terrified by the contempt of other families, Making me silent and afraid to go outside?"
+
+- triggers: ["!job31:35 "]
+  replace: "If only someone would listen to me! I would sign my name to what I have said. Let the Almighty answer me! If only my accuser had written out the charges in a document!"
+
+- triggers: ["!job31:36 "]
+  replace: "I would carry it on my shoulder, And I would bind it around my head like a crown."
+
+- triggers: ["!job31:37 "]
+  replace: "I would give him an accounting for every step I took; I would approach him confidently, like a prince."
+
+- triggers: ["!job31:38 "]
+  replace: "If my own ground would cry out against me And its furrows would weep together;"
+
+- triggers: ["!job31:39 "]
+  replace: "If I have eaten its fruitage without payment, Or if I have caused its owners to despair;"
+
+- triggers: ["!job31:40 "]
+  replace: "Then let thorns sprout for me instead of wheat And foul-smelling weeds instead of barley.” The words of Job end here."
+
+- triggers: ["!job32:1 "]
+  replace: "So these three men stopped trying to answer Job, because he was convinced of his own righteousness."
+
+- triggers: ["!job32:2 "]
+  replace: "But Eliʹhu the son of Barʹachel the Buzʹite of the family of Ram had become very angry. His anger blazed against Job for trying to prove himself right rather than God."
+
+- triggers: ["!job32:3 "]
+  replace: "He was also very angry with Job’s three companions because they could not find an answer but had declared God wicked."
+
+- triggers: ["!job32:4 "]
+  replace: "Eliʹhu had been waiting to respond to Job, because they were older than he was."
+
+- triggers: ["!job32:5 "]
+  replace: "When Eliʹhu saw that the three men had nothing to say in answer, his anger flared up."
+
+- triggers: ["!job32:6 "]
+  replace: "So Eliʹhu the son of Barʹachel the Buzʹite began to speak, saying: “I am young And you men are aged. So I respectfully held back, And I dared not tell you what I know."
+
+- triggers: ["!job32:7 "]
+  replace: "I thought, ‘Let age speak, And let a multitude of years declare wisdom.’"
+
+- triggers: ["!job32:8 "]
+  replace: "But it is the spirit in people, The breath of the Almighty, that gives them understanding."
+
+- triggers: ["!job32:9 "]
+  replace: "Age alone does not make one wise, Nor is it only old men who understand what is right."
+
+- triggers: ["!job32:10 "]
+  replace: "So I say, ‘Listen to me, And I will also tell you what I know.’"
+
+- triggers: ["!job32:11 "]
+  replace: "Look! I have waited for your words; I kept listening to your reasoning As you searched for things to say."
+
+- triggers: ["!job32:12 "]
+  replace: "I paid close attention to you, But none of you could prove Job wrong Or answer his arguments."
+
+- triggers: ["!job32:13 "]
+  replace: "So do not say, ‘We have found wisdom; It is God who refutes him, not a man.’"
+
+- triggers: ["!job32:14 "]
+  replace: "He did not direct his words against me, So I will not reply to him with your arguments."
+
+- triggers: ["!job32:15 "]
+  replace: "They are dismayed, they have no more answers; They have nothing left to say."
+
+- triggers: ["!job32:16 "]
+  replace: "I have waited, but they do not continue speaking; They just stand there, with no further answer."
+
+- triggers: ["!job32:17 "]
+  replace: "So I too will give an answer; I too will tell what I know,"
+
+- triggers: ["!job32:18 "]
+  replace: "For I am full of words; The spirit within me compels me."
+
+- triggers: ["!job32:19 "]
+  replace: "My insides are like wine that has no vent, Like new wineskins ready to burst."
+
+- triggers: ["!job32:20 "]
+  replace: "Let me speak so that I can find relief! I will open my lips and give an answer."
+
+- triggers: ["!job32:21 "]
+  replace: "I will not show partiality to anyone; Nor will I flatter any human,"
+
+- triggers: ["!job32:22 "]
+  replace: "For I do not know how to flatter; If I did, my Maker would quickly do away with me."
+
+- triggers: ["!job33:1 "]
+  replace: "“But now, Job, please hear my words; Listen to everything I say."
+
+- triggers: ["!job33:2 "]
+  replace: "Look, please! I must open my mouth; My tongue must speak."
+
+- triggers: ["!job33:3 "]
+  replace: "My words declare the uprightness of my heart, And my lips sincerely tell what I know."
+
+- triggers: ["!job33:4 "]
+  replace: "God’s own spirit made me, And the Almighty’s own breath brought me to life."
+
+- triggers: ["!job33:5 "]
+  replace: "Reply to me if you are able; Present your arguments before me; take your position."
+
+- triggers: ["!job33:6 "]
+  replace: "Look! I am just like you before the true God; From the clay I too was shaped."
+
+- triggers: ["!job33:7 "]
+  replace: "So no fear of me should terrify you, And no pressure from me should overwhelm you."
+
+- triggers: ["!job33:8 "]
+  replace: "But you said in my hearing, Yes, I kept hearing these words,"
+
+- triggers: ["!job33:9 "]
+  replace: "‘I am pure, without transgression; I am clean, without error."
+
+- triggers: ["!job33:10 "]
+  replace: "But God finds reasons to oppose me; He considers me his enemy."
+
+- triggers: ["!job33:11 "]
+  replace: "He puts my feet in stocks; He scrutinizes all my paths.’"
+
+- triggers: ["!job33:12 "]
+  replace: "But you are not right in saying this, so I will answer you: God is far greater than mortal man."
+
+- triggers: ["!job33:13 "]
+  replace: "Why do you complain against Him? Is it because he did not answer all your words?"
+
+- triggers: ["!job33:14 "]
+  replace: "For God speaks once and a second time, But no one pays attention,"
+
+- triggers: ["!job33:15 "]
+  replace: "In a dream, a vision of the night, When deep sleep falls upon people While they sleep in their beds."
+
+- triggers: ["!job33:16 "]
+  replace: "Then he uncovers their ears And impresses his instruction upon them,"
+
+- triggers: ["!job33:17 "]
+  replace: "To turn a person away from wrongdoing And to protect a man from pride."
+
+- triggers: ["!job33:18 "]
+  replace: "God spares his soul from the pit, His life from perishing by the sword."
+
+- triggers: ["!job33:19 "]
+  replace: "A person is also reproved by pain on his bed And by the constant distress of his bones,"
+
+- triggers: ["!job33:20 "]
+  replace: "So that his very being loathes bread, And he rejects even fine food."
+
+- triggers: ["!job33:21 "]
+  replace: "His flesh wastes away from sight, And his bones that were hidden now protrude."
+
+- triggers: ["!job33:22 "]
+  replace: "His soul draws near to the pit; His life to those who bring death."
+
+- triggers: ["!job33:23 "]
+  replace: "If there is a messenger for him, One advocate out of a thousand, To tell to man what is upright,"
+
+- triggers: ["!job33:24 "]
+  replace: "Then God shows him favor and says, ‘Spare him from going down into the pit! I have found a ransom!"
+
+- triggers: ["!job33:25 "]
+  replace: "Let his flesh become fresher than in youth; Let him return to the days of his youthful vigor.’"
+
+- triggers: ["!job33:26 "]
+  replace: "He will entreat God, who will accept him, And he will see His face with shouts of joy, And He will restore His righteousness to mortal man."
+
+- triggers: ["!job33:27 "]
+  replace: "That person will declare to men, ‘I have sinned and distorted what is right, But I did not receive what I deserved."
+
+- triggers: ["!job33:28 "]
+  replace: "He has redeemed my soul from going into the pit, And my life will see the light.’"
+
+- triggers: ["!job33:29 "]
+  replace: "Indeed, God does all these things Twice, three times, for a man,"
+
+- triggers: ["!job33:30 "]
+  replace: "To bring him back from the pit, So that he may be enlightened with the light of life."
+
+- triggers: ["!job33:31 "]
+  replace: "Pay attention, Job! Listen to me! Keep silent, and I will continue speaking."
+
+- triggers: ["!job33:32 "]
+  replace: "If you have something to say, reply to me. Speak, for I want to prove you right."
+
+- triggers: ["!job33:33 "]
+  replace: "If you have nothing to say, you should listen to me; Keep silent, and I will teach you wisdom.”"
+
+- triggers: ["!job34:1 "]
+  replace: "So Eliʹhu continued to say in reply:"
+
+- triggers: ["!job34:2 "]
+  replace: "“Listen to my words, you who are wise; Hear me, you who know so much."
+
+- triggers: ["!job34:3 "]
+  replace: "For the ear tests words Just as the tongue tastes food."
+
+- triggers: ["!job34:4 "]
+  replace: "Let us evaluate for ourselves what is right; Let us decide among ourselves what is good."
+
+- triggers: ["!job34:5 "]
+  replace: "For Job has said, ‘I am in the right, But God has denied me justice."
+
+- triggers: ["!job34:6 "]
+  replace: "Would I lie about what my own judgment should be? My wound is incurable, though there is no transgression.’"
+
+- triggers: ["!job34:7 "]
+  replace: "What other man is like Job, Who drinks up derision like water?"
+
+- triggers: ["!job34:8 "]
+  replace: "He is in company with wrongdoers And in association with wicked men."
+
+- triggers: ["!job34:9 "]
+  replace: "For he has said, ‘A man does not benefit From trying to please God.’"
+
+- triggers: ["!job34:10 "]
+  replace: "So listen to me, you men of understanding: It is unthinkable for the true God to act wickedly, For the Almighty to do wrong!"
+
+- triggers: ["!job34:11 "]
+  replace: "For he will reward a man according to what he does And bring upon him the consequences of his ways."
+
+- triggers: ["!job34:12 "]
+  replace: "For a certainty, God does not act wickedly; The Almighty does not pervert justice."
+
+- triggers: ["!job34:13 "]
+  replace: "Who put him in charge of the earth, And who appointed him over the whole world?"
+
+- triggers: ["!job34:14 "]
+  replace: "If he fixes his attention on them, If he gathers their spirit and breath to himself,"
+
+- triggers: ["!job34:15 "]
+  replace: "All humans would perish together, And mankind would return to the dust."
+
+- triggers: ["!job34:16 "]
+  replace: "So if you have understanding, pay attention to this; Listen carefully to what I say."
+
+- triggers: ["!job34:17 "]
+  replace: "Should someone who hates justice be in control, Or would you condemn a powerful one who is righteous?"
+
+- triggers: ["!job34:18 "]
+  replace: "Would you say to a king, ‘You are good for nothing,’ Or to nobles, ‘You are wicked’?"
+
+- triggers: ["!job34:19 "]
+  replace: "There is One who does not show partiality to princes And who does not favor the rich over the poor, For they are all the work of his hands."
+
+- triggers: ["!job34:20 "]
+  replace: "They may die suddenly, in the middle of the night; They shake violently and pass away; Even the powerful are removed, but not by human hands."
+
+- triggers: ["!job34:21 "]
+  replace: "For God’s eyes are upon the ways of a man, And He sees all his steps."
+
+- triggers: ["!job34:22 "]
+  replace: "There is no darkness or deep shadow Where wrongdoers can conceal themselves."
+
+- triggers: ["!job34:23 "]
+  replace: "For God has not set an appointed time for any man To appear before him in judgment."
+
+- triggers: ["!job34:24 "]
+  replace: "He breaks the powerful without needing to investigate And sets up others in their place."
+
+- triggers: ["!job34:25 "]
+  replace: "For he knows what they are doing; He overthrows them during the night, and they are crushed."
+
+- triggers: ["!job34:26 "]
+  replace: "He strikes them for their wickedness, In a place where all can see,"
+
+- triggers: ["!job34:27 "]
+  replace: "Because they have turned away from following him And have no regard for any of his ways;"
+
+- triggers: ["!job34:28 "]
+  replace: "They cause the poor to cry out to him, So that he hears the outcry of the helpless."
+
+- triggers: ["!job34:29 "]
+  replace: "When God remains silent, who can condemn him? When he hides his face, who can see him? Whether toward a nation or a man, the result is the same,"
+
+- triggers: ["!job34:30 "]
+  replace: "So that a godless person may not rule Or lay snares for the people."
+
+- triggers: ["!job34:31 "]
+  replace: "For will anyone say to God, ‘I have been punished, although I have committed no offense;"
+
+- triggers: ["!job34:32 "]
+  replace: "Teach me what I have failed to see; If I have done anything wrong, I will not do it again’?"
+
+- triggers: ["!job34:33 "]
+  replace: "Should he reward you on your terms when you reject his judgment? You must decide, not I. So tell me what you know so well."
+
+- triggers: ["!job34:34 "]
+  replace: "Men of understanding will say to me —Any wise man who hears me—"
+
+- triggers: ["!job34:35 "]
+  replace: "‘Job speaks without knowledge, And his words lack insight.’"
+
+- triggers: ["!job34:36 "]
+  replace: "Let Job be tested to the limit Because his replies are like those of wicked men!"
+
+- triggers: ["!job34:37 "]
+  replace: "He adds rebellion to his sin; He scornfully claps his hands before us And multiplies his words against the true God!”"
+
+- triggers: ["!job35:1 "]
+  replace: "Eliʹhu continued his response:"
+
+- triggers: ["!job35:2 "]
+  replace: "“Are you so convinced that you are right that you would say, ‘I am more righteous than God’?"
+
+- triggers: ["!job35:3 "]
+  replace: "For you say, ‘What does it matter to you? Am I better off than if I had sinned?’"
+
+- triggers: ["!job35:4 "]
+  replace: "I will reply to you And to your companions with you."
+
+- triggers: ["!job35:5 "]
+  replace: "Look up to heaven and see, Observe the clouds, which are high above you."
+
+- triggers: ["!job35:6 "]
+  replace: "If you sin, how do you hurt him? If your transgressions multiply, what do you do to him?"
+
+- triggers: ["!job35:7 "]
+  replace: "If you are righteous, what do you give him; What does he receive from you?"
+
+- triggers: ["!job35:8 "]
+  replace: "Your wickedness affects only a human like yourself, And your righteousness, a son of man."
+
+- triggers: ["!job35:9 "]
+  replace: "People cry out when under great oppression; They cry for relief from the domination of the powerful."
+
+- triggers: ["!job35:10 "]
+  replace: "But no one says, ‘Where is God, my Grand Maker, The one causing songs to be sung in the night?’"
+
+- triggers: ["!job35:11 "]
+  replace: "He teaches us more than the beasts of the earth, And he makes us wiser than the birds of the heavens."
+
+- triggers: ["!job35:12 "]
+  replace: "People cry out, but he does not answer, Because of the pride of the wicked."
+
+- triggers: ["!job35:13 "]
+  replace: "Surely God does not hear an empty cry; The Almighty does not pay attention to it."
+
+- triggers: ["!job35:14 "]
+  replace: "How much less, then, when you complain that you do not see him! Your legal case is before him, so you should wait anxiously for him."
+
+- triggers: ["!job35:15 "]
+  replace: "For he has not angrily called for an accounting; Nor has he taken note of your extreme rashness."
+
+- triggers: ["!job35:16 "]
+  replace: "Job opens his mouth wide in vain; He multiplies words without knowledge.”"
+
+- triggers: ["!job36:1 "]
+  replace: "Eliʹhu continued:"
+
+- triggers: ["!job36:2 "]
+  replace: "“Be patient with me a little longer while I explain, For I still have words to speak on God’s behalf."
+
+- triggers: ["!job36:3 "]
+  replace: "I will speak comprehensively about what I know, And I will ascribe righteousness to my Maker."
+
+- triggers: ["!job36:4 "]
+  replace: "Truly my words are not false; The One perfect in knowledge is here before you."
+
+- triggers: ["!job36:5 "]
+  replace: "Indeed, God is mighty and rejects no one; He is great in his power of understanding."
+
+- triggers: ["!job36:6 "]
+  replace: "He will not preserve the lives of the wicked, But he gives justice to the afflicted."
+
+- triggers: ["!job36:7 "]
+  replace: "He does not take his eyes off the righteous; He enthrones them with kings, and they are exalted forever."
+
+- triggers: ["!job36:8 "]
+  replace: "But if they are bound in shackles And caught in ropes of affliction,"
+
+- triggers: ["!job36:9 "]
+  replace: "He reveals to them what they have done, Their transgressions caused by their pride."
+
+- triggers: ["!job36:10 "]
+  replace: "He opens their ears to correction And tells them to turn away from wrongdoing."
+
+- triggers: ["!job36:11 "]
+  replace: "If they obey and serve him, They will live out their days in prosperity, And their years will be pleasant."
+
+- triggers: ["!job36:12 "]
+  replace: "But if they do not obey, they will perish by the sword And die without knowledge."
+
+- triggers: ["!job36:13 "]
+  replace: "The godless at heart will harbor resentment. They do not cry for help even when he binds them."
+
+- triggers: ["!job36:14 "]
+  replace: "They die while still young, Spending their life among male temple prostitutes."
+
+- triggers: ["!job36:15 "]
+  replace: "But God rescues the afflicted during their affliction; He opens their ear when they are oppressed."
+
+- triggers: ["!job36:16 "]
+  replace: "He draws you away from the brink of distress To a broad space, free of restriction, With rich food on your table as consolation."
+
+- triggers: ["!job36:17 "]
+  replace: "Then you will be satisfied with the judgment on the wicked, When judgment is rendered and justice is upheld."
+
+- triggers: ["!job36:18 "]
+  replace: "But take care that rage does not lead you into spitefulness, And do not let a large bribe lead you astray."
+
+- triggers: ["!job36:19 "]
+  replace: "Would your cry for help Or any of your strenuous efforts keep you from distress?"
+
+- triggers: ["!job36:20 "]
+  replace: "Do not long for the night, When people vanish from their place."
+
+- triggers: ["!job36:21 "]
+  replace: "Beware that you do not turn to wrongdoing, Choosing this instead of affliction."
+
+- triggers: ["!job36:22 "]
+  replace: "Look! God is exalted in his power; What instructor is like him?"
+
+- triggers: ["!job36:23 "]
+  replace: "Who has directed his way Or said to him, ‘What you have done is wrong’?"
+
+- triggers: ["!job36:24 "]
+  replace: "Remember to magnify his activity, Of which men have sung."
+
+- triggers: ["!job36:25 "]
+  replace: "All mankind has seen it, Mortal man looks on from a distance."
+
+- triggers: ["!job36:26 "]
+  replace: "Yes, God is greater than we can know; The number of his years is beyond comprehension."
+
+- triggers: ["!job36:27 "]
+  replace: "He draws up the drops of water; They condense into rain from his mist;"
+
+- triggers: ["!job36:28 "]
+  replace: "Then the clouds pour it down; They shower down upon mankind."
+
+- triggers: ["!job36:29 "]
+  replace: "Can anyone understand the layers of clouds, The thundering from his tent?"
+
+- triggers: ["!job36:30 "]
+  replace: "See how he spreads his lightning over it And covers the depths of the sea."
+
+- triggers: ["!job36:31 "]
+  replace: "By these he sustains the peoples; He gives them food in abundance."
+
+- triggers: ["!job36:32 "]
+  replace: "With his hands he covers the lightning, And he directs it against its target."
+
+- triggers: ["!job36:33 "]
+  replace: "His thunder tells about him, Even the livestock tell who is coming."
+
+- triggers: ["!job37:1 "]
+  replace: "“At this my heart pounds And leaps from its place."
+
+- triggers: ["!job37:2 "]
+  replace: "Listen carefully to the rumbling of his voice And the thunder that comes from his mouth."
+
+- triggers: ["!job37:3 "]
+  replace: "He unleashes it under the entire heavens And sends his lightning to the ends of the earth."
+
+- triggers: ["!job37:4 "]
+  replace: "After that is a roaring sound; He thunders with a majestic voice, And he does not hold it back when his voice is heard."
+
+- triggers: ["!job37:5 "]
+  replace: "God thunders with his voice in a wonderful way; He does great things that are beyond our understanding."
+
+- triggers: ["!job37:6 "]
+  replace: "For he says to the snow, ‘Fall to the earth,’ And to the downpour of rain, ‘Pour down mightily.’"
+
+- triggers: ["!job37:7 "]
+  replace: "God puts a stop to all human activity So that every mortal man will know His work."
+
+- triggers: ["!job37:8 "]
+  replace: "The wild animals go into their dens And remain in their lairs."
+
+- triggers: ["!job37:9 "]
+  replace: "The storm wind blows from its chamber, And the cold comes from the north winds."
+
+- triggers: ["!job37:10 "]
+  replace: "By the breath of God, the ice is produced, And the broad waters are frozen solid."
+
+- triggers: ["!job37:11 "]
+  replace: "Yes, he weighs down the clouds with moisture; He scatters his lightning in the clouds;"
+
+- triggers: ["!job37:12 "]
+  replace: "They swirl around where he directs them; They carry out whatever he commands on the surface of the inhabited earth."
+
+- triggers: ["!job37:13 "]
+  replace: "Whether it is for punishment or for the sake of the land Or for loyal love, he causes it to happen."
+
+- triggers: ["!job37:14 "]
+  replace: "Listen to this, Job; Stop and consider carefully the wonderful works of God."
+
+- triggers: ["!job37:15 "]
+  replace: "Do you know how God controls the clouds And how he causes the lightning to flash from his cloud?"
+
+- triggers: ["!job37:16 "]
+  replace: "Do you know how the clouds float? These are the wonderful works of the One perfect in knowledge."
+
+- triggers: ["!job37:17 "]
+  replace: "Why does your clothing become hot When the earth is still because of the south wind?"
+
+- triggers: ["!job37:18 "]
+  replace: "Can you, with him, spread out the skies As solid as a metal mirror?"
+
+- triggers: ["!job37:19 "]
+  replace: "Tell us what we should say to him; We cannot answer because we are in the dark."
+
+- triggers: ["!job37:20 "]
+  replace: "Should he be told that I want to speak? Or has anyone said something that should be communicated to him?"
+
+- triggers: ["!job37:21 "]
+  replace: "They cannot even see the light, Though it is bright in the sky, Until a wind passes by and clears away the clouds."
+
+- triggers: ["!job37:22 "]
+  replace: "Out of the north comes golden splendor; God’s majesty is awe-inspiring."
+
+- triggers: ["!job37:23 "]
+  replace: "Understanding the Almighty is beyond our reach; He is great in power, And he never violates his justice and abundant righteousness."
+
+- triggers: ["!job37:24 "]
+  replace: "Therefore, people should fear him. For he does not favor any who think that they are wise.”"
+
+- triggers: ["!job38:1 "]
+  replace: "Then Jehovah answered Job out of the windstorm:"
+
+- triggers: ["!job38:2 "]
+  replace: "“Who is this who is obscuring my counsel And speaking without knowledge?"
+
+- triggers: ["!job38:3 "]
+  replace: "Brace yourself, please, like a man; I will question you, and you inform me."
+
+- triggers: ["!job38:4 "]
+  replace: "Where were you when I founded the earth? Tell me, if you think you understand."
+
+- triggers: ["!job38:5 "]
+  replace: "Who set its measurements, in case you know, Or who stretched a measuring line across it?"
+
+- triggers: ["!job38:6 "]
+  replace: "Into what were its pedestals sunk, Or who laid its cornerstone,"
+
+- triggers: ["!job38:7 "]
+  replace: "When the morning stars joyfully cried out together, And all the sons of God began shouting in applause?"
+
+- triggers: ["!job38:8 "]
+  replace: "And who barricaded the sea behind doors When it burst out from the womb,"
+
+- triggers: ["!job38:9 "]
+  replace: "When I clothed it with clouds And wrapped it in thick gloom,"
+
+- triggers: ["!job38:10 "]
+  replace: "When I established my limit for it And put its bars and doors in place,"
+
+- triggers: ["!job38:11 "]
+  replace: "And I said, ‘You may come this far, and no farther; Here is where your proud waves will stop’?"
+
+- triggers: ["!job38:12 "]
+  replace: "Have you ever commanded the morning Or made the dawn know its place,"
+
+- triggers: ["!job38:13 "]
+  replace: "To take hold of the ends of the earth And to shake the wicked out of it?"
+
+- triggers: ["!job38:14 "]
+  replace: "It is transformed like clay under a seal, And its features stand out like those of a garment."
+
+- triggers: ["!job38:15 "]
+  replace: "But the light of the wicked is held back from them, And their uplifted arm is broken."
+
+- triggers: ["!job38:16 "]
+  replace: "Have you gone down to the sources of the sea Or explored the deep waters?"
+
+- triggers: ["!job38:17 "]
+  replace: "Have the gates of death been revealed to you, Or have you seen the gates of deep darkness?"
+
+- triggers: ["!job38:18 "]
+  replace: "Have you understood the vast expanse of the earth? Tell me, if you know all of this."
+
+- triggers: ["!job38:19 "]
+  replace: "In which direction does the light reside? And where is the place of darkness,"
+
+- triggers: ["!job38:20 "]
+  replace: "That you should take it to its territory And understand the paths to its home?"
+
+- triggers: ["!job38:21 "]
+  replace: "Do you know this because you were already born And the number of your years is great?"
+
+- triggers: ["!job38:22 "]
+  replace: "Have you entered the storehouses of the snow, Or have you seen the storehouses of the hail,"
+
+- triggers: ["!job38:23 "]
+  replace: "Which I have reserved for the time of distress, For the day of battle and war?"
+
+- triggers: ["!job38:24 "]
+  replace: "From what direction is light dispersed, And from where does the east wind blow on the earth?"
+
+- triggers: ["!job38:25 "]
+  replace: "Who has cut a channel for the flood And made a path for the thunderous storm cloud,"
+
+- triggers: ["!job38:26 "]
+  replace: "To make it rain where no man lives, On the wilderness where there are no humans,"
+
+- triggers: ["!job38:27 "]
+  replace: "To satisfy devastated wastelands And cause the grass to sprout?"
+
+- triggers: ["!job38:28 "]
+  replace: "Does the rain have a father, Or who fathered the dewdrops?"
+
+- triggers: ["!job38:29 "]
+  replace: "From whose womb did the ice emerge, And who gave birth to the frost of heaven"
+
+- triggers: ["!job38:30 "]
+  replace: "When the waters are covered as if with stone, And the surface of the deep waters is frozen solid?"
+
+- triggers: ["!job38:31 "]
+  replace: "Can you tie the ropes of the Kiʹmah constellation Or untie the cords of the Keʹsil constellation?"
+
+- triggers: ["!job38:32 "]
+  replace: "Can you lead out a constellation in its season Or guide the Ash constellation along with its sons?"
+
+- triggers: ["!job38:33 "]
+  replace: "Do you know the laws governing the heavens, Or can you impose their authority on the earth?"
+
+- triggers: ["!job38:34 "]
+  replace: "Can you raise your voice to the clouds To cause a flood of water to cover you?"
+
+- triggers: ["!job38:35 "]
+  replace: "Can you send out lightning bolts? Will they come and say to you, ‘Here we are!’"
+
+- triggers: ["!job38:36 "]
+  replace: "Who put wisdom within the clouds Or gave understanding to the sky phenomenon?"
+
+- triggers: ["!job38:37 "]
+  replace: "Who is wise enough to count the clouds, Or who can tip over the water jars of heaven"
+
+- triggers: ["!job38:38 "]
+  replace: "When the dust pours into a mass And the clods of earth stick together?"
+
+- triggers: ["!job38:39 "]
+  replace: "Can you hunt prey for a lion Or satisfy the appetites of young lions"
+
+- triggers: ["!job38:40 "]
+  replace: "When they crouch in their lairs Or lie in ambush in their dens?"
+
+- triggers: ["!job38:41 "]
+  replace: "Who prepares food for the raven When its young cry to God for help And wander about because there is nothing to eat?"
+
+- triggers: ["!job39:1 "]
+  replace: "“Do you know the time when the mountain goats give birth? Have you watched the deer give birth to their young?"
+
+- triggers: ["!job39:2 "]
+  replace: "Do you count the months that they must complete? Do you know the time when they give birth?"
+
+- triggers: ["!job39:3 "]
+  replace: "They crouch down when they give birth to their young, And their labor pains end."
+
+- triggers: ["!job39:4 "]
+  replace: "Their young become strong and grow up in the open field; They go out and do not return to them."
+
+- triggers: ["!job39:5 "]
+  replace: "Who set the wild donkey free, And who untied the ropes of the wild donkey?"
+
+- triggers: ["!job39:6 "]
+  replace: "I have made the desert plain its home And the salt land its dwelling."
+
+- triggers: ["!job39:7 "]
+  replace: "It scorns the tumult of the city; It does not hear the shouts of the driver."
+
+- triggers: ["!job39:8 "]
+  replace: "It roams the hills, seeking pasture, Looking for every green plant."
+
+- triggers: ["!job39:9 "]
+  replace: "Is the wild bull willing to serve you? Will it spend the night in your stable?"
+
+- triggers: ["!job39:10 "]
+  replace: "Will you hold a wild bull to the furrow with a rope, Or will it follow you to plow the valley?"
+
+- triggers: ["!job39:11 "]
+  replace: "Will you trust in its great strength And let it do your heavy work?"
+
+- triggers: ["!job39:12 "]
+  replace: "Will you rely on it to bring back your harvest, And will it gather it to your threshing floor?"
+
+- triggers: ["!job39:13 "]
+  replace: "The wings of the ostrich flap joyfully, But can her pinions and plumage compare with the stork’s?"
+
+- triggers: ["!job39:14 "]
+  replace: "For she leaves her eggs on the ground, And she keeps them warm in the dust."
+
+- triggers: ["!job39:15 "]
+  replace: "She forgets that some foot may crush them Or that a wild animal may trample them."
+
+- triggers: ["!job39:16 "]
+  replace: "She treats her sons harshly, as if they were not hers; She has no fear that her labor may be in vain."
+
+- triggers: ["!job39:17 "]
+  replace: "For God has deprived her of wisdom And given her no share in understanding."
+
+- triggers: ["!job39:18 "]
+  replace: "But when she rises up and flaps her wings, She laughs at the horse and at its rider."
+
+- triggers: ["!job39:19 "]
+  replace: "Are you the one who gives the horse its strength? Do you clothe its neck with a rustling mane?"
+
+- triggers: ["!job39:20 "]
+  replace: "Can you cause it to leap like a locust? Its majestic snorting is terrifying."
+
+- triggers: ["!job39:21 "]
+  replace: "It paws the ground in the valley and exults mightily; It charges into the battle."
+
+- triggers: ["!job39:22 "]
+  replace: "It laughs at fear and is afraid of nothing. It does not turn back because of the sword."
+
+- triggers: ["!job39:23 "]
+  replace: "The quiver rattles against it, The spear and the javelin flash."
+
+- triggers: ["!job39:24 "]
+  replace: "Trembling with excitement, it surges forward, It cannot stand still at the sound of the horn."
+
+- triggers: ["!job39:25 "]
+  replace: "When the horn blows, it says, ‘Aha!’ It smells the battle from afar And hears the shouting of commanders and the battle cry."
+
+- triggers: ["!job39:26 "]
+  replace: "Is it by your understanding that the falcon soars, Spreading its wings to the south?"
+
+- triggers: ["!job39:27 "]
+  replace: "Or is it at your order that an eagle flies upward And builds its nest high up,"
+
+- triggers: ["!job39:28 "]
+  replace: "Spending the night on a cliff, Dwelling in its stronghold on a rocky crag?"
+
+- triggers: ["!job39:29 "]
+  replace: "From there it searches for food; Its eyes look far into the distance."
+
+- triggers: ["!job39:30 "]
+  replace: "Its young sip up blood; And wherever the slain are, there it is.”"
+
+- triggers: ["!job40:1 "]
+  replace: "Jehovah continued to answer Job:"
+
+- triggers: ["!job40:2 "]
+  replace: "“Should a faultfinder contend with the Almighty? Let the one who wants to reprove God answer.”"
+
+- triggers: ["!job40:3 "]
+  replace: "Job said in answer to Jehovah:"
+
+- triggers: ["!job40:4 "]
+  replace: "“Look! I am unworthy. What can I reply to you? I put my hand over my mouth."
+
+- triggers: ["!job40:5 "]
+  replace: "I spoke once, but I will not answer again; Twice, but I will say no more.”"
+
+- triggers: ["!job40:6 "]
+  replace: "Then Jehovah answered Job out of the windstorm:"
+
+- triggers: ["!job40:7 "]
+  replace: "“Brace yourself, please, like a man; I will question you, and you inform me."
+
+- triggers: ["!job40:8 "]
+  replace: "Will you call into question my justice? Will you condemn me so that you may be right?"
+
+- triggers: ["!job40:9 "]
+  replace: "Do you have an arm as powerful as the true God’s, Or can your voice thunder like his?"
+
+- triggers: ["!job40:10 "]
+  replace: "Adorn yourself, please, with glory and majesty; Clothe yourself with dignity and splendor."
+
+- triggers: ["!job40:11 "]
+  replace: "Release the fury of your anger; Look at everyone who is haughty, and bring him low."
+
+- triggers: ["!job40:12 "]
+  replace: "Look at everyone who is haughty, and humble him, And tread down the wicked where they stand."
+
+- triggers: ["!job40:13 "]
+  replace: "Hide them all in the dust; Bind them in the hidden place,"
+
+- triggers: ["!job40:14 "]
+  replace: "Then even I would acknowledge to you That your right hand can save you."
+
+- triggers: ["!job40:15 "]
+  replace: "Here, now, is Beheʹmoth, which I made as I made you. It eats grass like a bull."
+
+- triggers: ["!job40:16 "]
+  replace: "Look at the strength in its hips And the power in the muscles of its belly!"
+
+- triggers: ["!job40:17 "]
+  replace: "It stiffens its tail like a cedar; The sinews of its thighs are woven together."
+
+- triggers: ["!job40:18 "]
+  replace: "Its bones are tubes of copper; Its limbs are like wrought-iron rods."
+
+- triggers: ["!job40:19 "]
+  replace: "It ranks first among the works of God; Only its Maker can approach it with his sword."
+
+- triggers: ["!job40:20 "]
+  replace: "For the mountains produce food for it, Where all the wild animals play."
+
+- triggers: ["!job40:21 "]
+  replace: "It lies down under the lotus trees, In the shelter of the reeds of the marsh."
+
+- triggers: ["!job40:22 "]
+  replace: "The lotus trees cast their shadow on it, And the poplars of the valley surround it."
+
+- triggers: ["!job40:23 "]
+  replace: "If the river is turbulent, it does not panic. It is confident, although the Jordan rushes against its mouth."
+
+- triggers: ["!job40:24 "]
+  replace: "Can anyone capture it while it is watching, Or pierce its nose with a hook?"
+
+- triggers: ["!job41:1 "]
+  replace: "“Can you catch Leviʹathan with a fishhook Or hold down its tongue with a rope?"
+
+- triggers: ["!job41:2 "]
+  replace: "Can you put a rope through its nostrils Or pierce its jaws with a hook?"
+
+- triggers: ["!job41:3 "]
+  replace: "Will it make many pleas to you, Or will it speak gently to you?"
+
+- triggers: ["!job41:4 "]
+  replace: "Will it make a covenant with you, So that you may make it your slave for life?"
+
+- triggers: ["!job41:5 "]
+  replace: "Will you play with it as with a bird Or tie it on a leash for your little girls?"
+
+- triggers: ["!job41:6 "]
+  replace: "Will traders barter for it? Will they divide it up among merchants?"
+
+- triggers: ["!job41:7 "]
+  replace: "Will you fill its hide with harpoons Or its head with fishing spears?"
+
+- triggers: ["!job41:8 "]
+  replace: "Lay your hand on it; You will remember the battle and never do it again!"
+
+- triggers: ["!job41:9 "]
+  replace: "Any hope of subduing it is futile. The mere sight of it would overwhelm you."
+
+- triggers: ["!job41:10 "]
+  replace: "No one dares to stir it up. So who is it who can stand up to me?"
+
+- triggers: ["!job41:11 "]
+  replace: "Who has given me anything first that I should repay him? Whatever is under the heavens is mine."
+
+- triggers: ["!job41:12 "]
+  replace: "I will not be silent about its limbs, About its mightiness and its well-formed body."
+
+- triggers: ["!job41:13 "]
+  replace: "Who has removed its outer covering? Who will enter its open jaws?"
+
+- triggers: ["!job41:14 "]
+  replace: "Who can pry open the doors of its mouth? Its teeth all around are fearsome."
+
+- triggers: ["!job41:15 "]
+  replace: "Its back has rows of scales Tightly sealed together."
+
+- triggers: ["!job41:16 "]
+  replace: "Each one fits so closely to the other That no air can come between them."
+
+- triggers: ["!job41:17 "]
+  replace: "They are stuck to one another; They cling together and cannot be separated."
+
+- triggers: ["!job41:18 "]
+  replace: "Its snorting flashes out light, And its eyes are like the rays of dawn."
+
+- triggers: ["!job41:19 "]
+  replace: "Flashes of lightning go out of its mouth; Fiery sparks escape."
+
+- triggers: ["!job41:20 "]
+  replace: "Smoke pours out of its nostrils, Like a furnace fueled with rushes."
+
+- triggers: ["!job41:21 "]
+  replace: "Its breath sets coals ablaze, And a flame shoots from its mouth."
+
+- triggers: ["!job41:22 "]
+  replace: "There is great strength in its neck, And dismay runs before it."
+
+- triggers: ["!job41:23 "]
+  replace: "The folds of its flesh are tightly joined together; They are firm, as though cast upon it and immovable."
+
+- triggers: ["!job41:24 "]
+  replace: "Its heart is hard as stone, Yes, hard as a lower millstone."
+
+- triggers: ["!job41:25 "]
+  replace: "When it rises up, even the mighty are frightened; Its thrashing causes bewilderment."
+
+- triggers: ["!job41:26 "]
+  replace: "No sword that reaches it will prevail; Nor will spear, dart, or arrowhead."
+
+- triggers: ["!job41:27 "]
+  replace: "It regards iron as straw, Copper as rotten wood."
+
+- triggers: ["!job41:28 "]
+  replace: "An arrow does not make it flee; Slingstones turn into stubble against it."
+
+- triggers: ["!job41:29 "]
+  replace: "It regards a club as stubble, And it laughs at the rattling of a javelin."
+
+- triggers: ["!job41:30 "]
+  replace: "Underneath, it is like sharp fragments of pottery; It spreads itself in the mud like a threshing sledge."
+
+- triggers: ["!job41:31 "]
+  replace: "It makes the deep boil just like a pot; It stirs up the sea like an ointment pot."
+
+- triggers: ["!job41:32 "]
+  replace: "It leaves a glistening wake in its path. One would think that the deep had white hair."
+
+- triggers: ["!job41:33 "]
+  replace: "There is nothing like it on the earth, A creature made to have no fear."
+
+- triggers: ["!job41:34 "]
+  replace: "It glares at everything that is haughty. It is king over all the majestic wild beasts.”"
+
+- triggers: ["!job42:1 "]
+  replace: "Then Job said in reply to Jehovah:"
+
+- triggers: ["!job42:2 "]
+  replace: "“Now I know that you are able to do all things And that nothing you have in mind to do is impossible for you."
+
+- triggers: ["!job42:3 "]
+  replace: "You said, ‘Who is this who is obscuring my counsel without knowledge?’ Therefore I spoke, but without understanding About things too wonderful for me, which I do not know."
+
+- triggers: ["!job42:4 "]
+  replace: "You said, ‘Please listen, and I will speak. I will question you, and you inform me.’"
+
+- triggers: ["!job42:5 "]
+  replace: "My ears have heard about you, But now I do see you with my eyes."
+
+- triggers: ["!job42:6 "]
+  replace: "That is why I take back what I said, And I repent in dust and ashes.”"
+
+- triggers: ["!job42:7 "]
+  replace: "After Jehovah had spoken these words to Job, Jehovah said to Elʹiphaz the Teʹmanite: “My anger burns against you and your two companions, for you have not spoken the truth about me as my servant Job has."
+
+- triggers: ["!job42:8 "]
+  replace: "Now take seven bulls and seven rams and go to my servant Job, and offer up a burnt sacrifice for yourselves. And my servant Job will pray for you. I will surely accept his request not to deal with you according to your foolishness, for you have not spoken the truth about me as my servant Job has.”"
+
+- triggers: ["!job42:9 "]
+  replace: "So Elʹiphaz the Teʹmanite, Bilʹdad the Shuʹhite, and Zoʹphar the Naʹamathite went and did what Jehovah had told them to do. And Jehovah accepted Job’s prayer."
+
+- triggers: ["!job42:10 "]
+  replace: "After Job had prayed for his companions, Jehovah removed Job’s tribulation and restored his prosperity. Jehovah gave him double what he had before."
+
+- triggers: ["!job42:11 "]
+  replace: "All his brothers and sisters and all his former friends came to him and ate a meal with him in his house. They sympathized with him and comforted him over all the calamity that Jehovah had allowed to come upon him. Each of them gave him a piece of money and a gold ring."
+
+- triggers: ["!job42:12 "]
+  replace: "So Jehovah blessed the last part of Job’s life more than the beginning, and Job came to have 14,000 sheep, 6,000 camels, 1,000 pairs of cattle, and 1,000 female donkeys."
+
+- triggers: ["!job42:13 "]
+  replace: "He also came to have seven more sons and three more daughters."
+
+- triggers: ["!job42:14 "]
+  replace: "He named the first daughter Jemiʹmah, the second Keziʹah, and the third Kerʹen-hapʹpuch."
+
+- triggers: ["!job42:15 "]
+  replace: "No women in all the land were as beautiful as Job’s daughters, and their father gave them an inheritance along with their brothers."
+
+- triggers: ["!job42:16 "]
+  replace: "After this Job lived for 140 years, and he saw his children and his grandchildren—four generations."
+
+- triggers: ["!job42:17 "]
+  replace: "Finally Job died, after a long and satisfying life."
+

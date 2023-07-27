@@ -1,0 +1,316 @@
+matches:
+- triggers: ["!1john1:1 ","!1jo1:1 "]
+  replace: "That which was from the beginning, which we have heard, which we have seen with our eyes, which we have observed and our hands have felt, concerning the word of life,"
+
+- triggers: ["!1john1:2 ","!1jo1:2 "]
+  replace: "(yes, the life was made manifest, and we have seen and are bearing witness and reporting to you the everlasting life that was with the Father and was made manifest to us),"
+
+- triggers: ["!1john1:3 ","!1jo1:3 "]
+  replace: "that which we have seen and heard we are reporting also to you, so that you too may have fellowship with us. And this fellowship of ours is with the Father and with his Son Jesus Christ."
+
+- triggers: ["!1john1:4 ","!1jo1:4 "]
+  replace: "And we are writing these things so that our joy may be complete."
+
+- triggers: ["!1john1:5 ","!1jo1:5 "]
+  replace: "This is the message that we heard from him and are announcing to you: God is light, and there is no darkness at all in him."
+
+- triggers: ["!1john1:6 ","!1jo1:6 "]
+  replace: "If we make the statement, 'We are having fellowship with him,' and yet we go on walking in the darkness, we are lying and are not practicing the truth."
+
+- triggers: ["!1john1:7 ","!1jo1:7 "]
+  replace: "However, if we are walking in the light as he himself is in the light, we do have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin."
+
+- triggers: ["!1john1:8 ","!1jo1:8 "]
+  replace: "If we make the statement, 'We have no sin,' we are misleading ourselves and the truth is not in us."
+
+- triggers: ["!1john1:9 ","!1jo1:9 "]
+  replace: "If we confess our sins, he is faithful and righteous so as to forgive us our sins and to cleanse us from all unrighteousness."
+
+- triggers: ["!1john1:10 ","!1jo1:10 "]
+  replace: "If we make the statement, 'We have not sinned,' we are making him a liar, and his word is not in us."
+
+- triggers: ["!1john2:1 ","!1jo2:1 "]
+  replace: "My little children, I am writing you these things so that you may not commit a sin. And yet, if anyone does commit a sin, we have a helper with the Father, Jesus Christ, a righteous one."
+
+- triggers: ["!1john2:2 ","!1jo2:2 "]
+  replace: "And he is a propitiatory sacrifice for our sins, yet not for ours only but also for the whole world's."
+
+- triggers: ["!1john2:3 ","!1jo2:3 "]
+  replace: "And by this we realize that we have come to know him, namely, if we continue observing his commandments."
+
+- triggers: ["!1john2:4 ","!1jo2:4 "]
+  replace: "The one who says, 'I have come to know him,' and yet does not observe his commandments is a liar, and the truth is not in this person."
+
+- triggers: ["!1john2:5 ","!1jo2:5 "]
+  replace: "But whoever does observe his word, in this person the love of God has truly been made perfect. By this we know that we are in union with him."
+
+- triggers: ["!1john2:6 ","!1jo2:6 "]
+  replace: "The one who says he remains in union with him is himself under obligation to go on walking just as that one walked."
+
+- triggers: ["!1john2:7 ","!1jo2:7 "]
+  replace: "Beloved ones, I am writing you, not a new commandment, but an old commandment that you have had from the beginning. This old commandment is the word that you heard."
+
+- triggers: ["!1john2:8 ","!1jo2:8 "]
+  replace: "Again, I am writing you a new commandment, which is true in his case and in yours, because the darkness is passing away and the true light is already shining."
+
+- triggers: ["!1john2:9 ","!1jo2:9 "]
+  replace: "The one who says that he is in the light and yet hates his brother is still in the darkness."
+
+- triggers: ["!1john2:10 ","!1jo2:10 "]
+  replace: "The one who loves his brother remains in the light, and in him there is no cause for stumbling."
+
+- triggers: ["!1john2:11 ","!1jo2:11 "]
+  replace: "But the one who hates his brother is in the darkness and is walking in the darkness, and he does not know where he is going, because the darkness has blinded his eyes."
+
+- triggers: ["!1john2:12 ","!1jo2:12 "]
+  replace: "I am writing you, little children, because your sins have been forgiven you for the sake of his name."
+
+- triggers: ["!1john2:13 ","!1jo2:13 "]
+  replace: "I am writing you, fathers, because you have come to know him who is from the beginning. I am writing you, young men, because you have conquered the wicked one. I write you, young children, because you have come to know the Father."
+
+- triggers: ["!1john2:14 ","!1jo2:14 "]
+  replace: "I write you, fathers, because you have come to know him who is from the beginning. I write you, young men, because you are strong and the word of God remains in you and you have conquered the wicked one."
+
+- triggers: ["!1john2:15 ","!1jo2:15 "]
+  replace: "Do not love either the world or the things in the world. If anyone loves the world, the love of the Father is not in him;"
+
+- triggers: ["!1john2:16 ","!1jo2:16 "]
+  replace: "because everything in the world-the desire of the flesh and the desire of the eyes and the showy display of one's means of life-does not originate with the Father, but originates with the world."
+
+- triggers: ["!1john2:17 ","!1jo2:17 "]
+  replace: "Furthermore, the world is passing away and so is its desire, but the one who does the will of God remains forever."
+
+- triggers: ["!1john2:18 ","!1jo2:18 "]
+  replace: "Young children, it is the last hour, and just as you have heard that the antichrist is coming, even now many antichrists have appeared, from which fact we know that it is the last hour."
+
+- triggers: ["!1john2:19 ","!1jo2:19 "]
+  replace: "They went out from us, but they were not of our sort; for if they had been of our sort, they would have remained with us. But they went out so that it might be shown that not all are of our sort."
+
+- triggers: ["!1john2:20 ","!1jo2:20 "]
+  replace: "And you have an anointing from the holy one, and all of you have knowledge."
+
+- triggers: ["!1john2:21 ","!1jo2:21 "]
+  replace: "I write you, not because you do not know the truth, but because you know it, and because no lie originates with the truth."
+
+- triggers: ["!1john2:22 ","!1jo2:22 "]
+  replace: "Who is the liar but the one who denies that Jesus is the Christ? This is the antichrist, the one who denies the Father and the Son."
+
+- triggers: ["!1john2:23 ","!1jo2:23 "]
+  replace: "Everyone who denies the Son does not have the Father either. But whoever acknowledges the Son has the Father also."
+
+- triggers: ["!1john2:24 ","!1jo2:24 "]
+  replace: "As for you, what you have heard from the beginning must remain in you. If what you have heard from the beginning remains in you, you will also remain in union with the Son and in union with the Father."
+
+- triggers: ["!1john2:25 ","!1jo2:25 "]
+  replace: "Furthermore, this is what he himself promised us-the life everlasting."
+
+- triggers: ["!1john2:26 ","!1jo2:26 "]
+  replace: "I write you these things about those who are trying to mislead you."
+
+- triggers: ["!1john2:27 ","!1jo2:27 "]
+  replace: "And as for you, the anointing that you received from him remains in you, and you do not need anyone to be teaching you; but the anointing from him is teaching you about all things and is true and is no lie. Just as it has taught you, remain in union with him."
+
+- triggers: ["!1john2:28 ","!1jo2:28 "]
+  replace: "So now, little children, remain in union with him, so that when he is made manifest we may have freeness of speech and not shrink away from him in shame at his presence."
+
+- triggers: ["!1john2:29 ","!1jo2:29 "]
+  replace: "If you know that he is righteous, you also know that everyone who practices righteousness has been born from him."
+
+- triggers: ["!1john3:1 ","!1jo3:1 "]
+  replace: "See what sort of love the Father has given us, that we should be called children of God! And that is what we are. That is why the world does not know us, because it has not come to know him."
+
+- triggers: ["!1john3:2 ","!1jo3:2 "]
+  replace: "Beloved ones, we are now children of God, but it has not yet been made manifest what we will be. We do know that when he is made manifest we will be like him, because we will see him just as he is."
+
+- triggers: ["!1john3:3 ","!1jo3:3 "]
+  replace: "And everyone who has this hope in him purifies himself, just as that one is pure."
+
+- triggers: ["!1john3:4 ","!1jo3:4 "]
+  replace: "Everyone who practices sin is also practicing lawlessness, and sin is lawlessness."
+
+- triggers: ["!1john3:5 ","!1jo3:5 "]
+  replace: "You know, too, that he was made manifest to take away our sins, and there is no sin in him."
+
+- triggers: ["!1john3:6 ","!1jo3:6 "]
+  replace: "Everyone remaining in union with him does not practice sin; no one who practices sin has either seen him or come to know him."
+
+- triggers: ["!1john3:7 ","!1jo3:7 "]
+  replace: "Little children, let no one mislead you; the one who practices righteousness is righteous, just as that one is righteous."
+
+- triggers: ["!1john3:8 ","!1jo3:8 "]
+  replace: "The one who practices sin originates with the Devil, because the Devil has been sinning from the beginning. For this purpose the Son of God was made manifest, to break up the works of the Devil."
+
+- triggers: ["!1john3:9 ","!1jo3:9 "]
+  replace: "Everyone who has been born from God does not practice sin, for His seed remains in such one, and he cannot practice sin, for he has been born from God."
+
+- triggers: ["!1john3:10 ","!1jo3:10 "]
+  replace: "The children of God and the children of the Devil are evident by this fact: Whoever does not practice righteousness does not originate with God, nor does the one who does not love his brother."
+
+- triggers: ["!1john3:11 ","!1jo3:11 "]
+  replace: "For this is the message that you have heard from the beginning, that we should love one another;"
+
+- triggers: ["!1john3:12 ","!1jo3:12 "]
+  replace: "not like Cain, who originated with the wicked one and slaughtered his brother. And for what reason did he slaughter him? Because his own works were wicked, but those of his brother were righteous."
+
+- triggers: ["!1john3:13 ","!1jo3:13 "]
+  replace: "Do not be surprised, brothers, that the world hates you."
+
+- triggers: ["!1john3:14 ","!1jo3:14 "]
+  replace: "We know that we have passed over from death to life, because we love the brothers. The one who does not love remains in death."
+
+- triggers: ["!1john3:15 ","!1jo3:15 "]
+  replace: "Everyone who hates his brother is a murderer, and you know that no murderer has everlasting life remaining in him."
+
+- triggers: ["!1john3:16 ","!1jo3:16 "]
+  replace: "By this we have come to know love, because that one surrendered his life for us, and we are under obligation to surrender our lives for our brothers."
+
+- triggers: ["!1john3:17 ","!1jo3:17 "]
+  replace: "But whoever has the material possessions of this world and sees his brother in need and yet refuses to show him compassion, in what way does the love of God remain in him?"
+
+- triggers: ["!1john3:18 ","!1jo3:18 "]
+  replace: "Little children, we should love, not in word or with the tongue, but in deed and truth."
+
+- triggers: ["!1john3:19 ","!1jo3:19 "]
+  replace: "By this we will know that we originate with the truth, and we will assure our hearts before him"
+
+- triggers: ["!1john3:20 ","!1jo3:20 "]
+  replace: "regarding whatever our hearts may condemn us in, because God is greater than our hearts and knows all things."
+
+- triggers: ["!1john3:21 ","!1jo3:21 "]
+  replace: "Beloved ones, if our hearts do not condemn us, we have freeness of speech toward God;"
+
+- triggers: ["!1john3:22 ","!1jo3:22 "]
+  replace: "and whatever we ask we receive from him, because we are observing his commandments and doing what is pleasing in his eyes."
+
+- triggers: ["!1john3:23 ","!1jo3:23 "]
+  replace: "Indeed, this is his commandment: that we have faith in the name of his Son Jesus Christ and love one another, just as he gave us a commandment."
+
+- triggers: ["!1john3:24 ","!1jo3:24 "]
+  replace: "Moreover, the one who observes his commandments remains in union with him, and he in union with such one. And by the spirit that he gave us, we know that he remains in union with us."
+
+- triggers: ["!1john4:1 ","!1jo4:1 "]
+  replace: "Beloved ones, do not believe every inspired statement, but test the inspired statements to see whether they originate with God, for many false prophets have gone out into the world."
+
+- triggers: ["!1john4:2 ","!1jo4:2 "]
+  replace: "This is how you know that the inspired statement is from God: Every inspired statement that acknowledges Jesus Christ as having come in the flesh originates with God."
+
+- triggers: ["!1john4:3 ","!1jo4:3 "]
+  replace: "But every inspired statement that does not acknowledge Jesus does not originate with God. Furthermore, this is the antichrist's inspired statement that you have heard was coming, and now it is already in the world."
+
+- triggers: ["!1john4:4 ","!1jo4:4 "]
+  replace: "You originate with God, little children, and you have conquered them, because the one who is in union with you is greater than the one who is in union with the world."
+
+- triggers: ["!1john4:5 ","!1jo4:5 "]
+  replace: "They originate with the world; that is why they speak what originates with the world and the world listens to them."
+
+- triggers: ["!1john4:6 ","!1jo4:6 "]
+  replace: "We originate with God. Whoever comes to know God listens to us; whoever does not originate with God does not listen to us. By this we distinguish the inspired statement of truth from the inspired statement of error."
+
+- triggers: ["!1john4:7 ","!1jo4:7 "]
+  replace: "Beloved ones, let us continue loving one another, because love is from God, and everyone who loves has been born from God and knows God."
+
+- triggers: ["!1john4:8 ","!1jo4:8 "]
+  replace: "Whoever does not love has not come to know God, because God is love."
+
+- triggers: ["!1john4:9 ","!1jo4:9 "]
+  replace: "By this the love of God was revealed in our case, that God sent his only-begotten Son into the world so that we might gain life through him."
+
+- triggers: ["!1john4:10 ","!1jo4:10 "]
+  replace: "The love is in this respect, not that we have loved God, but that he loved us and sent his Son as a propitiatory sacrifice for our sins."
+
+- triggers: ["!1john4:11 ","!1jo4:11 "]
+  replace: "Beloved ones, if this is how God loved us, then we are also under obligation to love one another."
+
+- triggers: ["!1john4:12 ","!1jo4:12 "]
+  replace: "No one has seen God at any time. If we continue loving one another, God remains in us and his love is made perfect in us."
+
+- triggers: ["!1john4:13 ","!1jo4:13 "]
+  replace: "By this we know that we are remaining in union with him and he in union with us, because he has given his spirit to us."
+
+- triggers: ["!1john4:14 ","!1jo4:14 "]
+  replace: "In addition, we ourselves have seen and are bearing witness that the Father has sent his Son as savior of the world."
+
+- triggers: ["!1john4:15 ","!1jo4:15 "]
+  replace: "Whoever acknowledges that Jesus is God's Son, God remains in union with such one and he in union with God."
+
+- triggers: ["!1john4:16 ","!1jo4:16 "]
+  replace: "And we have come to know and believe the love that God has for us. God is love, and the one who remains in love remains in union with God and God remains in union with him."
+
+- triggers: ["!1john4:17 ","!1jo4:17 "]
+  replace: "In this way love has been made perfect in us, so that we may have freeness of speech in the day of judgment, because just as that one is, so are we ourselves in this world."
+
+- triggers: ["!1john4:18 ","!1jo4:18 "]
+  replace: "There is no fear in love, but perfect love casts fear out, because fear restrains us. Indeed, the one who is fearful has not been made perfect in love."
+
+- triggers: ["!1john4:19 ","!1jo4:19 "]
+  replace: "We love, because he first loved us."
+
+- triggers: ["!1john4:20 ","!1jo4:20 "]
+  replace: "If anyone says, 'I love God,' and yet is hating his brother, he is a liar. For the one who does not love his brother, whom he has seen, cannot love God, whom he has not seen."
+
+- triggers: ["!1john4:21 ","!1jo4:21 "]
+  replace: "And we have this commandment from him, that whoever loves God must also love his brother."
+
+- triggers: ["!1john5:1 ","!1jo5:1 "]
+  replace: "Everyone who believes that Jesus is the Christ has been born from God, and everyone who loves the one who caused to be born loves him who has been born from that one."
+
+- triggers: ["!1john5:2 ","!1jo5:2 "]
+  replace: "By this we know that we love the children of God, when we love God and carry out his commandments."
+
+- triggers: ["!1john5:3 ","!1jo5:3 "]
+  replace: "For this is what the love of God means, that we observe his commandments; and yet his commandments are not burdensome,"
+
+- triggers: ["!1john5:4 ","!1jo5:4 "]
+  replace: "because everyone who has been born from God conquers the world. And this is the conquest that has conquered the world, our faith."
+
+- triggers: ["!1john5:5 ","!1jo5:5 "]
+  replace: "Who can conquer the world? Is it not the one who has faith that Jesus is the Son of God?"
+
+- triggers: ["!1john5:6 ","!1jo5:6 "]
+  replace: "This is the one who came by means of water and blood, Jesus Christ, not with the water only, but with the water and with the blood. And the spirit is bearing witness, because the spirit is the truth."
+
+- triggers: ["!1john5:7 ","!1jo5:7 "]
+  replace: "For there are three witness bearers:"
+
+- triggers: ["!1john5:8 ","!1jo5:8 "]
+  replace: "the spirit and the water and the blood; and the three are in agreement."
+
+- triggers: ["!1john5:9 ","!1jo5:9 "]
+  replace: "If we accept the witness of men, the witness of God is greater. Because this is the witness God gives, the witness that he has given about his Son."
+
+- triggers: ["!1john5:10 ","!1jo5:10 "]
+  replace: "The person putting his faith in the Son of God has the witness within himself. The person not having faith in God has made him a liar, because he has not put his faith in the witness given by God concerning his Son."
+
+- triggers: ["!1john5:11 ","!1jo5:11 "]
+  replace: "And this is the witness, that God gave us everlasting life, and this life is in his Son."
+
+- triggers: ["!1john5:12 ","!1jo5:12 "]
+  replace: "The one who has the Son has this life; the one who does not have the Son of God does not have this life."
+
+- triggers: ["!1john5:13 ","!1jo5:13 "]
+  replace: "I write you these things so that you may know that you have life everlasting, you who put your faith in the name of the Son of God."
+
+- triggers: ["!1john5:14 ","!1jo5:14 "]
+  replace: "And this is the confidence that we have toward him, that no matter what we ask according to his will, he hears us."
+
+- triggers: ["!1john5:15 ","!1jo5:15 "]
+  replace: "And if we know that he hears us concerning whatever we are asking, we know that we are to have the things we ask for, since we have asked them of him."
+
+- triggers: ["!1john5:16 ","!1jo5:16 "]
+  replace: "If anyone catches sight of his brother committing a sin that does not incur death, he will ask, and God will give life to him, yes, to those not committing sin that incurs death. There is a sin that does incur death. It is concerning that sin that I do not tell him to make request."
+
+- triggers: ["!1john5:17 ","!1jo5:17 "]
+  replace: "All unrighteousness is sin, and yet there is a sin that does not incur death."
+
+- triggers: ["!1john5:18 ","!1jo5:18 "]
+  replace: "We know that everyone who has been born from God does not practice sin, but the one born from God watches him, and the wicked one cannot take hold of him."
+
+- triggers: ["!1john5:19 ","!1jo5:19 "]
+  replace: "We know that we originate with God, but the whole world is lying in the power of the wicked one."
+
+- triggers: ["!1john5:20 ","!1jo5:20 "]
+  replace: "But we know that the Son of God has come, and he has given us insight so that we may gain the knowledge of the one who is true. And we are in union with the one who is true, by means of his Son Jesus Christ. This is the true God and life everlasting."
+
+- triggers: ["!1john5:21 ","!1jo5:21 "]
+  replace: "Little children, guard yourselves from idols."
+

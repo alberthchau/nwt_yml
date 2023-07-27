@@ -1,0 +1,502 @@
+matches:
+- triggers: ["!esther1:1 ","!es1:1 "]
+  replace: "Now in the days of Ahasueʹrus, that is, the Ahasueʹrus who ruled over 127 provinces from Inʹdia to Ethioʹpia,"
+
+- triggers: ["!esther1:2 ","!es1:2 "]
+  replace: "in those days when King Ahasueʹrus was sitting on his royal throne in Shuʹshan the citadel,"
+
+- triggers: ["!esther1:3 ","!es1:3 "]
+  replace: "in the third year of his reign, he held a banquet for all his princes and his servants. The army of Persia and Meʹdia, the nobles, and the princes of the provinces were before him,"
+
+- triggers: ["!esther1:4 ","!es1:4 "]
+  replace: "and he showed them the wealth of his glorious kingdom and the grandeur and the splendor of his magnificence for many days, 180 days."
+
+- triggers: ["!esther1:5 ","!es1:5 "]
+  replace: "And when these days were completed, the king held a banquet for seven days for all the people present in Shuʹshan the citadel, from the greatest to the least, in the courtyard of the garden of the king’s palace."
+
+- triggers: ["!esther1:6 ","!es1:6 "]
+  replace: "There were linen, fine cotton, and blue material held fast in ropes of fine fabric, purple wool in silver rings, pillars of marble, and couches of gold and silver on a pavement of porphyry, marble, pearl, and black marble."
+
+- triggers: ["!esther1:7 ","!es1:7 "]
+  replace: "Wine was served in gold cups; each cup was different from the other, and the royal wine was plentiful, according to the means of the king."
+
+- triggers: ["!esther1:8 ","!es1:8 "]
+  replace: "The drinking was according to the rule that no one was under compulsion, for the king had arranged with the officials of his palace that each should do as he pleased."
+
+- triggers: ["!esther1:9 ","!es1:9 "]
+  replace: "Queen Vashʹti also held a banquet for the women at the royal house of King Ahasueʹrus."
+
+- triggers: ["!esther1:10 ","!es1:10 "]
+  replace: "On the seventh day, when the king’s heart was in a cheerful mood because of the wine, he told Mehuʹman, Bizʹtha, Harboʹna, Bigʹtha, Abagʹtha, Zeʹthar, and Carʹkas, the seven court officials who were personal attendants to King Ahasueʹrus,"
+
+- triggers: ["!esther1:11 ","!es1:11 "]
+  replace: "to bring before the king Queen Vashʹti, wearing the royal headdress, to show the peoples and the princes her beauty, for she was very beautiful."
+
+- triggers: ["!esther1:12 ","!es1:12 "]
+  replace: "But Queen Vashʹti kept refusing to come at the king’s order that was conveyed through the court officials. At this the king became very angry, and his rage flared up within him."
+
+- triggers: ["!esther1:13 ","!es1:13 "]
+  replace: "The king then spoke to the wise men who had insight with regard to precedents (for in this way the king’s matter came before all those versed in law and legal cases,"
+
+- triggers: ["!esther1:14 ","!es1:14 "]
+  replace: "and those closest to him were Carsheʹna, Sheʹthar, Admaʹtha, Tarʹshish, Meʹres, Marseʹna, and Memuʹcan, seven princes of Persia and Meʹdia, who had access to the king and who occupied the highest positions in the kingdom)."
+
+- triggers: ["!esther1:15 ","!es1:15 "]
+  replace: "The king asked: “According to law, what is to be done with Queen Vashʹti because she has not obeyed the order of King Ahasueʹrus conveyed through the court officials?”"
+
+- triggers: ["!esther1:16 ","!es1:16 "]
+  replace: "To this Memuʹcan said in the presence of the king and the princes: “It is not against the king alone that Queen Vashʹti has done wrong, but against all the princes and against all the peoples in all the provinces of King Ahasueʹrus."
+
+- triggers: ["!esther1:17 ","!es1:17 "]
+  replace: "For what the queen did will become known by all the wives, and they will despise their husbands and say, ‘King Ahasueʹrus said to bring in Queen Vashʹti before him, but she refused to come.’"
+
+- triggers: ["!esther1:18 ","!es1:18 "]
+  replace: "This very day the princesses of Persia and Meʹdia who know about what the queen did will talk to all the princes of the king, resulting in much contempt and indignation."
+
+- triggers: ["!esther1:19 ","!es1:19 "]
+  replace: "If it seems good to the king, let a royal decree be issued from him, and let it be written among the laws of Persia and Meʹdia, which cannot be repealed, that Vashʹti may never again come in before King Ahasueʹrus; and let the king confer her royal position on a woman who is better than she is."
+
+- triggers: ["!esther1:20 ","!es1:20 "]
+  replace: "And when the decree of the king is heard in all his vast realm, all the wives will give honor to their husbands, from the greatest to the least.”"
+
+- triggers: ["!esther1:21 ","!es1:21 "]
+  replace: "This proposal pleased the king and the princes, and the king did what Memuʹcan said."
+
+- triggers: ["!esther1:22 ","!es1:22 "]
+  replace: "So he sent letters to all the royal provinces, to each province in its own script and to each people in its own language, for every husband to be master in his own house and to speak in the language of his own people."
+
+- triggers: ["!esther2:1 ","!es2:1 "]
+  replace: "After these things, when the rage of King Ahasueʹrus had subsided, he remembered what Vashʹti had done and what had been decided against her."
+
+- triggers: ["!esther2:2 ","!es2:2 "]
+  replace: "Then the king’s personal attendants said: “A search should be made for young, beautiful virgins for the king."
+
+- triggers: ["!esther2:3 ","!es2:3 "]
+  replace: "And let the king appoint commissioners in all the provinces of his realm to bring together all the beautiful young virgins to Shuʹshan the citadel, to the house of the women. Let them be put in the care of Hegʹai the king’s eunuch and guardian of the women, and let them be given beauty treatments."
+
+- triggers: ["!esther2:4 ","!es2:4 "]
+  replace: "And the young woman who is most pleasing to the king will be queen instead of Vashʹti.” The suggestion was pleasing to the king, and that is what he did."
+
+- triggers: ["!esther2:5 ","!es2:5 "]
+  replace: "There was a certain Jewish man in Shuʹshan the citadel whose name was Morʹdecai son of Jaʹir son of Shimʹei son of Kish, a Benʹjaminite,"
+
+- triggers: ["!esther2:6 ","!es2:6 "]
+  replace: "who had been taken into exile from Jerusalem with the people who were deported with King Jeconiʹah of Judah, whom King Nebuchadnezʹzar of Babylon took into exile."
+
+- triggers: ["!esther2:7 ","!es2:7 "]
+  replace: "He was the guardian of Hadasʹsah, that is, Esther, the daughter of his father’s brother, for she had neither father nor mother. The young woman was beautifully formed and attractive in appearance, and at the death of her father and her mother, Morʹdecai took her as his daughter."
+
+- triggers: ["!esther2:8 ","!es2:8 "]
+  replace: "When the king’s word and his law were proclaimed and when many young women were brought together at Shuʹshan the citadel under the care of Hegʹai, Esther was also taken to the king’s house under the care of Hegʹai the guardian of the women."
+
+- triggers: ["!esther2:9 ","!es2:9 "]
+  replace: "Now the young woman was pleasing to him and won his favor, so he promptly arranged for her beauty treatments and her diet, and he assigned to her seven selected young women from the king’s house. He also transferred her and her young attendants to the best place in the house of the women."
+
+- triggers: ["!esther2:10 ","!es2:10 "]
+  replace: "Esther did not say anything about her people or her relatives, for Morʹdecai had instructed her not to tell anyone."
+
+- triggers: ["!esther2:11 ","!es2:11 "]
+  replace: "Day after day Morʹdecai would walk in front of the courtyard of the house of the women to learn about Esther’s welfare and about what was happening to her."
+
+- triggers: ["!esther2:12 ","!es2:12 "]
+  replace: "Each young woman had her turn to go in to King Ahasueʹrus after completing the 12-month treatment that was prescribed for the women, for this was the way they had to fulfill their beauty treatment—six months with oil of myrrh and six months with balsam oil and various ointments for beauty treatment."
+
+- triggers: ["!esther2:13 ","!es2:13 "]
+  replace: "Then the young woman was ready to go in to the king, and whatever she asked for would be given her when she went from the house of the women to the king’s house."
+
+- triggers: ["!esther2:14 ","!es2:14 "]
+  replace: "In the evening she would go in, and in the morning she would return to the second house of the women, under the care of Shaashʹgaz the king’s eunuch, the guardian of the concubines. She would not go to the king again unless the king had been especially pleased with her and she was requested by name."
+
+- triggers: ["!esther2:15 ","!es2:15 "]
+  replace: "And when the turn came for Esther the daughter of Abʹihail the uncle of Morʹdecai, who had taken her as his daughter, to go in to the king, she did not request anything except what Hegʹai the king’s eunuch, the guardian of the women, recommended. (All the while Esther was winning the favor of everyone who saw her.)"
+
+- triggers: ["!esther2:16 ","!es2:16 "]
+  replace: "Esther was taken to King Ahasueʹrus at his royal house in the tenth month, that is, the month of Teʹbeth, in the seventh year of his reign."
+
+- triggers: ["!esther2:17 ","!es2:17 "]
+  replace: "And the king came to love Esther more than all the other women, and she won his favor and approval more than any of the other virgins. So he put the royal headdress on her head and made her queen instead of Vashʹti."
+
+- triggers: ["!esther2:18 ","!es2:18 "]
+  replace: "And the king held a great banquet for all his princes and his servants, the banquet of Esther. He then proclaimed an amnesty for the provinces, and he kept giving gifts according to the means of the king."
+
+- triggers: ["!esther2:19 ","!es2:19 "]
+  replace: "Now when virgins were brought together a second time, Morʹdecai was sitting in the king’s gate."
+
+- triggers: ["!esther2:20 ","!es2:20 "]
+  replace: "Esther did not say anything about her relatives and her people, just as Morʹdecai had instructed her; Esther continued to do what Morʹdecai said, just as when she was under his care."
+
+- triggers: ["!esther2:21 ","!es2:21 "]
+  replace: "In those days while Morʹdecai was sitting in the king’s gate, Bigʹthan and Teʹresh, two court officials of the king, doorkeepers, got angry and plotted to do away with King Ahasueʹrus."
+
+- triggers: ["!esther2:22 ","!es2:22 "]
+  replace: "But Morʹdecai learned about it, and he immediately told Queen Esther. Esther then spoke to the king in Morʹdecai’s name."
+
+- triggers: ["!esther2:23 ","!es2:23 "]
+  replace: "So the matter was investigated and eventually confirmed, and both men were hanged on a stake; and this was all recorded in the book of the history of the times in the presence of the king."
+
+- triggers: ["!esther3:1 ","!es3:1 "]
+  replace: "After this King Ahasueʹrus promoted Haʹman the son of Hammedaʹtha the Agʹagite and exalted him by putting his throne above all the other princes who were with him."
+
+- triggers: ["!esther3:2 ","!es3:2 "]
+  replace: "And all the king’s servants who were in the king’s gate would bow low and prostrate themselves to Haʹman, for this is what the king had commanded respecting him. But Morʹdecai refused to bow low or prostrate himself."
+
+- triggers: ["!esther3:3 ","!es3:3 "]
+  replace: "So the king’s servants who were in the king’s gate said to Morʹdecai: “Why are you ignoring the king’s commandment?”"
+
+- triggers: ["!esther3:4 ","!es3:4 "]
+  replace: "Day after day they would ask him, but he would not listen to them. Then they told Haʹman to see whether Morʹdecai’s conduct would be tolerated; for he had told them that he was a Jew."
+
+- triggers: ["!esther3:5 ","!es3:5 "]
+  replace: "Now when Haʹman saw that Morʹdecai refused to bow low and prostrate himself to him, Haʹman became filled with rage."
+
+- triggers: ["!esther3:6 ","!es3:6 "]
+  replace: "But he despised the thought of doing away with Morʹdecai alone, for they had told him about Morʹdecai’s people. So Haʹman began seeking to annihilate all the Jews who were in the entire realm of Ahasueʹrus, all of Morʹdecai’s people."
+
+- triggers: ["!esther3:7 ","!es3:7 "]
+  replace: "In the first month, that is, the month of Niʹsan, in the 12th year of King Ahasueʹrus, they cast Pur (that is, the Lot) before Haʹman to determine the day and the month, and it fell on the 12th month, that is, Aʹdar."
+
+- triggers: ["!esther3:8 ","!es3:8 "]
+  replace: "Haʹman then said to King Ahasueʹrus: “There is a certain people scattered and dispersed among the peoples in all the provinces of your realm, whose laws are different from those of all other peoples; and they do not obey the king’s laws, and it is not in the king’s interests to let them be."
+
+- triggers: ["!esther3:9 ","!es3:9 "]
+  replace: "If it pleases the king, let a decree be written that they be destroyed. I will pay 10,000 silver talents to the officials to put into the royal treasury.”"
+
+- triggers: ["!esther3:10 ","!es3:10 "]
+  replace: "At that the king removed his signet ring from his own hand and gave it to Haʹman the son of Hammedaʹtha the Agʹagite, who was the enemy of the Jews."
+
+- triggers: ["!esther3:11 ","!es3:11 "]
+  replace: "The king said to Haʹman: “The silver and the people are given to you, to do with them as you see fit.”"
+
+- triggers: ["!esther3:12 ","!es3:12 "]
+  replace: "The king’s secretaries were then called on the 13th day of the first month. They put in writing all of Haʹman’s orders to the king’s satraps, the governors who were over the provinces, and the princes of the different peoples, to each province in its own script and to each people in its own language. It was written in the name of King Ahasueʹrus and sealed with the king’s signet ring."
+
+- triggers: ["!esther3:13 ","!es3:13 "]
+  replace: "The letters were sent by means of couriers to all the king’s provinces, giving the order to annihilate, to kill, and to destroy all the Jews, young and old alike, children and women, on a single day, on the 13th day of the 12th month, that is, the month of Aʹdar, and to seize their possessions."
+
+- triggers: ["!esther3:14 ","!es3:14 "]
+  replace: "A copy of the document was to be issued as a law in every province and proclaimed to all the peoples, so that they would be prepared for that day."
+
+- triggers: ["!esther3:15 ","!es3:15 "]
+  replace: "The couriers went out quickly by order of the king; the law was issued in Shuʹshan the citadel. The king and Haʹman then sat down to drink, but the city of Shuʹshan was in confusion."
+
+- triggers: ["!esther4:1 ","!es4:1 "]
+  replace: "When Morʹdecai learned of everything that had been done, he ripped his garments apart and put on sackcloth and ashes. Then he went out into the middle of the city, crying out loudly and bitterly."
+
+- triggers: ["!esther4:2 ","!es4:2 "]
+  replace: "He went only as far as the king’s gate, for no one was to enter the king’s gate wearing sackcloth."
+
+- triggers: ["!esther4:3 ","!es4:3 "]
+  replace: "And in every province where the king’s word and his decree reached, there was great mourning among the Jews, along with fasting and weeping and wailing. Many were lying down in sackcloth and ashes."
+
+- triggers: ["!esther4:4 ","!es4:4 "]
+  replace: "When Esther’s female attendants and her eunuchs came in and told her, the queen was deeply distressed. Then she sent garments for Morʹdecai to wear instead of his sackcloth, but he refused them."
+
+- triggers: ["!esther4:5 ","!es4:5 "]
+  replace: "At this Esther summoned Haʹthach, one of the king’s eunuchs, whom he had appointed to serve her, and she ordered him to find out from Morʹdecai what this meant and what was happening."
+
+- triggers: ["!esther4:6 ","!es4:6 "]
+  replace: "So Haʹthach went out to Morʹdecai in the public square of the city in front of the king’s gate."
+
+- triggers: ["!esther4:7 ","!es4:7 "]
+  replace: "Morʹdecai told him about everything that had happened to him and the exact amount of money that Haʹman had promised to pay to the king’s treasury for the Jews to be destroyed."
+
+- triggers: ["!esther4:8 ","!es4:8 "]
+  replace: "He also gave him a copy of the written decree that had been issued in Shuʹshan for their annihilation. He was to show it to Esther and explain it to her and instruct her to go in to the king to beg for his favor and to plead directly with him in behalf of her people."
+
+- triggers: ["!esther4:9 ","!es4:9 "]
+  replace: "Haʹthach came back and told Esther what Morʹdecai had said."
+
+- triggers: ["!esther4:10 ","!es4:10 "]
+  replace: "Esther replied to Haʹthach with instructions to tell Morʹdecai:"
+
+- triggers: ["!esther4:11 ","!es4:11 "]
+  replace: "“All the king’s servants and the people of the king’s provinces are aware that if any man or woman goes into the king’s inner courtyard without being summoned, there is only one law that applies: He is to be put to death; he may live only if the king holds out to him the golden scepter. And I have not been summoned to the king now for 30 days.”"
+
+- triggers: ["!esther4:12 ","!es4:12 "]
+  replace: "When Morʹdecai was told what Esther had said,"
+
+- triggers: ["!esther4:13 ","!es4:13 "]
+  replace: "he replied to Esther: “Do not imagine that because you are in the king’s household you are any more likely to escape than all the other Jews."
+
+- triggers: ["!esther4:14 ","!es4:14 "]
+  replace: "For if you remain silent at this time, relief and deliverance will come to the Jews from another source, but you and your father’s house will perish. And who knows whether it is for a time like this that you have attained to your royal status?”"
+
+- triggers: ["!esther4:15 ","!es4:15 "]
+  replace: "Then Esther replied to Morʹdecai:"
+
+- triggers: ["!esther4:16 ","!es4:16 "]
+  replace: "“Go, gather all the Jews who are found in Shuʹshan and fast in my behalf. Do not eat or drink for three days, night and day. I along with my female attendants will also fast. I will go in to the king, which is against the law, and if I am to perish, I will perish.”"
+
+- triggers: ["!esther4:17 ","!es4:17 "]
+  replace: "So Morʹdecai went his way and did all that Esther had instructed him to do."
+
+- triggers: ["!esther5:1 ","!es5:1 "]
+  replace: "On the third day Esther put on her royal robes and stood in the inner courtyard of the king’s house, opposite the king’s house, while the king was sitting on his royal throne in the royal house opposite the entrance."
+
+- triggers: ["!esther5:2 ","!es5:2 "]
+  replace: "As soon as the king saw Queen Esther standing in the courtyard, she gained his favor, and the king held out to Esther the golden scepter that was in his hand. Esther then approached and touched the top of the scepter."
+
+- triggers: ["!esther5:3 ","!es5:3 "]
+  replace: "The king asked her: “What is the matter, Queen Esther? What is your request? Even to the half of my kingdom, it will be granted you!”"
+
+- triggers: ["!esther5:4 ","!es5:4 "]
+  replace: "Esther replied: “If it pleases the king, let the king along with Haʹman come today to the banquet that I have prepared for him.”"
+
+- triggers: ["!esther5:5 ","!es5:5 "]
+  replace: "So the king said to his men: “Tell Haʹman to come quickly, as Esther requests.” So the king and Haʹman went to the banquet that Esther had prepared."
+
+- triggers: ["!esther5:6 ","!es5:6 "]
+  replace: "During the banquet of wine, the king said to Esther: “What is your petition? It will be granted you! And what is your request? Even to the half of my kingdom, it will be done!”"
+
+- triggers: ["!esther5:7 ","!es5:7 "]
+  replace: "Esther answered: “My petition and my request is,"
+
+- triggers: ["!esther5:8 ","!es5:8 "]
+  replace: "If I have found favor with the king and if it pleases the king to grant my petition and to act on my request, let the king and Haʹman come to the banquet that I will hold for them tomorrow; and tomorrow I will do as the king says.”"
+
+- triggers: ["!esther5:9 ","!es5:9 "]
+  replace: "On that day Haʹman went out joyful and with a cheerful heart. But when Haʹman saw Morʹdecai in the king’s gate and noticed that he did not rise and tremble in his presence, Haʹman was filled with rage against Morʹdecai."
+
+- triggers: ["!esther5:10 ","!es5:10 "]
+  replace: "However, Haʹman restrained himself and went to his house. Then he sent for his friends and Zeʹresh his wife."
+
+- triggers: ["!esther5:11 ","!es5:11 "]
+  replace: "Haʹman boasted about his glorious wealth, his many sons, and how the king had promoted him and had exalted him over the princes and the servants of the king."
+
+- triggers: ["!esther5:12 ","!es5:12 "]
+  replace: "Haʹman added: “What is more, Queen Esther invited no one else but me to accompany the king to the banquet she prepared. I am also invited tomorrow to be with her and the king."
+
+- triggers: ["!esther5:13 ","!es5:13 "]
+  replace: "But all of this fails to satisfy me as long as I see Morʹdecai the Jew sitting in the king’s gate.”"
+
+- triggers: ["!esther5:14 ","!es5:14 "]
+  replace: "So Zeʹresh his wife and all his friends said to him: “Have a stake put up, 50 cubits high. And in the morning tell the king that Morʹdecai should be hanged on it. Then go with the king to enjoy yourself at the banquet.” This suggestion seemed good to Haʹman, so he had the stake put up."
+
+- triggers: ["!esther6:1 ","!es6:1 "]
+  replace: "That night the king could not sleep. So he said to bring the book of the historical records of the times, and it was read to the king."
+
+- triggers: ["!esther6:2 ","!es6:2 "]
+  replace: "There it was found written what Morʹdecai had reported concerning Bigthaʹna and Teʹresh, two court officials of the king, doorkeepers, who had plotted to do away with King Ahasueʹrus."
+
+- triggers: ["!esther6:3 ","!es6:3 "]
+  replace: "The king asked: “What honor and recognition has been given to Morʹdecai for this?” To this the king’s personal attendants said: “Nothing has been done for him.”"
+
+- triggers: ["!esther6:4 ","!es6:4 "]
+  replace: "Later the king said: “Who is in the courtyard?” Now Haʹman had come into the outer courtyard of the king’s house to speak to the king about having Morʹdecai hanged on the stake that he had prepared for him."
+
+- triggers: ["!esther6:5 ","!es6:5 "]
+  replace: "The king’s attendants said to him: “It is Haʹman standing in the courtyard.” So the king said: “Have him come in.”"
+
+- triggers: ["!esther6:6 ","!es6:6 "]
+  replace: "When Haʹman came in, the king said to him: “What should be done for the man whom the king wishes to honor?” Haʹman said in his heart: “Whom would the king wish to honor more than me?”"
+
+- triggers: ["!esther6:7 ","!es6:7 "]
+  replace: "So Haʹman said to the king: “For the man whom the king wishes to honor,"
+
+- triggers: ["!esther6:8 ","!es6:8 "]
+  replace: "let them bring royal attire that the king wears and a horse on which the king rides, with the royal headdress on its head."
+
+- triggers: ["!esther6:9 ","!es6:9 "]
+  replace: "Then let the attire and the horse be put into the charge of one of the king’s noble princes, and they should clothe the man whom the king wishes to honor and have him ride on the horse in the public square of the city. They should call out before him: ‘This is what is done for the man whom the king wishes to honor!’”"
+
+- triggers: ["!esther6:10 ","!es6:10 "]
+  replace: "At once the king said to Haʹman: “Quick! Take the attire and the horse, and do what you just said for Morʹdecai the Jew who is sitting in the king’s gate. Do not leave out anything that you have said.”"
+
+- triggers: ["!esther6:11 ","!es6:11 "]
+  replace: "So Haʹman took the attire and the horse, and he clothed Morʹdecai and made him ride in the public square of the city and called out before him: “This is what is done for the man whom the king wishes to honor!”"
+
+- triggers: ["!esther6:12 ","!es6:12 "]
+  replace: "Afterward Morʹdecai returned to the king’s gate, but Haʹman hurried to his house, mourning with his head covered."
+
+- triggers: ["!esther6:13 ","!es6:13 "]
+  replace: "When Haʹman related to his wife Zeʹresh and to all his friends everything that had happened to him, his wise men and his wife Zeʹresh said to him: “If Morʹdecai, before whom you have started to fall, is of Jewish descent, you will not prevail against him; you will surely fall before him.”"
+
+- triggers: ["!esther6:14 ","!es6:14 "]
+  replace: "While they were still speaking with him, the king’s court officials arrived and quickly took Haʹman to the banquet that Esther had made."
+
+- triggers: ["!esther7:1 ","!es7:1 "]
+  replace: "So the king and Haʹman came in to Queen Esther’s banquet."
+
+- triggers: ["!esther7:2 ","!es7:2 "]
+  replace: "The king said to Esther again on the second day during the banquet of wine: “What is your petition, Queen Esther? It will be granted you. And what is your request? Even to the half of my kingdom, it will be done!”"
+
+- triggers: ["!esther7:3 ","!es7:3 "]
+  replace: "Queen Esther answered: “If I have found favor with you, O king, and if it pleases the king, let my life be granted as my petition, and my people as my request."
+
+- triggers: ["!esther7:4 ","!es7:4 "]
+  replace: "For we have been sold, I and my people, to be annihilated, killed, and destroyed. If we had simply been sold as male and female slaves, I would have kept silent. But the distress is not proper, for it will be damaging to the king.”"
+
+- triggers: ["!esther7:5 ","!es7:5 "]
+  replace: "King Ahasueʹrus then said to Queen Esther: “Who is this, and where is the man who has dared to do such a thing?”"
+
+- triggers: ["!esther7:6 ","!es7:6 "]
+  replace: "Esther said: “The adversary and enemy is this evil Haʹman.” Haʹman became terrified because of the king and the queen."
+
+- triggers: ["!esther7:7 ","!es7:7 "]
+  replace: "The king rose up in a rage from the banquet of wine and went into the palace garden, but Haʹman stood up to plead with Queen Esther for his life, for he realized that the king was determined to punish him."
+
+- triggers: ["!esther7:8 ","!es7:8 "]
+  replace: "The king returned from the palace garden to the house of the wine banquet and saw that Haʹman had thrown himself on the couch where Esther was. The king exclaimed: “Is he also going to rape the queen in my own house?” As soon as these words left the king’s mouth, they covered Haʹman’s face."
+
+- triggers: ["!esther7:9 ","!es7:9 "]
+  replace: "Harboʹna, one of the king’s court officials, now said: “Haʹman also prepared a stake for Morʹdecai, whose report saved the king. It is standing at Haʹman’s house, 50 cubits high.” At that the king said: “Hang him on it.”"
+
+- triggers: ["!esther7:10 ","!es7:10 "]
+  replace: "So they hanged Haʹman on the stake that he had prepared for Morʹdecai, and the king’s rage subsided."
+
+- triggers: ["!esther8:1 ","!es8:1 "]
+  replace: "On that day King Ahasueʹrus gave the house of Haʹman, the enemy of the Jews, to Queen Esther; and Morʹdecai came in before the king, because Esther had revealed how he was related to her."
+
+- triggers: ["!esther8:2 ","!es8:2 "]
+  replace: "Then the king removed his signet ring that he had taken away from Haʹman and gave it to Morʹdecai. And Esther put Morʹdecai in charge of the house of Haʹman."
+
+- triggers: ["!esther8:3 ","!es8:3 "]
+  replace: "Moreover, Esther spoke again to the king. She fell down at his feet and wept and pleaded with him to undo the harm done by Haʹman the Agʹagite and his scheme against the Jews."
+
+- triggers: ["!esther8:4 ","!es8:4 "]
+  replace: "The king held the golden scepter out to Esther, at which Esther rose and stood before the king."
+
+- triggers: ["!esther8:5 ","!es8:5 "]
+  replace: "She said: “If it pleases the king and if I have his favor, and if it seems proper to the king and I am pleasing in his eyes, let an order be written to annul the documents of that schemer Haʹman the son of Hammedaʹtha the Agʹagite, which he wrote to destroy the Jews in all the king’s provinces."
+
+- triggers: ["!esther8:6 ","!es8:6 "]
+  replace: "For how can I bear to look upon the disaster that will come upon my people, and how can I bear to see the destruction of my relatives?”"
+
+- triggers: ["!esther8:7 ","!es8:7 "]
+  replace: "So King Ahasueʹrus said to Queen Esther and to Morʹdecai the Jew: “Look! I have given the house of Haʹman to Esther and have had him hanged on the stake, because of his plot to attack the Jews."
+
+- triggers: ["!esther8:8 ","!es8:8 "]
+  replace: "You may now write in the king’s name whatever you see fit in behalf of the Jews and seal it with the king’s signet ring, for a decree that is written in the king’s name and sealed with the king’s signet ring cannot be revoked.”"
+
+- triggers: ["!esther8:9 ","!es8:9 "]
+  replace: "So the secretaries of the king were summoned at that time in the third month, that is, the month of Siʹvan, on the 23rd day, and they wrote all that Morʹdecai commanded to the Jews, as well as to the satraps, the governors, and the princes of the provinces from Inʹdia to Ethioʹpia, 127 provinces, to each province in its own script and to each people in its own language and to the Jews in their own script and language."
+
+- triggers: ["!esther8:10 ","!es8:10 "]
+  replace: "He wrote it in the name of King Ahasueʹrus and sealed it with the king’s signet ring and sent the written documents by the hand of couriers on horses; they rode on swift post-horses, bred for royal service."
+
+- triggers: ["!esther8:11 ","!es8:11 "]
+  replace: "In these documents the king granted permission to the Jews in all the different cities to gather together and defend their lives and to annihilate, kill, and destroy any forces of any people or province that might attack them, including women and children, and to seize their possessions."
+
+- triggers: ["!esther8:12 ","!es8:12 "]
+  replace: "This was to occur on the same day in all the provinces of King Ahasueʹrus, on the 13th day of the 12th month, that is, the month of Aʹdar."
+
+- triggers: ["!esther8:13 ","!es8:13 "]
+  replace: "The text of the document was to be issued as law throughout all the provinces. It was to be proclaimed to all the peoples, so that the Jews would be ready on that day to take vengeance on their enemies."
+
+- triggers: ["!esther8:14 ","!es8:14 "]
+  replace: "The couriers riding the post-horses used in the royal service went out urgently and speedily at the king’s order. The law was also issued in Shuʹshan the citadel."
+
+- triggers: ["!esther8:15 ","!es8:15 "]
+  replace: "Now Morʹdecai left the king’s presence in royal apparel of blue and white, wearing a great golden crown and a fine-fabric cloak of purple wool. And the city of Shuʹshan shouted for joy."
+
+- triggers: ["!esther8:16 ","!es8:16 "]
+  replace: "For the Jews there was relief and rejoicing and exultation and honor."
+
+- triggers: ["!esther8:17 ","!es8:17 "]
+  replace: "And in all the provinces and all the cities, wherever the decree of the king and his law reached, the Jews were rejoicing and exulting, holding banquets and celebrations. Many of the peoples of the land were declaring themselves Jews, for the dread of the Jews had fallen upon them."
+
+- triggers: ["!esther9:1 ","!es9:1 "]
+  replace: "On the 13th day of the 12th month, that is, the month of Aʹdar, when the king’s word and his law were to be carried out, on the day when the enemies of the Jews hoped to overpower them, the opposite happened, and the Jews defeated those who hated them."
+
+- triggers: ["!esther9:2 ","!es9:2 "]
+  replace: "The Jews gathered together in their cities in all the provinces of King Ahasueʹrus to lay hands on those seeking to harm them, and not a man could stand against them, for the dread of them had fallen upon all the peoples."
+
+- triggers: ["!esther9:3 ","!es9:3 "]
+  replace: "And all the princes of the provinces, the satraps, the governors, and those handling the business of the king were supporting the Jews, for they were in fear of Morʹdecai."
+
+- triggers: ["!esther9:4 ","!es9:4 "]
+  replace: "Morʹdecai had become powerful in the king’s house, and his fame was spreading throughout all the provinces, because Morʹdecai was steadily growing more powerful."
+
+- triggers: ["!esther9:5 ","!es9:5 "]
+  replace: "The Jews struck down all their enemies with the sword, killing and destroying them; they did whatever they wanted to those hating them."
+
+- triggers: ["!esther9:6 ","!es9:6 "]
+  replace: "In Shuʹshan the citadel the Jews killed and destroyed 500 men."
+
+- triggers: ["!esther9:7 ","!es9:7 "]
+  replace: "Also, they killed Parshandaʹtha, Dalʹphon, Aspaʹtha,"
+
+- triggers: ["!esther9:8 ","!es9:8 "]
+  replace: "Poraʹtha, Adaʹlia, Aridaʹtha,"
+
+- triggers: ["!esther9:9 ","!es9:9 "]
+  replace: "Parmashʹta, Arʹisai, Arʹidai, and Vaizaʹtha,"
+
+- triggers: ["!esther9:10 ","!es9:10 "]
+  replace: "the ten sons of Haʹman the son of Hammedaʹtha, the enemy of the Jews. But after they killed them, they did not seize any plunder."
+
+- triggers: ["!esther9:11 ","!es9:11 "]
+  replace: "On that day the number of those killed in Shuʹshan the citadel was reported to the king."
+
+- triggers: ["!esther9:12 ","!es9:12 "]
+  replace: "The king said to Queen Esther: “In Shuʹshan the citadel the Jews have killed and destroyed 500 men and the ten sons of Haʹman. What, then, have they done in the rest of the king’s provinces? What is your petition now? It will be granted you. And what is your further request? It will be done.”"
+
+- triggers: ["!esther9:13 ","!es9:13 "]
+  replace: "Esther replied: “If it pleases the king, let the Jews who are in Shuʹshan be permitted to act tomorrow also according to today’s law; and let the ten sons of Haʹman be hanged on the stake.”"
+
+- triggers: ["!esther9:14 ","!es9:14 "]
+  replace: "So the king gave orders for that to be done. A law was issued in Shuʹshan, and the ten sons of Haʹman were hanged."
+
+- triggers: ["!esther9:15 ","!es9:15 "]
+  replace: "The Jews in Shuʹshan gathered together again on the 14th day of the month of Aʹdar and killed 300 men in Shuʹshan, but they did not seize any plunder."
+
+- triggers: ["!esther9:16 ","!es9:16 "]
+  replace: "The rest of the Jews in the provinces of the king also gathered together and defended their lives. They got rid of their enemies, killing 75,000 of those who hated them; but they did not seize any plunder."
+
+- triggers: ["!esther9:17 ","!es9:17 "]
+  replace: "That was on the 13th day of the month of Aʹdar, and they rested on the 14th day and made it a day of feasting and of rejoicing."
+
+- triggers: ["!esther9:18 ","!es9:18 "]
+  replace: "The Jews in Shuʹshan gathered together on the 13th day and on the 14th day, and they rested on the 15th day and made it a day of feasting and rejoicing."
+
+- triggers: ["!esther9:19 ","!es9:19 "]
+  replace: "That is why the rural Jews inhabiting the cities of the outlying districts made the 14th day of the month of Aʹdar a day of rejoicing and feasting, a day of celebration, and a time to send portions of food to one another."
+
+- triggers: ["!esther9:20 ","!es9:20 "]
+  replace: "Morʹdecai recorded these events and sent official letters to all the Jews in all the provinces of King Ahasueʹrus, both near and far."
+
+- triggers: ["!esther9:21 ","!es9:21 "]
+  replace: "He instructed them to observe the 14th day of the month of Aʹdar, as well as the 15th day, each and every year,"
+
+- triggers: ["!esther9:22 ","!es9:22 "]
+  replace: "because on those days the Jews rested from their enemies and in that month their grief was changed to rejoicing and their mourning to a day of celebration. They were to observe them as days of feasting and rejoicing and as a time to send portions of food to one another and gifts to the poor."
+
+- triggers: ["!esther9:23 ","!es9:23 "]
+  replace: "And the Jews agreed to continue the celebration that they had started and to do what Morʹdecai wrote to them."
+
+- triggers: ["!esther9:24 ","!es9:24 "]
+  replace: "For Haʹman the son of Hammedaʹtha the Agʹagite, the enemy of all the Jews, had schemed against the Jews to destroy them, and he had cast Pur, that is, the Lot, to throw them into a panic and to destroy them."
+
+- triggers: ["!esther9:25 ","!es9:25 "]
+  replace: "But when Esther came in before the king, he gave orders in writing: “Let his evil scheme against the Jews come back on his own head”; and they hanged him and his sons on the stake."
+
+- triggers: ["!esther9:26 ","!es9:26 "]
+  replace: "That is why they called these days Puʹrim, after the name of the Pur. Therefore, because of all that was written in this letter and what they saw concerning this matter and what had come upon them,"
+
+- triggers: ["!esther9:27 ","!es9:27 "]
+  replace: "the Jews obligated themselves and their descendants and all those joining them to celebrate these two days without fail and to carry out what was written concerning them at the appointed time each and every year."
+
+- triggers: ["!esther9:28 ","!es9:28 "]
+  replace: "These days were to be remembered and observed in every generation, by each family, each province, and each city; and these days of Puʹrim should not cease among the Jews, and their commemoration should not come to an end among their descendants."
+
+- triggers: ["!esther9:29 ","!es9:29 "]
+  replace: "Then Queen Esther, the daughter of Abʹihail, and Morʹdecai the Jew wrote with full authority to confirm a second letter about Puʹrim."
+
+- triggers: ["!esther9:30 ","!es9:30 "]
+  replace: "He sent official letters to all the Jews in the 127 provinces, the realm of Ahasueʹrus, in words of peace and truth"
+
+- triggers: ["!esther9:31 ","!es9:31 "]
+  replace: "to confirm the observance of the days of Puʹrim at their appointed times, just as Morʹdecai the Jew and Queen Esther had instructed them to do and just as they had obligated themselves and their descendants to carry out, including the fasting and supplication."
+
+- triggers: ["!esther9:32 ","!es9:32 "]
+  replace: "And the command of Esther confirmed these matters concerning Puʹrim, and it was recorded in a book."
+
+- triggers: ["!esther10:1 ","!es10:1 "]
+  replace: "King Ahasueʹrus imposed forced labor on the land and the islands of the sea."
+
+- triggers: ["!esther10:2 ","!es10:2 "]
+  replace: "And all his powerful and mighty accomplishments, as well as the detailed account of Morʹdecai’s greatness to which the king exalted him, are they not written in the book of the history of the times of the kings of Meʹdia and Persia?"
+
+- triggers: ["!esther10:3 ","!es10:3 "]
+  replace: "For Morʹdecai the Jew was second only to King Ahasueʹrus. He was great among the Jews and respected by the multitude of his brothers, working for the good of his people and advocating the welfare of all their descendants."
+

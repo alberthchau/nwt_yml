@@ -1,0 +1,2086 @@
+matches:
+- triggers: ["!2samuel1:1 ","!2sa1:1 "]
+  replace: "After Saul’s death, when David had returned from defeating the Amalʹekites, David stayed at Zikʹlag for two days."
+
+- triggers: ["!2samuel1:2 ","!2sa1:2 "]
+  replace: "On the third day, a man came from the camp of Saul with his garments ripped apart and dirt on his head. When he approached David, he fell down to the ground and prostrated himself."
+
+- triggers: ["!2samuel1:3 ","!2sa1:3 "]
+  replace: "David asked him: “Where are you coming from?” He replied: “I have escaped from the camp of Israel.”"
+
+- triggers: ["!2samuel1:4 ","!2sa1:4 "]
+  replace: "David asked him: “How did things turn out? Please tell me.” To this he said: “The people have fled from the battle and many have fallen and died. Even Saul and his son Jonʹathan have died.”"
+
+- triggers: ["!2samuel1:5 ","!2sa1:5 "]
+  replace: "Then David asked the young man who brought him the news: “How do you know that Saul and his son Jonʹathan are dead?”"
+
+- triggers: ["!2samuel1:6 ","!2sa1:6 "]
+  replace: "The young man replied: “By chance I was on Mount Gilboʹa, and there was Saul supporting himself on his spear, and the chariots and horsemen had caught up with him."
+
+- triggers: ["!2samuel1:7 ","!2sa1:7 "]
+  replace: "When he turned around and saw me, he called me, and I said, ‘Here I am!’"
+
+- triggers: ["!2samuel1:8 ","!2sa1:8 "]
+  replace: "He asked me, ‘Who are you?’ I replied, ‘I am an Amalʹekite.’"
+
+- triggers: ["!2samuel1:9 ","!2sa1:9 "]
+  replace: "Then he said, ‘Please stand over me and put me to death, for I am in great agony, but I am still alive.’"
+
+- triggers: ["!2samuel1:10 ","!2sa1:10 "]
+  replace: "So I stood over him and put him to death, for I knew that he could not survive after he had fallen down wounded. Then I took the crown that was on his head and the bracelet that was on his arm, and I brought them here to my lord.”"
+
+- triggers: ["!2samuel1:11 ","!2sa1:11 "]
+  replace: "At this David took hold of his garments and ripped them apart, and so did all the men who were with him."
+
+- triggers: ["!2samuel1:12 ","!2sa1:12 "]
+  replace: "And they wailed and wept and fasted until evening for Saul, for his son Jonʹathan, for the people of Jehovah, and for the house of Israel, because they had fallen by the sword."
+
+- triggers: ["!2samuel1:13 ","!2sa1:13 "]
+  replace: "David asked the young man who brought him the news: “Where are you from?” He said: “I am the son of a foreign resident, an Amalʹekite.”"
+
+- triggers: ["!2samuel1:14 ","!2sa1:14 "]
+  replace: "Then David said to him: “Why did you not fear to lift your hand to do away with the anointed of Jehovah?”"
+
+- triggers: ["!2samuel1:15 ","!2sa1:15 "]
+  replace: "With that David called one of the young men and said: “Step forward and strike him.” So he struck him down, and he died."
+
+- triggers: ["!2samuel1:16 ","!2sa1:16 "]
+  replace: "David said to him: “Your blood is on your own head, because your own mouth testified against you by saying, ‘I myself put the anointed of Jehovah to death.’”"
+
+- triggers: ["!2samuel1:17 ","!2sa1:17 "]
+  replace: "Then David chanted this dirge over Saul and his son Jonʹathan"
+
+- triggers: ["!2samuel1:18 ","!2sa1:18 "]
+  replace: "and said that the people of Judah should be taught the dirge called “The Bow,” which is written in the book of Jaʹshar:"
+
+- triggers: ["!2samuel1:19 ","!2sa1:19 "]
+  replace: "“The beauty, O Israel, lies slain upon your high places. How the mighty have fallen!"
+
+- triggers: ["!2samuel1:20 ","!2sa1:20 "]
+  replace: "Do not tell it in Gath; Do not announce it in the streets of Ashʹkelon, Or the daughters of the Philisʹtines will rejoice, Or the daughters of the uncircumcised men will exult."
+
+- triggers: ["!2samuel1:21 ","!2sa1:21 "]
+  replace: "You mountains of Gilboʹa, May there be no dew or rain upon you, Nor fields producing holy contributions, Because there the shield of mighty ones was defiled, The shield of Saul is no longer anointed with oil."
+
+- triggers: ["!2samuel1:22 ","!2sa1:22 "]
+  replace: "From the blood of the slain, from the fat of mighty ones, The bow of Jonʹathan did not turn back, And the sword of Saul would not return without success."
+
+- triggers: ["!2samuel1:23 ","!2sa1:23 "]
+  replace: "Saul and Jonʹathan, beloved and cherished during their life, And in death they were not separated. Swifter than the eagles they were, Mightier than the lions."
+
+- triggers: ["!2samuel1:24 ","!2sa1:24 "]
+  replace: "O daughters of Israel, weep over Saul, Who clothed you in scarlet and finery, Who put gold ornaments upon your clothing."
+
+- triggers: ["!2samuel1:25 ","!2sa1:25 "]
+  replace: "How the mighty have fallen in battle! Jonʹathan lies slain upon your high places!"
+
+- triggers: ["!2samuel1:26 ","!2sa1:26 "]
+  replace: "I am distressed over you, my brother Jonʹathan; You were very dear to me. More wonderful was your love to me than the love of women."
+
+- triggers: ["!2samuel1:27 ","!2sa1:27 "]
+  replace: "How the mighty have fallen And the weapons of war have perished!”"
+
+- triggers: ["!2samuel2:1 ","!2sa2:1 "]
+  replace: "Afterward David inquired of Jehovah, saying: “Should I go up into one of the cities of Judah?” Jehovah said to him: “Go up.” David then asked: “Where should I go?” He replied: “To Hebʹron.”"
+
+- triggers: ["!2samuel2:2 ","!2sa2:2 "]
+  replace: "So David went up there with his two wives, Ahinʹoam of Jezʹreel and Abʹigail the widow of Naʹbal the Carʹmelite."
+
+- triggers: ["!2samuel2:3 ","!2sa2:3 "]
+  replace: "David also brought the men who were with him, each with his household, and they settled in the cities around Hebʹron."
+
+- triggers: ["!2samuel2:4 ","!2sa2:4 "]
+  replace: "Then the men of Judah came, and there they anointed David as king over the house of Judah. They told David: “The men of Jaʹbesh-gilʹead were the ones who buried Saul.”"
+
+- triggers: ["!2samuel2:5 ","!2sa2:5 "]
+  replace: "So David sent messengers to the men of Jaʹbesh-gilʹead and said to them: “May you be blessed by Jehovah, because you showed loyal love to your lord Saul by burying him."
+
+- triggers: ["!2samuel2:6 ","!2sa2:6 "]
+  replace: "May Jehovah show loyal love and faithfulness to you. I will also show you kindness because you have done this."
+
+- triggers: ["!2samuel2:7 ","!2sa2:7 "]
+  replace: "Now let your hands be strong and be courageous men, for your lord Saul is dead, and the house of Judah has anointed me as king over them.”"
+
+- triggers: ["!2samuel2:8 ","!2sa2:8 "]
+  replace: "But Abʹner the son of Ner, the chief of Saul’s army, had taken Saul’s son Ish-boʹsheth and brought him across to Mahanaʹim"
+
+- triggers: ["!2samuel2:9 ","!2sa2:9 "]
+  replace: "and made him king over Gilʹead, the Ashʹurites, Jezʹreel, Eʹphraim, Benjamin, and over all Israel."
+
+- triggers: ["!2samuel2:10 ","!2sa2:10 "]
+  replace: "Ish-boʹsheth, Saul’s son, was 40 years old when he became king over Israel, and he reigned for two years. The house of Judah, however, supported David."
+
+- triggers: ["!2samuel2:11 ","!2sa2:11 "]
+  replace: "The time that David was king in Hebʹron over the house of Judah was seven years and six months."
+
+- triggers: ["!2samuel2:12 ","!2sa2:12 "]
+  replace: "In time Abʹner the son of Ner and the servants of Ish-boʹsheth, Saul’s son, went out from Mahanaʹim to Gibʹeon."
+
+- triggers: ["!2samuel2:13 ","!2sa2:13 "]
+  replace: "Joʹab the son of Zeruʹiah and the servants of David also went out and encountered them at the pool of Gibʹeon; and one group sat on this side of the pool, and the other group on that side of the pool."
+
+- triggers: ["!2samuel2:14 ","!2sa2:14 "]
+  replace: "Finally Abʹner said to Joʹab: “Let the young men get up and engage in combat before us.” To this Joʹab said: “Let them get up.”"
+
+- triggers: ["!2samuel2:15 ","!2sa2:15 "]
+  replace: "So they got up and crossed over by number, 12 for Benjamin and Saul’s son Ish-boʹsheth and 12 from the servants of David."
+
+- triggers: ["!2samuel2:16 ","!2sa2:16 "]
+  replace: "They grabbed one another by the head and each of them thrust his sword into the side of his opponent, and they all fell down together. So that place, which is in Gibʹeon, was called Helʹkath-hazzuʹrim."
+
+- triggers: ["!2samuel2:17 ","!2sa2:17 "]
+  replace: "The fighting that ensued was extremely fierce that day, and Abʹner and the men of Israel were finally defeated before the servants of David."
+
+- triggers: ["!2samuel2:18 ","!2sa2:18 "]
+  replace: "Now the three sons of Zeruʹiah were there—Joʹab, Abishʹai, and Asʹahel; and Asʹahel was as swift on his feet as a gazelle in the open field."
+
+- triggers: ["!2samuel2:19 ","!2sa2:19 "]
+  replace: "Asʹahel chased after Abʹner, and he would not veer to the right or to the left in his pursuit of Abʹner."
+
+- triggers: ["!2samuel2:20 ","!2sa2:20 "]
+  replace: "When Abʹner looked behind, he asked, “Is that you, Asʹahel?” to which he replied, “Yes, it is.”"
+
+- triggers: ["!2samuel2:21 ","!2sa2:21 "]
+  replace: "Then Abʹner said to him: “Veer to your right or to your left and capture one of the young men, and take whatever you strip off him for yourself.” But Asʹahel did not want to stop chasing him."
+
+- triggers: ["!2samuel2:22 ","!2sa2:22 "]
+  replace: "So Abʹner said to Asʹahel once again: “Stop chasing me. Why should I strike you down? How could I look your brother Joʹab in the face?”"
+
+- triggers: ["!2samuel2:23 ","!2sa2:23 "]
+  replace: "But he kept refusing to stop, so Abʹner struck him in the abdomen with the butt end of the spear, and the spear came out from his back; and he fell there and died on the spot. Everyone who came to the place where Asʹahel fell and died would stop and pause there."
+
+- triggers: ["!2samuel2:24 ","!2sa2:24 "]
+  replace: "Then Joʹab and Abishʹai went in pursuit of Abʹner. As the sun was setting, they came to the hill of Amʹmah, which faces Giʹah on the way to the wilderness of Gibʹeon."
+
+- triggers: ["!2samuel2:25 ","!2sa2:25 "]
+  replace: "And the Benʹjaminites gathered together behind Abʹner, and they formed one company and made a stand on the top of a certain hill."
+
+- triggers: ["!2samuel2:26 ","!2sa2:26 "]
+  replace: "Then Abʹner called out to Joʹab: “Is the sword going to devour endlessly? Do you not know that the outcome will only be bitterness? How long, then, will it be before you tell the people to turn back from pursuing their brothers?”"
+
+- triggers: ["!2samuel2:27 ","!2sa2:27 "]
+  replace: "At that Joʹab said: “As surely as the true God is living, if you had not spoken, then only by the morning would the people have stopped pursuing their brothers.”"
+
+- triggers: ["!2samuel2:28 ","!2sa2:28 "]
+  replace: "Joʹab now blew the horn, and his men stopped chasing after Israel, and the fighting ceased."
+
+- triggers: ["!2samuel2:29 ","!2sa2:29 "]
+  replace: "Abʹner and his men then marched through the Arʹabah all that night and crossed the Jordan and marched through the entire ravine and finally came to Mahanaʹim."
+
+- triggers: ["!2samuel2:30 ","!2sa2:30 "]
+  replace: "After Joʹab turned back from pursuing Abʹner, he gathered all the people together. Of David’s servants, 19 were missing, in addition to Asʹahel."
+
+- triggers: ["!2samuel2:31 ","!2sa2:31 "]
+  replace: "But the servants of David had defeated the Benʹjaminites and the men of Abʹner, and 360 of their men had died."
+
+- triggers: ["!2samuel2:32 ","!2sa2:32 "]
+  replace: "They took Asʹahel and buried him in his father’s tomb, which is at Bethʹlehem. Then Joʹab and his men marched all night long, and they reached Hebʹron at daybreak."
+
+- triggers: ["!2samuel3:1 ","!2sa3:1 "]
+  replace: "The war between the house of Saul and the house of David dragged on; and David kept getting stronger, and the house of Saul grew steadily weaker."
+
+- triggers: ["!2samuel3:2 ","!2sa3:2 "]
+  replace: "Meanwhile, sons were born to David in Hebʹron. His firstborn was Amʹnon by Ahinʹoam of Jezʹreel."
+
+- triggers: ["!2samuel3:3 ","!2sa3:3 "]
+  replace: "His second was Chilʹeab by Abʹigail, the widow of Naʹbal the Carʹmelite; and the third was Abʹsalom the son of Maʹacah, the daughter of Talʹmai the king of Geshʹur."
+
+- triggers: ["!2samuel3:4 ","!2sa3:4 "]
+  replace: "The fourth was Adoniʹjah the son of Hagʹgith, and the fifth was Shephatiʹah the son of Abiʹtal."
+
+- triggers: ["!2samuel3:5 ","!2sa3:5 "]
+  replace: "The sixth was Ithʹream by David’s wife Egʹlah. These were born to David in Hebʹron."
+
+- triggers: ["!2samuel3:6 ","!2sa3:6 "]
+  replace: "While the war between the house of Saul and the house of David continued, Abʹner kept strengthening his position in the house of Saul."
+
+- triggers: ["!2samuel3:7 ","!2sa3:7 "]
+  replace: "Now Saul had had a concubine whose name was Rizʹpah, the daughter of Aʹiah. Ish-boʹsheth later said to Abʹner: “Why did you have relations with the concubine of my father?”"
+
+- triggers: ["!2samuel3:8 ","!2sa3:8 "]
+  replace: "Abʹner grew very angry over the words of Ish-boʹsheth and said: “Am I a dog’s head from Judah? Until this very day, I have shown loyal love toward the house of your father Saul and to his brothers and his friends, and I have not betrayed you into the hand of David; yet today you call me to account for an error concerning a woman."
+
+- triggers: ["!2samuel3:9 ","!2sa3:9 "]
+  replace: "May God do so to Abʹner and add to it if I do not do for David just as Jehovah swore to him:"
+
+- triggers: ["!2samuel3:10 ","!2sa3:10 "]
+  replace: "to transfer the kingdom from the house of Saul and to establish the throne of David over Israel and over Judah, from Dan to Beʹer-sheʹba.”"
+
+- triggers: ["!2samuel3:11 ","!2sa3:11 "]
+  replace: "He was not able to say one more word in reply to Abʹner, for he was afraid of him."
+
+- triggers: ["!2samuel3:12 ","!2sa3:12 "]
+  replace: "Abʹner immediately sent messengers to David, saying: “To whom does the land belong?” He added: “Make a covenant with me, and I will do whatever I can to turn all Israel to your side.”"
+
+- triggers: ["!2samuel3:13 ","!2sa3:13 "]
+  replace: "To this he replied: “Good! I will make a covenant with you. The only thing I ask of you is that you do not try to see my face unless first you bring Miʹchal, Saul’s daughter, when you come to see me.”"
+
+- triggers: ["!2samuel3:14 ","!2sa3:14 "]
+  replace: "Then David sent messengers to Ish-boʹsheth, Saul’s son, saying: “Give me my wife Miʹchal, to whom I became engaged for 100 foreskins of the Philisʹtines.”"
+
+- triggers: ["!2samuel3:15 ","!2sa3:15 "]
+  replace: "So Ish-boʹsheth sent to take her from her husband, Palʹtiel the son of Laʹish."
+
+- triggers: ["!2samuel3:16 ","!2sa3:16 "]
+  replace: "But her husband kept walking with her, weeping as he followed her as far as Bahuʹrim. Then Abʹner said to him: “Go, return!” At that he returned."
+
+- triggers: ["!2samuel3:17 ","!2sa3:17 "]
+  replace: "Meanwhile, Abʹner sent word to the elders of Israel, saying: “For some time you wanted to have David as king over you."
+
+- triggers: ["!2samuel3:18 ","!2sa3:18 "]
+  replace: "Now act, for Jehovah said to David: ‘By the hand of my servant David I will save my people Israel from the hand of the Philisʹtines and from the hand of all their enemies.’”"
+
+- triggers: ["!2samuel3:19 ","!2sa3:19 "]
+  replace: "Then Abʹner spoke to the people of Benjamin. Abʹner also went to speak privately to David at Hebʹron to tell him what Israel and the whole house of Benjamin had agreed upon."
+
+- triggers: ["!2samuel3:20 ","!2sa3:20 "]
+  replace: "When Abʹner came to David at Hebʹron with 20 men, David held a feast for Abʹner and for the men with him."
+
+- triggers: ["!2samuel3:21 ","!2sa3:21 "]
+  replace: "Then Abʹner said to David: “Let me go and gather all Israel together to my lord the king, so that they may make a covenant with you, and you will become king over all that you desire.” So David sent Abʹner off, and he went his way in peace."
+
+- triggers: ["!2samuel3:22 ","!2sa3:22 "]
+  replace: "Just then, David’s servants and Joʹab returned from a raid, bringing a great quantity of spoil back with them. Abʹner was no longer with David in Hebʹron, for he had sent him on his way in peace."
+
+- triggers: ["!2samuel3:23 ","!2sa3:23 "]
+  replace: "When Joʹab and all the army that was with him arrived, Joʹab was told: “Abʹner the son of Ner came to the king, and he sent him off, and he went his way in peace.”"
+
+- triggers: ["!2samuel3:24 ","!2sa3:24 "]
+  replace: "So Joʹab went in to the king and said: “What have you done? Here Abʹner came to you. Why did you send him off so that he successfully got away?"
+
+- triggers: ["!2samuel3:25 ","!2sa3:25 "]
+  replace: "You know Abʹner the son of Ner! He came here to fool you and to get to know your every move and to find out everything that you are doing.”"
+
+- triggers: ["!2samuel3:26 ","!2sa3:26 "]
+  replace: "So Joʹab left David and sent messengers after Abʹner, and they brought him back from the cistern of Siʹrah; but David did not know anything about it."
+
+- triggers: ["!2samuel3:27 ","!2sa3:27 "]
+  replace: "When Abʹner returned to Hebʹron, Joʹab took him aside inside the gate to speak with him privately. However, there he stabbed him in the abdomen, and he died; this was for killing his brother Asʹahel."
+
+- triggers: ["!2samuel3:28 ","!2sa3:28 "]
+  replace: "When David heard about it later, he said: “I and my kingdom are forever innocent before Jehovah of the bloodguilt for Abʹner the son of Ner."
+
+- triggers: ["!2samuel3:29 ","!2sa3:29 "]
+  replace: "May it turn back on the head of Joʹab and on the entire house of his father. May Joʹab’s house never be without a man suffering from a discharge or a leper or a man working at the spindle or one falling by the sword or one in need of food!”"
+
+- triggers: ["!2samuel3:30 ","!2sa3:30 "]
+  replace: "So Joʹab and his brother Abishʹai killed Abʹner because he had put Asʹahel their brother to death in the battle at Gibʹeon."
+
+- triggers: ["!2samuel3:31 ","!2sa3:31 "]
+  replace: "Then David said to Joʹab and all the people with him: “Rip your garments apart and tie on sackcloth and wail over Abʹner.” King David himself was walking behind the funeral bier."
+
+- triggers: ["!2samuel3:32 ","!2sa3:32 "]
+  replace: "They buried Abʹner in Hebʹron; and the king wept loudly at Abʹner’s tomb, and all the people gave way to weeping."
+
+- triggers: ["!2samuel3:33 ","!2sa3:33 "]
+  replace: "The king chanted over Abʹner and said: “Should Abʹner die the death of a senseless person?"
+
+- triggers: ["!2samuel3:34 ","!2sa3:34 "]
+  replace: "Your hands had not been bound, And your feet were not in fetters. You fell like one falling before criminals.” At that all the people wept over him again."
+
+- triggers: ["!2samuel3:35 ","!2sa3:35 "]
+  replace: "Later all the people came to give David bread for consolation while it was still daytime, but David swore: “May God do so to me and add to it if before the sun sets I taste bread or anything at all!”"
+
+- triggers: ["!2samuel3:36 ","!2sa3:36 "]
+  replace: "All the people took notice, and it pleased them. Like everything that the king did, it pleased all the people."
+
+- triggers: ["!2samuel3:37 ","!2sa3:37 "]
+  replace: "So all the people and all Israel knew on that day that the king was not responsible for having Abʹner the son of Ner put to death."
+
+- triggers: ["!2samuel3:38 ","!2sa3:38 "]
+  replace: "Then the king said to his servants: “Do you not know that a prince and a great man has fallen this day in Israel?"
+
+- triggers: ["!2samuel3:39 ","!2sa3:39 "]
+  replace: "Today I am weak, although anointed as king, and these men, the sons of Zeruʹiah, are too brutal for me. May Jehovah repay the evildoer according to his own evil.”"
+
+- triggers: ["!2samuel4:1 ","!2sa4:1 "]
+  replace: "When Saul’s son Ish-boʹsheth heard that Abʹner had died in Hebʹron, his courage failed him and all the Israelites were disturbed."
+
+- triggers: ["!2samuel4:2 ","!2sa4:2 "]
+  replace: "There were two men in charge of the marauder bands that belonged to the son of Saul: one was named Baʹanah and the other Reʹchab. They were sons of Rimʹmon the Beerʹothite, of the tribe of Benjamin. (For Beerʹoth too used to be counted as part of Benjamin."
+
+- triggers: ["!2samuel4:3 ","!2sa4:3 "]
+  replace: "The Beerʹothites ran away to Gitʹtaim, and they are foreign residents there down to this day.)"
+
+- triggers: ["!2samuel4:4 ","!2sa4:4 "]
+  replace: "Now Saul’s son Jonʹathan had a son whose feet were crippled. He was five years old when the report about Saul and Jonʹathan came from Jezʹreel, and his nurse picked him up and fled, but as she was fleeing in panic, he fell and was crippled. His name was Mephibʹosheth."
+
+- triggers: ["!2samuel4:5 ","!2sa4:5 "]
+  replace: "The sons of Rimʹmon the Beerʹothite, Reʹchab and Baʹanah, went to the house of Ish-boʹsheth during the hot part of the day, as he was taking his midday rest."
+
+- triggers: ["!2samuel4:6 ","!2sa4:6 "]
+  replace: "They went into the house as if they were getting wheat, and they struck him in the abdomen; then Reʹchab and his brother Baʹanah escaped."
+
+- triggers: ["!2samuel4:7 ","!2sa4:7 "]
+  replace: "When they had entered the house, he was lying on his bed in his bedroom, and they struck him and put him to death, after which they cut off his head. Then they took his head and walked all night long on the road to the Arʹabah."
+
+- triggers: ["!2samuel4:8 ","!2sa4:8 "]
+  replace: "And they brought the head of Ish-boʹsheth to David at Hebʹron and said to the king: “Here is the head of Ish-boʹsheth the son of Saul your enemy who sought your life. This day Jehovah gives to my lord the king revenge on Saul and his descendants.”"
+
+- triggers: ["!2samuel4:9 ","!2sa4:9 "]
+  replace: "However, David answered Reʹchab and his brother Baʹanah, the sons of Rimʹmon the Beerʹothite, and said to them: “As surely as Jehovah is living, the one who rescued me out of all distress,"
+
+- triggers: ["!2samuel4:10 ","!2sa4:10 "]
+  replace: "when someone reported to me, ‘Here Saul is dead,’ and he thought he was bringing me good news, I took hold of him and killed him in Zikʹlag. That was the messenger’s reward he received from me!"
+
+- triggers: ["!2samuel4:11 ","!2sa4:11 "]
+  replace: "How much more so when wicked men have killed a righteous man in his own house on his bed! Should I not require his blood from your hands and rid the earth of you?”"
+
+- triggers: ["!2samuel4:12 ","!2sa4:12 "]
+  replace: "David then ordered the young men to kill them. They cut off their hands and feet and hung them by the pool in Hebʹron. But they took the head of Ish-boʹsheth and buried it in the burial place of Abʹner in Hebʹron."
+
+- triggers: ["!2samuel5:1 ","!2sa5:1 "]
+  replace: "In time all the tribes of Israel came to David at Hebʹron and said: “Look! We are your own bone and flesh."
+
+- triggers: ["!2samuel5:2 ","!2sa5:2 "]
+  replace: "In times past while Saul was our king, you were the one who was leading Israel on its campaigns. And Jehovah said to you: ‘You will shepherd my people Israel, and you will become leader over Israel.’”"
+
+- triggers: ["!2samuel5:3 ","!2sa5:3 "]
+  replace: "So all the elders of Israel came to the king at Hebʹron, and King David made a covenant with them in Hebʹron before Jehovah. Then they anointed David as king over Israel."
+
+- triggers: ["!2samuel5:4 ","!2sa5:4 "]
+  replace: "David was 30 years old when he became king, and he reigned for 40 years."
+
+- triggers: ["!2samuel5:5 ","!2sa5:5 "]
+  replace: "In Hebʹron he reigned over Judah for 7 years and"
+
+- triggers: ["!2samuel5:6 ","!2sa5:6 "]
+  replace: "months, and in Jerusalem he reigned for 33 years over all Israel and Judah. 6 And the king and his men set out for Jerusalem against the Jebʹusites who were inhabiting the land. They taunted David: “You will never come in here! Even the blind and the lame will drive you away.” They thought, ‘David will never get in here.’"
+
+- triggers: ["!2samuel5:7 ","!2sa5:7 "]
+  replace: "However, David captured the stronghold of Zion, which is now the City of David."
+
+- triggers: ["!2samuel5:8 ","!2sa5:8 "]
+  replace: "So David said on that day: “Those who attack the Jebʹusites should go through the water tunnel to strike down both ‘the lame and the blind,’ who are hateful to David!” That is why it is said: “The blind and the lame will never enter the house.”"
+
+- triggers: ["!2samuel5:9 ","!2sa5:9 "]
+  replace: "Then David took up residence in the stronghold, and it was called the City of David; and David began to build all around from the Mound inward."
+
+- triggers: ["!2samuel5:10 ","!2sa5:10 "]
+  replace: "Thus David became greater and greater, and Jehovah the God of armies was with him."
+
+- triggers: ["!2samuel5:11 ","!2sa5:11 "]
+  replace: "King Hiʹram of Tyre sent messengers to David, also cedar timbers, woodworkers, and stonemasons for building walls, and they began to build a house for David."
+
+- triggers: ["!2samuel5:12 ","!2sa5:12 "]
+  replace: "And David knew that Jehovah had firmly established him as king over Israel and had exalted his kingdom for the sake of His people Israel."
+
+- triggers: ["!2samuel5:13 ","!2sa5:13 "]
+  replace: "David took more concubines and wives in Jerusalem after he came from Hebʹron, and more sons and daughters were born to David."
+
+- triggers: ["!2samuel5:14 ","!2sa5:14 "]
+  replace: "These are the names of those born to him in Jerusalem: Shammuʹa, Shoʹbab, Nathan, Solʹomon,"
+
+- triggers: ["!2samuel5:15 ","!2sa5:15 "]
+  replace: "Ibʹhar, Eliʹshua, Neʹpheg, Japhiʹa,"
+
+- triggers: ["!2samuel5:16 ","!2sa5:16 "]
+  replace: "Elishʹama, Eliʹada, and Eliphʹelet."
+
+- triggers: ["!2samuel5:17 ","!2sa5:17 "]
+  replace: "When the Philisʹtines heard that David had been anointed as king over Israel, all the Philisʹtines came up to search for David. When David heard about it, he went down to the stronghold."
+
+- triggers: ["!2samuel5:18 ","!2sa5:18 "]
+  replace: "Then the Philisʹtines came in and spread out in the Valley of Rephʹaim."
+
+- triggers: ["!2samuel5:19 ","!2sa5:19 "]
+  replace: "David inquired of Jehovah, saying: “Should I go up against the Philisʹtines? Will you give them into my hand?” At this Jehovah said to David: “Go up, for I will surely give the Philisʹtines into your hand.”"
+
+- triggers: ["!2samuel5:20 ","!2sa5:20 "]
+  replace: "So David came to Baʹal-peraʹzim, and David struck them down there. At that he said: “Jehovah has broken through my enemies before me, like a breach made by waters.” That is why he named that place Baʹal-peraʹzim."
+
+- triggers: ["!2samuel5:21 ","!2sa5:21 "]
+  replace: "The Philisʹtines abandoned their idols there, and David and his men took them away."
+
+- triggers: ["!2samuel5:22 ","!2sa5:22 "]
+  replace: "Later the Philisʹtines came up once again and spread out in the Valley of Rephʹaim."
+
+- triggers: ["!2samuel5:23 ","!2sa5:23 "]
+  replace: "David inquired of Jehovah, but He said: “Do not go directly up. Instead, go around behind them, and come against them in front of the baʹca bushes."
+
+- triggers: ["!2samuel5:24 ","!2sa5:24 "]
+  replace: "And when you hear the sound of marching in the tops of the baʹca bushes, then act decisively, for Jehovah will have gone out before you to strike down the army of the Philisʹtines.”"
+
+- triggers: ["!2samuel5:25 ","!2sa5:25 "]
+  replace: "So David did just as Jehovah commanded him, and he struck down the Philisʹtines from Geʹba all the way to Geʹzer."
+
+- triggers: ["!2samuel6:1 ","!2sa6:1 "]
+  replace: "David again gathered all the best troops in Israel, 30,000 men."
+
+- triggers: ["!2samuel6:2 ","!2sa6:2 "]
+  replace: "Then David and all the men with him set out for Baʹale-juʹdah to bring up from there the Ark of the true God, before which people call on the name of Jehovah of armies, who sits enthroned above the cherubs."
+
+- triggers: ["!2samuel6:3 ","!2sa6:3 "]
+  replace: "However, they placed the Ark of the true God on a new wagon to transport it from the house of Abinʹadab, which was on the hill; and Uzʹzah and Ahiʹo, the sons of Abinʹadab, were leading the new wagon."
+
+- triggers: ["!2samuel6:4 ","!2sa6:4 "]
+  replace: "So they transported the Ark of the true God from Abinʹadab’s house on the hill, and Ahiʹo was walking ahead of the Ark."
+
+- triggers: ["!2samuel6:5 ","!2sa6:5 "]
+  replace: "David and all the house of Israel were celebrating before Jehovah with all sorts of juniper-wood instruments, harps, other stringed instruments, tambourines, sistrums, and cymbals."
+
+- triggers: ["!2samuel6:6 ","!2sa6:6 "]
+  replace: "But when they came to the threshing floor of Naʹcon, Uzʹzah thrust his hand out to the Ark of the true God and grabbed hold of it, for the cattle nearly upset it."
+
+- triggers: ["!2samuel6:7 ","!2sa6:7 "]
+  replace: "At that Jehovah’s anger blazed against Uzʹzah, and the true God struck him down there for his irreverent act, and he died there beside the Ark of the true God."
+
+- triggers: ["!2samuel6:8 ","!2sa6:8 "]
+  replace: "But David became angry because Jehovah’s wrath had broken through against Uzʹzah; and that place has been called Peʹrez-uzʹzah down to this day."
+
+- triggers: ["!2samuel6:9 ","!2sa6:9 "]
+  replace: "So David became fearful of Jehovah on that day and said: “How can the Ark of Jehovah come to me?”"
+
+- triggers: ["!2samuel6:10 ","!2sa6:10 "]
+  replace: "David was not willing to bring the Ark of Jehovah to where he was in the City of David. Instead, David had it taken to the house of Oʹbed-eʹdom the Gitʹtite."
+
+- triggers: ["!2samuel6:11 ","!2sa6:11 "]
+  replace: "The Ark of Jehovah remained at the house of Oʹbed-eʹdom the Gitʹtite for three months, and Jehovah kept blessing Oʹbed-eʹdom and all his household."
+
+- triggers: ["!2samuel6:12 ","!2sa6:12 "]
+  replace: "The report was made to King David: “Jehovah has blessed the house of Oʹbed-eʹdom and all that belongs to him because of the Ark of the true God.” So David went to bring the Ark of the true God from the house of Oʹbed-eʹdom up to the City of David with rejoicing."
+
+- triggers: ["!2samuel6:13 ","!2sa6:13 "]
+  replace: "When the carriers of the Ark of Jehovah had marched six steps, he sacrificed a bull and a fattened animal."
+
+- triggers: ["!2samuel6:14 ","!2sa6:14 "]
+  replace: "David was dancing around before Jehovah with all his might; all the while David wore a linen ephʹod."
+
+- triggers: ["!2samuel6:15 ","!2sa6:15 "]
+  replace: "David and all the house of Israel were bringing up the Ark of Jehovah with joyful shouting and with the sound of the horn."
+
+- triggers: ["!2samuel6:16 ","!2sa6:16 "]
+  replace: "But when the Ark of Jehovah came into the City of David, Saul’s daughter Miʹchal looked down through the window and saw King David leaping and dancing around before Jehovah; and she began to despise him in her heart."
+
+- triggers: ["!2samuel6:17 ","!2sa6:17 "]
+  replace: "So they brought the Ark of Jehovah in and set it in its place inside the tent that David had pitched for it. Then David offered up burnt offerings and communion sacrifices before Jehovah."
+
+- triggers: ["!2samuel6:18 ","!2sa6:18 "]
+  replace: "When David finished offering up the burnt offerings and the communion sacrifices, he blessed the people in the name of Jehovah of armies."
+
+- triggers: ["!2samuel6:19 ","!2sa6:19 "]
+  replace: "Further, he distributed to all the people, to the whole multitude of Israel, to each man and woman, a ring-shaped loaf of bread, a date cake, and a raisin cake, and then all the people left, each to his own house."
+
+- triggers: ["!2samuel6:20 ","!2sa6:20 "]
+  replace: "When David returned to bless his own household, Saul’s daughter Miʹchal came out to meet him. She said: “How glorious the king of Israel made himself when he uncovered himself today before the eyes of the slave girls of his servants, just as an empty-headed man openly uncovers himself!”"
+
+- triggers: ["!2samuel6:21 ","!2sa6:21 "]
+  replace: "At this David said to Miʹchal: “My celebration was before Jehovah, who chose me rather than your father and all his household and who appointed me as leader over Jehovah’s people, Israel. Therefore, I will celebrate before Jehovah,"
+
+- triggers: ["!2samuel6:22 ","!2sa6:22 "]
+  replace: "and I will humble myself even more than this and become low even in my own eyes. But by the slave girls whom you mentioned, I will be glorified.”"
+
+- triggers: ["!2samuel6:23 ","!2sa6:23 "]
+  replace: "So Saul’s daughter Miʹchal had no children down to the day of her death."
+
+- triggers: ["!2samuel7:1 ","!2sa7:1 "]
+  replace: "When the king was settled in his own house and Jehovah had given him rest from all his surrounding enemies,"
+
+- triggers: ["!2samuel7:2 ","!2sa7:2 "]
+  replace: "the king said to Nathan the prophet: “Here I am living in a house of cedars while the Ark of the true God sits in the midst of tent cloths.”"
+
+- triggers: ["!2samuel7:3 ","!2sa7:3 "]
+  replace: "Nathan replied to the king: “Go and do whatever is in your heart, for Jehovah is with you.”"
+
+- triggers: ["!2samuel7:4 ","!2sa7:4 "]
+  replace: "On that very night, the word of Jehovah came to Nathan, saying:"
+
+- triggers: ["!2samuel7:5 ","!2sa7:5 "]
+  replace: "“Go and say to my servant David, ‘This is what Jehovah says: “Should you build me a house to dwell in?"
+
+- triggers: ["!2samuel7:6 ","!2sa7:6 "]
+  replace: "For I have not dwelled in a house from the day I brought the people of Israel out of Egypt to this day, but I have been moving about in a tent and in a tabernacle."
+
+- triggers: ["!2samuel7:7 ","!2sa7:7 "]
+  replace: "During all the time that I went with all the Israelites, did I ever say one word to any of the tribal leaders of Israel whom I appointed to shepherd my people Israel, saying, ‘Why did you not build a house of cedars for me?’”’"
+
+- triggers: ["!2samuel7:8 ","!2sa7:8 "]
+  replace: "Now say this to my servant David, ‘This is what Jehovah of armies says: “I took you from the pastures, from following the flock, to become a leader over my people Israel."
+
+- triggers: ["!2samuel7:9 ","!2sa7:9 "]
+  replace: "And I will be with you wherever you go, and I will do away with all your enemies from before you; and I will make a great name for you like the name of the great men of the earth."
+
+- triggers: ["!2samuel7:10 ","!2sa7:10 "]
+  replace: "I will appoint a place for my people Israel and settle them, and they will live there and not be disturbed anymore; and wicked men will not oppress them again as they did in the past,"
+
+- triggers: ["!2samuel7:11 ","!2sa7:11 "]
+  replace: "from the day that I appointed judges over my people Israel. And I will give you rest from all your enemies. “‘“Also, Jehovah has told you that Jehovah will make a house for you."
+
+- triggers: ["!2samuel7:12 ","!2sa7:12 "]
+  replace: "When your days come to an end and you are laid to rest with your forefathers, then I will raise up your offspring after you, your own son, and I will firmly establish his kingdom."
+
+- triggers: ["!2samuel7:13 ","!2sa7:13 "]
+  replace: "He is the one who will build a house for my name, and I will firmly establish the throne of his kingdom forever."
+
+- triggers: ["!2samuel7:14 ","!2sa7:14 "]
+  replace: "I will become his father, and he will become my son. When he does wrong, I will reprove him with the rod of men and with the strokes of the sons of men."
+
+- triggers: ["!2samuel7:15 ","!2sa7:15 "]
+  replace: "My loyal love will not be taken away from him the way I took it away from Saul, whom I removed from before you."
+
+- triggers: ["!2samuel7:16 ","!2sa7:16 "]
+  replace: "Your house and your kingdom will be secure forever before you; your throne will be firmly established forever.”’”"
+
+- triggers: ["!2samuel7:17 ","!2sa7:17 "]
+  replace: "Nathan told David all these words and this entire vision."
+
+- triggers: ["!2samuel7:18 ","!2sa7:18 "]
+  replace: "At that King David came in and sat down before Jehovah and said: “Who am I, O Sovereign Lord Jehovah? And what is my house that you have brought me this far?"
+
+- triggers: ["!2samuel7:19 ","!2sa7:19 "]
+  replace: "As if this were not enough, O Sovereign Lord Jehovah, you also speak about the house of your servant down to a distant future time; and this is instruction for all mankind, O Sovereign Lord Jehovah."
+
+- triggers: ["!2samuel7:20 ","!2sa7:20 "]
+  replace: "What more can your servant David say to you when you know me so well, O Sovereign Lord Jehovah?"
+
+- triggers: ["!2samuel7:21 ","!2sa7:21 "]
+  replace: "For the sake of your word and in agreement with your heart you have done all these great things and have revealed them to your servant."
+
+- triggers: ["!2samuel7:22 ","!2sa7:22 "]
+  replace: "That is why you are truly great, O Sovereign Lord Jehovah. There is no one like you, and there is no God except you; everything we have heard with our ears confirms this."
+
+- triggers: ["!2samuel7:23 ","!2sa7:23 "]
+  replace: "And what other nation on earth is like your people Israel? God went and redeemed them as his people, making a name for himself by doing great and awe-inspiring things for them. You drove out the nations and their gods in behalf of your people, whom you redeemed to yourself from Egypt."
+
+- triggers: ["!2samuel7:24 ","!2sa7:24 "]
+  replace: "You established your people Israel as your own people for all time; and you, O Jehovah, have become their God."
+
+- triggers: ["!2samuel7:25 ","!2sa7:25 "]
+  replace: "“Now, O Jehovah God, carry out the promise you have made concerning your servant and his house for all time, and may you do just as you have promised."
+
+- triggers: ["!2samuel7:26 ","!2sa7:26 "]
+  replace: "May your name be exalted forever, so that people may say, ‘Jehovah of armies is God over Israel,’ and may the house of your servant David be firmly established before you."
+
+- triggers: ["!2samuel7:27 ","!2sa7:27 "]
+  replace: "For you, Jehovah of armies, the God of Israel, have made a revelation to your servant by saying, ‘I will build a house for you.’ That is why your servant has the courage to pray this prayer to you."
+
+- triggers: ["!2samuel7:28 ","!2sa7:28 "]
+  replace: "And now, O Sovereign Lord Jehovah, you are the true God, and your words are truth, and you have promised these good things to your servant."
+
+- triggers: ["!2samuel7:29 ","!2sa7:29 "]
+  replace: "So may it please you to bless the house of your servant, and may it continue forever before you; for you, O Sovereign Lord Jehovah, have promised, and with your blessing may the house of your servant be blessed forever.”"
+
+- triggers: ["!2samuel8:1 ","!2sa8:1 "]
+  replace: "Some time later, David defeated the Philisʹtines and subdued them, and David took Methʹeg-amʹmah out of the hands of the Philisʹtines."
+
+- triggers: ["!2samuel8:2 ","!2sa8:2 "]
+  replace: "He defeated the Moʹabites and made them lie down on the ground and measured them with a line. He measured out two lines to be put to death, and one full line to be kept alive. And the Moʹabites became David’s servants and brought tribute."
+
+- triggers: ["!2samuel8:3 ","!2sa8:3 "]
+  replace: "David defeated Hadadeʹzer the son of Reʹhob the king of Zoʹbah as he was on his way to restore his authority at the Euphraʹtes River."
+
+- triggers: ["!2samuel8:4 ","!2sa8:4 "]
+  replace: "David captured 1,700 horsemen and 20,000 foot soldiers from him. Then David hamstrung all but 100 of the chariot horses."
+
+- triggers: ["!2samuel8:5 ","!2sa8:5 "]
+  replace: "When the Syrians of Damascus came to help King Hadadeʹzer of Zoʹbah, David struck down 22,000 of the Syrians."
+
+- triggers: ["!2samuel8:6 ","!2sa8:6 "]
+  replace: "David then established garrisons in Syria of Damascus, and the Syrians became David’s servants and brought tribute. Jehovah gave David victory wherever he went."
+
+- triggers: ["!2samuel8:7 ","!2sa8:7 "]
+  replace: "Moreover, David took the circular shields of gold from the servants of Hadadeʹzer and brought them to Jerusalem."
+
+- triggers: ["!2samuel8:8 ","!2sa8:8 "]
+  replace: "From Beʹtah and Beroʹthai, cities of Hadadeʹzer, King David took a great quantity of copper."
+
+- triggers: ["!2samuel8:9 ","!2sa8:9 "]
+  replace: "Now King Toʹi of Haʹmath heard that David had defeated the entire army of Hadadeʹzer."
+
+- triggers: ["!2samuel8:10 ","!2sa8:10 "]
+  replace: "So Toʹi sent his son Joʹram to King David to ask about his welfare and to congratulate him because he had fought and defeated Hadadeʹzer (for Hadadeʹzer had often fought against Toʹi), and he brought articles of silver, gold, and copper."
+
+- triggers: ["!2samuel8:11 ","!2sa8:11 "]
+  replace: "King David sanctified these to Jehovah, along with the silver and the gold that he had sanctified from all the nations that he had subdued:"
+
+- triggers: ["!2samuel8:12 ","!2sa8:12 "]
+  replace: "from Syria and Moʹab, from the Amʹmonites, the Philisʹtines, the Amalʹekites, and from the spoil of Hadadeʹzer the son of Reʹhob the king of Zoʹbah."
+
+- triggers: ["!2samuel8:13 ","!2sa8:13 "]
+  replace: "David also made a name for himself when he came back from striking down 18,000 Eʹdomites in the Valley of Salt."
+
+- triggers: ["!2samuel8:14 ","!2sa8:14 "]
+  replace: "He established garrisons in Eʹdom. In all Eʹdom he established garrisons, and all the Eʹdomites became David’s servants. Jehovah gave David victory wherever he went."
+
+- triggers: ["!2samuel8:15 ","!2sa8:15 "]
+  replace: "David kept reigning over all Israel, and David was administering justice and righteousness for all his people."
+
+- triggers: ["!2samuel8:16 ","!2sa8:16 "]
+  replace: "Joʹab the son of Zeruʹiah was over the army, and Jehoshʹaphat the son of Ahiʹlud was recorder."
+
+- triggers: ["!2samuel8:17 ","!2sa8:17 "]
+  replace: "Zaʹdok the son of Ahiʹtub and Ahimʹelech the son of Abiʹathar were priests, and Seraiʹah was secretary."
+
+- triggers: ["!2samuel8:18 ","!2sa8:18 "]
+  replace: "Benaiʹah the son of Jehoiʹada was over the Cherʹethites and the Pelʹethites. And David’s sons became chief ministers."
+
+- triggers: ["!2samuel9:1 ","!2sa9:1 "]
+  replace: "David then said: “Is there anyone still left of the house of Saul to whom I may show loyal love for the sake of Jonʹathan?”"
+
+- triggers: ["!2samuel9:2 ","!2sa9:2 "]
+  replace: "Now there was a servant of the house of Saul named Ziʹba. So they called him to David, and the king asked him: “Are you Ziʹba?” He replied: “I am your servant.”"
+
+- triggers: ["!2samuel9:3 ","!2sa9:3 "]
+  replace: "The king continued: “Is there anyone left of the house of Saul to whom I may extend God’s loyal love?” Ziʹba replied to the king: “There is still one son of Jonʹathan; he is crippled in both feet.”"
+
+- triggers: ["!2samuel9:4 ","!2sa9:4 "]
+  replace: "The king asked him: “Where is he?” Ziʹba replied to the king: “He is in the house of Maʹchir the son of Amʹmiel at Lo-deʹbar.”"
+
+- triggers: ["!2samuel9:5 ","!2sa9:5 "]
+  replace: "King David immediately sent for him and took him from the house of Maʹchir the son of Amʹmiel at Lo-deʹbar."
+
+- triggers: ["!2samuel9:6 ","!2sa9:6 "]
+  replace: "When Mephibʹosheth the son of Jonʹathan the son of Saul came in to David, he at once fell facedown and prostrated himself. Then David said: “Mephibʹosheth!” to which he replied: “Here is your servant.”"
+
+- triggers: ["!2samuel9:7 ","!2sa9:7 "]
+  replace: "David said to him: “Do not be afraid, for I will certainly show loyal love to you for the sake of your father Jonʹathan, and I will return to you all the land of Saul your grandfather, and you will always dine at my table.”"
+
+- triggers: ["!2samuel9:8 ","!2sa9:8 "]
+  replace: "At that he prostrated himself and said: “What is your servant, that you have turned your attention to a dead dog like me?”"
+
+- triggers: ["!2samuel9:9 ","!2sa9:9 "]
+  replace: "The king now sent for Ziʹba, Saul’s attendant, and said to him: “Everything that belonged to Saul and to all his house I give to the grandson of your master."
+
+- triggers: ["!2samuel9:10 ","!2sa9:10 "]
+  replace: "You will cultivate the land for him—you and your sons and your servants—and you will gather its produce to provide food for those who belong to the grandson of your master to eat. But Mephibʹosheth, the grandson of your master, will always dine at my table.” Now Ziʹba had 15 sons and 20 servants."
+
+- triggers: ["!2samuel9:11 ","!2sa9:11 "]
+  replace: "Then Ziʹba said to the king: “Your servant will do all that my lord the king commands his servant to do.” So Mephibʹosheth ate at David’s table like one of the sons of the king."
+
+- triggers: ["!2samuel9:12 ","!2sa9:12 "]
+  replace: "Now Mephibʹosheth also had a young son named Miʹca; and all those who lived in Ziʹba’s house became servants of Mephibʹosheth."
+
+- triggers: ["!2samuel9:13 ","!2sa9:13 "]
+  replace: "And Mephibʹosheth lived in Jerusalem, for he always ate at the table of the king; and he was crippled in both feet."
+
+- triggers: ["!2samuel10:1 ","!2sa10:1 "]
+  replace: "Later the king of the Amʹmonites died, and his son Haʹnun became king in his place."
+
+- triggers: ["!2samuel10:2 ","!2sa10:2 "]
+  replace: "At that David said: “I will show loyal love toward Haʹnun the son of Naʹhash as his father showed loyal love toward me.” So David sent his servants to offer him comfort over the loss of his father. But when David’s servants came into the land of the Amʹmonites,"
+
+- triggers: ["!2samuel10:3 ","!2sa10:3 "]
+  replace: "the princes of the Amʹmonites said to Haʹnun their lord: “Do you think that David is honoring your father by sending comforters to you? Is it not to search through the city and to spy it out and to overthrow it that David has sent his servants to you?”"
+
+- triggers: ["!2samuel10:4 ","!2sa10:4 "]
+  replace: "So Haʹnun took the servants of David and shaved off half their beards and cut their garments in half at their buttocks and sent them away."
+
+- triggers: ["!2samuel10:5 ","!2sa10:5 "]
+  replace: "When David was told, he at once sent men to meet them, because the men had been deeply humiliated; and the king told them: “Stay in Jerʹicho until your beards grow back, and then return.”"
+
+- triggers: ["!2samuel10:6 ","!2sa10:6 "]
+  replace: "In time the Amʹmonites saw that they had become a stench to David, so the Amʹmonites sent and hired Syrians of Beth-reʹhob and Syrians of Zoʹbah, 20,000 foot soldiers; and the king of Maʹacah, with 1,000 men; and from Ishʹtob, 12,000 men."
+
+- triggers: ["!2samuel10:7 ","!2sa10:7 "]
+  replace: "When David heard about it, he sent Joʹab and the entire army, including his mightiest warriors."
+
+- triggers: ["!2samuel10:8 ","!2sa10:8 "]
+  replace: "And the Amʹmonites went out and drew up in battle formation at the entrance of the city gate while the Syrians of Zoʹbah and of Reʹhob, along with Ishʹtob and Maʹacah, were by themselves in the open field."
+
+- triggers: ["!2samuel10:9 ","!2sa10:9 "]
+  replace: "When Joʹab saw that the battle charges were coming against him from the front and the rear, he chose some of the best troops in Israel and drew them up in battle formation to meet the Syrians."
+
+- triggers: ["!2samuel10:10 ","!2sa10:10 "]
+  replace: "He put the rest of the men under the command of his brother Abishʹai, in order to draw them up in battle formation to meet the Amʹmonites."
+
+- triggers: ["!2samuel10:11 ","!2sa10:11 "]
+  replace: "Then he said: “If the Syrians become too strong for me, then you must come to my rescue; but if the Amʹmonites become too strong for you, I will come to your rescue."
+
+- triggers: ["!2samuel10:12 ","!2sa10:12 "]
+  replace: "We must be strong and courageous for our people and for the cities of our God, and Jehovah will do what is good in his eyes.”"
+
+- triggers: ["!2samuel10:13 ","!2sa10:13 "]
+  replace: "Then Joʹab and his men advanced to meet the Syrians in battle, and they fled from before him."
+
+- triggers: ["!2samuel10:14 ","!2sa10:14 "]
+  replace: "When the Amʹmonites saw that the Syrians had fled, they fled from Abishʹai and went into the city. After that Joʹab returned from the Amʹmonites and came to Jerusalem."
+
+- triggers: ["!2samuel10:15 ","!2sa10:15 "]
+  replace: "When the Syrians saw that they had been defeated by Israel, they regrouped."
+
+- triggers: ["!2samuel10:16 ","!2sa10:16 "]
+  replace: "So Hadadeʹzer sent for the Syrians in the region of the River, and then they came to Heʹlam, with Shoʹbach the chief of the army of Hadadeʹzer leading them."
+
+- triggers: ["!2samuel10:17 ","!2sa10:17 "]
+  replace: "When the report was made to David, he immediately gathered all Israel and crossed the Jordan and came to Heʹlam. The Syrians then drew up in battle formation to meet David and fought against him."
+
+- triggers: ["!2samuel10:18 ","!2sa10:18 "]
+  replace: "But the Syrians fled from Israel; and David killed 700 charioteers and 40,000 horsemen of the Syrians, and he struck down Shoʹbach the chief of their army, who died there."
+
+- triggers: ["!2samuel10:19 ","!2sa10:19 "]
+  replace: "When all the kings, the servants of Hadadeʹzer, saw that they had been defeated by Israel, they promptly made peace with Israel and became their subjects; and the Syrians were afraid to help the Amʹmonites anymore."
+
+- triggers: ["!2samuel11:1 ","!2sa11:1 "]
+  replace: "At the start of the year, at the time when kings go on campaigns, David sent Joʹab and his servants and the entire army of Israel to bring the Amʹmonites to ruin, and they besieged Rabʹbah, while David stayed in Jerusalem."
+
+- triggers: ["!2samuel11:2 ","!2sa11:2 "]
+  replace: "One evening David got up from his bed and walked around on the rooftop of the king’s house. From the rooftop he saw a woman bathing, and the woman was very beautiful."
+
+- triggers: ["!2samuel11:3 ","!2sa11:3 "]
+  replace: "David sent someone to inquire about the woman, and he reported: “Is this not Bath-sheʹba the daughter of Eliʹam and the wife of Uriʹah the Hitʹtite?”"
+
+- triggers: ["!2samuel11:4 ","!2sa11:4 "]
+  replace: "Then David sent messengers to bring her. So she came in to him, and he lay down with her. (This happened while she was purifying herself from her uncleanness.) Afterward, she returned to her house."
+
+- triggers: ["!2samuel11:5 ","!2sa11:5 "]
+  replace: "The woman became pregnant, and she sent a message to David: “I am pregnant.”"
+
+- triggers: ["!2samuel11:6 ","!2sa11:6 "]
+  replace: "At this David sent a message to Joʹab: “Send to me Uriʹah the Hitʹtite.” So Joʹab sent Uriʹah to David."
+
+- triggers: ["!2samuel11:7 ","!2sa11:7 "]
+  replace: "When Uriʹah came to him, David asked him how Joʹab was getting along, how the troops were getting along, and how the war was going."
+
+- triggers: ["!2samuel11:8 ","!2sa11:8 "]
+  replace: "David then said to Uriʹah: “Go down to your house and relax.” When Uriʹah left the king’s house, the king’s courtesy gift was sent after him."
+
+- triggers: ["!2samuel11:9 ","!2sa11:9 "]
+  replace: "However, Uriʹah slept at the entrance of the king’s house with all the other servants of his lord, and he did not go down to his own house."
+
+- triggers: ["!2samuel11:10 ","!2sa11:10 "]
+  replace: "So David was told: “Uriʹah did not go down to his own house.” At that David said to Uriʹah: “Have you not just returned from a journey? Why did you not go down to your own house?”"
+
+- triggers: ["!2samuel11:11 ","!2sa11:11 "]
+  replace: "Uriʹah replied to David: “The Ark and Israel and Judah are dwelling in temporary shelters, and my lord Joʹab and the servants of my lord are camping in the open field. So should I go into my own house to eat and drink and lie down with my wife? As surely as you live and are alive, I will not do this thing!”"
+
+- triggers: ["!2samuel11:12 ","!2sa11:12 "]
+  replace: "Then David said to Uriʹah: “Stay here also today, and tomorrow I will send you away.” So Uriʹah stayed in Jerusalem on that day and the following day."
+
+- triggers: ["!2samuel11:13 ","!2sa11:13 "]
+  replace: "David then sent for him to come and eat and drink with him, and he got him drunk. But in the evening, he went out to sleep on his bed with the servants of his lord, and he did not go down to his house."
+
+- triggers: ["!2samuel11:14 ","!2sa11:14 "]
+  replace: "In the morning David wrote a letter to Joʹab and sent it by the hand of Uriʹah."
+
+- triggers: ["!2samuel11:15 ","!2sa11:15 "]
+  replace: "He wrote in the letter: “Put Uriʹah in the front lines where the fighting is fiercest. Then retreat from behind him, so that he will be struck down and die.”"
+
+- triggers: ["!2samuel11:16 ","!2sa11:16 "]
+  replace: "Joʹab had been carefully watching the city, and he stationed Uriʹah where he knew there were mighty warriors."
+
+- triggers: ["!2samuel11:17 ","!2sa11:17 "]
+  replace: "When the men of the city came out and fought against Joʹab, some of David’s servants fell, and Uriʹah the Hitʹtite was among those who died."
+
+- triggers: ["!2samuel11:18 ","!2sa11:18 "]
+  replace: "Joʹab now reported to David all the news about the war."
+
+- triggers: ["!2samuel11:19 ","!2sa11:19 "]
+  replace: "He instructed the messenger: “When you finish speaking to the king about all the news of the war,"
+
+- triggers: ["!2samuel11:20 ","!2sa11:20 "]
+  replace: "the king may become angry and say to you, ‘Why did you have to go so near to the city to fight? Did you not know that they would shoot from the top of the wall?"
+
+- triggers: ["!2samuel11:21 ","!2sa11:21 "]
+  replace: "Who struck down Abimʹelech the son of Jerubʹbesheth? Was it not a woman who threw an upper millstone on him from the top of the wall, causing his death at Theʹbez? Why did you have to go so close to the wall?’ Then say, ‘Your servant Uriʹah the Hitʹtite also died.’”"
+
+- triggers: ["!2samuel11:22 ","!2sa11:22 "]
+  replace: "So the messenger went and told David everything that Joʹab had sent him to tell."
+
+- triggers: ["!2samuel11:23 ","!2sa11:23 "]
+  replace: "Then the messenger told David: “Their men overpowered us, and they came out against us in the field; but we drove them back to the entrance of the city gate."
+
+- triggers: ["!2samuel11:24 ","!2sa11:24 "]
+  replace: "And the archers were shooting at your servants from the top of the wall, and some of the servants of the king died; your servant Uriʹah the Hitʹtite also died.”"
+
+- triggers: ["!2samuel11:25 ","!2sa11:25 "]
+  replace: "At that David said to the messenger: “Say this to Joʹab: ‘Do not let this matter trouble you, for the sword devours one as well as another. Intensify your battle against the city and conquer it.’ And encourage him.”"
+
+- triggers: ["!2samuel11:26 ","!2sa11:26 "]
+  replace: "When Uriʹah’s wife heard that her husband Uriʹah had died, she began to mourn her husband."
+
+- triggers: ["!2samuel11:27 ","!2sa11:27 "]
+  replace: "As soon as the mourning period was over, David sent for her and brought her to his house, and she became his wife and bore him a son. But what David had done was very displeasing to Jehovah."
+
+- triggers: ["!2samuel12:1 ","!2sa12:1 "]
+  replace: "So Jehovah sent Nathan to David. He came in to him and said: “There were two men in one city, the one rich and the other poor."
+
+- triggers: ["!2samuel12:2 ","!2sa12:2 "]
+  replace: "The rich man had very many sheep and cattle;"
+
+- triggers: ["!2samuel12:3 ","!2sa12:3 "]
+  replace: "but the poor man had nothing but one small female lamb, which he had bought. He cared for it, and it grew up together with him and his sons. It would eat from the little food he had and drink from his cup and sleep in his arms. It became as a daughter to him."
+
+- triggers: ["!2samuel12:4 ","!2sa12:4 "]
+  replace: "Later a visitor came to the rich man, but he would not take any of his own sheep and cattle to prepare a meal for the traveler who had come to him. Instead, he took the poor man’s lamb and prepared it for the man who had come to him.”"
+
+- triggers: ["!2samuel12:5 ","!2sa12:5 "]
+  replace: "At this David grew very angry against the man, and he said to Nathan: “As surely as Jehovah is living, the man who did this deserves to die!"
+
+- triggers: ["!2samuel12:6 ","!2sa12:6 "]
+  replace: "And he should pay for the lamb four times over, because he did this and showed no compassion.”"
+
+- triggers: ["!2samuel12:7 ","!2sa12:7 "]
+  replace: "Then Nathan said to David: “You are the man! This is what Jehovah the God of Israel says: ‘I myself anointed you as king over Israel, and I rescued you from the hand of Saul."
+
+- triggers: ["!2samuel12:8 ","!2sa12:8 "]
+  replace: "I was willing to give you your master’s house and put your master’s wives in your arms, and I gave you the house of Israel and of Judah. And as if that were not enough, I was willing to do much more for you."
+
+- triggers: ["!2samuel12:9 ","!2sa12:9 "]
+  replace: "Why did you despise the word of Jehovah by doing what is bad in his eyes? You struck down Uriʹah the Hitʹtite with the sword! Then you took his wife as your wife after you killed him by the sword of the Amʹmonites."
+
+- triggers: ["!2samuel12:10 ","!2sa12:10 "]
+  replace: "Now a sword will never depart from your own house, because you despised me by taking the wife of Uriʹah the Hitʹtite as your wife.’"
+
+- triggers: ["!2samuel12:11 ","!2sa12:11 "]
+  replace: "This is what Jehovah says: ‘Here I am bringing against you calamity from within your own house; and before your own eyes, I will take your wives and give them to another man, and he will lie down with your wives in broad daylight."
+
+- triggers: ["!2samuel12:12 ","!2sa12:12 "]
+  replace: "Although you acted in secret, I will do this in front of all Israel and in broad daylight.’”"
+
+- triggers: ["!2samuel12:13 ","!2sa12:13 "]
+  replace: "David then said to Nathan: “I have sinned against Jehovah.” Nathan replied to David: “Jehovah, in turn, forgives your sin. You will not die."
+
+- triggers: ["!2samuel12:14 ","!2sa12:14 "]
+  replace: "Nevertheless, because you have treated Jehovah with utter disrespect in this matter, the son just born to you will certainly die.”"
+
+- triggers: ["!2samuel12:15 ","!2sa12:15 "]
+  replace: "Then Nathan went to his own house. And Jehovah struck the child whom Uriʹah’s wife had borne to David, and he became sick."
+
+- triggers: ["!2samuel12:16 ","!2sa12:16 "]
+  replace: "David pleaded with the true God in behalf of the boy. David went on a strict fast and would go in and spend the night lying on the ground."
+
+- triggers: ["!2samuel12:17 ","!2sa12:17 "]
+  replace: "So the elders of his house stood over him and tried to raise him up from the ground, but he refused and would not eat with them."
+
+- triggers: ["!2samuel12:18 ","!2sa12:18 "]
+  replace: "On the seventh day the child died, but David’s servants were afraid to tell him that the child was dead. They said: “While the child was alive we spoke to him, and he did not listen to us. So how can we tell him that the child has died? He may do something terrible.”"
+
+- triggers: ["!2samuel12:19 ","!2sa12:19 "]
+  replace: "When David saw that his servants were whispering to one another, he discerned that the child had died. David said to his servants: “Has the child died?” They replied: “He has died.”"
+
+- triggers: ["!2samuel12:20 ","!2sa12:20 "]
+  replace: "So David got up from the ground. He washed, rubbed himself with oil, changed his clothing, and went to the house of Jehovah and prostrated himself. Afterward, he went to his house and asked for food to be brought to him, and he ate."
+
+- triggers: ["!2samuel12:21 ","!2sa12:21 "]
+  replace: "His servants asked him: “Why have you acted in this way? While the child was alive, you fasted and kept weeping; but as soon as the child died, you got up and ate food.”"
+
+- triggers: ["!2samuel12:22 ","!2sa12:22 "]
+  replace: "He replied: “While the child was alive, I fasted and kept weeping because I said to myself, ‘Who knows whether Jehovah may show me favor and let the child live?’"
+
+- triggers: ["!2samuel12:23 ","!2sa12:23 "]
+  replace: "Now that he has died, why should I fast? Can I bring him back? I will go to him, but he will not return to me.”"
+
+- triggers: ["!2samuel12:24 ","!2sa12:24 "]
+  replace: "Then David comforted his wife Bath-sheʹba. He went in to her and lay down with her. In time she bore a son, and he was named Solʹomon. And Jehovah loved him,"
+
+- triggers: ["!2samuel12:25 ","!2sa12:25 "]
+  replace: "and he sent word through Nathan the prophet to name him Jedidiʹah, for the sake of Jehovah."
+
+- triggers: ["!2samuel12:26 ","!2sa12:26 "]
+  replace: "Joʹab continued fighting against Rabʹbah of the Amʹmonites, and he captured the royal city."
+
+- triggers: ["!2samuel12:27 ","!2sa12:27 "]
+  replace: "So Joʹab sent messengers to David and said: “I have fought against Rabʹbah, and I have captured the city of waters."
+
+- triggers: ["!2samuel12:28 ","!2sa12:28 "]
+  replace: "Now gather the rest of the troops and encamp against the city and capture it. Otherwise, I will be the one to capture the city, and it will be credited to me.”"
+
+- triggers: ["!2samuel12:29 ","!2sa12:29 "]
+  replace: "So David gathered all the troops and went to Rabʹbah and fought against it and captured it."
+
+- triggers: ["!2samuel12:30 ","!2sa12:30 "]
+  replace: "Then he took the crown of Malʹcam from its head. The weight of it was a talent of gold, along with precious stones, and it was placed on David’s head. He also took a vast amount of spoil from the city."
+
+- triggers: ["!2samuel12:31 ","!2sa12:31 "]
+  replace: "And he brought out the people who were in it and put them to work at sawing stones, at working with sharp iron instruments and with iron axes, and at brickmaking. That was what he did to all the cities of the Amʹmonites. Finally David and all the troops returned to Jerusalem."
+
+- triggers: ["!2samuel13:1 ","!2sa13:1 "]
+  replace: "Now David’s son Abʹsalom had a beautiful sister named Taʹmar, and David’s son Amʹnon fell in love with her."
+
+- triggers: ["!2samuel13:2 ","!2sa13:2 "]
+  replace: "Amʹnon was so distressed that he became sick because of his sister Taʹmar, for she was a virgin and it seemed impossible for Amʹnon to do anything to her."
+
+- triggers: ["!2samuel13:3 ","!2sa13:3 "]
+  replace: "Now Amʹnon had a companion named Jehonʹadab, the son of Shimʹeah, David’s brother; and Jehonʹadab was a very clever man."
+
+- triggers: ["!2samuel13:4 ","!2sa13:4 "]
+  replace: "So he said to him: “Why are you, the king’s son, so depressed every morning? Why not tell me?” Amʹnon replied to him: “I am in love with Taʹmar, the sister of my brother Abʹsalom.”"
+
+- triggers: ["!2samuel13:5 ","!2sa13:5 "]
+  replace: "Jehonʹadab replied to him: “Lie down on your bed and pretend to be sick. When your father comes to see you, say to him, ‘Please, let my sister Taʹmar come and serve me some food. If she prepares the food given to the sick before my eyes, I will eat it from her hand.’”"
+
+- triggers: ["!2samuel13:6 ","!2sa13:6 "]
+  replace: "So Amʹnon lay down and pretended to be sick, and the king came in to see him. Then Amʹnon said to the king: “Please, let my sister Taʹmar come in and bake two heart-shaped cakes before my eyes so that I may take food from her hand.”"
+
+- triggers: ["!2samuel13:7 ","!2sa13:7 "]
+  replace: "At that David sent a message to Taʹmar at the house, saying: “Please go to the house of your brother Amʹnon and prepare food for him.”"
+
+- triggers: ["!2samuel13:8 ","!2sa13:8 "]
+  replace: "So Taʹmar went to the house of her brother Amʹnon, where he was lying down. She took the dough and kneaded it into cakes before his eyes and cooked the cakes."
+
+- triggers: ["!2samuel13:9 ","!2sa13:9 "]
+  replace: "Then she took the pan and served him. But Amʹnon refused to eat and said: “Have everybody leave me!” So everybody left him."
+
+- triggers: ["!2samuel13:10 ","!2sa13:10 "]
+  replace: "Amʹnon now said to Taʹmar: “Bring the food into the bedroom, so that I may eat it from your hand.” So Taʹmar took the heart-shaped cakes that she had made and brought them to her brother Amʹnon in the bedroom."
+
+- triggers: ["!2samuel13:11 ","!2sa13:11 "]
+  replace: "When she brought them for him to eat, he grabbed her and said: “Come, lie down with me, my sister.”"
+
+- triggers: ["!2samuel13:12 ","!2sa13:12 "]
+  replace: "But she said to him: “No, my brother! Do not humiliate me, for such a thing is not done in Israel. Do not do this disgraceful thing."
+
+- triggers: ["!2samuel13:13 ","!2sa13:13 "]
+  replace: "How could I live down my shame? And you will be regarded as one of the disgraceful men in Israel. Now speak, please, to the king, for he will not withhold me from you.”"
+
+- triggers: ["!2samuel13:14 ","!2sa13:14 "]
+  replace: "But he refused to listen to her, and he overpowered her and humiliated her by raping her."
+
+- triggers: ["!2samuel13:15 ","!2sa13:15 "]
+  replace: "Then Amʹnon began hating her with a very intense hatred, so that his hatred for her became greater than the love he had felt for her. Amʹnon said to her: “Get up; go away!”"
+
+- triggers: ["!2samuel13:16 ","!2sa13:16 "]
+  replace: "At this she said to him: “No, my brother, for sending me away now is worse than what you have done with me!” But he refused to listen to her."
+
+- triggers: ["!2samuel13:17 ","!2sa13:17 "]
+  replace: "With that he called his young attendant and said: “Get this person out of my presence, please, and lock the door behind her.”"
+
+- triggers: ["!2samuel13:18 ","!2sa13:18 "]
+  replace: "(Now she was wearing a special robe, for those were the garments that the virgin daughters of the king wore.) So his attendant led her outside, and he locked the door behind her."
+
+- triggers: ["!2samuel13:19 ","!2sa13:19 "]
+  replace: "Then Taʹmar put ashes on her head, and she ripped apart the fine robe she was wearing; and she kept her hands on her head and walked off, crying out as she walked."
+
+- triggers: ["!2samuel13:20 ","!2sa13:20 "]
+  replace: "At this her brother Abʹsalom asked her: “Was it your brother Amʹnon who was with you? And now keep silent, my sister. He is your brother. Do not let your heart dwell on this matter.” Then Taʹmar lived in isolation at the house of her brother Abʹsalom."
+
+- triggers: ["!2samuel13:21 ","!2sa13:21 "]
+  replace: "When King David heard about all these things, he became very angry. But he would not hurt the feelings of Amʹnon his son, because he loved him, for he was his firstborn."
+
+- triggers: ["!2samuel13:22 ","!2sa13:22 "]
+  replace: "And Abʹsalom said nothing to Amʹnon, either bad or good; for Abʹsalom hated Amʹnon because he had humiliated his sister Taʹmar."
+
+- triggers: ["!2samuel13:23 ","!2sa13:23 "]
+  replace: "After two full years, Abʹsalom’s sheepshearers were at Baʹal-haʹzor, near Eʹphraim, and Abʹsalom invited all the sons of the king."
+
+- triggers: ["!2samuel13:24 ","!2sa13:24 "]
+  replace: "So Abʹsalom came in to the king and said: “Your servant is having his sheep sheared. Please let the king and his servants go with me.”"
+
+- triggers: ["!2samuel13:25 ","!2sa13:25 "]
+  replace: "But the king said to Abʹsalom: “No, my son. If all of us go, we will be a burden to you.” Although he kept urging him, he did not consent to go, but he blessed him."
+
+- triggers: ["!2samuel13:26 ","!2sa13:26 "]
+  replace: "Abʹsalom then said: “If not you, please let my brother Amʹnon go with us.” The king replied to him: “Why should he go with you?”"
+
+- triggers: ["!2samuel13:27 ","!2sa13:27 "]
+  replace: "But Abʹsalom urged him, so he sent Amʹnon and all the king’s sons with him."
+
+- triggers: ["!2samuel13:28 ","!2sa13:28 "]
+  replace: "Then Abʹsalom ordered his attendants: “Watch, and when Amʹnon’s heart is in a cheerful mood from the wine, I will say to you, ‘Strike down Amʹnon!’ You must then put him to death. Do not be afraid. Is it not I who command you? Be strong and courageous.”"
+
+- triggers: ["!2samuel13:29 ","!2sa13:29 "]
+  replace: "So Abʹsalom’s attendants did to Amʹnon exactly as Abʹsalom had ordered; then all the other sons of the king got up, and each one mounted his mule and fled."
+
+- triggers: ["!2samuel13:30 ","!2sa13:30 "]
+  replace: "While they were on the way, the report reached David: “Abʹsalom has struck down all the sons of the king, and not one of them survived.”"
+
+- triggers: ["!2samuel13:31 ","!2sa13:31 "]
+  replace: "At this the king got up and ripped his clothes apart and lay on the ground, and all his servants were standing by with their garments ripped apart."
+
+- triggers: ["!2samuel13:32 ","!2sa13:32 "]
+  replace: "However, Jehonʹadab the son of Shimʹeah, David’s brother, said: “Do not let my lord think that they have killed all the young sons of the king, for only Amʹnon has died. This is by the order of Abʹsalom, who decided to do this from the day that Amʹnon humiliated his sister Taʹmar."
+
+- triggers: ["!2samuel13:33 ","!2sa13:33 "]
+  replace: "Now do not let my lord the king pay attention to the report that says, ‘All the king’s sons have died’; only Amʹnon has died.”"
+
+- triggers: ["!2samuel13:34 ","!2sa13:34 "]
+  replace: "Meanwhile, Abʹsalom ran away. Later the watchman raised his eyes and saw that there were many people coming from the road behind him next to the mountain."
+
+- triggers: ["!2samuel13:35 ","!2sa13:35 "]
+  replace: "At this Jehonʹadab said to the king: “Look! The king’s sons have returned. It is just as your servant said.”"
+
+- triggers: ["!2samuel13:36 ","!2sa13:36 "]
+  replace: "As he finished speaking, the king’s sons came in, weeping loudly; also the king and all his servants wept very bitterly."
+
+- triggers: ["!2samuel13:37 ","!2sa13:37 "]
+  replace: "But Abʹsalom fled and went to Talʹmai the son of Ammiʹhud the king of Geshʹur. David mourned his son for many days."
+
+- triggers: ["!2samuel13:38 ","!2sa13:38 "]
+  replace: "After Abʹsalom fled and went to Geshʹur, he stayed there for three years."
+
+- triggers: ["!2samuel13:39 ","!2sa13:39 "]
+  replace: "Finally King David longed to go to Abʹsalom, for he had become reconciled to the death of Amʹnon."
+
+- triggers: ["!2samuel14:1 ","!2sa14:1 "]
+  replace: "Now Joʹab the son of Zeruʹiah learned that the king’s heart longed for Abʹsalom."
+
+- triggers: ["!2samuel14:2 ","!2sa14:2 "]
+  replace: "So Joʹab sent to Tekoʹa and summoned from there a clever woman and told her: “Act like you are in mourning, please, and put on garments of mourning, and do not rub yourself with oil. Behave like a woman who has been mourning over someone dead for a long time."
+
+- triggers: ["!2samuel14:3 ","!2sa14:3 "]
+  replace: "Then go in and speak to the king like this.” With that Joʹab put the words in her mouth."
+
+- triggers: ["!2samuel14:4 ","!2sa14:4 "]
+  replace: "The Tekoʹite woman went in to the king and fell with her face to the ground and prostrated herself and said: “Help me, O king!”"
+
+- triggers: ["!2samuel14:5 ","!2sa14:5 "]
+  replace: "The king replied to her: “What is the matter?” To this she said: “Alas, I am a widow; my husband is dead."
+
+- triggers: ["!2samuel14:6 ","!2sa14:6 "]
+  replace: "And I, your servant, had two sons, and the two of them fought with each other in the field. There was no one to separate them, and one struck the other down and killed him."
+
+- triggers: ["!2samuel14:7 ","!2sa14:7 "]
+  replace: "Now the whole family has risen up against me, your servant, and they are saying, ‘Hand over the one who struck his brother, so that we may put him to death for the life of his brother whom he killed, even if it means wiping out the heir!’ They would extinguish the last glowing coal that I have left and leave to my husband neither a name nor a survivor on the surface of the earth.”"
+
+- triggers: ["!2samuel14:8 ","!2sa14:8 "]
+  replace: "Then the king said to the woman: “Go to your home, and I will issue an order regarding you.”"
+
+- triggers: ["!2samuel14:9 ","!2sa14:9 "]
+  replace: "At this the Tekoʹite woman said to the king: “O my lord the king, let the guilt be on me and on my father’s house, while the king and his throne are innocent.”"
+
+- triggers: ["!2samuel14:10 ","!2sa14:10 "]
+  replace: "The king then said: “If anyone speaks further to you, bring him to me, and he will never trouble you again.”"
+
+- triggers: ["!2samuel14:11 ","!2sa14:11 "]
+  replace: "But she said: “Please, let the king remember Jehovah your God, so that the avenger of blood does not bring ruin and annihilate my son.” To this he said: “As surely as Jehovah is living, not one of your son’s hairs will fall to the ground.”"
+
+- triggers: ["!2samuel14:12 ","!2sa14:12 "]
+  replace: "The woman now said: “Let your servant, please, speak a word to my lord the king.” So he said: “Speak!”"
+
+- triggers: ["!2samuel14:13 ","!2sa14:13 "]
+  replace: "The woman said: “Why, then, have you thought to do something like this against the people of God? When the king speaks this way, he makes himself guilty, for the king does not bring back his own banished son."
+
+- triggers: ["!2samuel14:14 ","!2sa14:14 "]
+  replace: "We will surely die and be like waters that are poured out on the ground, which cannot be recovered. But God would not take away a life, and he considers reasons why the banished one should not always be banished from him."
+
+- triggers: ["!2samuel14:15 ","!2sa14:15 "]
+  replace: "I have come in to say this to my lord the king because the people made me afraid. So your servant said, ‘Let me speak, please, to the king. Perhaps the king will act on the request of his slave."
+
+- triggers: ["!2samuel14:16 ","!2sa14:16 "]
+  replace: "The king may listen and rescue his slave from the hand of the man seeking to annihilate me and my only son from the inheritance God gave us.’"
+
+- triggers: ["!2samuel14:17 ","!2sa14:17 "]
+  replace: "Then your servant said, ‘May the word of my lord the king please give me relief,’ for my lord the king is just like an angel of the true God in distinguishing what is good from what is bad. May Jehovah your God be with you.”"
+
+- triggers: ["!2samuel14:18 ","!2sa14:18 "]
+  replace: "The king now answered the woman: “Please do not hide from me anything I ask you.” The woman replied: “Let my lord the king speak, please.”"
+
+- triggers: ["!2samuel14:19 ","!2sa14:19 "]
+  replace: "The king then asked: “Did Joʹab put you up to all of this?” The woman answered: “As surely as you are living, O my lord the king, it is just as my lord the king says, for it was your servant Joʹab who instructed me and put all these words in the mouth of your servant."
+
+- triggers: ["!2samuel14:20 ","!2sa14:20 "]
+  replace: "Your servant Joʹab has done this to change the appearance of things, but my lord has wisdom like that of the angel of the true God and knows all that is happening in the land.”"
+
+- triggers: ["!2samuel14:21 ","!2sa14:21 "]
+  replace: "The king then said to Joʹab: “All right, I will do this thing. Go and bring back the young man Abʹsalom.”"
+
+- triggers: ["!2samuel14:22 ","!2sa14:22 "]
+  replace: "At this Joʹab fell with his face to the ground and prostrated himself and praised the king. Joʹab said: “Today your servant knows that I have found favor in your eyes, O my lord the king, because the king has acted on the request of his servant.”"
+
+- triggers: ["!2samuel14:23 ","!2sa14:23 "]
+  replace: "Then Joʹab got up and went to Geshʹur and brought Abʹsalom to Jerusalem."
+
+- triggers: ["!2samuel14:24 ","!2sa14:24 "]
+  replace: "However, the king said: “Let him return to his own house, but he may not see my face.” So Abʹsalom returned to his own house, and he did not see the face of the king."
+
+- triggers: ["!2samuel14:25 ","!2sa14:25 "]
+  replace: "Now in all Israel, no man was as highly praised for his handsome appearance as Abʹsalom. From the sole of his foot to the crown of his head, there was no flaw in him."
+
+- triggers: ["!2samuel14:26 ","!2sa14:26 "]
+  replace: "When he shaved his head—he had to shave it at the end of every year because it was so heavy for him—the hair of his head weighed 200 shekels by the royal stone weight."
+
+- triggers: ["!2samuel14:27 ","!2sa14:27 "]
+  replace: "To Abʹsalom were born three sons and one daughter, whose name was Taʹmar. She was a very beautiful woman."
+
+- triggers: ["!2samuel14:28 ","!2sa14:28 "]
+  replace: "And Abʹsalom continued living in Jerusalem for two full years, but he did not see the face of the king."
+
+- triggers: ["!2samuel14:29 ","!2sa14:29 "]
+  replace: "So Abʹsalom summoned Joʹab in order to send him to the king, but Joʹab would not come to him. Then he sent for him again, a second time, and he still refused to come."
+
+- triggers: ["!2samuel14:30 ","!2sa14:30 "]
+  replace: "Finally he said to his servants: “Joʹab’s plot of land is next to mine, and he has some barley there. Go and set it on fire.” So the servants of Abʹsalom set the plot of land on fire."
+
+- triggers: ["!2samuel14:31 ","!2sa14:31 "]
+  replace: "At this Joʹab got up and came to Abʹsalom’s house and said to him: “Why did your servants set my plot of land on fire?”"
+
+- triggers: ["!2samuel14:32 ","!2sa14:32 "]
+  replace: "Abʹsalom replied to Joʹab: “Look! I sent this message to you, ‘Come and let me send you to the king to ask: “Why have I come from Geshʹur? It would have been better for me to stay there. Now let me see the face of the king, and if there is guilt in me, then he should put me to death.”’”"
+
+- triggers: ["!2samuel14:33 ","!2sa14:33 "]
+  replace: "So Joʹab went in to the king and told him. Then he called Abʹsalom, who came in to the king and prostrated himself before him, falling with his face to the ground before the king. Then the king kissed Abʹsalom."
+
+- triggers: ["!2samuel15:1 ","!2sa15:1 "]
+  replace: "After all these things, Abʹsalom acquired for himself a chariot and horses and 50 men to run before him."
+
+- triggers: ["!2samuel15:2 ","!2sa15:2 "]
+  replace: "Abʹsalom would rise up early and stand at the side of the road to the city gate. Whenever any man had a legal case that was to come to the king for judgment, Abʹsalom would call him and say: “From what city are you?” and he would say: “Your servant is from one of the tribes of Israel.”"
+
+- triggers: ["!2samuel15:3 ","!2sa15:3 "]
+  replace: "Abʹsalom would say to him: “See, your claims are right and proper, but there is no one from the king to hear your case.”"
+
+- triggers: ["!2samuel15:4 ","!2sa15:4 "]
+  replace: "Abʹsalom would say: “If only I were appointed judge in the land! Then every man who has a legal case or judgment could come to me, and I would see that he receives justice.”"
+
+- triggers: ["!2samuel15:5 ","!2sa15:5 "]
+  replace: "And when a man came near to bow down to him, Abʹsalom would extend his hand and grab hold of him and kiss him."
+
+- triggers: ["!2samuel15:6 ","!2sa15:6 "]
+  replace: "Abʹsalom would do this to all the Israelites who would come in to the king for judgment; so Abʹsalom kept stealing the hearts of the men of Israel."
+
+- triggers: ["!2samuel15:7 ","!2sa15:7 "]
+  replace: "At the end of four years, Abʹsalom said to the king: “Let me go, please, to Hebʹron to pay my vow that I made to Jehovah."
+
+- triggers: ["!2samuel15:8 ","!2sa15:8 "]
+  replace: "For your servant made this solemn vow when I was dwelling in Geshʹur in Syria: ‘If Jehovah will bring me back to Jerusalem, I will make an offering to Jehovah.’”"
+
+- triggers: ["!2samuel15:9 ","!2sa15:9 "]
+  replace: "So the king said to him: “Go in peace.” With that he rose up and went to Hebʹron."
+
+- triggers: ["!2samuel15:10 ","!2sa15:10 "]
+  replace: "Abʹsalom now sent spies through all the tribes of Israel, saying: “As soon as you hear the sound of the horn, announce, ‘Abʹsalom has become king in Hebʹron!’”"
+
+- triggers: ["!2samuel15:11 ","!2sa15:11 "]
+  replace: "Now 200 men from Jerusalem had gone there with Abʹsalom; they were invited and went unsuspectingly, unaware of what was happening."
+
+- triggers: ["!2samuel15:12 ","!2sa15:12 "]
+  replace: "Further, when he offered the sacrifices, Abʹsalom sent for Ahithʹophel the Giʹlonite, David’s adviser, from his city Giʹloh. The conspiracy kept gaining momentum, and the people who supported Abʹsalom were growing in number."
+
+- triggers: ["!2samuel15:13 ","!2sa15:13 "]
+  replace: "In time an informer came to David, saying: “The heart of the men of Israel has turned to Abʹsalom.”"
+
+- triggers: ["!2samuel15:14 ","!2sa15:14 "]
+  replace: "At once David said to all his servants with him in Jerusalem: “Get up, and let us run away, for none of us will escape from Abʹsalom! Hurry, for fear he may quickly overtake us and bring disaster on us and strike the city with the sword!”"
+
+- triggers: ["!2samuel15:15 ","!2sa15:15 "]
+  replace: "The king’s servants replied to the king: “Whatever my lord the king decides, your servants are ready to do.”"
+
+- triggers: ["!2samuel15:16 ","!2sa15:16 "]
+  replace: "So the king went out with all his household following him, but the king left ten concubines to take care of the house."
+
+- triggers: ["!2samuel15:17 ","!2sa15:17 "]
+  replace: "And the king continued on his way out with all the people following, and they stopped at Beth-merʹhak."
+
+- triggers: ["!2samuel15:18 ","!2sa15:18 "]
+  replace: "All his servants leaving with him and all the Cherʹethites, the Pelʹethites, and the Gitʹtites, 600 men who had followed him from Gath, were passing by as the king reviewed them."
+
+- triggers: ["!2samuel15:19 ","!2sa15:19 "]
+  replace: "Then the king said to Itʹtai the Gitʹtite: “Why should you also go with us? Go back and dwell with the new king, for you are a foreigner and also an exile from your place."
+
+- triggers: ["!2samuel15:20 ","!2sa15:20 "]
+  replace: "Yesterday you came, so today should I make you wander with us, to go when I must go and where I must go? Go back and take your brothers with you, and may Jehovah show you loyal love and faithfulness!”"
+
+- triggers: ["!2samuel15:21 ","!2sa15:21 "]
+  replace: "But Itʹtai answered the king: “As surely as Jehovah is living and as surely as my lord the king is living, wherever my lord the king may be, whether for death or for life, there your servant will be!”"
+
+- triggers: ["!2samuel15:22 ","!2sa15:22 "]
+  replace: "At that David said to Itʹtai: “Go and cross over.” So Itʹtai the Gitʹtite crossed over, together with all his men and children."
+
+- triggers: ["!2samuel15:23 ","!2sa15:23 "]
+  replace: "Everyone in the land was weeping loudly while all these people crossed over, and the king was standing by the Kidʹron Valley; all the people were crossing over to the road leading to the wilderness."
+
+- triggers: ["!2samuel15:24 ","!2sa15:24 "]
+  replace: "Zaʹdok was also there and with him were all the Levites carrying the ark of the covenant of the true God; and they set the Ark of the true God down; and Abiʹathar went up, while all the people completed crossing over from the city."
+
+- triggers: ["!2samuel15:25 ","!2sa15:25 "]
+  replace: "But the king said to Zaʹdok: “Take the Ark of the true God back to the city. If I find favor in the eyes of Jehovah, he will also bring me back and let me see it and its dwelling place."
+
+- triggers: ["!2samuel15:26 ","!2sa15:26 "]
+  replace: "But if he should say, ‘I have found no pleasure in you,’ then let him do to me whatever seems good in his eyes.”"
+
+- triggers: ["!2samuel15:27 ","!2sa15:27 "]
+  replace: "The king said to Zaʹdok the priest: “Are you not a seer? Return to the city in peace, and take the two sons of you men with you, Ahimʹaaz your own son and Jonʹathan the son of Abiʹathar."
+
+- triggers: ["!2samuel15:28 ","!2sa15:28 "]
+  replace: "See, I will linger by the fords of the wilderness until word comes from you to inform me.”"
+
+- triggers: ["!2samuel15:29 ","!2sa15:29 "]
+  replace: "So Zaʹdok and Abiʹathar took the Ark of the true God back to Jerusalem, and they remained there."
+
+- triggers: ["!2samuel15:30 ","!2sa15:30 "]
+  replace: "As David was going up the Mount of Olives, he was weeping as he went up; his head was covered, and he was walking barefoot. All the people with him also covered their heads and were weeping as they went up."
+
+- triggers: ["!2samuel15:31 ","!2sa15:31 "]
+  replace: "David was then told: “Ahithʹophel is among those conspiring with Abʹsalom.” At this David said: “Turn, please, the advice of Ahithʹophel into foolishness, O Jehovah!”"
+
+- triggers: ["!2samuel15:32 ","!2sa15:32 "]
+  replace: "When David came to the summit where people used to bow down to God, Huʹshai the Arʹchite was there to meet him, with his robe ripped apart and dirt on his head."
+
+- triggers: ["!2samuel15:33 ","!2sa15:33 "]
+  replace: "However, David said to him: “If you go across with me, you will be a load on me."
+
+- triggers: ["!2samuel15:34 ","!2sa15:34 "]
+  replace: "But if you return to the city and you say to Abʹsalom, ‘I am your servant, O King. I was the servant of your father in the past, but now I am your servant,’ you can then frustrate the advice of Ahithʹophel for me."
+
+- triggers: ["!2samuel15:35 ","!2sa15:35 "]
+  replace: "Are not Zaʹdok and Abiʹathar the priests there with you? You must tell Zaʹdok and Abiʹathar the priests everything that you hear from the house of the king."
+
+- triggers: ["!2samuel15:36 ","!2sa15:36 "]
+  replace: "Look! There with them are their two sons, Ahimʹaaz the son of Zaʹdok and Jonʹathan the son of Abiʹathar, and through them send to me everything that you hear.”"
+
+- triggers: ["!2samuel15:37 ","!2sa15:37 "]
+  replace: "So Huʹshai, David’s friend, went into the city as Abʹsalom was entering into Jerusalem."
+
+- triggers: ["!2samuel16:1 ","!2sa16:1 "]
+  replace: "When David had passed a little beyond the summit, Ziʹba, the attendant of Mephibʹosheth, was there to meet him with a couple of saddled donkeys, and on them were 200 loaves of bread, 100 cakes of raisins, 100 cakes of summer fruit, and a large jar of wine."
+
+- triggers: ["!2samuel16:2 ","!2sa16:2 "]
+  replace: "Then the king said to Ziʹba: “Why have you brought these things?” Ziʹba replied: “The donkeys are for the household of the king to ride, the bread and the summer fruit are for the young men to eat, and the wine is for those who get exhausted in the wilderness to drink.”"
+
+- triggers: ["!2samuel16:3 ","!2sa16:3 "]
+  replace: "The king now said: “And where is the son of your master?” At this Ziʹba said to the king: “He is staying in Jerusalem, for he said, ‘Today the house of Israel will give back the royal rule of my father to me.’”"
+
+- triggers: ["!2samuel16:4 ","!2sa16:4 "]
+  replace: "The king then said to Ziʹba: “Look! Everything that belongs to Mephibʹosheth is yours.” Ziʹba replied: “I bow down before you. May I find favor in your eyes, my lord the king.”"
+
+- triggers: ["!2samuel16:5 ","!2sa16:5 "]
+  replace: "When King David reached Bahuʹrim, a man of the family of Saul’s house named Shimʹei, the son of Geʹra, came out shouting curses as he approached."
+
+- triggers: ["!2samuel16:6 ","!2sa16:6 "]
+  replace: "He was throwing stones at David and at all the servants of King David, as well as at all the people and the mighty men on his right and on his left."
+
+- triggers: ["!2samuel16:7 ","!2sa16:7 "]
+  replace: "Shimʹei said as he cursed: “Get out, get out, you bloodguilty man! You worthless man!"
+
+- triggers: ["!2samuel16:8 ","!2sa16:8 "]
+  replace: "Jehovah has brought back on you all the bloodguilt for the house of Saul, in whose place you have ruled as king, but Jehovah gives the kingship into the hand of Abʹsalom your son. Now calamity has overtaken you because you are a bloodguilty man!”"
+
+- triggers: ["!2samuel16:9 ","!2sa16:9 "]
+  replace: "Then Abishʹai the son of Zeruʹiah said to the king: “Why should this dead dog curse my lord the king? Let me go over, please, and take off his head.”"
+
+- triggers: ["!2samuel16:10 ","!2sa16:10 "]
+  replace: "But the king said: “What do I have to do with you, you sons of Zeruʹiah? Let him curse me, for Jehovah has said to him, ‘Curse David!’ So who should say, ‘Why are you doing this?’”"
+
+- triggers: ["!2samuel16:11 ","!2sa16:11 "]
+  replace: "David then said to Abishʹai and all his servants: “Here my own son, who came from my own body, is seeking my life, and how much more now a Benʹjaminite! Leave him alone so that he may curse me, for Jehovah told him to!"
+
+- triggers: ["!2samuel16:12 ","!2sa16:12 "]
+  replace: "Perhaps Jehovah will see my affliction, and Jehovah will restore goodness to me instead of the curses shouted at me this day.”"
+
+- triggers: ["!2samuel16:13 ","!2sa16:13 "]
+  replace: "With that David and his men kept going down the road while Shimʹei was walking alongside the mountain abreast of him, shouting curses and throwing stones and a lot of dust."
+
+- triggers: ["!2samuel16:14 ","!2sa16:14 "]
+  replace: "At length the king and all the people with him arrived at their destination exhausted, and they refreshed themselves."
+
+- triggers: ["!2samuel16:15 ","!2sa16:15 "]
+  replace: "Meanwhile, Abʹsalom and all the men of Israel arrived in Jerusalem, and Ahithʹophel was with him."
+
+- triggers: ["!2samuel16:16 ","!2sa16:16 "]
+  replace: "When Huʹshai the Arʹchite, David’s friend, came in to Abʹsalom, Huʹshai said to Abʹsalom: “Long live the king! Long live the king!”"
+
+- triggers: ["!2samuel16:17 ","!2sa16:17 "]
+  replace: "At this Abʹsalom said to Huʹshai: “Is this your loyal love toward your friend? Why did you not go with your friend?”"
+
+- triggers: ["!2samuel16:18 ","!2sa16:18 "]
+  replace: "So Huʹshai said to Abʹsalom: “No, I am on the side of the one who has been chosen by Jehovah, this people, and all the men of Israel. I will stay with him."
+
+- triggers: ["!2samuel16:19 ","!2sa16:19 "]
+  replace: "And again I say, Whom should I serve? Should it not be his son? Just as I served your father, so I will serve you.”"
+
+- triggers: ["!2samuel16:20 ","!2sa16:20 "]
+  replace: "Abʹsalom then said to Ahithʹophel: “Give me your advice. What should we do?”"
+
+- triggers: ["!2samuel16:21 ","!2sa16:21 "]
+  replace: "At that Ahithʹophel said to Abʹsalom: “Have relations with your father’s concubines, those whom he left behind to take care of the house. Then all Israel will hear that you have made yourself a stench to your father, and those who support you will be strengthened.”"
+
+- triggers: ["!2samuel16:22 ","!2sa16:22 "]
+  replace: "So they pitched a tent for Abʹsalom on the roof, and Abʹsalom had relations with the concubines of his father before the eyes of all Israel."
+
+- triggers: ["!2samuel16:23 ","!2sa16:23 "]
+  replace: "In those days the advice that Ahithʹophel gave was considered as the word of the true God. That was how all the advice of Ahithʹophel was esteemed, both by David and by Abʹsalom."
+
+- triggers: ["!2samuel17:1 ","!2sa17:1 "]
+  replace: "Ahithʹophel then said to Abʹsalom: “Please let me choose 12,000 men and rise up and chase after David tonight."
+
+- triggers: ["!2samuel17:2 ","!2sa17:2 "]
+  replace: "I will come upon him when he is weary and powerless, and I will throw him into a panic; and all the people who are with him will flee, and I will strike down only the king."
+
+- triggers: ["!2samuel17:3 ","!2sa17:3 "]
+  replace: "Then I will bring all the people back to you. The return of all the people depends on what happens with the man you are seeking. Then all the people will be at peace.”"
+
+- triggers: ["!2samuel17:4 ","!2sa17:4 "]
+  replace: "The proposal was just right in the eyes of Abʹsalom and all the elders of Israel."
+
+- triggers: ["!2samuel17:5 ","!2sa17:5 "]
+  replace: "However, Abʹsalom said: “Please call Huʹshai the Arʹchite as well, and let us hear what he has to say.”"
+
+- triggers: ["!2samuel17:6 ","!2sa17:6 "]
+  replace: "So Huʹshai came in to Abʹsalom. Then Abʹsalom said to him: “This is the advice Ahithʹophel gave. Should we act on his advice? If not, you tell us.”"
+
+- triggers: ["!2samuel17:7 ","!2sa17:7 "]
+  replace: "At this Huʹshai said to Abʹsalom: “The advice that Ahithʹophel gave is not good in this instance!”"
+
+- triggers: ["!2samuel17:8 ","!2sa17:8 "]
+  replace: "Huʹshai continued: “You well know that your father and his men are mighty, and they are desperate, like a bear that has lost her cubs in the field. Moreover, your father is a warrior, and he will not spend the night with the people."
+
+- triggers: ["!2samuel17:9 ","!2sa17:9 "]
+  replace: "At this very moment he is hiding in one of the caves or in some other place; and if he attacks first, those hearing of it will say, ‘The people following Abʹsalom have been defeated!’"
+
+- triggers: ["!2samuel17:10 ","!2sa17:10 "]
+  replace: "Even the courageous man whose heart is like that of a lion will surely melt in fear, for all Israel knows that your father is a mighty man and that the men with him are courageous."
+
+- triggers: ["!2samuel17:11 ","!2sa17:11 "]
+  replace: "I give this advice: Let all Israel be gathered to you, from Dan to Beʹer-sheʹba, as many as the grains of sand by the sea, and you should lead them into the fight."
+
+- triggers: ["!2samuel17:12 ","!2sa17:12 "]
+  replace: "We will come against him wherever he is found, and we will come upon him just like the dew that falls on the ground; and not one of them will survive, not he nor any of the men with him."
+
+- triggers: ["!2samuel17:13 ","!2sa17:13 "]
+  replace: "If he retreats into a city, all Israel will carry ropes to that city, and we will drag it down into the valley until not even a pebble is left.”"
+
+- triggers: ["!2samuel17:14 ","!2sa17:14 "]
+  replace: "Then Abʹsalom and all the men of Israel said: “The advice of Huʹshai the Arʹchite is better than the advice of Ahithʹophel!” For Jehovah had determined to frustrate the sound advice of Ahithʹophel, so that Jehovah could bring disaster on Abʹsalom."
+
+- triggers: ["!2samuel17:15 ","!2sa17:15 "]
+  replace: "Huʹshai later said to Zaʹdok and Abiʹathar the priests: “This is what Ahithʹophel has advised Abʹsalom and the elders of Israel, and this is what I have advised."
+
+- triggers: ["!2samuel17:16 ","!2sa17:16 "]
+  replace: "Now quickly send word to David and warn him: ‘Do not stay at the fords of the wilderness tonight, but cross over without fail, or the king and all the people with him may be wiped out.’”"
+
+- triggers: ["!2samuel17:17 ","!2sa17:17 "]
+  replace: "Jonʹathan and Ahimʹaaz were staying at En-roʹgel; so a servant girl went off and told them and they went to tell King David, for they did not dare to be seen entering the city."
+
+- triggers: ["!2samuel17:18 ","!2sa17:18 "]
+  replace: "However, a young man saw them and told Abʹsalom. So the two of them quickly went off and came to the house of a man in Bahuʹrim who had a well in his courtyard. They went down into it,"
+
+- triggers: ["!2samuel17:19 ","!2sa17:19 "]
+  replace: "and the man’s wife spread a covering over the top of the well and covered it with cracked grain; no one knew about it."
+
+- triggers: ["!2samuel17:20 ","!2sa17:20 "]
+  replace: "The servants of Abʹsalom came to the woman at her house and asked: “Where are Ahimʹaaz and Jonʹathan?” The woman replied: “They passed by toward the water.” Then the men searched for them but did not find them, so they returned to Jerusalem."
+
+- triggers: ["!2samuel17:21 ","!2sa17:21 "]
+  replace: "After the men were gone, they came up out of the well and went and informed King David. They said to him: “Rise up and quickly cross the water, for this is what Ahithʹophel advised against you.”"
+
+- triggers: ["!2samuel17:22 ","!2sa17:22 "]
+  replace: "Immediately David and all the people with him rose up and crossed the Jordan. By daybreak, there was no one left who had not crossed the Jordan."
+
+- triggers: ["!2samuel17:23 ","!2sa17:23 "]
+  replace: "When Ahithʹophel saw that his advice had not been acted on, he saddled a donkey and went to his house in his hometown. After he gave instructions to his household, he hanged himself. So he died and was buried in the burial place of his forefathers."
+
+- triggers: ["!2samuel17:24 ","!2sa17:24 "]
+  replace: "Meanwhile, David went to Mahanaʹim, and Abʹsalom crossed the Jordan with all the men of Israel."
+
+- triggers: ["!2samuel17:25 ","!2sa17:25 "]
+  replace: "Abʹsalom put Amaʹsa in charge of the army in place of Joʹab; Amaʹsa was the son of a man named Ithʹra the Israelite, who had relations with Abʹigail the daughter of Naʹhash, the sister of Zeruʹiah, Joʹab’s mother."
+
+- triggers: ["!2samuel17:26 ","!2sa17:26 "]
+  replace: "Israel and Abʹsalom camped in the land of Gilʹead."
+
+- triggers: ["!2samuel17:27 ","!2sa17:27 "]
+  replace: "As soon as David came to Mahanaʹim, Shoʹbi the son of Naʹhash from Rabʹbah of the Amʹmonites, Maʹchir the son of Amʹmiel from Lo-deʹbar, and Barzilʹlai the Gilʹeadite from Rogeʹlim"
+
+- triggers: ["!2samuel17:28 ","!2sa17:28 "]
+  replace: "brought beds, basins, clay pots, wheat, barley, flour, roasted grain, broad beans, lentils, parched grain,"
+
+- triggers: ["!2samuel17:29 ","!2sa17:29 "]
+  replace: "honey, butter, sheep, and cheese. They brought all of this out for David and the people with him to eat, for they said: “The people are hungry and tired and thirsty in the wilderness.”"
+
+- triggers: ["!2samuel18:1 ","!2sa18:1 "]
+  replace: "Then David numbered the men who were with him and placed over them chiefs of thousands and chiefs of hundreds."
+
+- triggers: ["!2samuel18:2 ","!2sa18:2 "]
+  replace: "And David sent one third of the men under the command of Joʹab, one third under the command of Joʹab’s brother Abishʹai the son of Zeruʹiah, and one third under the command of Itʹtai the Gitʹtite. The king then said to the men: “I will also go out with you.”"
+
+- triggers: ["!2samuel18:3 ","!2sa18:3 "]
+  replace: "But they said: “You must not go out, for if we flee, they would not care about us; and if half of us would die, they would not care about us, because you are worth 10,000 of us. Therefore, it would be better if you would send us help from the city.”"
+
+- triggers: ["!2samuel18:4 ","!2sa18:4 "]
+  replace: "The king said to them: “Whatever seems best to you, I will do.” So the king stood next to the city gate, and all the men went out by hundreds and by thousands."
+
+- triggers: ["!2samuel18:5 ","!2sa18:5 "]
+  replace: "Then the king gave Joʹab and Abishʹai and Itʹtai this order: “Deal gently with the young man Abʹsalom for my sake.” All the men heard it when the king gave all the chiefs the order about Abʹsalom."
+
+- triggers: ["!2samuel18:6 ","!2sa18:6 "]
+  replace: "The men went out to the field to meet Israel, and the battle took place in the forest of Eʹphraim."
+
+- triggers: ["!2samuel18:7 ","!2sa18:7 "]
+  replace: "There the people of Israel were defeated by the servants of David, and a great slaughter took place on that day—20,000 men."
+
+- triggers: ["!2samuel18:8 ","!2sa18:8 "]
+  replace: "The battle spread through the whole region. Furthermore, the forest devoured more of the people than the sword did on that day."
+
+- triggers: ["!2samuel18:9 ","!2sa18:9 "]
+  replace: "Abʹsalom eventually found himself facing the servants of David. Abʹsalom was riding on a mule, and the mule went under the thick branches of a large tree, and his head got entangled in the big tree, so that he was suspended in midair while the mule he had been riding kept going."
+
+- triggers: ["!2samuel18:10 ","!2sa18:10 "]
+  replace: "Then someone saw it and told Joʹab: “Look! I have seen Abʹsalom hanging in a big tree.”"
+
+- triggers: ["!2samuel18:11 ","!2sa18:11 "]
+  replace: "Joʹab replied to the man who told him: “If you saw it, why did you not strike him down to the ground on the spot? Then I would have gladly given you ten pieces of silver and a belt.”"
+
+- triggers: ["!2samuel18:12 ","!2sa18:12 "]
+  replace: "But the man said to Joʹab: “Even if I were handed 1,000 pieces of silver, I could not lift my hand against the king’s son, for we heard the king order you and Abishʹai and Itʹtai, ‘Whoever you are, watch over the young man Abʹsalom.’"
+
+- triggers: ["!2samuel18:13 ","!2sa18:13 "]
+  replace: "If I had disobeyed and taken his life, it could never have remained hidden from the king, and you would not have protected me.”"
+
+- triggers: ["!2samuel18:14 ","!2sa18:14 "]
+  replace: "To this Joʹab said: “I am not going to waste any more time with you!” So he took three spikes in his hand and drove them through the heart of Abʹsalom while he was still alive in the midst of the big tree."
+
+- triggers: ["!2samuel18:15 ","!2sa18:15 "]
+  replace: "Then ten attendants who carried Joʹab’s weapons came and struck Abʹsalom until he was dead."
+
+- triggers: ["!2samuel18:16 ","!2sa18:16 "]
+  replace: "Joʹab now blew the horn, and the men returned from chasing after Israel; Joʹab called for them to halt."
+
+- triggers: ["!2samuel18:17 ","!2sa18:17 "]
+  replace: "They took Abʹsalom and threw him into a big pit in the forest and piled up over him a very big heap of stones. And all Israel fled to their homes."
+
+- triggers: ["!2samuel18:18 ","!2sa18:18 "]
+  replace: "Now Abʹsalom, while he was alive, had taken and set up for himself a pillar in the Valley of the King, for he said: “I have no son to preserve the memory of my name.” So he named the pillar after himself, and it is called Abʹsalom’s Monument to this day."
+
+- triggers: ["!2samuel18:19 ","!2sa18:19 "]
+  replace: "Ahimʹaaz the son of Zaʹdok said: “Let me run, please, and break the news to the king, for Jehovah has given him justice by freeing him from his enemies.”"
+
+- triggers: ["!2samuel18:20 ","!2sa18:20 "]
+  replace: "But Joʹab said to him: “You will not be a bearer of news this day. You may break the news on another day, but today you will not break the news, because the king’s own son has died.”"
+
+- triggers: ["!2samuel18:21 ","!2sa18:21 "]
+  replace: "Then Joʹab said to a Cushʹite: “Go, tell the king what you have seen.” At that the Cushʹite bowed to Joʹab and ran off."
+
+- triggers: ["!2samuel18:22 ","!2sa18:22 "]
+  replace: "Ahimʹaaz the son of Zaʹdok said once again to Joʹab: “Whatever happens, please let me also run behind the Cushʹite.” However, Joʹab said: “Why should you run, my son, when there is no news for you to tell?”"
+
+- triggers: ["!2samuel18:23 ","!2sa18:23 "]
+  replace: "Still he said: “Whatever happens, let me run.” So Joʹab said to him: “Run!” And Ahimʹaaz ran by the way of the district of the Jordan, and he eventually overtook the Cushʹite."
+
+- triggers: ["!2samuel18:24 ","!2sa18:24 "]
+  replace: "Now David was sitting between the two city gates, and the watchman went up to the roof of the gate by the wall. He looked up and saw a man running by himself."
+
+- triggers: ["!2samuel18:25 ","!2sa18:25 "]
+  replace: "So the watchman called out and told the king. The king said: “If he is by himself, he has news to tell.” As he came steadily nearer,"
+
+- triggers: ["!2samuel18:26 ","!2sa18:26 "]
+  replace: "the watchman saw another man running. The watchman then called to the gatekeeper: “Look! Another man running by himself!” The king said: “This one is also bringing news.”"
+
+- triggers: ["!2samuel18:27 ","!2sa18:27 "]
+  replace: "The watchman said: “I can see that the first man runs like Ahimʹaaz the son of Zaʹdok,” so the king said: “He is a good man, and he comes with good news.”"
+
+- triggers: ["!2samuel18:28 ","!2sa18:28 "]
+  replace: "Ahimʹaaz then called out to the king: “All is well!” With that he bowed to the king with his face to the ground. Then he said: “May Jehovah your God be praised, who has surrendered the men who rebelled against my lord the king!”"
+
+- triggers: ["!2samuel18:29 ","!2sa18:29 "]
+  replace: "However, the king said: “Is everything all right with the young man Abʹsalom?” To this Ahimʹaaz said: “I saw the great commotion when Joʹab sent the king’s servant and your servant, but I did not know what it was.”"
+
+- triggers: ["!2samuel18:30 ","!2sa18:30 "]
+  replace: "So the king said: “Step aside, stand here.” At that he stepped aside and stood there."
+
+- triggers: ["!2samuel18:31 ","!2sa18:31 "]
+  replace: "Then the Cushʹite arrived, and the Cushʹite said: “Let my lord the king accept this news: Today Jehovah has brought justice by freeing you from the hand of all those who rebelled against you.”"
+
+- triggers: ["!2samuel18:32 ","!2sa18:32 "]
+  replace: "But the king said to the Cushʹite: “Is everything all right with the young man Abʹsalom?” To this the Cushʹite said: “May all the enemies of my lord the king and all those who rebelled against you to harm you become like the young man!”"
+
+- triggers: ["!2samuel18:33 ","!2sa18:33 "]
+  replace: "This disturbed the king, and he went up to the roof chamber over the gateway and wept, saying as he walked: “My son Abʹsalom, my son, my son Abʹsalom! If only I had died instead of you, Abʹsalom my son, my son!”"
+
+- triggers: ["!2samuel19:1 ","!2sa19:1 "]
+  replace: "It was reported to Joʹab: “The king is weeping and mourning for Abʹsalom.”"
+
+- triggers: ["!2samuel19:2 ","!2sa19:2 "]
+  replace: "So the victory on that day was turned into mourning for all the people, because they heard that the king was grieving over his son."
+
+- triggers: ["!2samuel19:3 ","!2sa19:3 "]
+  replace: "The people quietly returned to the city that day like people who are ashamed because they fled in the battle."
+
+- triggers: ["!2samuel19:4 ","!2sa19:4 "]
+  replace: "The king covered his face and kept crying out with a loud voice: “My son Abʹsalom! Abʹsalom my son, my son!”"
+
+- triggers: ["!2samuel19:5 ","!2sa19:5 "]
+  replace: "Then Joʹab went in to the king at the house and said: “Today you have put to shame all your servants who this day saved your life and the lives of your sons, your daughters, your wives, and your concubines."
+
+- triggers: ["!2samuel19:6 ","!2sa19:6 "]
+  replace: "You love those who hate you and hate those who love you, for you have made it clear today that your chiefs and servants mean nothing to you, because I am sure that if only Abʹsalom were alive today and the rest of us were dead, it would be all right with you."
+
+- triggers: ["!2samuel19:7 ","!2sa19:7 "]
+  replace: "Now get up, go out and reassure your servants, because by Jehovah I swear that if you do not go out, not a man will remain with you tonight. This will be worse for you than all the injury that has come upon you from your youth until now.”"
+
+- triggers: ["!2samuel19:8 ","!2sa19:8 "]
+  replace: "So the king rose up and sat in the city gate, and all the people were informed: “Now the king is sitting in the gate.” Then all the people came before the king. But Israel had fled, each to his home."
+
+- triggers: ["!2samuel19:9 ","!2sa19:9 "]
+  replace: "All the people in all the tribes of Israel were disputing, saying: “The king saved us from our enemies, and he rescued us from the Philisʹtines; but now he has fled the land because of Abʹsalom."
+
+- triggers: ["!2samuel19:10 ","!2sa19:10 "]
+  replace: "And Abʹsalom, whom we anointed over us, has died in the battle. So now, why are you doing nothing to bring the king back?”"
+
+- triggers: ["!2samuel19:11 ","!2sa19:11 "]
+  replace: "King David sent this message to Zaʹdok and Abiʹathar the priests: “Speak to the elders of Judah, saying, ‘Why should you be the last ones to bring the king back to his house, when the word of all Israel has come to the king at his house?"
+
+- triggers: ["!2samuel19:12 ","!2sa19:12 "]
+  replace: "You are my brothers; you are my own bone and flesh. Why should you be the last ones to bring the king back?’"
+
+- triggers: ["!2samuel19:13 ","!2sa19:13 "]
+  replace: "And you should say to Amaʹsa, ‘Are you not my own bone and flesh? So may God do to me and add to it if you will not become my army chief from now on instead of Joʹab.’”"
+
+- triggers: ["!2samuel19:14 ","!2sa19:14 "]
+  replace: "So he won over the hearts of all the men of Judah as one man, and they sent word to the king: “Come back, you and all your servants.”"
+
+- triggers: ["!2samuel19:15 ","!2sa19:15 "]
+  replace: "The king started back and reached the Jordan, and the people of Judah came to Gilʹgal to meet the king and to escort him across the Jordan."
+
+- triggers: ["!2samuel19:16 ","!2sa19:16 "]
+  replace: "Then Shimʹei the son of Geʹra, the Benʹjaminite from Bahuʹrim, hurried down with the men of Judah to meet King David,"
+
+- triggers: ["!2samuel19:17 ","!2sa19:17 "]
+  replace: "and there were 1,000 men from Benjamin with him. Also Ziʹba, the attendant of the house of Saul, with his 15 sons and 20 servants, rushed down to the Jordan ahead of the king."
+
+- triggers: ["!2samuel19:18 ","!2sa19:18 "]
+  replace: "He crossed the ford to bring the king’s household across and to do whatever he desired. But Shimʹei the son of Geʹra fell down before the king when he was about to cross the Jordan."
+
+- triggers: ["!2samuel19:19 ","!2sa19:19 "]
+  replace: "He said to the king: “Do not let my lord hold me guilty, and do not remember the wrong your servant did on the day that my lord the king went out of Jerusalem. May the king not take it to heart,"
+
+- triggers: ["!2samuel19:20 ","!2sa19:20 "]
+  replace: "for your servant well knows that I have sinned; so today I have been the first of all the house of Joseph to come down to meet my lord the king.”"
+
+- triggers: ["!2samuel19:21 ","!2sa19:21 "]
+  replace: "At once Abishʹai the son of Zeruʹiah said: “Should not Shimʹei be put to death for this, because he cursed the anointed of Jehovah?”"
+
+- triggers: ["!2samuel19:22 ","!2sa19:22 "]
+  replace: "But David said: “What does this have to do with you, you sons of Zeruʹiah, that you should act against me today? Should anyone be put to death today in Israel? For do I not know that today I am king over Israel?”"
+
+- triggers: ["!2samuel19:23 ","!2sa19:23 "]
+  replace: "Then the king said to Shimʹei: “You will not die.” And the king gave him his oath."
+
+- triggers: ["!2samuel19:24 ","!2sa19:24 "]
+  replace: "Mephibʹosheth, the grandson of Saul, also came down to meet the king. He had not cared for his feet or trimmed his mustache or washed his garments from the day the king left until the day he returned in peace."
+
+- triggers: ["!2samuel19:25 ","!2sa19:25 "]
+  replace: "When he came to Jerusalem to meet the king, the king said to him: “Why did you not go with me, Mephibʹosheth?”"
+
+- triggers: ["!2samuel19:26 ","!2sa19:26 "]
+  replace: "To this he said: “My lord the king, my servant tricked me. For your servant had said, ‘Let me get my donkey saddled so that I may ride on it and go with the king,’ for your servant is crippled."
+
+- triggers: ["!2samuel19:27 ","!2sa19:27 "]
+  replace: "But he slandered your servant to my lord the king. However, my lord the king is like an angel of the true God, so do whatever seems good to you."
+
+- triggers: ["!2samuel19:28 ","!2sa19:28 "]
+  replace: "All the household of my father could have been doomed to death by my lord the king, and yet you placed your servant among those eating at your table. So what right do I have to cry out further to the king?”"
+
+- triggers: ["!2samuel19:29 ","!2sa19:29 "]
+  replace: "However, the king said to him: “Why keep on speaking like this? I have decided that you and Ziʹba should share the field.”"
+
+- triggers: ["!2samuel19:30 ","!2sa19:30 "]
+  replace: "At this Mephibʹosheth said to the king: “Let him take it all, now that my lord the king has come to his house in peace.”"
+
+- triggers: ["!2samuel19:31 ","!2sa19:31 "]
+  replace: "Then Barzilʹlai the Gilʹeadite came down from Rogeʹlim to the Jordan to escort the king to the Jordan."
+
+- triggers: ["!2samuel19:32 ","!2sa19:32 "]
+  replace: "Barzilʹlai was very old, 80 years of age, and he supplied the king with food while he was staying in Mahanaʹim, for he was a very wealthy man."
+
+- triggers: ["!2samuel19:33 ","!2sa19:33 "]
+  replace: "So the king said to Barzilʹlai: “Cross over with me, and I will supply you with food in Jerusalem.”"
+
+- triggers: ["!2samuel19:34 ","!2sa19:34 "]
+  replace: "But Barzilʹlai said to the king: “How many days of my life are left that I should go up with the king to Jerusalem?"
+
+- triggers: ["!2samuel19:35 ","!2sa19:35 "]
+  replace: "I am 80 years old today. Can I discern between good and bad? Can I, your servant, taste what I eat and drink? Can I still listen to the voice of male and female singers? So why should your servant be an added burden to my lord the king?"
+
+- triggers: ["!2samuel19:36 ","!2sa19:36 "]
+  replace: "It is enough that your servant could bring the king to the Jordan. Why should the king repay me with this reward?"
+
+- triggers: ["!2samuel19:37 ","!2sa19:37 "]
+  replace: "Let your servant return, please, and let me die in my city near the burial place of my father and my mother. But here is your servant Chimʹham. Let him cross over with my lord the king, and you may do for him what seems good to you.”"
+
+- triggers: ["!2samuel19:38 ","!2sa19:38 "]
+  replace: "So the king said: “Chimʹham will go across with me, and I will do for him what seems good to you; whatever you ask of me I will do for you.”"
+
+- triggers: ["!2samuel19:39 ","!2sa19:39 "]
+  replace: "All the people now began to cross the Jordan, and when the king crossed, the king kissed Barzilʹlai and blessed him; and Barzilʹlai returned home."
+
+- triggers: ["!2samuel19:40 ","!2sa19:40 "]
+  replace: "When the king went across to Gilʹgal, Chimʹham crossed with him. All the people of Judah and half the people of Israel brought the king across."
+
+- triggers: ["!2samuel19:41 ","!2sa19:41 "]
+  replace: "Then all the men of Israel approached the king and said to him: “Why did our brothers the men of Judah steal you away and bring the king and his household over the Jordan, along with all of David’s men?”"
+
+- triggers: ["!2samuel19:42 ","!2sa19:42 "]
+  replace: "All the men of Judah answered the men of Israel: “Because the king is related to us. Why are you angry over this? Have we eaten anything at the king’s expense, or has a gift been given to us?”"
+
+- triggers: ["!2samuel19:43 ","!2sa19:43 "]
+  replace: "However, the men of Israel answered the men of Judah: “We have ten parts in the king, so that we have a greater claim in David than you have. Why, then, have you treated us with contempt? Should we not have been first to bring our king back?” But the word of the men of Judah prevailed over that of the men of Israel."
+
+- triggers: ["!2samuel20:1 ","!2sa20:1 "]
+  replace: "Now there was a troublemaker named Sheʹba the son of Bichʹri, a Benʹjaminite. He blew the horn and said: “We have no share in David, and we have no inheritance in the son of Jesʹse. Everyone to his gods, O Israel!”"
+
+- triggers: ["!2samuel20:2 ","!2sa20:2 "]
+  replace: "At that all the men of Israel quit following David to follow Sheʹba the son of Bichʹri; but the men of Judah stuck to their king, from the Jordan to Jerusalem."
+
+- triggers: ["!2samuel20:3 ","!2sa20:3 "]
+  replace: "When David came to his house at Jerusalem, the king took the ten concubines he had left behind to take care of the house, and he put them in a house under guard. He supplied food to them, but he did not have any relations with them. They remained in confinement until the day of their death, living as if they were widows, even though they had a living husband."
+
+- triggers: ["!2samuel20:4 ","!2sa20:4 "]
+  replace: "The king now said to Amaʹsa: “Call the men of Judah together to me within three days, and you also should be here.”"
+
+- triggers: ["!2samuel20:5 ","!2sa20:5 "]
+  replace: "So Amaʹsa went to call Judah together, but he came later than the set time that had been appointed for him."
+
+- triggers: ["!2samuel20:6 ","!2sa20:6 "]
+  replace: "Then David said to Abishʹai: “Sheʹba the son of Bichʹri may do us more harm than Abʹsalom did. Take the servants of your lord and chase after him, so that he may not find fortified cities and escape from us.”"
+
+- triggers: ["!2samuel20:7 ","!2sa20:7 "]
+  replace: "So the men of Joʹab, the Cherʹethites, the Pelʹethites, and all the mighty men went out after him; they left Jerusalem to chase after Sheʹba the son of Bichʹri."
+
+- triggers: ["!2samuel20:8 ","!2sa20:8 "]
+  replace: "When they were near the great stone in Gibʹeon, Amaʹsa came to meet them. Now Joʹab was wearing his battle clothing, and he had a sword in its sheath strapped to his hip. When he stepped forward, the sword fell out."
+
+- triggers: ["!2samuel20:9 ","!2sa20:9 "]
+  replace: "Joʹab said to Amaʹsa: “Are you all right, my brother?” Then with his right hand, Joʹab took hold of Amaʹsa’s beard as if to kiss him."
+
+- triggers: ["!2samuel20:10 ","!2sa20:10 "]
+  replace: "Amaʹsa was not on guard against the sword that was in Joʹab’s hand, and Joʹab stabbed him with it in the abdomen, and his intestines spilled out on the ground. He did not have to stab him again; once was enough to kill him. Then Joʹab and his brother Abishʹai chased after Sheʹba the son of Bichʹri."
+
+- triggers: ["!2samuel20:11 ","!2sa20:11 "]
+  replace: "One of Joʹab’s young men stood by him and was saying: “Whoever is on Joʹab’s side and whoever belongs to David, let him follow Joʹab!”"
+
+- triggers: ["!2samuel20:12 ","!2sa20:12 "]
+  replace: "All the while Amaʹsa was wallowing in his blood in the middle of the road. When the man saw that all the people were stopping, he moved Amaʹsa from the road to the field. Then he threw a garment over him, because he saw that everyone was stopping when they came up to him."
+
+- triggers: ["!2samuel20:13 ","!2sa20:13 "]
+  replace: "After he had removed him from the road, all the men followed Joʹab to chase after Sheʹba the son of Bichʹri."
+
+- triggers: ["!2samuel20:14 ","!2sa20:14 "]
+  replace: "Sheʹba passed through all the tribes of Israel to Abel of Beth-maʹacah. The Bichʹrites gathered together and also went in after him."
+
+- triggers: ["!2samuel20:15 ","!2sa20:15 "]
+  replace: "Joʹab and his men came and besieged him in Abel of Beth-maʹacah and raised up a siege rampart against the city, as it was standing within a rampart. And all the men with Joʹab were undermining the wall to knock it down."
+
+- triggers: ["!2samuel20:16 ","!2sa20:16 "]
+  replace: "And a wise woman called out from the city: “Listen, men, listen! Please tell Joʹab, ‘Come here, and let me speak to you.’”"
+
+- triggers: ["!2samuel20:17 ","!2sa20:17 "]
+  replace: "So he went near to her, and the woman said: “Are you Joʹab?” He replied: “I am.” At this she said to him: “Listen to the words of your servant.” He said: “I am listening.”"
+
+- triggers: ["!2samuel20:18 ","!2sa20:18 "]
+  replace: "She continued: “They would always say in the past, ‘Let them inquire in Abel, and that was the end of the matter.’"
+
+- triggers: ["!2samuel20:19 ","!2sa20:19 "]
+  replace: "I represent the peaceable and faithful ones of Israel. You are seeking to destroy a city that is like a mother in Israel. Why should you do away with the inheritance of Jehovah?”"
+
+- triggers: ["!2samuel20:20 ","!2sa20:20 "]
+  replace: "Joʹab answered: “It is unthinkable for me to do away with it and destroy it."
+
+- triggers: ["!2samuel20:21 ","!2sa20:21 "]
+  replace: "That is not the case at all. Rather, a man named Sheʹba the son of Bichʹri from the mountainous region of Eʹphraim has rebelled against King David. If you hand over this one man, I will withdraw from the city.” Then the woman said to Joʹab: “Look! His head will be thrown over the wall to you!”"
+
+- triggers: ["!2samuel20:22 ","!2sa20:22 "]
+  replace: "At once the wise woman went in to all the people, and they cut off the head of Sheʹba the son of Bichʹri and threw it to Joʹab. At that he blew the horn, and they dispersed from the city, each one to his home; and Joʹab returned to Jerusalem to the king."
+
+- triggers: ["!2samuel20:23 ","!2sa20:23 "]
+  replace: "Now Joʹab was in charge of all the army of Israel; Benaiʹah the son of Jehoiʹada was over the Cherʹethites and the Pelʹethites."
+
+- triggers: ["!2samuel20:24 ","!2sa20:24 "]
+  replace: "Adoʹram was over those conscripted for forced labor; Jehoshʹaphat the son of Ahiʹlud was the recorder."
+
+- triggers: ["!2samuel20:25 ","!2sa20:25 "]
+  replace: "Sheʹva was the secretary; Zaʹdok and Abiʹathar were priests."
+
+- triggers: ["!2samuel20:26 ","!2sa20:26 "]
+  replace: "And Iʹra the Jaʹirite also became a chief minister for David."
+
+- triggers: ["!2samuel21:1 ","!2sa21:1 "]
+  replace: "Now there was a famine in the days of David for three consecutive years, so David consulted Jehovah, and Jehovah said: “There is bloodguilt on Saul and on his house, because he put the Gibʹeonites to death.”"
+
+- triggers: ["!2samuel21:2 ","!2sa21:2 "]
+  replace: "So the king called the Gibʹeonites and spoke to them. (Incidentally, the Gibʹeonites were not Israelites but Amʹorites who remained, and the Israelites had sworn to spare them, but Saul sought to strike them down in his zeal for the people of Israel and Judah.)"
+
+- triggers: ["!2samuel21:3 ","!2sa21:3 "]
+  replace: "David said to the Gibʹeonites: “What should I do for you, and how can I make atonement, so that you will bless the inheritance of Jehovah?”"
+
+- triggers: ["!2samuel21:4 ","!2sa21:4 "]
+  replace: "The Gibʹeonites said to him: “It is not a matter of silver or gold for us in connection with Saul and his household; nor can we put any man to death in Israel.” At that he said: “Whatever you say, I will do for you.”"
+
+- triggers: ["!2samuel21:5 ","!2sa21:5 "]
+  replace: "They said to the king: “The man who exterminated us and schemed to annihilate us from living anywhere in the territory of Israel—"
+
+- triggers: ["!2samuel21:6 ","!2sa21:6 "]
+  replace: "let seven of his sons be given to us. We will hang their dead bodies before Jehovah in Gibʹeah of Saul, the chosen one of Jehovah.” The king then said: “I will hand them over.”"
+
+- triggers: ["!2samuel21:7 ","!2sa21:7 "]
+  replace: "However, the king showed compassion for Mephibʹosheth, the son of Jonʹathan the son of Saul, because of the oath made before Jehovah between David and Jonʹathan, the son of Saul."
+
+- triggers: ["!2samuel21:8 ","!2sa21:8 "]
+  replace: "So the king took Armoʹni and Mephibʹosheth, the two sons of Rizʹpah the daughter of Aʹiah whom she bore to Saul, and the five sons of Miʹchal the daughter of Saul whom she bore to Aʹdriel the son of Barzilʹlai the Meholʹathite."
+
+- triggers: ["!2samuel21:9 ","!2sa21:9 "]
+  replace: "Then he handed them over to the Gibʹeonites, and they hung their dead bodies on the mountain before Jehovah. All seven of them died together; they were put to death in the first days of harvest, at the start of the barley harvest."
+
+- triggers: ["!2samuel21:10 ","!2sa21:10 "]
+  replace: "Then Rizʹpah the daughter of Aʹiah took sackcloth and spread it out on the rock from the start of harvest until rain poured down from the heavens on the bodies; she did not allow the birds of the heavens to land on them by day nor the wild beasts of the field to come near by night."
+
+- triggers: ["!2samuel21:11 ","!2sa21:11 "]
+  replace: "David was told what Saul’s concubine Rizʹpah the daughter of Aʹiah had done."
+
+- triggers: ["!2samuel21:12 ","!2sa21:12 "]
+  replace: "So David went and took the bones of Saul and the bones of his son Jonʹathan from the leaders of Jaʹbesh-gilʹead, who had stolen them from the public square of Beth-shan, where the Philisʹtines had hung them on the day that the Philisʹtines struck down Saul on Gilboʹa."
+
+- triggers: ["!2samuel21:13 ","!2sa21:13 "]
+  replace: "He brought the bones of Saul and the bones of his son Jonʹathan up from there, and they also gathered the bones of the men who had been executed."
+
+- triggers: ["!2samuel21:14 ","!2sa21:14 "]
+  replace: "Then they buried the bones of Saul and of Jonʹathan his son in the land of Benjamin in Zeʹla in the tomb of Kish his father. After they did everything that the king had commanded, God listened to their entreaties for the land."
+
+- triggers: ["!2samuel21:15 ","!2sa21:15 "]
+  replace: "Once again there was war between the Philisʹtines and Israel. So David and his servants went down and fought the Philisʹtines, but David became exhausted."
+
+- triggers: ["!2samuel21:16 ","!2sa21:16 "]
+  replace: "A descendant of the Rephʹaim named Ishʹbi-beʹnob, whose copper spear weighed 300 shekels and who was armed with a new sword, intended to strike David down."
+
+- triggers: ["!2samuel21:17 ","!2sa21:17 "]
+  replace: "At once Abishʹai the son of Zeruʹiah came to his aid and struck the Philisʹtine down and put him to death. At that time the men of David swore this oath to him: “You must not go out with us to battle anymore! You must not extinguish the lamp of Israel!”"
+
+- triggers: ["!2samuel21:18 ","!2sa21:18 "]
+  replace: "After this, war broke out again with the Philisʹtines at Gob. At that time Sibʹbecai the Huʹshathite struck down Saph, who was a descendant of the Rephʹaim."
+
+- triggers: ["!2samuel21:19 ","!2sa21:19 "]
+  replace: "And war broke out again with the Philisʹtines at Gob, and Elhaʹnan the son of Jaʹare-orʹegim the Bethʹlehemite struck down Goliʹath the Gitʹtite, whose spear had a shaft like the beam of loom workers."
+
+- triggers: ["!2samuel21:20 ","!2sa21:20 "]
+  replace: "War broke out yet again at Gath, where there was a man of extraordinary size, with 6 fingers on each hand and 6 toes on each foot, 24 in all; and he too was a descendant of the Rephʹaim."
+
+- triggers: ["!2samuel21:21 ","!2sa21:21 "]
+  replace: "He kept taunting Israel. So Jonʹathan the son of Shimʹei, David’s brother, struck him down."
+
+- triggers: ["!2samuel21:22 ","!2sa21:22 "]
+  replace: "These four were descendants of the Rephʹaim in Gath, and they fell by the hand of David and by the hand of his servants."
+
+- triggers: ["!2samuel22:1 ","!2sa22:1 "]
+  replace: "And David spoke to Jehovah the words of this song in the day that Jehovah rescued him out of the hand of all his enemies and out of Saul’s hand."
+
+- triggers: ["!2samuel22:2 ","!2sa22:2 "]
+  replace: "He said: “Jehovah is my crag and my stronghold and the One who rescues me."
+
+- triggers: ["!2samuel22:3 ","!2sa22:3 "]
+  replace: "My God is my rock, in whom I take refuge, My shield and my horn of salvation, my secure refuge And my place to flee, my savior; you who save me from violence."
+
+- triggers: ["!2samuel22:4 ","!2sa22:4 "]
+  replace: "I call on Jehovah, who is worthy of praise, And I will be saved from my enemies."
+
+- triggers: ["!2samuel22:5 ","!2sa22:5 "]
+  replace: "The waves of death broke all around me; Flash floods of worthless men terrified me."
+
+- triggers: ["!2samuel22:6 ","!2sa22:6 "]
+  replace: "The ropes of the Grave surrounded me; The snares of death confronted me."
+
+- triggers: ["!2samuel22:7 ","!2sa22:7 "]
+  replace: "In my distress I called on Jehovah, To my God I kept calling. Then from his temple he heard my voice, And my cry for help reached his ears."
+
+- triggers: ["!2samuel22:8 ","!2sa22:8 "]
+  replace: "Back and forth the earth began to shake and rock; The foundations of the heavens trembled And shook back and forth because he had been angered."
+
+- triggers: ["!2samuel22:9 ","!2sa22:9 "]
+  replace: "Smoke ascended from his nostrils, And a consuming fire came from his mouth; Glowing coals blazed from him."
+
+- triggers: ["!2samuel22:10 ","!2sa22:10 "]
+  replace: "He made the heavens bend as he descended, And thick gloom was beneath his feet."
+
+- triggers: ["!2samuel22:11 ","!2sa22:11 "]
+  replace: "He rode on a cherub and came flying. He was visible on the wings of a spirit."
+
+- triggers: ["!2samuel22:12 ","!2sa22:12 "]
+  replace: "Then he put darkness around him as a shelter, In dark waters and thick clouds."
+
+- triggers: ["!2samuel22:13 ","!2sa22:13 "]
+  replace: "From the brightness before him fiery coals blazed."
+
+- triggers: ["!2samuel22:14 ","!2sa22:14 "]
+  replace: "Then Jehovah began to thunder from heaven; The Most High made his voice heard."
+
+- triggers: ["!2samuel22:15 ","!2sa22:15 "]
+  replace: "He shot his arrows and scattered them; Lightning, and he threw them into confusion."
+
+- triggers: ["!2samuel22:16 ","!2sa22:16 "]
+  replace: "The bed of the sea became visible; The foundations of the land were exposed by the rebuke of Jehovah, By the blast of the breath from his nostrils."
+
+- triggers: ["!2samuel22:17 ","!2sa22:17 "]
+  replace: "He reached down from on high; He took hold of me and pulled me from deep waters."
+
+- triggers: ["!2samuel22:18 ","!2sa22:18 "]
+  replace: "He rescued me from my strong enemy, From those hating me, who were stronger than I was."
+
+- triggers: ["!2samuel22:19 ","!2sa22:19 "]
+  replace: "They confronted me on the day of my disaster, But Jehovah was my support."
+
+- triggers: ["!2samuel22:20 ","!2sa22:20 "]
+  replace: "He brought me out into a place of safety; He rescued me because he was pleased with me."
+
+- triggers: ["!2samuel22:21 ","!2sa22:21 "]
+  replace: "Jehovah rewards me according to my righteousness; He repays me according to the innocence of my hands."
+
+- triggers: ["!2samuel22:22 ","!2sa22:22 "]
+  replace: "For I have kept the ways of Jehovah, And I have not wickedly abandoned my God."
+
+- triggers: ["!2samuel22:23 ","!2sa22:23 "]
+  replace: "All his judgments are before me; I will not deviate from his statutes."
+
+- triggers: ["!2samuel22:24 ","!2sa22:24 "]
+  replace: "I will remain blameless before him, And I will keep myself from error."
+
+- triggers: ["!2samuel22:25 ","!2sa22:25 "]
+  replace: "May Jehovah repay me according to my righteousness, According to my innocence before him."
+
+- triggers: ["!2samuel22:26 ","!2sa22:26 "]
+  replace: "With someone loyal you act in loyalty; With the blameless, mighty man, you deal blamelessly;"
+
+- triggers: ["!2samuel22:27 ","!2sa22:27 "]
+  replace: "With the pure you show yourself pure, But with the crooked you show yourself shrewd."
+
+- triggers: ["!2samuel22:28 ","!2sa22:28 "]
+  replace: "For you save those who are humble, But your eyes are against the haughty, and you abase them."
+
+- triggers: ["!2samuel22:29 ","!2sa22:29 "]
+  replace: "For you are my lamp, O Jehovah; It is Jehovah who lights up my darkness."
+
+- triggers: ["!2samuel22:30 ","!2sa22:30 "]
+  replace: "With your help I can charge against a marauder band; By God’s power I can scale a wall."
+
+- triggers: ["!2samuel22:31 ","!2sa22:31 "]
+  replace: "The way of the true God is perfect; The saying of Jehovah is refined. He is a shield to all those taking refuge in him."
+
+- triggers: ["!2samuel22:32 ","!2sa22:32 "]
+  replace: "For who is a God besides Jehovah? And who is a rock except our God?"
+
+- triggers: ["!2samuel22:33 ","!2sa22:33 "]
+  replace: "The true God is my strong fortress, And he will make my way perfect."
+
+- triggers: ["!2samuel22:34 ","!2sa22:34 "]
+  replace: "He makes my feet like those of a deer; He makes me stand on high places."
+
+- triggers: ["!2samuel22:35 ","!2sa22:35 "]
+  replace: "He trains my hands for warfare; My arms can bend a bow of copper."
+
+- triggers: ["!2samuel22:36 ","!2sa22:36 "]
+  replace: "You give me your shield of salvation, And your humility makes me great."
+
+- triggers: ["!2samuel22:37 ","!2sa22:37 "]
+  replace: "You widen the path for my footsteps; My feet will not slip."
+
+- triggers: ["!2samuel22:38 ","!2sa22:38 "]
+  replace: "I will pursue my enemies and annihilate them; I will not return until they are wiped out."
+
+- triggers: ["!2samuel22:39 ","!2sa22:39 "]
+  replace: "And I will wipe them out and crush them, so that they will not rise up; They will fall under my feet."
+
+- triggers: ["!2samuel22:40 ","!2sa22:40 "]
+  replace: "You will equip me with strength for the battle; You will make my foes collapse under me."
+
+- triggers: ["!2samuel22:41 ","!2sa22:41 "]
+  replace: "You will make my enemies retreat from me; I will put an end to those who hate me."
+
+- triggers: ["!2samuel22:42 ","!2sa22:42 "]
+  replace: "They cry for help, but there is no one to save them; They even cry to Jehovah, but he does not answer them."
+
+- triggers: ["!2samuel22:43 ","!2sa22:43 "]
+  replace: "I will pound them as fine as the dust of the earth; I will pulverize and trample them like mud in the streets."
+
+- triggers: ["!2samuel22:44 ","!2sa22:44 "]
+  replace: "You will rescue me from the faultfinding of my people. You will safeguard me to be the head of nations; A people whom I have not known will serve me."
+
+- triggers: ["!2samuel22:45 ","!2sa22:45 "]
+  replace: "Foreigners will come cringing before me; What they hear about me will make them obey me."
+
+- triggers: ["!2samuel22:46 ","!2sa22:46 "]
+  replace: "Foreigners will lose courage; They will come trembling from their strongholds."
+
+- triggers: ["!2samuel22:47 ","!2sa22:47 "]
+  replace: "Jehovah is alive! Praised be my Rock! Let the God of the rock of my salvation be exalted."
+
+- triggers: ["!2samuel22:48 ","!2sa22:48 "]
+  replace: "The true God executes vengeance for me; He subdues the peoples under me;"
+
+- triggers: ["!2samuel22:49 ","!2sa22:49 "]
+  replace: "He rescues me from my enemies. You lift me high above those who attack me; You save me from the man of violence."
+
+- triggers: ["!2samuel22:50 ","!2sa22:50 "]
+  replace: "That is why I will thank you, O Jehovah, among the nations, And to your name I will sing praises:"
+
+- triggers: ["!2samuel22:51 ","!2sa22:51 "]
+  replace: "He performs great acts of salvation for his king; He displays loyal love to his anointed one, To David and his offspring forever.”"
+
+- triggers: ["!2samuel23:1 ","!2sa23:1 "]
+  replace: "These are the last words of David: “The word of David the son of Jesʹse, And the word of the man who was raised on high, The anointed of the God of Jacob, The pleasant singer of the songs of Israel."
+
+- triggers: ["!2samuel23:2 ","!2sa23:2 "]
+  replace: "The spirit of Jehovah spoke through me; His word was on my tongue."
+
+- triggers: ["!2samuel23:3 ","!2sa23:3 "]
+  replace: "The God of Israel spoke; To me the Rock of Israel said: ‘When the one ruling over mankind is righteous, Ruling in the fear of God,"
+
+- triggers: ["!2samuel23:4 ","!2sa23:4 "]
+  replace: "It is like the morning light when the sun shines, A morning without clouds. It is like the brightness after the rain, Making grass sprout from the earth.’"
+
+- triggers: ["!2samuel23:5 ","!2sa23:5 "]
+  replace: "Is not my house like that before God? For he has made an eternal covenant with me, Arranged in every detail and secured. Because it means my complete salvation and all my delight, Is that not why he makes it flourish?"
+
+- triggers: ["!2samuel23:6 ","!2sa23:6 "]
+  replace: "But worthless men are all thrown away like thornbushes, For they cannot be taken with the hand."
+
+- triggers: ["!2samuel23:7 ","!2sa23:7 "]
+  replace: "When a man touches them, He should be fully armed with iron and the shaft of a spear, And they should be completely burned up with fire in their place.”"
+
+- triggers: ["!2samuel23:8 ","!2sa23:8 "]
+  replace: "These are the names of David’s mighty warriors: Joʹsheb-bassheʹbeth a Tahcheʹmonite, the head of the three. He brandished his spear over 800 slain at one time."
+
+- triggers: ["!2samuel23:9 ","!2sa23:9 "]
+  replace: "Next to him, Eleaʹzar the son of Doʹdo the son of Ahoʹhi was among the three mighty warriors with David when they taunted the Philisʹtines. They had gathered there for the battle, and when the men of Israel retreated,"
+
+- triggers: ["!2samuel23:10 ","!2sa23:10 "]
+  replace: "he stood his ground and kept striking down the Philisʹtines until his arm grew weary and his hand became stiff from gripping the sword. So Jehovah brought about a great victory on that day; and the people returned behind him to strip the slain."
+
+- triggers: ["!2samuel23:11 ","!2sa23:11 "]
+  replace: "Next to him was Shamʹmah the son of Aʹgee the Harʹarite. The Philisʹtines gathered together at Leʹhi, where there was a plot of land full of lentils; and the people fled because of the Philisʹtines."
+
+- triggers: ["!2samuel23:12 ","!2sa23:12 "]
+  replace: "But he took his stand in the middle of the field and defended it and kept striking down the Philisʹtines, so that Jehovah brought about a great victory."
+
+- triggers: ["!2samuel23:13 ","!2sa23:13 "]
+  replace: "Three of the 30 headmen went down during the harvest to David at the cave of Adulʹlam, and a company of the Philisʹtines was camped in the Valley of Rephʹaim."
+
+- triggers: ["!2samuel23:14 ","!2sa23:14 "]
+  replace: "David was then in the stronghold, and an outpost of the Philisʹtines was in Bethʹlehem."
+
+- triggers: ["!2samuel23:15 ","!2sa23:15 "]
+  replace: "Then David expressed his longing: “If only I could have a drink of the water from the cistern by the gate of Bethʹlehem!”"
+
+- triggers: ["!2samuel23:16 ","!2sa23:16 "]
+  replace: "At that the three mighty warriors forced their way into the camp of the Philisʹtines and drew water from the cistern by the gate of Bethʹlehem and brought it to David; but he refused to drink it and poured it out to Jehovah."
+
+- triggers: ["!2samuel23:17 ","!2sa23:17 "]
+  replace: "He said: “It is unthinkable on my part, O Jehovah, that I should do this! Should I drink the blood of the men going at the risk of their lives?” So he refused to drink it. These are the things that his three mighty warriors did."
+
+- triggers: ["!2samuel23:18 ","!2sa23:18 "]
+  replace: "Abishʹai the brother of Joʹab the son of Zeruʹiah was the head of another three; he brandished his spear over 300 slain, and he had a reputation like the three."
+
+- triggers: ["!2samuel23:19 ","!2sa23:19 "]
+  replace: "Although he was the most distinguished of the other three and he was their chief, he did not attain to the rank of the first three."
+
+- triggers: ["!2samuel23:20 ","!2sa23:20 "]
+  replace: "Benaiʹah the son of Jehoiʹada was a courageous man who performed many exploits in Kabʹzeel. He struck down the two sons of Arʹiel of Moʹab, and he descended into a waterpit on a snowy day and killed a lion."
+
+- triggers: ["!2samuel23:21 ","!2sa23:21 "]
+  replace: "He also struck down an Egyptian man of extraordinary size. Though the Egyptian had a spear in his hand, he went against him with a rod and snatched the spear away from the Egyptian’s hand and killed him with his own spear."
+
+- triggers: ["!2samuel23:22 ","!2sa23:22 "]
+  replace: "These things Benaiʹah the son of Jehoiʹada did, and he had a reputation like that of the three mighty warriors."
+
+- triggers: ["!2samuel23:23 ","!2sa23:23 "]
+  replace: "Although he was distinguished even more than the thirty, he did not attain to the rank of the three. However, David appointed him over his own bodyguard."
+
+- triggers: ["!2samuel23:24 ","!2sa23:24 "]
+  replace: "Asʹahel the brother of Joʹab was among the thirty: Elhaʹnan the son of Doʹdo of Bethʹlehem,"
+
+- triggers: ["!2samuel23:25 ","!2sa23:25 "]
+  replace: "Shamʹmah the Haʹrodite, Eliʹka the Haʹrodite,"
+
+- triggers: ["!2samuel23:26 ","!2sa23:26 "]
+  replace: "Heʹlez the Palʹtite, Iʹra the son of Ikʹkesh the Tekoʹite,"
+
+- triggers: ["!2samuel23:27 ","!2sa23:27 "]
+  replace: "Abi-eʹzer the Anʹathothite, Mebunʹnai the Huʹshathite,"
+
+- triggers: ["!2samuel23:28 ","!2sa23:28 "]
+  replace: "Zalʹmon the Ahoʹhite, Maʹharai the Netophʹathite,"
+
+- triggers: ["!2samuel23:29 ","!2sa23:29 "]
+  replace: "Heʹleb the son of Baʹanah the Netophʹathite, Itʹtai the son of Riʹbai of Gibʹeah of the Benʹjaminites,"
+
+- triggers: ["!2samuel23:30 ","!2sa23:30 "]
+  replace: "Benaiʹah a Pirʹathonite, Hidʹdai of the wadis of Gaʹash,"
+
+- triggers: ["!2samuel23:31 ","!2sa23:31 "]
+  replace: "Aʹbi-alʹbon the Arʹbathite, Azʹmaveth the Bar-huʹmite,"
+
+- triggers: ["!2samuel23:32 ","!2sa23:32 "]
+  replace: "Eliʹahba the Shaalʹbonite, the sons of Jaʹshen, Jonʹathan,"
+
+- triggers: ["!2samuel23:33 ","!2sa23:33 "]
+  replace: "Shamʹmah the Harʹarite, Ahiʹam the son of Shaʹrar the Harʹarite,"
+
+- triggers: ["!2samuel23:34 ","!2sa23:34 "]
+  replace: "Eliphʹelet the son of Ahasʹbai the son of the Maacʹathite, Eliʹam the son of Ahithʹophel the Giʹlonite,"
+
+- triggers: ["!2samuel23:35 ","!2sa23:35 "]
+  replace: "Hezʹro the Carʹmelite, Paʹarai the Arʹbite,"
+
+- triggers: ["!2samuel23:36 ","!2sa23:36 "]
+  replace: "Iʹgal the son of Nathan of Zoʹbah, Baʹni the Gadʹite,"
+
+- triggers: ["!2samuel23:37 ","!2sa23:37 "]
+  replace: "Zeʹlek the Amʹmonite, Naʹharai the Beerʹothite, the armor-bearer of Joʹab the son of Zeruʹiah,"
+
+- triggers: ["!2samuel23:38 ","!2sa23:38 "]
+  replace: "Iʹra the Ithʹrite, Gaʹreb the Ithʹrite,"
+
+- triggers: ["!2samuel23:39 ","!2sa23:39 "]
+  replace: "and Uriʹah the Hitʹtite—37 in all."
+
+- triggers: ["!2samuel24:1 ","!2sa24:1 "]
+  replace: "The anger of Jehovah again blazed against Israel when one incited David against them, saying: “Go, take a count of Israel and Judah.”"
+
+- triggers: ["!2samuel24:2 ","!2sa24:2 "]
+  replace: "So the king said to Joʹab the chief of the army who was with him: “Please go through all the tribes of Israel, from Dan to Beʹer-sheʹba, and register the people, so that I may know the number of the people.”"
+
+- triggers: ["!2samuel24:3 ","!2sa24:3 "]
+  replace: "But Joʹab said to the king: “May Jehovah your God multiply the people 100 times, and may the eyes of my lord the king see it, but why does my lord the king want to do such a thing?”"
+
+- triggers: ["!2samuel24:4 ","!2sa24:4 "]
+  replace: "But the king’s word prevailed over Joʹab and the chiefs of the army. So Joʹab and the chiefs of the army went out from before the king to register the people of Israel."
+
+- triggers: ["!2samuel24:5 ","!2sa24:5 "]
+  replace: "They crossed the Jordan and camped at Aroʹer, to the right of the city in the middle of the valley, and they went toward the Gadʹites and on to Jaʹzer."
+
+- triggers: ["!2samuel24:6 ","!2sa24:6 "]
+  replace: "After that they went on to Gilʹead and the land of Tahʹtim-hodʹshi and continued to Dan-jaʹan and went around to Siʹdon."
+
+- triggers: ["!2samuel24:7 ","!2sa24:7 "]
+  replace: "Then they went to the fortress of Tyre and all the cities of the Hiʹvites and of the Caʹnaanites, and finally they ended up in the Negʹeb of Judah at Beʹer-sheʹba."
+
+- triggers: ["!2samuel24:8 ","!2sa24:8 "]
+  replace: "Thus they went through all the land and came to Jerusalem at the end of nine months and 20 days."
+
+- triggers: ["!2samuel24:9 ","!2sa24:9 "]
+  replace: "Joʹab now gave to the king the number of the people who were registered. Israel amounted to 800,000 warriors armed with swords, and the men of Judah were 500,000."
+
+- triggers: ["!2samuel24:10 ","!2sa24:10 "]
+  replace: "But David’s heart was struck with remorse after he had numbered the people. David then said to Jehovah: “I have sinned greatly by doing this. And now, Jehovah, please forgive your servant’s error, for I have acted very foolishly.”"
+
+- triggers: ["!2samuel24:11 ","!2sa24:11 "]
+  replace: "When David got up in the morning, Jehovah’s word came to Gad the prophet, David’s visionary, saying:"
+
+- triggers: ["!2samuel24:12 ","!2sa24:12 "]
+  replace: "“Go and say to David, ‘This is what Jehovah says: “I am giving you three options. Choose the one that I should bring on you.”’”"
+
+- triggers: ["!2samuel24:13 ","!2sa24:13 "]
+  replace: "So Gad came in to David and told him: “Should seven years of famine come on your land? Or should you flee for three months from your adversaries while they pursue you? Or should there be three days of pestilence in your land? Now consider carefully what I should reply to the One who sent me.”"
+
+- triggers: ["!2samuel24:14 ","!2sa24:14 "]
+  replace: "So David said to Gad: “It is very distressing to me. Let us fall, please, into the hand of Jehovah, for his mercy is great; but do not let me fall into the hand of man.”"
+
+- triggers: ["!2samuel24:15 ","!2sa24:15 "]
+  replace: "Then Jehovah sent a pestilence on Israel from the morning until the designated time, so that 70,000 of the people from Dan to Beʹer-sheʹba died."
+
+- triggers: ["!2samuel24:16 ","!2sa24:16 "]
+  replace: "When the angel stretched out his hand toward Jerusalem to destroy it, Jehovah felt regret over the calamity, and he said to the angel bringing destruction among the people: “It is enough! Now let your hand drop.” Jehovah’s angel was close to the threshing floor of Arauʹnah the Jebʹusite."
+
+- triggers: ["!2samuel24:17 ","!2sa24:17 "]
+  replace: "When David saw the angel who was striking the people down, he said to Jehovah: “I am the one who sinned, and I am the one who did wrong; but these sheep—what have they done? Let your hand, please, come against me and my father’s house.”"
+
+- triggers: ["!2samuel24:18 ","!2sa24:18 "]
+  replace: "So Gad came in to David on that day and said to him: “Go up, set up for Jehovah an altar on the threshing floor of Arauʹnah the Jebʹusite.”"
+
+- triggers: ["!2samuel24:19 ","!2sa24:19 "]
+  replace: "So David went up at the word of Gad, as Jehovah had commanded."
+
+- triggers: ["!2samuel24:20 ","!2sa24:20 "]
+  replace: "When Arauʹnah looked down and saw the king and his servants coming toward him, Arauʹnah immediately went out and bowed down to the king with his face to the ground."
+
+- triggers: ["!2samuel24:21 ","!2sa24:21 "]
+  replace: "Arauʹnah asked: “Why has my lord the king come to his servant?” David replied: “To buy from you the threshing floor in order to build an altar to Jehovah, so that the scourge against the people may be halted.”"
+
+- triggers: ["!2samuel24:22 ","!2sa24:22 "]
+  replace: "But Arauʹnah said to David: “Let my lord the king take it and offer up what seems good to him. Here are cattle for the burnt offering and the threshing sledge and the equipment of the cattle for the wood."
+
+- triggers: ["!2samuel24:23 ","!2sa24:23 "]
+  replace: "All of this, O king, Arauʹnah gives to the king.” Then Arauʹnah said to the king: “May Jehovah your God show you favor.”"
+
+- triggers: ["!2samuel24:24 ","!2sa24:24 "]
+  replace: "However, the king said to Arauʹnah: “No, I must buy it from you for a price. I will not offer up to Jehovah my God burnt sacrifices that cost me nothing.” So David bought the threshing floor and the cattle for 50 silver shekels."
+
+- triggers: ["!2samuel24:25 ","!2sa24:25 "]
+  replace: "And David built an altar there to Jehovah and offered up burnt sacrifices and communion sacrifices. Jehovah then responded to the entreaty for the land, and the scourge against Israel was halted."
+

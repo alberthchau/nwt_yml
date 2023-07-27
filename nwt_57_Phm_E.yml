@@ -1,0 +1,76 @@
+matches:
+- triggers: ["!philemon1:1 ","!phil1:1 "]
+  replace: "Paul, a prisoner for the sake of Christ Jesus, and Timothy our brother, to Phileʹmon our beloved fellow worker,"
+
+- triggers: ["!philemon1:2 ","!phil1:2 "]
+  replace: "and to Apʹphia our sister, and to Archipʹpus our fellow soldier, and to the congregation that is in your house:"
+
+- triggers: ["!philemon1:3 ","!phil1:3 "]
+  replace: "May you have undeserved kindness and peace from God our Father and the Lord Jesus Christ."
+
+- triggers: ["!philemon1:4 ","!phil1:4 "]
+  replace: "I always thank my God when I mention you in my prayers,"
+
+- triggers: ["!philemon1:5 ","!phil1:5 "]
+  replace: "as I keep hearing of your faith and the love that you have for the Lord Jesus and for all the holy ones."
+
+- triggers: ["!philemon1:6 ","!phil1:6 "]
+  replace: "I pray that your sharing in the faith may move you to acknowledge every good thing that we have through Christ."
+
+- triggers: ["!philemon1:7 ","!phil1:7 "]
+  replace: "For I received much joy and comfort on hearing of your love, because the hearts of the holy ones have been refreshed through you, brother."
+
+- triggers: ["!philemon1:8 ","!phil1:8 "]
+  replace: "For this very reason, though I have great freeness of speech in connection with Christ to order you to do what is proper,"
+
+- triggers: ["!philemon1:9 ","!phil1:9 "]
+  replace: "I would rather appeal to you on the basis of love, seeing that I am Paul an older man, yes, now also a prisoner for the sake of Christ Jesus."
+
+- triggers: ["!philemon1:10 ","!phil1:10 "]
+  replace: "I am appealing to you for my child, whose father I became while in prison, Onesʹimus."
+
+- triggers: ["!philemon1:11 ","!phil1:11 "]
+  replace: "He was formerly useless to you, but now he is useful to you and to me."
+
+- triggers: ["!philemon1:12 ","!phil1:12 "]
+  replace: "I am sending him back to you, yes him, my very own heart."
+
+- triggers: ["!philemon1:13 ","!phil1:13 "]
+  replace: "I would like to keep him here for myself so that he might take your place in ministering to me during my imprisonment for the sake of the good news."
+
+- triggers: ["!philemon1:14 ","!phil1:14 "]
+  replace: "But I do not want to do anything without your consent, so that your good deed may be done, not under compulsion, but of your own free will."
+
+- triggers: ["!philemon1:15 ","!phil1:15 "]
+  replace: "Perhaps this is really why he broke away for a short while, so that you may have him back forever,"
+
+- triggers: ["!philemon1:16 ","!phil1:16 "]
+  replace: "no longer as a slave, but as more than a slave, as a brother who is beloved, especially so to me, but how much more so to you, both in the flesh and in the Lord."
+
+- triggers: ["!philemon1:17 ","!phil1:17 "]
+  replace: "So if you consider me a friend, receive him kindly the same way you would me."
+
+- triggers: ["!philemon1:18 ","!phil1:18 "]
+  replace: "Moreover, if he did you any wrong or owes you anything, charge it to my account."
+
+- triggers: ["!philemon1:19 ","!phil1:19 "]
+  replace: "I, Paul, am writing with my own hand: I will pay it back-not to mention that you owe me even your own self."
+
+- triggers: ["!philemon1:20 ","!phil1:20 "]
+  replace: "Yes, brother, may I receive this assistance from you in connection with the Lord; refresh my heart in connection with Christ."
+
+- triggers: ["!philemon1:21 ","!phil1:21 "]
+  replace: "I am confident that you will comply, so I am writing you, knowing that you will do even more than what I say."
+
+- triggers: ["!philemon1:22 ","!phil1:22 "]
+  replace: "But along with that, also prepare a place for me to stay, for I am hoping that through your prayers I will be given back to you."
+
+- triggers: ["!philemon1:23 ","!phil1:23 "]
+  replace: "Sending you greetings is Epʹaphras, my fellow captive in union with Christ Jesus,"
+
+- triggers: ["!philemon1:24 ","!phil1:24 "]
+  replace: "also Mark, Aristarʹchus, Deʹmas, and Luke, my fellow workers."
+
+- triggers: ["!philemon1:25 ","!phil1:25 "]
+  replace: "The undeserved kindness of the Lord Jesus Christ be with the spirit you show."
+

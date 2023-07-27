@@ -1,0 +1,250 @@
+matches:
+- triggers: ["!2timothy1:1 ","!2tim1:1 ","!2ti1:1 "]
+  replace: "Paul, an apostle of Christ Jesus by God's will according to the promise of the life that is through Christ Jesus,"
+
+- triggers: ["!2timothy1:2 ","!2tim1:2 ","!2ti1:2 "]
+  replace: "to Timothy, a beloved child: May you have undeserved kindness, mercy, and peace from God the Father and Christ Jesus our Lord."
+
+- triggers: ["!2timothy1:3 ","!2tim1:3 ","!2ti1:3 "]
+  replace: "I am grateful to God, to whom I am rendering sacred service as my forefathers did, and with a clean conscience, never ceasing to remember you in my supplications night and day."
+
+- triggers: ["!2timothy1:4 ","!2tim1:4 ","!2ti1:4 "]
+  replace: "As I remember your tears, I am longing to see you, so that I may get filled with joy."
+
+- triggers: ["!2timothy1:5 ","!2tim1:5 ","!2ti1:5 "]
+  replace: "For I recall your unhypocritical faith, which dwelled first in your grandmother Loʹis and your mother Euʹnice, but which I am confident is also in you."
+
+- triggers: ["!2timothy1:6 ","!2tim1:6 ","!2ti1:6 "]
+  replace: "For this reason I remind you to stir up like a fire the gift of God that is in you through the laying of my hands on you."
+
+- triggers: ["!2timothy1:7 ","!2tim1:7 ","!2ti1:7 "]
+  replace: "For God did not give us a spirit of cowardice, but one of power and of love and of soundness of mind."
+
+- triggers: ["!2timothy1:8 ","!2tim1:8 ","!2ti1:8 "]
+  replace: "So do not become ashamed either of the witness about our Lord or of me, a prisoner for his sake, but take your part in suffering adversity for the good news by relying on the power of God."
+
+- triggers: ["!2timothy1:9 ","!2tim1:9 ","!2ti1:9 "]
+  replace: "He saved us and called us with a holy calling, not because of our works, but because of his own purpose and undeserved kindness. This was given to us in connection with Christ Jesus before times long ago,"
+
+- triggers: ["!2timothy1:10 ","!2tim1:10 ","!2ti1:10 "]
+  replace: "but now it has been made clearly evident through the manifestation of our Savior, Christ Jesus, who has abolished death and has shed light on life and incorruption through the good news,"
+
+- triggers: ["!2timothy1:11 ","!2tim1:11 ","!2ti1:11 "]
+  replace: "for which I was appointed a preacher and an apostle and a teacher."
+
+- triggers: ["!2timothy1:12 ","!2tim1:12 ","!2ti1:12 "]
+  replace: "This is why I am also suffering these things, but I am not ashamed. For I know the One whom I have believed, and I am confident that he is able to guard what I have laid up in trust with him until that day."
+
+- triggers: ["!2timothy1:13 ","!2tim1:13 ","!2ti1:13 "]
+  replace: "Keep holding to the standard of wholesome words that you heard from me with the faith and love that result from union with Christ Jesus."
+
+- triggers: ["!2timothy1:14 ","!2tim1:14 ","!2ti1:14 "]
+  replace: "Guard this fine trust by means of the holy spirit, which is dwelling in us."
+
+- triggers: ["!2timothy1:15 ","!2tim1:15 ","!2ti1:15 "]
+  replace: "You know this, that all the men in the province of Asia have turned away from me, including Phygelʹus and Hermogʹenes."
+
+- triggers: ["!2timothy1:16 ","!2tim1:16 ","!2ti1:16 "]
+  replace: "May the Lord grant mercy to the household of Onesiphʹorus, for he often refreshed me, and he did not become ashamed of my prison chains."
+
+- triggers: ["!2timothy1:17 ","!2tim1:17 ","!2ti1:17 "]
+  replace: "On the contrary, when he was in Rome, he diligently looked for me and found me."
+
+- triggers: ["!2timothy1:18 ","!2tim1:18 ","!2ti1:18 "]
+  replace: "May the Lord grant him to find mercy from Jehovah in that day. And you well know all the services he rendered in Ephʹesus."
+
+- triggers: ["!2timothy2:1 ","!2tim2:1 ","!2ti2:1 "]
+  replace: "You, therefore, my child, keep on acquiring power in the undeserved kindness that is in Christ Jesus;"
+
+- triggers: ["!2timothy2:2 ","!2tim2:2 ","!2ti2:2 "]
+  replace: "and the things you heard from me that were supported by many witnesses, these things entrust to faithful men, who, in turn, will be adequately qualified to teach others."
+
+- triggers: ["!2timothy2:3 ","!2tim2:3 ","!2ti2:3 "]
+  replace: "As a fine soldier of Christ Jesus, take your part in suffering adversity."
+
+- triggers: ["!2timothy2:4 ","!2tim2:4 ","!2ti2:4 "]
+  replace: "No man serving as a soldier involves himself in the commercial businesses of life, in order to gain the approval of the one who enrolled him as a soldier."
+
+- triggers: ["!2timothy2:5 ","!2tim2:5 ","!2ti2:5 "]
+  replace: "And even in the games, anyone who competes is not crowned unless he has competed according to the rules."
+
+- triggers: ["!2timothy2:6 ","!2tim2:6 ","!2ti2:6 "]
+  replace: "The hardworking farmer must be the first to partake of the fruits."
+
+- triggers: ["!2timothy2:7 ","!2tim2:7 ","!2ti2:7 "]
+  replace: "Give constant thought to what I am saying; the Lord will give you understanding in all things."
+
+- triggers: ["!2timothy2:8 ","!2tim2:8 ","!2ti2:8 "]
+  replace: "Remember that Jesus Christ was raised up from the dead and was David's offspring, according to the good news I preach,"
+
+- triggers: ["!2timothy2:9 ","!2tim2:9 ","!2ti2:9 "]
+  replace: "for which I am suffering and being imprisoned as a criminal. Nevertheless, the word of God is not bound."
+
+- triggers: ["!2timothy2:10 ","!2tim2:10 ","!2ti2:10 "]
+  replace: "For this reason I go on enduring all things for the sake of the chosen ones, so that they too may obtain the salvation that is through Christ Jesus, along with everlasting glory."
+
+- triggers: ["!2timothy2:11 ","!2tim2:11 ","!2ti2:11 "]
+  replace: "This saying is trustworthy: Certainly if we died together, we will also live together;"
+
+- triggers: ["!2timothy2:12 ","!2tim2:12 ","!2ti2:12 "]
+  replace: "if we go on enduring, we will also rule together as kings; if we deny, he will also deny us;"
+
+- triggers: ["!2timothy2:13 ","!2tim2:13 ","!2ti2:13 "]
+  replace: "if we are unfaithful, he remains faithful, for he cannot deny himself."
+
+- triggers: ["!2timothy2:14 ","!2tim2:14 ","!2ti2:14 "]
+  replace: "Keep reminding them of these things, instructing them before God not to fight about words, something of no usefulness at all because it harms those listening."
+
+- triggers: ["!2timothy2:15 ","!2tim2:15 ","!2ti2:15 "]
+  replace: "Do your utmost to present yourself approved to God, a workman with nothing to be ashamed of, handling the word of the truth aright."
+
+- triggers: ["!2timothy2:16 ","!2tim2:16 ","!2ti2:16 "]
+  replace: "But reject empty speeches that violate what is holy, for they will lead to more and more ungodliness,"
+
+- triggers: ["!2timothy2:17 ","!2tim2:17 ","!2ti2:17 "]
+  replace: "and their word will spread like gangrene. Hymenaeʹus and Phileʹtus are among them."
+
+- triggers: ["!2timothy2:18 ","!2tim2:18 ","!2ti2:18 "]
+  replace: "These men have deviated from the truth, saying that the resurrection has already occurred, and they are subverting the faith of some."
+
+- triggers: ["!2timothy2:19 ","!2tim2:19 ","!2ti2:19 "]
+  replace: "Despite that, the solid foundation of God remains standing, having this seal, 'Jehovah knows those who belong to him,' and, 'Let everyone calling on the name of Jehovah renounce unrighteousness.'"
+
+- triggers: ["!2timothy2:20 ","!2tim2:20 ","!2ti2:20 "]
+  replace: "Now in a large house there are utensils not only of gold and silver but also of wood and earthenware, and some for an honorable use but others for a use lacking honor."
+
+- triggers: ["!2timothy2:21 ","!2tim2:21 ","!2ti2:21 "]
+  replace: "So if anyone keeps clear of the latter ones, he will be an instrument for an honorable use, sanctified, useful to his owner, prepared for every good work."
+
+- triggers: ["!2timothy2:22 ","!2tim2:22 ","!2ti2:22 "]
+  replace: "So flee from youthful desires, but pursue righteousness, faith, love, peace, along with those who call on the Lord out of a clean heart."
+
+- triggers: ["!2timothy2:23 ","!2tim2:23 ","!2ti2:23 "]
+  replace: "Further, reject foolish and ignorant debates, knowing that they produce fights."
+
+- triggers: ["!2timothy2:24 ","!2tim2:24 ","!2ti2:24 "]
+  replace: "For a slave of the Lord does not need to fight, but needs to be gentle toward all, qualified to teach, showing restraint when wronged,"
+
+- triggers: ["!2timothy2:25 ","!2tim2:25 ","!2ti2:25 "]
+  replace: "instructing with mildness those not favorably disposed. Perhaps God may give them repentance leading to an accurate knowledge of truth,"
+
+- triggers: ["!2timothy2:26 ","!2tim2:26 ","!2ti2:26 "]
+  replace: "and they may come to their senses and escape from the snare of the Devil, seeing that they have been caught alive by him to do his will."
+
+- triggers: ["!2timothy3:1 ","!2tim3:1 ","!2ti3:1 "]
+  replace: "But know this, that in the last days critical times hard to deal with will be here."
+
+- triggers: ["!2timothy3:2 ","!2tim3:2 ","!2ti3:2 "]
+  replace: "For men will be lovers of themselves, lovers of money, boastful, haughty, blasphemers, disobedient to parents, unthankful, disloyal,"
+
+- triggers: ["!2timothy3:3 ","!2tim3:3 ","!2ti3:3 "]
+  replace: "having no natural affection, not open to any agreement, slanderers, without self-control, fierce, without love of goodness,"
+
+- triggers: ["!2timothy3:4 ","!2tim3:4 ","!2ti3:4 "]
+  replace: "betrayers, headstrong, puffed up with pride, lovers of pleasures rather than lovers of God,"
+
+- triggers: ["!2timothy3:5 ","!2tim3:5 ","!2ti3:5 "]
+  replace: "having an appearance of godliness but proving false to its power; and from these turn away."
+
+- triggers: ["!2timothy3:6 ","!2tim3:6 ","!2ti3:6 "]
+  replace: "From among these arise men who slyly work their way into households and captivate weak women loaded down with sins, led by various desires,"
+
+- triggers: ["!2timothy3:7 ","!2tim3:7 ","!2ti3:7 "]
+  replace: "always learning and yet never able to come to an accurate knowledge of truth."
+
+- triggers: ["!2timothy3:8 ","!2tim3:8 ","!2ti3:8 "]
+  replace: "Now in the way that Janʹnes and Jamʹbres opposed Moses, so these also go on opposing the truth. Such men are completely corrupted in mind, disapproved as regards the faith."
+
+- triggers: ["!2timothy3:9 ","!2tim3:9 ","!2ti3:9 "]
+  replace: "Nevertheless, they will make no further progress, for their folly will be very plain to all, as it was with those two men."
+
+- triggers: ["!2timothy3:10 ","!2tim3:10 ","!2ti3:10 "]
+  replace: "But you have closely followed my teaching, my course of life, my purpose, my faith, my patience, my love, my endurance,"
+
+- triggers: ["!2timothy3:11 ","!2tim3:11 ","!2ti3:11 "]
+  replace: "the persecutions and sufferings such as I experienced in Antioch, in Icoʹnium, in Lysʹtra. I endured these persecutions, and the Lord rescued me from them all."
+
+- triggers: ["!2timothy3:12 ","!2tim3:12 ","!2ti3:12 "]
+  replace: "In fact, all those desiring to live with godly devotion in association with Christ Jesus will also be persecuted."
+
+- triggers: ["!2timothy3:13 ","!2tim3:13 ","!2ti3:13 "]
+  replace: "But wicked men and impostors will advance from bad to worse, misleading and being misled."
+
+- triggers: ["!2timothy3:14 ","!2tim3:14 ","!2ti3:14 "]
+  replace: "You, however, continue in the things that you learned and were persuaded to believe, knowing from whom you learned them"
+
+- triggers: ["!2timothy3:15 ","!2tim3:15 ","!2ti3:15 "]
+  replace: "and that from infancy you have known the holy writings, which are able to make you wise for salvation through faith in Christ Jesus."
+
+- triggers: ["!2timothy3:16 ","!2tim3:16 ","!2ti3:16 "]
+  replace: "All Scripture is inspired of God and beneficial for teaching, for reproving, for setting things straight, for disciplining in righteousness,"
+
+- triggers: ["!2timothy3:17 ","!2tim3:17 ","!2ti3:17 "]
+  replace: "so that the man of God may be fully competent, completely equipped for every good work."
+
+- triggers: ["!2timothy4:1 ","!2tim4:1 ","!2ti4:1 "]
+  replace: "I solemnly charge you before God and Christ Jesus, who is to judge the living and the dead, and by his manifestation and his Kingdom:"
+
+- triggers: ["!2timothy4:2 ","!2tim4:2 ","!2ti4:2 "]
+  replace: "Preach the word; be at it urgently in favorable times and difficult times; reprove, reprimand, exhort, with all patience and art of teaching."
+
+- triggers: ["!2timothy4:3 ","!2tim4:3 ","!2ti4:3 "]
+  replace: "For there will be a period of time when they will not put up with the wholesome teaching, but according to their own desires, they will surround themselves with teachers to have their ears tickled."
+
+- triggers: ["!2timothy4:4 ","!2tim4:4 ","!2ti4:4 "]
+  replace: "They will turn away from listening to the truth and give attention to false stories."
+
+- triggers: ["!2timothy4:5 ","!2tim4:5 ","!2ti4:5 "]
+  replace: "You, though, keep your senses in all things, endure hardship, do the work of an evangelizer, fully accomplish your ministry."
+
+- triggers: ["!2timothy4:6 ","!2tim4:6 ","!2ti4:6 "]
+  replace: "For I am already being poured out like a drink offering, and the time for my releasing is imminent."
+
+- triggers: ["!2timothy4:7 ","!2tim4:7 ","!2ti4:7 "]
+  replace: "I have fought the fine fight, I have run the race to the finish, I have observed the faith."
+
+- triggers: ["!2timothy4:8 ","!2tim4:8 ","!2ti4:8 "]
+  replace: "From this time on, there is reserved for me the crown of righteousness, which the Lord, the righteous judge, will give me as a reward in that day, yet not to me only, but also to all those who have loved his manifestation."
+
+- triggers: ["!2timothy4:9 ","!2tim4:9 ","!2ti4:9 "]
+  replace: "Do your utmost to come to me shortly."
+
+- triggers: ["!2timothy4:10 ","!2tim4:10 ","!2ti4:10 "]
+  replace: "For Deʹmas has forsaken me because he loved the present system of things, and he has gone to Thessaloniʹca, Cresʹcens to Galaʹtia, Titus to Dalmaʹtia."
+
+- triggers: ["!2timothy4:11 ","!2tim4:11 ","!2ti4:11 "]
+  replace: "Only Luke is with me. Bring Mark along with you, for he is helpful to me in the ministry."
+
+- triggers: ["!2timothy4:12 ","!2tim4:12 ","!2ti4:12 "]
+  replace: "But I have sent Tychʹicus off to Ephʹesus."
+
+- triggers: ["!2timothy4:13 ","!2tim4:13 ","!2ti4:13 "]
+  replace: "When you come, bring the cloak I left at Troʹas with Carpus, and the scrolls, especially the parchments."
+
+- triggers: ["!2timothy4:14 ","!2tim4:14 ","!2ti4:14 "]
+  replace: "Alexander the coppersmith did me a great deal of harm. Jehovah will repay him according to his deeds."
+
+- triggers: ["!2timothy4:15 ","!2tim4:15 ","!2ti4:15 "]
+  replace: "You too should be on guard against him, for he opposed our message to an excessive degree."
+
+- triggers: ["!2timothy4:16 ","!2tim4:16 ","!2ti4:16 "]
+  replace: "In my first defense no one came to my side, but they all forsook me-may they not be held accountable."
+
+- triggers: ["!2timothy4:17 ","!2tim4:17 ","!2ti4:17 "]
+  replace: "But the Lord stood near me and infused power into me, so that through me the preaching might be fully accomplished and all the nations might hear it; and I was rescued from the lion's mouth."
+
+- triggers: ["!2timothy4:18 ","!2tim4:18 ","!2ti4:18 "]
+  replace: "The Lord will rescue me from every wicked work and will save me for his heavenly Kingdom. To him be the glory forever and ever. Amen."
+
+- triggers: ["!2timothy4:19 ","!2tim4:19 ","!2ti4:19 "]
+  replace: "Give my greetings to Prisʹca and Aqʹuila and the household of Onesiphʹorus."
+
+- triggers: ["!2timothy4:20 ","!2tim4:20 ","!2ti4:20 "]
+  replace: "Erasʹtus stayed in Corinth, but I left Trophʹimus sick at Mileʹtus."
+
+- triggers: ["!2timothy4:21 ","!2tim4:21 ","!2ti4:21 "]
+  replace: "Do your utmost to arrive before winter. Eubuʹlus sends you his greetings, and so do Puʹdens and Liʹnus and Clauʹdia and all the brothers."
+
+- triggers: ["!2timothy4:22 ","!2tim4:22 ","!2ti4:22 "]
+  replace: "The Lord be with the spirit you show. His undeserved kindness be with you."
+

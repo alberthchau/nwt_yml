@@ -1,0 +1,142 @@
+matches:
+- triggers: ["!2th1:1 ","!2thess1:1 "]
+  replace: "Paul, Silvaʹnus, and Timothy, to the congregation of the Thessaloʹnians in union with God our Father and the Lord Jesus Christ:"
+
+- triggers: ["!2th1:2 ","!2thess1:2 "]
+  replace: "May you have undeserved kindness and peace from God the Father and the Lord Jesus Christ."
+
+- triggers: ["!2th1:3 ","!2thess1:3 "]
+  replace: "We are obligated always to give thanks to God for you, brothers. This is fitting, because your faith is growing exceedingly and the love of each and every one of you is increasing toward one another."
+
+- triggers: ["!2th1:4 ","!2thess1:4 "]
+  replace: "As a result we ourselves take pride in you among the congregations of God because of your endurance and faith in all your persecutions and the hardships that you are suffering."
+
+- triggers: ["!2th1:5 ","!2thess1:5 "]
+  replace: "This is a proof of the righteous judgment of God, leading to your being counted worthy of the Kingdom of God, for which you are indeed suffering."
+
+- triggers: ["!2th1:6 ","!2thess1:6 "]
+  replace: "This takes into account that it is righteous on God's part to repay tribulation to those who make tribulation for you."
+
+- triggers: ["!2th1:7 ","!2thess1:7 "]
+  replace: "But you who suffer tribulation will be given relief along with us at the revelation of the Lord Jesus from heaven with his powerful angels"
+
+- triggers: ["!2th1:8 ","!2thess1:8 "]
+  replace: "in a flaming fire, as he brings vengeance on those who do not know God and those who do not obey the good news about our Lord Jesus."
+
+- triggers: ["!2th1:9 ","!2thess1:9 "]
+  replace: "These very ones will undergo the judicial punishment of everlasting destruction from before the Lord and from the glory of his strength,"
+
+- triggers: ["!2th1:10 ","!2thess1:10 "]
+  replace: "at the time when he comes to be glorified in connection with his holy ones and to be regarded in that day with wonder among all those who exercised faith, because the witness we gave met with faith among you."
+
+- triggers: ["!2th1:11 ","!2thess1:11 "]
+  replace: "To that very end we always pray for you, that our God may count you worthy of his calling and with his power perform completely all the good that he pleases and every work of faith."
+
+- triggers: ["!2th1:12 ","!2thess1:12 "]
+  replace: "This is so that the name of our Lord Jesus may be glorified in you and you in union with him, according to the undeserved kindness of our God and of the Lord Jesus Christ."
+
+- triggers: ["!2th2:1 ","!2thess2:1 "]
+  replace: "However, brothers, concerning the presence of our Lord Jesus Christ and our being gathered together to him, we ask you"
+
+- triggers: ["!2th2:2 ","!2thess2:2 "]
+  replace: "not to be quickly shaken from your reason nor to be alarmed either by an inspired statement or by a spoken message or by a letter appearing to be from us, to the effect that the day of Jehovah is here."
+
+- triggers: ["!2th2:3 ","!2thess2:3 "]
+  replace: "Let no one lead you astray in any way, because it will not come unless the apostasy comes first and the man of lawlessness gets revealed, the son of destruction."
+
+- triggers: ["!2th2:4 ","!2thess2:4 "]
+  replace: "He stands in opposition and exalts himself above every so-called god or object of worship, so that he sits down in the temple of God, publicly showing himself to be a god."
+
+- triggers: ["!2th2:5 ","!2thess2:5 "]
+  replace: "Do you not remember that when I was still with you, I used to tell you these things?"
+
+- triggers: ["!2th2:6 ","!2thess2:6 "]
+  replace: "And now you know what is acting as a restraint, so that he will be revealed in his own due time."
+
+- triggers: ["!2th2:7 ","!2thess2:7 "]
+  replace: "True, the mystery of this lawlessness is already at work, but only until the one who is right now acting as a restraint is out of the way."
+
+- triggers: ["!2th2:8 ","!2thess2:8 "]
+  replace: "Then, indeed, the lawless one will be revealed, whom the Lord Jesus will do away with by the spirit of his mouth and bring to nothing by the manifestation of his presence."
+
+- triggers: ["!2th2:9 ","!2thess2:9 "]
+  replace: "But the lawless one's presence is by the operation of Satan with every powerful work and lying signs and wonders"
+
+- triggers: ["!2th2:10 ","!2thess2:10 "]
+  replace: "and every unrighteous deception for those who are perishing, as a retribution because they did not accept the love of the truth in order that they might be saved."
+
+- triggers: ["!2th2:11 ","!2thess2:11 "]
+  replace: "That is why God lets a deceptive influence mislead them so that they may come to believe the lie,"
+
+- triggers: ["!2th2:12 ","!2thess2:12 "]
+  replace: "in order that they all may be judged because they did not believe the truth but took pleasure in unrighteousness."
+
+- triggers: ["!2th2:13 ","!2thess2:13 "]
+  replace: "However, we are obligated always to thank God for you, brothers loved by Jehovah, because from the beginning God selected you for salvation by sanctifying you with his spirit and by your faith in the truth."
+
+- triggers: ["!2th2:14 ","!2thess2:14 "]
+  replace: "He called you to this through the good news we declare, so that you may acquire the glory of our Lord Jesus Christ."
+
+- triggers: ["!2th2:15 ","!2thess2:15 "]
+  replace: "So, then, brothers, stand firm and maintain your hold on the traditions that you were taught, whether it was by a spoken message or by a letter from us."
+
+- triggers: ["!2th2:16 ","!2thess2:16 "]
+  replace: "Moreover, may our Lord Jesus Christ himself and God our Father, who loved us and gave everlasting comfort and good hope by means of undeserved kindness,"
+
+- triggers: ["!2th2:17 ","!2thess2:17 "]
+  replace: "comfort your hearts and make you firm in every good deed and word."
+
+- triggers: ["!2th3:1 ","!2thess3:1 "]
+  replace: "Finally, brothers, carry on prayer for us, that the word of Jehovah may keep spreading rapidly and being glorified, just as it is with you,"
+
+- triggers: ["!2th3:2 ","!2thess3:2 "]
+  replace: "and that we may be rescued from harmful and wicked men, for faith is not a possession of all people."
+
+- triggers: ["!2th3:3 ","!2thess3:3 "]
+  replace: "But the Lord is faithful, and he will strengthen you and protect you from the wicked one."
+
+- triggers: ["!2th3:4 ","!2thess3:4 "]
+  replace: "Moreover, we have confidence in the Lord regarding you, that you are carrying out and will go on carrying out our instructions."
+
+- triggers: ["!2th3:5 ","!2thess3:5 "]
+  replace: "May the Lord continue to guide your hearts successfully to the love of God and to the endurance for the Christ."
+
+- triggers: ["!2th3:6 ","!2thess3:6 "]
+  replace: "Now we are giving you instructions, brothers, in the name of our Lord Jesus Christ, to withdraw from every brother who is walking disorderly and not according to the tradition that you received from us."
+
+- triggers: ["!2th3:7 ","!2thess3:7 "]
+  replace: "For you yourselves know how you should imitate us, because we did not behave in a disorderly way among you,"
+
+- triggers: ["!2th3:8 ","!2thess3:8 "]
+  replace: "nor did we eat anyone's food free. On the contrary, by labor and toil we were working night and day so as not to impose an expensive burden on any one of you."
+
+- triggers: ["!2th3:9 ","!2thess3:9 "]
+  replace: "Not that we do not have authority, but we wanted to offer ourselves as an example for you to imitate."
+
+- triggers: ["!2th3:10 ","!2thess3:10 "]
+  replace: "In fact, when we were with you, we used to give you this order: 'If anyone does not want to work, neither let him eat.'"
+
+- triggers: ["!2th3:11 ","!2thess3:11 "]
+  replace: "For we hear that some are walking disorderly among you, not working at all, but meddling with what does not concern them."
+
+- triggers: ["!2th3:12 ","!2thess3:12 "]
+  replace: "To such people we give the order and exhortation in the Lord Jesus Christ that they should work quietly and eat food they themselves earn."
+
+- triggers: ["!2th3:13 ","!2thess3:13 "]
+  replace: "For your part, brothers, do not give up in doing good."
+
+- triggers: ["!2th3:14 ","!2thess3:14 "]
+  replace: "But if anyone is not obedient to our word through this letter, keep this one marked and stop associating with him, so that he may become ashamed."
+
+- triggers: ["!2th3:15 ","!2thess3:15 "]
+  replace: "And yet do not consider him an enemy, but continue admonishing him as a brother."
+
+- triggers: ["!2th3:16 ","!2thess3:16 "]
+  replace: "Now may the Lord of peace himself give you peace constantly in every way. May the Lord be with all of you."
+
+- triggers: ["!2th3:17 ","!2thess3:17 "]
+  replace: "Here is my greeting, Paul's, in my own hand, which is a sign in every letter; this is the way I write."
+
+- triggers: ["!2th3:18 ","!2thess3:18 "]
+  replace: "The undeserved kindness of our Lord Jesus Christ be with all of you."
+

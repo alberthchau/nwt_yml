@@ -1,0 +1,142 @@
+matches:
+- triggers: ["!nahum1:1 ","!nah1:1 ","!na1:1 "]
+  replace: "A pronouncement against Ninʹeveh: The book of the vision of Naʹhum the Elʹkoshite:"
+
+- triggers: ["!nahum1:2 ","!nah1:2 ","!na1:2 "]
+  replace: "Jehovah is a God who requires exclusive devotion and takes vengeance; Jehovah takes vengeance and is ready to express his wrath. Jehovah takes vengeance against his foes, And he stores up wrath for his enemies."
+
+- triggers: ["!nahum1:3 ","!nah1:3 ","!na1:3 "]
+  replace: "Jehovah is slow to anger and great in power, But by no means will Jehovah hold back due punishment. His path is in destructive wind and storm, And the clouds are the dust of his feet."
+
+- triggers: ["!nahum1:4 ","!nah1:4 ","!na1:4 "]
+  replace: "He rebukes the sea, and he dries it up; And he makes all the rivers run dry. Baʹshan and Carʹmel wither, And the blossoms of Lebʹanon wither."
+
+- triggers: ["!nahum1:5 ","!nah1:5 ","!na1:5 "]
+  replace: "Mountains quake because of him, And the hills melt. The earth will be in an upheaval because of his face, Along with the land and all those dwelling in it."
+
+- triggers: ["!nahum1:6 ","!nah1:6 ","!na1:6 "]
+  replace: "Who can stand before his indignation? And who can withstand the heat of his anger? His wrath will be poured out like fire, And the rocks will be shattered because of him."
+
+- triggers: ["!nahum1:7 ","!nah1:7 ","!na1:7 "]
+  replace: "Jehovah is good, a stronghold in the day of distress. He is mindful of those seeking refuge in him."
+
+- triggers: ["!nahum1:8 ","!nah1:8 ","!na1:8 "]
+  replace: "With a sweeping flood he will make a complete extermination of her place, And darkness will pursue his enemies."
+
+- triggers: ["!nahum1:9 ","!nah1:9 ","!na1:9 "]
+  replace: "What will you plot against Jehovah? He is causing a complete extermination. Distress will not arise a second time."
+
+- triggers: ["!nahum1:10 ","!nah1:10 ","!na1:10 "]
+  replace: "For they are interwoven like thorns, And they are like those drunk with beer; But they will be consumed like dry stubble."
+
+- triggers: ["!nahum1:11 ","!nah1:11 ","!na1:11 "]
+  replace: "From you will come one who plots evil against Jehovah, Giving worthless advice."
+
+- triggers: ["!nahum1:12 ","!nah1:12 ","!na1:12 "]
+  replace: "This is what Jehovah says: “Though they were at full strength and numerous, Even so they will be cut down and will pass away. I have afflicted you, but I will afflict you no more."
+
+- triggers: ["!nahum1:13 ","!nah1:13 ","!na1:13 "]
+  replace: "And now I will break his yoke bar from off you, And I will tear your bonds in two."
+
+- triggers: ["!nahum1:14 ","!nah1:14 ","!na1:14 "]
+  replace: "Jehovah has commanded concerning you, ‘Your name will not be perpetuated further. I will do away with the carved images and metal statues from the house of your gods. I will make a grave for you, because you are contemptible.’"
+
+- triggers: ["!nahum1:15 ","!nah1:15 ","!na1:15 "]
+  replace: "Look! On the mountains are the feet of one bringing good news, The one proclaiming peace. Celebrate your festivals, O Judah, pay your vows, For the worthless one will never pass through you again. He will be utterly destroyed.”"
+
+- triggers: ["!nahum2:1 ","!nah2:1 ","!na2:1 "]
+  replace: "One who scatters has come up against you. Guard the fortifications. Keep watch over the road. Brace yourselves and muster all your strength."
+
+- triggers: ["!nahum2:2 ","!nah2:2 ","!na2:2 "]
+  replace: "For Jehovah will restore the pride of Jacob, Along with the pride of Israel, For the devastators have devastated them; And they have ruined their shoots."
+
+- triggers: ["!nahum2:3 ","!nah2:3 ","!na2:3 "]
+  replace: "The shields of his mighty men are dyed red, His warriors are dressed in crimson. The iron fittings of his war chariots flash like fire In the day he prepares for battle, And the juniper spears are brandished."
+
+- triggers: ["!nahum2:4 ","!nah2:4 ","!na2:4 "]
+  replace: "The war chariots race madly through the streets. They rush up and down the public squares. They shine like burning torches and flash like lightning."
+
+- triggers: ["!nahum2:5 ","!nah2:5 ","!na2:5 "]
+  replace: "He will summon his officers. They will stumble as they advance. They rush to her wall; They set up the barricade."
+
+- triggers: ["!nahum2:6 ","!nah2:6 ","!na2:6 "]
+  replace: "The gates of the rivers will be opened, And the palace will be dissolved."
+
+- triggers: ["!nahum2:7 ","!nah2:7 ","!na2:7 "]
+  replace: "It has been decreed: She is exposed, She is carried away, and her slave girls moan; They sound like doves as they beat their breasts."
+
+- triggers: ["!nahum2:8 ","!nah2:8 ","!na2:8 "]
+  replace: "Throughout her days Ninʹeveh was like a pool of waters, But now they are fleeing. “Stand still! Stand still!” But no one is turning back."
+
+- triggers: ["!nahum2:9 ","!nah2:9 ","!na2:9 "]
+  replace: "Plunder silver, plunder gold! There is no end to the treasures. It is stocked with all sorts of precious things."
+
+- triggers: ["!nahum2:10 ","!nah2:10 ","!na2:10 "]
+  replace: "The city is empty, desolate, devastated! Their hearts melt in fear, their knees buckle, their hips tremble; All their faces are flushed."
+
+- triggers: ["!nahum2:11 ","!nah2:11 ","!na2:11 "]
+  replace: "Where is the lair of lions, where the young lions feed, Where the lion goes out leading its cub, With no one to make them afraid?"
+
+- triggers: ["!nahum2:12 ","!nah2:12 ","!na2:12 "]
+  replace: "The lion tore apart enough prey for his cubs And strangled for his lionesses. He kept his dens filled with prey, His lairs with torn animals."
+
+- triggers: ["!nahum2:13 ","!nah2:13 ","!na2:13 "]
+  replace: "“Look! I am against you,” declares Jehovah of armies, “I will burn up her war chariots in smoke, And the sword will devour your young lions. I will cut off your prey from the earth, And the sound of your messengers will be heard no more.”"
+
+- triggers: ["!nahum3:1 ","!nah3:1 ","!na3:1 "]
+  replace: "Woe to the city of bloodshed! She is completely full of deception and robbery. She is never without prey!"
+
+- triggers: ["!nahum3:2 ","!nah3:2 ","!na3:2 "]
+  replace: "There is the crack of the whip and the rattle of wheels, The dashing horse and the bounding chariot."
+
+- triggers: ["!nahum3:3 ","!nah3:3 ","!na3:3 "]
+  replace: "The mounted horseman, the flashing sword, and the glittering spear, The multitude of the slain and the heaps of carcasses —There is no end to the dead bodies. They keep stumbling over the dead bodies."
+
+- triggers: ["!nahum3:4 ","!nah3:4 ","!na3:4 "]
+  replace: "This is because of the many acts of prostitution of the prostitute, She who is attractive and charming, a mistress of sorceries, Who ensnares nations by her prostitution and families by her sorceries."
+
+- triggers: ["!nahum3:5 ","!nah3:5 ","!na3:5 "]
+  replace: "“Look! I am against you,” declares Jehovah of armies, “I will lift your skirts up over your face; I will cause nations to see your nakedness, And kingdoms your disgrace."
+
+- triggers: ["!nahum3:6 ","!nah3:6 ","!na3:6 "]
+  replace: "And I will throw filth on you And make you despicable; I will make a spectacle of you."
+
+- triggers: ["!nahum3:7 ","!nah3:7 ","!na3:7 "]
+  replace: "Everyone who sees you will flee from you and say, ‘Ninʹeveh has been devastated! Who will sympathize with her?’ Where will I find comforters for you?"
+
+- triggers: ["!nahum3:8 ","!nah3:8 ","!na3:8 "]
+  replace: "Are you better than No-aʹmon, which sat by the Nile canals? Waters surrounded her; Her wealth was the sea and her wall was the sea."
+
+- triggers: ["!nahum3:9 ","!nah3:9 ","!na3:9 "]
+  replace: "Ethioʹpia was her source of boundless strength, also Egypt. Put and the Libʹyans were your helpers."
+
+- triggers: ["!nahum3:10 ","!nah3:10 ","!na3:10 "]
+  replace: "But even she became an exile; She went into captivity. Her children also were dashed to pieces on every street corner. They cast lots over her honored men, And all her great men have been bound with fetters."
+
+- triggers: ["!nahum3:11 ","!nah3:11 ","!na3:11 "]
+  replace: "You will also become drunk; You will go into hiding. You will seek refuge from the enemy."
+
+- triggers: ["!nahum3:12 ","!nah3:12 ","!na3:12 "]
+  replace: "All your fortifications are like fig trees with the first ripe fruits; If they are shaken, they will fall into the mouth of devourers."
+
+- triggers: ["!nahum3:13 ","!nah3:13 ","!na3:13 "]
+  replace: "Look! Your troops are like women in your midst. The gates of your land will be wide open for your enemies. Fire will consume the bars of your gates."
+
+- triggers: ["!nahum3:14 ","!nah3:14 ","!na3:14 "]
+  replace: "Draw water for the siege! Strengthen your fortifications. Go down into the mire and tread the clay; Grab hold of the brick mold."
+
+- triggers: ["!nahum3:15 ","!nah3:15 ","!na3:15 "]
+  replace: "Even there fire will consume you. A sword will cut you down. It will devour you as the young locusts do. Make yourself as numerous as the young locusts! Yes, make yourself as numerous as the locusts!"
+
+- triggers: ["!nahum3:16 ","!nah3:16 ","!na3:16 "]
+  replace: "You have multiplied your merchants more than the stars of the heavens. The young locust strips off its skin and flies away."
+
+- triggers: ["!nahum3:17 ","!nah3:17 ","!na3:17 "]
+  replace: "Your guards are like the locust, And your officers like a locust swarm. They camp in the stone pens on a cold day, But when the sun shines, they fly away; And no one knows where they are."
+
+- triggers: ["!nahum3:18 ","!nah3:18 ","!na3:18 "]
+  replace: "Your shepherds are drowsy, O king of Assyrʹia; Your nobles stay in their residences. Your people are scattered on the mountains, And no one is gathering them together."
+
+- triggers: ["!nahum3:19 ","!nah3:19 ","!na3:19 "]
+  replace: "There is no relief for your catastrophe. Your wound is beyond healing. All those hearing the report about you will clap their hands; For who has not suffered from your relentless cruelty?”"
+

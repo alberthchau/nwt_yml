@@ -1,0 +1,64 @@
+matches:
+- triggers: ["!obadiah1:1 ","!obad1:1 ","!ob1:1 "]
+  replace: "The vision of Obadiʹah: This is what the Sovereign Lord Jehovah says regarding Eʹdom: “We have heard a report from Jehovah, An envoy has been sent among the nations: ‘Rise up, let us prepare for battle against her.’”"
+
+- triggers: ["!obadiah1:2 ","!obad1:2 ","!ob1:2 "]
+  replace: "“Look! I have made you insignificant among the nations; You are utterly despised."
+
+- triggers: ["!obadiah1:3 ","!obad1:3 ","!ob1:3 "]
+  replace: "The presumptuousness of your heart has deceived you, You who reside in the retreats of the crag, Dwelling in the height, saying in your heart, ‘Who will bring me down to the earth?’"
+
+- triggers: ["!obadiah1:4 ","!obad1:4 ","!ob1:4 "]
+  replace: "Even if you make your dwelling high like the eagle, Or if you place your nest among the stars, I would bring you down from there,” declares Jehovah."
+
+- triggers: ["!obadiah1:5 ","!obad1:5 ","!ob1:5 "]
+  replace: "“If thieves would come to you, robbers by night, (How utterly you will be destroyed!) Would they not steal only what they wanted? Or if it were grape gatherers who would come to you, Would they not leave some gleanings behind?"
+
+- triggers: ["!obadiah1:6 ","!obad1:6 ","!ob1:6 "]
+  replace: "O how Eʹsau has been searched out! How his hidden treasures have been sought after!"
+
+- triggers: ["!obadiah1:7 ","!obad1:7 ","!ob1:7 "]
+  replace: "They have driven you to the border. All your allies have deceived you. The men at peace with you have prevailed against you. Those eating bread with you will place a net under you, But you will not discern it."
+
+- triggers: ["!obadiah1:8 ","!obad1:8 ","!ob1:8 "]
+  replace: "In that day,” declares Jehovah, “Will I not destroy the wise ones out of Eʹdom And discernment out of the mountainous region of Eʹsau?"
+
+- triggers: ["!obadiah1:9 ","!obad1:9 ","!ob1:9 "]
+  replace: "And your warriors will become terrified, O Teʹman, Because each one in the mountainous region of Eʹsau will be destroyed in the slaughter."
+
+- triggers: ["!obadiah1:10 ","!obad1:10 ","!ob1:10 "]
+  replace: "Because of the violence done to your brother Jacob, Shame will cover you, And you will perish forever."
+
+- triggers: ["!obadiah1:11 ","!obad1:11 ","!ob1:11 "]
+  replace: "On the day when you stood off to the side, On the day when strangers took his army into captivity, When foreigners entered his gate and cast lots over Jerusalem, You acted like one of them."
+
+- triggers: ["!obadiah1:12 ","!obad1:12 ","!ob1:12 "]
+  replace: "You should not gloat over your brother’s day on the day of his misfortune, You should not rejoice over the people of Judah on the day of their perishing, And you should not speak so arrogantly on the day of their distress."
+
+- triggers: ["!obadiah1:13 ","!obad1:13 ","!ob1:13 "]
+  replace: "You should not come into the gate of my people in the day of their disaster, You should not gloat over his calamity in the day of his disaster, And you should not lay your hands on his wealth in the day of his disaster."
+
+- triggers: ["!obadiah1:14 ","!obad1:14 ","!ob1:14 "]
+  replace: "You should not stand at the crossroads to slaughter his escapees, And you should not hand over his survivors in the day of distress."
+
+- triggers: ["!obadiah1:15 ","!obad1:15 ","!ob1:15 "]
+  replace: "For the day of Jehovah against all the nations is near. As you have done, so it will be done to you. The way you treated others will come back on your own head."
+
+- triggers: ["!obadiah1:16 ","!obad1:16 ","!ob1:16 "]
+  replace: "For in the way that you have drunk on my holy mountain, All the nations will keep drinking constantly. They will drink and gulp down, And they will be as though they had never existed."
+
+- triggers: ["!obadiah1:17 ","!obad1:17 ","!ob1:17 "]
+  replace: "But on Mount Zion will be those who escape, And it will be holy; And the house of Jacob will take possession of the things belonging to them."
+
+- triggers: ["!obadiah1:18 ","!obad1:18 ","!ob1:18 "]
+  replace: "The house of Jacob will become a fire, The house of Joseph a flame, And the house of Eʹsau like stubble; They will set them ablaze and consume them, And there will be no survivor of the house of Eʹsau, For Jehovah himself has spoken."
+
+- triggers: ["!obadiah1:19 ","!obad1:19 ","!ob1:19 "]
+  replace: "They will take possession of the Negʹeb and the mountainous region of Eʹsau, Of the Shepheʹlah and the land of the Philisʹtines. They will take possession of the field of Eʹphraim and the field of Samarʹia, And Benjamin will take possession of Gilʹead."
+
+- triggers: ["!obadiah1:20 ","!obad1:20 ","!ob1:20 "]
+  replace: "To the exiles of this rampart, To the people of Israel will belong the land of the Caʹnaanites as far as Zarʹephath. And the exiles of Jerusalem, who were in Sepharʹad, will possess the cities of the Negʹeb."
+
+- triggers: ["!obadiah1:21 ","!obad1:21 ","!ob1:21 "]
+  replace: "And saviors will go up on Mount Zion To judge the mountainous region of Eʹsau, And the kingship will become Jehovah’s.”"
+

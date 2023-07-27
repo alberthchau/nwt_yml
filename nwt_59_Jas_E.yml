@@ -1,0 +1,325 @@
+matches:
+- triggers: ["!james1:1 ","!jas1:1 "]
+  replace: "James, a slave of God and of the Lord Jesus Christ, to the 1"
+
+- triggers: ["!james1:2 ","!jas1:2 "]
+  replace: "tribes that are scattered about: Greetings! 2 Consider it all joy, my brothers, when you meet with various trials,"
+
+- triggers: ["!james1:3 ","!jas1:3 "]
+  replace: "knowing as you do that this tested quality of your faith produces endurance."
+
+- triggers: ["!james1:4 ","!jas1:4 "]
+  replace: "But let endurance complete its work, so that you may be complete and sound in all respects, not lacking in anything."
+
+- triggers: ["!james1:5 ","!jas1:5 "]
+  replace: "So if any one of you is lacking in wisdom, let him keep asking God, for he gives generously to all and without reproaching, and it will be given him."
+
+- triggers: ["!james1:6 ","!jas1:6 "]
+  replace: "But let him keep asking in faith, not doubting at all, for the one who doubts is like a wave of the sea driven by the wind and blown about."
+
+- triggers: ["!james1:7 ","!jas1:7 "]
+  replace: "In fact, that man should not expect to receive anything from Jehovah;"
+
+- triggers: ["!james1:8 ","!jas1:8 "]
+  replace: "he is an indecisive man, unsteady in all his ways."
+
+- triggers: ["!james1:9 ","!jas1:9 "]
+  replace: "But let the lowly brother rejoice over his exaltation,"
+
+- triggers: ["!james1:10 ","!jas1:10 "]
+  replace: "and the rich one over his humiliation, because like a flower of the field he will pass away."
+
+- triggers: ["!james1:11 ","!jas1:11 "]
+  replace: "For just as the sun rises with its scorching heat and withers the plant, and its flower falls off and its outward beauty perishes, so too the rich man will fade away in the midst of his pursuits."
+
+- triggers: ["!james1:12 ","!jas1:12 "]
+  replace: "Happy is the man who keeps on enduring trial, because on becoming approved he will receive the crown of life, which Jehovah promised to those who continue loving Him."
+
+- triggers: ["!james1:13 ","!jas1:13 "]
+  replace: "When under trial, let no one say: 'I am being tried by God.' For with evil things God cannot be tried, nor does he himself try anyone."
+
+- triggers: ["!james1:14 ","!jas1:14 "]
+  replace: "But each one is tried by being drawn out and enticed by his own desire."
+
+- triggers: ["!james1:15 ","!jas1:15 "]
+  replace: "Then the desire, when it has become fertile, gives birth to sin; in turn sin, when it has been carried out, brings forth death."
+
+- triggers: ["!james1:16 ","!jas1:16 "]
+  replace: "Do not be misled, my beloved brothers."
+
+- triggers: ["!james1:17 ","!jas1:17 "]
+  replace: "Every good gift and every perfect present is from above, coming down from the Father of the celestial lights, who does not vary or change like the shifting shadows."
+
+- triggers: ["!james1:18 ","!jas1:18 "]
+  replace: "It was his will to bring us forth by the word of truth, so that we would become a kind of firstfruits of his creatures."
+
+- triggers: ["!james1:19 ","!jas1:19 "]
+  replace: "Know this, my beloved brothers: Everyone must be quick to listen, slow to speak, slow to anger,"
+
+- triggers: ["!james1:20 ","!jas1:20 "]
+  replace: "for man's anger does not bring about God's righteousness."
+
+- triggers: ["!james1:21 ","!jas1:21 "]
+  replace: "Therefore, put away all filthiness and every trace of badness, and accept with mildness the implanting of the word that is able to save you."
+
+- triggers: ["!james1:22 ","!jas1:22 "]
+  replace: "However, become doers of the word and not hearers only, deceiving yourselves with false reasoning."
+
+- triggers: ["!james1:23 ","!jas1:23 "]
+  replace: "For if anyone is a hearer of the word and not a doer, this one is like a man looking at his own face in a mirror."
+
+- triggers: ["!james1:24 ","!jas1:24 "]
+  replace: "For he looks at himself, and he goes away and immediately forgets what sort of person he is."
+
+- triggers: ["!james1:25 ","!jas1:25 "]
+  replace: "But the one who peers into the perfect law that belongs to freedom and continues in it has become, not a forgetful hearer, but a doer of the work; and he will be happy in what he does."
+
+- triggers: ["!james1:26 ","!jas1:26 "]
+  replace: "If any man thinks he is a worshipper of God but does not keep a tight rein on his tongue, he is deceiving his own heart, and his worship is futile."
+
+- triggers: ["!james1:27 ","!jas1:27 "]
+  replace: "The form of worship that is clean and undefiled from the standpoint of our God and Father is this: to look after orphans and widows in their tribulation, and to keep oneself without spot from the world."
+
+- triggers: ["!james2:1 ","!jas2:1 "]
+  replace: "My brothers, you are not holding to the faith of our glorious Lord Jesus Christ while showing favoritism, are you?"
+
+- triggers: ["!james2:2 ","!jas2:2 "]
+  replace: "For if a man with gold rings on his fingers and in splendid clothing comes into your meeting, but a poor man in filthy clothing also enters,"
+
+- triggers: ["!james2:3 ","!jas2:3 "]
+  replace: "do you look with favor on the one wearing the splendid clothing and say, 'You take this seat here in a fine place,' and do you say to the poor one, 'You keep standing' or, 'Take that seat there under my footstool'?"
+
+- triggers: ["!james2:4 ","!jas2:4 "]
+  replace: "If so, do you not have class distinctions among yourselves, and have you not become judges rendering wicked decisions?"
+
+- triggers: ["!james2:5 ","!jas2:5 "]
+  replace: "Listen, my beloved brothers. Did not God choose those who are poor from the world's standpoint to be rich in faith and heirs of the Kingdom, which he promised to those who love him?"
+
+- triggers: ["!james2:6 ","!jas2:6 "]
+  replace: "But you have dishonored the poor. Is it not the rich who oppress you and drag you before law courts?"
+
+- triggers: ["!james2:7 ","!jas2:7 "]
+  replace: "Do they not blaspheme the fine name by which you were called?"
+
+- triggers: ["!james2:8 ","!jas2:8 "]
+  replace: "If, now, you carry out the royal law according to the scripture, 'You must love your neighbor as yourself,' you are doing quite well."
+
+- triggers: ["!james2:9 ","!jas2:9 "]
+  replace: "But if you continue showing favoritism, you are committing sin, and you are convicted by the law as transgressors."
+
+- triggers: ["!james2:10 ","!jas2:10 "]
+  replace: "For if anyone obeys all the Law but makes a false step in one point, he has become an offender against all of it."
+
+- triggers: ["!james2:11 ","!jas2:11 "]
+  replace: "For the one who said, 'You must not commit adultery,' also said, 'You must not murder.' If, now, you do not commit adultery but you do murder, you have become a transgressor of law."
+
+- triggers: ["!james2:12 ","!jas2:12 "]
+  replace: "Keep on speaking and behaving in such a way as those do who are going to be judged by the law of a free people."
+
+- triggers: ["!james2:13 ","!jas2:13 "]
+  replace: "For the one who does not practice mercy will have his judgment without mercy. Mercy triumphs over judgment."
+
+- triggers: ["!james2:14 ","!jas2:14 "]
+  replace: "Of what benefit is it, my brothers, if someone says he has faith but he does not have works? That faith cannot save him, can it?"
+
+- triggers: ["!james2:15 ","!jas2:15 "]
+  replace: "If any brothers or sisters are lacking clothing and enough food for the day,"
+
+- triggers: ["!james2:16 ","!jas2:16 "]
+  replace: "yet one of you says to them, 'Go in peace; keep warm and well fed,' but you do not give them what they need for their body, of what benefit is it?"
+
+- triggers: ["!james2:17 ","!jas2:17 "]
+  replace: "So, too, faith by itself, without works, is dead."
+
+- triggers: ["!james2:18 ","!jas2:18 "]
+  replace: "Nevertheless, someone will say: 'You have faith, and I have works. Show me your faith without the works, and I will show you my faith by my works.'"
+
+- triggers: ["!james2:19 ","!jas2:19 "]
+  replace: "You believe that there is one God, do you? You are doing quite well. And yet the demons believe and shudder."
+
+- triggers: ["!james2:20 ","!jas2:20 "]
+  replace: "But do you care to know, O empty man, that faith without works is useless?"
+
+- triggers: ["!james2:21 ","!jas2:21 "]
+  replace: "Was not Abraham our father declared righteous by works after he offered up Isaac his son on the altar?"
+
+- triggers: ["!james2:22 ","!jas2:22 "]
+  replace: "You see that his faith was active along with his works and his faith was perfected by his works,"
+
+- triggers: ["!james2:23 ","!jas2:23 "]
+  replace: "and the scripture was fulfilled that says: 'Abraham put faith in Jehovah, and it was counted to him as righteousness,' and he came to be called Jehovah's friend."
+
+- triggers: ["!james2:24 ","!jas2:24 "]
+  replace: "You see that a man is to be declared righteous by works and not by faith alone."
+
+- triggers: ["!james2:25 ","!jas2:25 "]
+  replace: "In the same manner, was not Raʹhab the prostitute also declared righteous by works after she received the messengers hospitably and sent them out by another way?"
+
+- triggers: ["!james2:26 ","!jas2:26 "]
+  replace: "Indeed, just as the body without spirit is dead, so also faith without works is dead."
+
+- triggers: ["!james3:1 ","!jas3:1 "]
+  replace: "Not many of you should become teachers, my brothers, knowing that we will receive heavier judgment."
+
+- triggers: ["!james3:2 ","!jas3:2 "]
+  replace: "For we all stumble many times. If anyone does not stumble in word, he is a perfect man, able to bridle also his whole body."
+
+- triggers: ["!james3:3 ","!jas3:3 "]
+  replace: "If we put bridles in the mouths of horses to make them obey us, we guide also their whole body."
+
+- triggers: ["!james3:4 ","!jas3:4 "]
+  replace: "Look also at ships: Although they are so big and are driven by strong winds, they are steered by a very small rudder wherever the man at the helm is inclined to go."
+
+- triggers: ["!james3:5 ","!jas3:5 "]
+  replace: "So, too, the tongue is a small part of the body, and yet it makes great brags. See how small a fire it takes to set a great forest ablaze!"
+
+- triggers: ["!james3:6 ","!jas3:6 "]
+  replace: "The tongue is also a fire. The tongue represents a world of unrighteousness among our body members, for it defiles all the body and sets the whole course of life on fire, and it is set on fire by Gehenʹna."
+
+- triggers: ["!james3:7 ","!jas3:7 "]
+  replace: "For every kind of wild animal and bird and reptile and sea creature is to be tamed and has been tamed by humans."
+
+- triggers: ["!james3:8 ","!jas3:8 "]
+  replace: "But no human can tame the tongue. It is unruly and injurious, full of deadly poison."
+
+- triggers: ["!james3:9 ","!jas3:9 "]
+  replace: "With it we praise Jehovah, the Father, and yet with it we curse men who have come into existence 'in the likeness of God.'"
+
+- triggers: ["!james3:10 ","!jas3:10 "]
+  replace: "Out of the same mouth come blessing and cursing. My brothers, it is not right for things to happen this way."
+
+- triggers: ["!james3:11 ","!jas3:11 "]
+  replace: "A spring does not cause the fresh water and the bitter water to bubble out of the same opening, does it?"
+
+- triggers: ["!james3:12 ","!jas3:12 "]
+  replace: "My brothers, a fig tree cannot produce olives, or a grapevine figs, can it? Neither can salt water produce fresh water."
+
+- triggers: ["!james3:13 ","!jas3:13 "]
+  replace: "Who is wise and understanding among you? Let him by his fine conduct demonstrate works performed with a mildness that comes from wisdom."
+
+- triggers: ["!james3:14 ","!jas3:14 "]
+  replace: "But if you have bitter jealousy and contentiousness in your hearts, do not be bragging and lying against the truth."
+
+- triggers: ["!james3:15 ","!jas3:15 "]
+  replace: "This is not the wisdom that comes down from above; it is earthly, animalistic, demonic."
+
+- triggers: ["!james3:16 ","!jas3:16 "]
+  replace: "For wherever there are jealousy and contentiousness, there will also be disorder and every vile thing."
+
+- triggers: ["!james3:17 ","!jas3:17 "]
+  replace: "But the wisdom from above is first of all pure, then peaceable, reasonable, ready to obey, full of mercy and good fruits, impartial, not hypocritical."
+
+- triggers: ["!james3:18 ","!jas3:18 "]
+  replace: "Moreover, the fruit of righteousness is sown in peaceful conditions for those who are making peace."
+
+- triggers: ["!james4:1 ","!jas4:1 "]
+  replace: "What is the source of the wars and fights among you? Do they not originate from your fleshly desires that carry on a conflict within you?"
+
+- triggers: ["!james4:2 ","!jas4:2 "]
+  replace: "You desire, and yet you do not have. You go on murdering and coveting, and yet you are not able to obtain. You go on fighting and waging war. You do not have because of your not asking."
+
+- triggers: ["!james4:3 ","!jas4:3 "]
+  replace: "When you do ask, you do not receive because you are asking for a wrong purpose, so that you may spend it on your fleshly desires."
+
+- triggers: ["!james4:4 ","!jas4:4 "]
+  replace: "Adulteresses, do you not know that friendship with the world is enmity with God? Whoever, therefore, wants to be a friend of the world is making himself an enemy of God."
+
+- triggers: ["!james4:5 ","!jas4:5 "]
+  replace: "Or do you think that for no reason the scripture says: 'The spirit that has taken up residence within us keeps enviously longing'?"
+
+- triggers: ["!james4:6 ","!jas4:6 "]
+  replace: "However, the undeserved kindness that He gives is greater. So it says: 'God opposes the haughty ones, but he gives undeserved kindness to the humble ones.'"
+
+- triggers: ["!james4:7 ","!jas4:7 "]
+  replace: "Therefore, subject yourselves to God; but oppose the Devil, and he will flee from you."
+
+- triggers: ["!james4:8 ","!jas4:8 "]
+  replace: "Draw close to God, and he will draw close to you. Cleanse your hands, you sinners, and purify your hearts, you indecisive ones."
+
+- triggers: ["!james4:9 ","!jas4:9 "]
+  replace: "Give way to misery and mourn and weep. Let your laughter be turned into mourning, and your joy into despair."
+
+- triggers: ["!james4:10 ","!jas4:10 "]
+  replace: "Humble yourselves in the eyes of Jehovah, and he will exalt you."
+
+- triggers: ["!james4:11 ","!jas4:11 "]
+  replace: "Stop speaking against one another, brothers. Whoever speaks against a brother or judges his brother speaks against law and judges law. Now if you judge law, you are not a doer of law but a judge."
+
+- triggers: ["!james4:12 ","!jas4:12 "]
+  replace: "There is only one who is Lawgiver and Judge, the one who is able to save and to destroy. But you, who are you to be judging your neighbor?"
+
+- triggers: ["!james4:13 ","!jas4:13 "]
+  replace: "Come, now, you who say: 'Today or tomorrow we will travel to this city and will spend a year there, and we will do business and make some profit,'"
+
+- triggers: ["!james4:14 ","!jas4:14 "]
+  replace: "whereas you do not know what your life will be like tomorrow. For you are a mist that appears for a little while and then disappears."
+
+- triggers: ["!james4:15 ","!jas4:15 "]
+  replace: "Instead, you should say: 'If Jehovah wills, we will live and do this or that.'"
+
+- triggers: ["!james4:16 ","!jas4:16 "]
+  replace: "But now you take pride in your arrogant boasting. All such boasting is wicked."
+
+- triggers: ["!james4:17 ","!jas4:17 "]
+  replace: "Therefore, if someone knows how to do what is right and yet does not do it, it is a sin for him."
+
+- triggers: ["!james5:1 ","!jas5:1 "]
+  replace: "Come, now, you rich men, weep and wail over the miseries that are coming upon you."
+
+- triggers: ["!james5:2 ","!jas5:2 "]
+  replace: "Your riches have rotted, and your clothing has become moth-eaten."
+
+- triggers: ["!james5:3 ","!jas5:3 "]
+  replace: "Your gold and silver have rusted away, and their rust will be a witness against you and will consume your flesh. What you have stored up will be like a fire in the last days."
+
+- triggers: ["!james5:4 ","!jas5:4 "]
+  replace: "Look! The wages you have withheld from the workers who harvested your fields keep crying out, and the cries for help of the reapers have reached the ears of Jehovah of armies."
+
+- triggers: ["!james5:5 ","!jas5:5 "]
+  replace: "You have lived in luxury and for self-gratification on the earth. You have fattened your hearts on the day of slaughter."
+
+- triggers: ["!james5:6 ","!jas5:6 "]
+  replace: "You have condemned; you have murdered the righteous one. Is he not opposing you?"
+
+- triggers: ["!james5:7 ","!jas5:7 "]
+  replace: "Be patient then, brothers, until the presence of the Lord. Look! The farmer keeps waiting for the precious fruit of the earth, exercising patience over it until the early rain and the late rain arrive."
+
+- triggers: ["!james5:8 ","!jas5:8 "]
+  replace: "You too exercise patience; make your hearts firm, because the presence of the Lord has drawn close."
+
+- triggers: ["!james5:9 ","!jas5:9 "]
+  replace: "Do not grumble against one another, brothers, so that you do not get judged. Look! The Judge is standing before the doors."
+
+- triggers: ["!james5:10 ","!jas5:10 "]
+  replace: "Brothers, take as a pattern of the suffering of evil and the exercising of patience the prophets who spoke in the name of Jehovah."
+
+- triggers: ["!james5:11 ","!jas5:11 "]
+  replace: "Look! We consider happy those who have endured. You have heard of the endurance of Job and have seen the outcome Jehovah gave, that Jehovah is very tender in affection and merciful."
+
+- triggers: ["!james5:12 ","!jas5:12 "]
+  replace: "Above all, my brothers, stop swearing, either by heaven or by earth or by any other oath. But let your 'Yes' mean yes and your 'No,' no, so that you do not become liable to judgment."
+
+- triggers: ["!james5:13 ","!jas5:13 "]
+  replace: "Is there anyone suffering hardship among you? Let him carry on prayer. Is there anyone in good spirits? Let him sing psalms."
+
+- triggers: ["!james5:14 ","!jas5:14 "]
+  replace: "Is there anyone sick among you? Let him call the elders of the congregation to him, and let them pray over him, applying oil to him in the name of Jehovah."
+
+- triggers: ["!james5:15 ","!jas5:15 "]
+  replace: "And the prayer of faith will make the sick one well, and Jehovah will raise him up. Also, if he has committed sins, he will be forgiven."
+
+- triggers: ["!james5:16 ","!jas5:16 "]
+  replace: "Therefore, openly confess your sins to one another and pray for one another, so that you may be healed. A righteous man's supplication has a powerful effect."
+
+- triggers: ["!james5:17 ","!jas5:17 "]
+  replace: "Eliʹjah was a man with feelings like ours, and yet when he prayed earnestly for it not to rain, it did not rain on the land for three years and six months."
+
+- triggers: ["!james5:18 ","!jas5:18 "]
+  replace: "Then he prayed again, and the heaven gave rain and the land produced fruit."
+
+- triggers: ["!james5:19 ","!jas5:19 "]
+  replace: "My brothers, if anyone among you is led astray from the truth and another turns him back,"
+
+- triggers: ["!james5:20 ","!jas5:20 "]
+  replace: "know that whoever turns a sinner back from the error of his way will save him from death and will cover a multitude of sins."
+

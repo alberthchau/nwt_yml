@@ -1,0 +1,634 @@
+matches:
+- triggers: ["!zechariah1:1 ","!zec1:1 ","!zech1:1 "]
+  replace: "In the eighth month in the second year of Dariʹus, the word of Jehovah came to the prophet Zechariʹah son of Berechiʹah son of Idʹdo, saying:"
+
+- triggers: ["!zechariah1:2 ","!zec1:2 ","!zech1:2 "]
+  replace: "“Jehovah grew greatly indignant at your fathers."
+
+- triggers: ["!zechariah1:3 ","!zec1:3 ","!zech1:3 "]
+  replace: "“Say to them, ‘This is what Jehovah of armies says: “‘Return to me,’ declares Jehovah of armies, ‘and I will return to you,’ says Jehovah of armies.”’"
+
+- triggers: ["!zechariah1:4 ","!zec1:4 ","!zech1:4 "]
+  replace: "“‘Do not become like your fathers, to whom the former prophets proclaimed: “This is what Jehovah of armies says, ‘Turn away, please, from your evil ways and your evil deeds.’”’ “‘But they did not listen, and they paid no attention to me,’ declares Jehovah."
+
+- triggers: ["!zechariah1:5 ","!zec1:5 ","!zech1:5 "]
+  replace: "“‘Where are your fathers now? And did the prophets live forever?"
+
+- triggers: ["!zechariah1:6 ","!zec1:6 ","!zech1:6 "]
+  replace: "However, my words and my decrees that I commanded my servants, the prophets, caught up with your fathers, did they not?’ So they returned to me and said: ‘Jehovah of armies has dealt with us according to our ways and our deeds, just as he had determined to do.’”"
+
+- triggers: ["!zechariah1:7 ","!zec1:7 ","!zech1:7 "]
+  replace: "On the 24th day of the 11th month, that is, the month of Sheʹbat, in the second year of Dariʹus, the word of Jehovah came to the prophet Zechariʹah son of Berechiʹah son of Idʹdo, saying:"
+
+- triggers: ["!zechariah1:8 ","!zec1:8 ","!zech1:8 "]
+  replace: "“I saw a vision in the night. There was a man riding on a red horse, and he stood still among the myrtle trees in the ravine; and behind him there were red, reddish-brown, and white horses.”"
+
+- triggers: ["!zechariah1:9 ","!zec1:9 ","!zech1:9 "]
+  replace: "So I said: “Who are these, my lord?” The angel who was speaking with me replied: “I will show you who these are.”"
+
+- triggers: ["!zechariah1:10 ","!zec1:10 ","!zech1:10 "]
+  replace: "Then the man who was standing still among the myrtle trees said: “These are the ones whom Jehovah has sent out to walk about in the earth.”"
+
+- triggers: ["!zechariah1:11 ","!zec1:11 ","!zech1:11 "]
+  replace: "And they said to the angel of Jehovah who was standing among the myrtle trees: “We have walked about in the earth, and look! the whole earth is quiet and undisturbed.”"
+
+- triggers: ["!zechariah1:12 ","!zec1:12 ","!zech1:12 "]
+  replace: "So the angel of Jehovah said: “O Jehovah of armies, how long will you withhold your mercy from Jerusalem and the cities of Judah, with whom you have been indignant these 70 years?”"
+
+- triggers: ["!zechariah1:13 ","!zec1:13 ","!zech1:13 "]
+  replace: "Jehovah answered the angel who was speaking with me, with kind and comforting words."
+
+- triggers: ["!zechariah1:14 ","!zec1:14 ","!zech1:14 "]
+  replace: "Then the angel who was speaking with me told me: “Call out, ‘This is what Jehovah of armies says: “I am zealous for Jerusalem and for Zion with a great zeal."
+
+- triggers: ["!zechariah1:15 ","!zec1:15 ","!zech1:15 "]
+  replace: "With great indignation I am indignant with the nations that are at ease, because I felt indignant to a small extent, but they added to the calamity.”’"
+
+- triggers: ["!zechariah1:16 ","!zec1:16 ","!zech1:16 "]
+  replace: "“Therefore this is what Jehovah says: ‘“I will return to Jerusalem with mercy, and my own house will be built in her,” declares Jehovah of armies, “and a measuring line will be stretched out over Jerusalem.”’"
+
+- triggers: ["!zechariah1:17 ","!zec1:17 ","!zech1:17 "]
+  replace: "“Call out once more and say, ‘This is what Jehovah of armies says: “My cities will again overflow with goodness; and Jehovah will again comfort Zion and again choose Jerusalem.”’”"
+
+- triggers: ["!zechariah1:18 ","!zec1:18 ","!zech1:18 "]
+  replace: "Then I looked up and saw four horns."
+
+- triggers: ["!zechariah1:19 ","!zec1:19 ","!zech1:19 "]
+  replace: "So I asked the angel who was speaking with me: “What are these?” He replied: “These are the horns that dispersed Judah, Israel, and Jerusalem.”"
+
+- triggers: ["!zechariah1:20 ","!zec1:20 ","!zech1:20 "]
+  replace: "Jehovah then showed me four craftsmen."
+
+- triggers: ["!zechariah1:21 ","!zec1:21 ","!zech1:21 "]
+  replace: "I asked: “What are these coming to do?” He said: “These are the horns that dispersed Judah to such an extent that no one was able to raise his head. These others will come to terrify them, to cast down the horns of the nations that lifted up their horns against the land of Judah, in order to disperse her.”"
+
+- triggers: ["!zechariah2:1 ","!zec2:1 ","!zech2:1 "]
+  replace: "And I looked up and saw a man with a measuring line in his hand."
+
+- triggers: ["!zechariah2:2 ","!zec2:2 ","!zech2:2 "]
+  replace: "So I asked: “Where are you going?” He replied: “To measure Jerusalem, to see what is her width and what is her length.”"
+
+- triggers: ["!zechariah2:3 ","!zec2:3 ","!zech2:3 "]
+  replace: "And look! the angel who was speaking with me went out, and another angel came to meet him."
+
+- triggers: ["!zechariah2:4 ","!zec2:4 ","!zech2:4 "]
+  replace: "Then he said to him: “Run over there and tell that young man, ‘“Jerusalem will be inhabited as open rural country, because of all the men and livestock within her."
+
+- triggers: ["!zechariah2:5 ","!zec2:5 ","!zech2:5 "]
+  replace: "And I will become to her,” declares Jehovah, “a wall of fire all around, and I will become the glory in her midst.”’”"
+
+- triggers: ["!zechariah2:6 ","!zec2:6 ","!zech2:6 "]
+  replace: "“Come! Come! Flee from the land of the north,” declares Jehovah. “For I have scattered you to the four winds of the heavens,” declares Jehovah."
+
+- triggers: ["!zechariah2:7 ","!zec2:7 ","!zech2:7 "]
+  replace: "“Come, Zion! Make your escape, you who are dwelling with the daughter of Babylon."
+
+- triggers: ["!zechariah2:8 ","!zec2:8 ","!zech2:8 "]
+  replace: "For this is what Jehovah of armies says, who after being glorified has sent me to the nations that were plundering you: ‘Whoever touches you touches the pupil of my eye."
+
+- triggers: ["!zechariah2:9 ","!zec2:9 ","!zech2:9 "]
+  replace: "For now I will wave my hand against them, and they will become plunder for their own slaves.’ And you will certainly know that Jehovah of armies has sent me."
+
+- triggers: ["!zechariah2:10 ","!zec2:10 ","!zech2:10 "]
+  replace: "“Shout for joy, O daughter of Zion; for I am coming, and I will reside in your midst,” declares Jehovah."
+
+- triggers: ["!zechariah2:11 ","!zec2:11 ","!zech2:11 "]
+  replace: "“Many nations will join themselves to Jehovah in that day, and they will become my people; and I will reside in your midst.” And you will have to know that Jehovah of armies has sent me to you."
+
+- triggers: ["!zechariah2:12 ","!zec2:12 ","!zech2:12 "]
+  replace: "Jehovah will take possession of Judah as his portion on the holy ground, and he will again choose Jerusalem."
+
+- triggers: ["!zechariah2:13 ","!zec2:13 ","!zech2:13 "]
+  replace: "Be silent, all flesh, before Jehovah, for he is taking action from his holy dwelling."
+
+- triggers: ["!zechariah3:1 ","!zec3:1 ","!zech3:1 "]
+  replace: "And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan was standing at his right hand to resist him."
+
+- triggers: ["!zechariah3:2 ","!zec3:2 ","!zech3:2 "]
+  replace: "Then the angel of Jehovah said to Satan: “May Jehovah rebuke you, O Satan, yes, may Jehovah, who has chosen Jerusalem, rebuke you! Is not this one a burning log snatched out of the fire?”"
+
+- triggers: ["!zechariah3:3 ","!zec3:3 ","!zech3:3 "]
+  replace: "Now Joshua was clothed in filthy garments and standing before the angel."
+
+- triggers: ["!zechariah3:4 ","!zec3:4 ","!zech3:4 "]
+  replace: "The angel said to those standing before him, “Remove his filthy garments.” Then he said to him, “See, I have caused your error to pass away from you, and you will be clothed with fine garments.”"
+
+- triggers: ["!zechariah3:5 ","!zec3:5 ","!zech3:5 "]
+  replace: "So I said: “Let a clean turban be put on his head.” And they put the clean turban on his head and clothed him with garments; and the angel of Jehovah was standing nearby."
+
+- triggers: ["!zechariah3:6 ","!zec3:6 ","!zech3:6 "]
+  replace: "The angel of Jehovah then declared to Joshua:"
+
+- triggers: ["!zechariah3:7 ","!zec3:7 ","!zech3:7 "]
+  replace: "“This is what Jehovah of armies says, ‘If you will walk in my ways and carry out your responsibilities before me, then you will serve as a judge in my house and take care of my courtyards; and I will give you free access among these who are standing here.’"
+
+- triggers: ["!zechariah3:8 ","!zec3:8 ","!zech3:8 "]
+  replace: "“‘Hear, please, O High Priest Joshua, you and your companions who sit before you, for these men serve as a sign; look! I am bringing in my servant Sprout!"
+
+- triggers: ["!zechariah3:9 ","!zec3:9 ","!zech3:9 "]
+  replace: "See the stone that I have set before Joshua! On the one stone are seven eyes; and I am engraving an inscription on it,’ declares Jehovah of armies, ‘and I will take away the guilt of that land in one day.’"
+
+- triggers: ["!zechariah3:10 ","!zec3:10 ","!zech3:10 "]
+  replace: "“‘In that day,’ declares Jehovah of armies, ‘each of you will invite your neighbor to come under your vine and under your fig tree.’”"
+
+- triggers: ["!zechariah4:1 ","!zec4:1 ","!zech4:1 "]
+  replace: "The angel who had been speaking with me came back and woke me up, as when waking someone from sleep."
+
+- triggers: ["!zechariah4:2 ","!zec4:2 ","!zech4:2 "]
+  replace: "Then he said to me: “What do you see?” So I said: “I see, and look! a lampstand entirely of gold, with a bowl on top of it. There are seven lamps on it, yes, seven, and the lamps, which are at the top of it, have seven pipes."
+
+- triggers: ["!zechariah4:3 ","!zec4:3 ","!zech4:3 "]
+  replace: "And next to it are two olive trees, one on the right of the bowl and one on the left.”"
+
+- triggers: ["!zechariah4:4 ","!zec4:4 ","!zech4:4 "]
+  replace: "Then I asked the angel who was speaking with me: “What do these things mean, my lord?”"
+
+- triggers: ["!zechariah4:5 ","!zec4:5 ","!zech4:5 "]
+  replace: "So the angel who was speaking with me asked: “Do you not know what these things mean?” I replied: “No, my lord.”"
+
+- triggers: ["!zechariah4:6 ","!zec4:6 ","!zech4:6 "]
+  replace: "He then said to me: “This is the word of Jehovah to Zerubʹbabel: ‘“Not by a military force, nor by power, but by my spirit,” says Jehovah of armies."
+
+- triggers: ["!zechariah4:7 ","!zec4:7 ","!zech4:7 "]
+  replace: "Who are you, O great mountain? Before Zerubʹbabel you will become a level land. And he will bring out the top stone amid shouts of: “How wonderful! How wonderful!”’”"
+
+- triggers: ["!zechariah4:8 ","!zec4:8 ","!zech4:8 "]
+  replace: "The word of Jehovah again came to me, saying:"
+
+- triggers: ["!zechariah4:9 ","!zec4:9 ","!zech4:9 "]
+  replace: "“The hands of Zerubʹbabel have laid the foundation of this house, and his own hands will finish it. And you will have to know that Jehovah of armies has sent me to you."
+
+- triggers: ["!zechariah4:10 ","!zec4:10 ","!zech4:10 "]
+  replace: "For who has despised the day of small beginnings? For they will rejoice and see the plumb line in the hand of Zerubʹbabel. These seven are the eyes of Jehovah, which are roving about in all the earth.”"
+
+- triggers: ["!zechariah4:11 ","!zec4:11 ","!zech4:11 "]
+  replace: "Then I asked him: “What is the meaning of these two olive trees on the right and on the left of the lampstand?”"
+
+- triggers: ["!zechariah4:12 ","!zec4:12 ","!zech4:12 "]
+  replace: "I asked him a second time: “What is the meaning of the two bunches of twigs of the olive trees that are pouring out the golden liquid through the two golden tubes?”"
+
+- triggers: ["!zechariah4:13 ","!zec4:13 ","!zech4:13 "]
+  replace: "So he asked me: “Do you not know what these things mean?” I replied: “No, my lord.”"
+
+- triggers: ["!zechariah4:14 ","!zec4:14 ","!zech4:14 "]
+  replace: "He said: “These are the two anointed ones who are standing alongside the Lord of the whole earth.”"
+
+- triggers: ["!zechariah5:1 ","!zec5:1 ","!zech5:1 "]
+  replace: "Again I looked up, and I saw a flying scroll."
+
+- triggers: ["!zechariah5:2 ","!zec5:2 ","!zech5:2 "]
+  replace: "He asked me: “What do you see?” I replied: “I see a flying scroll, which is 20 cubits long and 10 cubits wide.”"
+
+- triggers: ["!zechariah5:3 ","!zec5:3 ","!zech5:3 "]
+  replace: "Then he said to me: “This is the curse that is going out over the face of all the earth, because everyone who steals, as written on its one side, has gone unpunished; and everyone who makes a sworn oath, as written on its other side, has gone unpunished."
+
+- triggers: ["!zechariah5:4 ","!zec5:4 ","!zech5:4 "]
+  replace: "‘I have sent it out,’ declares Jehovah of armies, ‘and it will enter into the house of the thief and into the house of the one who makes a false oath in my name; and it will remain inside that house and consume it and its timbers and its stones.’”"
+
+- triggers: ["!zechariah5:5 ","!zec5:5 ","!zech5:5 "]
+  replace: "Then the angel who was speaking with me came forward and said to me: “Look up, please, and see what is going out.”"
+
+- triggers: ["!zechariah5:6 ","!zec5:6 ","!zech5:6 "]
+  replace: "So I asked: “What is it?” He replied: “This is the eʹphah container that is going out.” He continued: “This is their appearance in all the earth.”"
+
+- triggers: ["!zechariah5:7 ","!zec5:7 ","!zech5:7 "]
+  replace: "And I saw that the round lid of lead was lifted up, and there was a woman sitting inside the container."
+
+- triggers: ["!zechariah5:8 ","!zec5:8 ","!zech5:8 "]
+  replace: "So he said: “This is Wickedness.” Then he threw her back into the eʹphah container, after which he thrust the lead weight over its mouth."
+
+- triggers: ["!zechariah5:9 ","!zec5:9 ","!zech5:9 "]
+  replace: "Then I looked up and saw two women coming forward, and they were soaring in the wind. They had wings like the wings of a stork. And they lifted up the container between the earth and heaven."
+
+- triggers: ["!zechariah5:10 ","!zec5:10 ","!zech5:10 "]
+  replace: "So I asked the angel who was speaking with me: “Where are they taking the eʹphah container?”"
+
+- triggers: ["!zechariah5:11 ","!zec5:11 ","!zech5:11 "]
+  replace: "He replied: “To the land of Shiʹnar to build her a house; and when it is prepared, she will be deposited there in her proper place.”"
+
+- triggers: ["!zechariah6:1 ","!zec6:1 ","!zech6:1 "]
+  replace: "Then I looked up again and saw four chariots coming from between two mountains, and the mountains were of copper."
+
+- triggers: ["!zechariah6:2 ","!zec6:2 ","!zech6:2 "]
+  replace: "The first chariot had red horses, and the second chariot, black horses."
+
+- triggers: ["!zechariah6:3 ","!zec6:3 ","!zech6:3 "]
+  replace: "The third chariot had white horses, and the fourth chariot, speckled and dappled horses."
+
+- triggers: ["!zechariah6:4 ","!zec6:4 ","!zech6:4 "]
+  replace: "I asked the angel who was speaking with me: “What are these, my lord?”"
+
+- triggers: ["!zechariah6:5 ","!zec6:5 ","!zech6:5 "]
+  replace: "The angel answered me: “These are the four spirits of the heavens that are going out after having taken their station before the Lord of the whole earth."
+
+- triggers: ["!zechariah6:6 ","!zec6:6 ","!zech6:6 "]
+  replace: "The one with the black horses is going out to the land of the north; the white ones are going out beyond the sea; and the speckled ones are going out to the land of the south."
+
+- triggers: ["!zechariah6:7 ","!zec6:7 ","!zech6:7 "]
+  replace: "And the dappled ones were eager to go out to walk about through the earth.” Then he said: “Go, walk about through the earth.” And they began walking about through the earth."
+
+- triggers: ["!zechariah6:8 ","!zec6:8 ","!zech6:8 "]
+  replace: "He then called out to me and said: “See, those going out to the land of the north have caused the spirit of Jehovah to rest in the land of the north.”"
+
+- triggers: ["!zechariah6:9 ","!zec6:9 ","!zech6:9 "]
+  replace: "The word of Jehovah again came to me, saying:"
+
+- triggers: ["!zechariah6:10 ","!zec6:10 ","!zech6:10 "]
+  replace: "“Take from Helʹdai, Tobiʹjah, and Jedaʹiah what they brought from the people in exile; and on that day, you must go to the house of Josiʹah the son of Zephaniʹah along with these who have come from Babylon."
+
+- triggers: ["!zechariah6:11 ","!zec6:11 ","!zech6:11 "]
+  replace: "You should take silver and gold and make a crown and put it on the head of Joshua son of Jehozʹadak, the high priest."
+
+- triggers: ["!zechariah6:12 ","!zec6:12 ","!zech6:12 "]
+  replace: "And say to him, “‘This is what Jehovah of armies says: “Here is the man whose name is Sprout. He will sprout from his own place, and he will build the temple of Jehovah."
+
+- triggers: ["!zechariah6:13 ","!zec6:13 ","!zech6:13 "]
+  replace: "He is the one who will build the temple of Jehovah, and he is the one who will assume the majesty. He will sit down on his throne and rule, and he will also be a priest on his throne, and there will be a peaceable agreement between the two."
+
+- triggers: ["!zechariah6:14 ","!zec6:14 ","!zech6:14 "]
+  replace: "And the crown will serve as a memorial for Heʹlem, Tobiʹjah, Jedaʹiah, and Hen the son of Zephaniʹah, in the temple of Jehovah."
+
+- triggers: ["!zechariah6:15 ","!zec6:15 ","!zech6:15 "]
+  replace: "And those who are far away will come and take part in building the temple of Jehovah.” And you will have to know that Jehovah of armies has sent me to you. And it will occur—if you do not fail to listen to the voice of Jehovah your God.’”"
+
+- triggers: ["!zechariah7:1 ","!zec7:1 ","!zech7:1 "]
+  replace: "And in the fourth year of King Dariʹus, the word of Jehovah came to Zechariʹah on the fourth day of the ninth month, that is, the month of Chisʹlev."
+
+- triggers: ["!zechariah7:2 ","!zec7:2 ","!zech7:2 "]
+  replace: "The people of Bethʹel sent Shareʹzer and Reʹgem-melʹech and his men to beg for the favor of Jehovah,"
+
+- triggers: ["!zechariah7:3 ","!zec7:3 ","!zech7:3 "]
+  replace: "saying to the priests of the house of Jehovah of armies and to the prophets: “Should I weep in the fifth month and abstain from food, as I have done for so many years?”"
+
+- triggers: ["!zechariah7:4 ","!zec7:4 ","!zech7:4 "]
+  replace: "The word of Jehovah of armies again came to me, saying:"
+
+- triggers: ["!zechariah7:5 ","!zec7:5 ","!zech7:5 "]
+  replace: "“Say to all the people of the land and to the priests, ‘When you fasted and wailed in the fifth month and in the seventh month for 70 years, did you really fast for me?"
+
+- triggers: ["!zechariah7:6 ","!zec7:6 ","!zech7:6 "]
+  replace: "And when you would eat and drink, were you not eating for yourselves and drinking for yourselves?"
+
+- triggers: ["!zechariah7:7 ","!zec7:7 ","!zech7:7 "]
+  replace: "Should you not obey the words that Jehovah proclaimed through the former prophets, while Jerusalem and her surrounding cities were inhabited and at peace, and while the Negʹeb and the Shepheʹlah were inhabited?’”"
+
+- triggers: ["!zechariah7:8 ","!zec7:8 ","!zech7:8 "]
+  replace: "The word of Jehovah again came to Zechariʹah, saying:"
+
+- triggers: ["!zechariah7:9 ","!zec7:9 ","!zech7:9 "]
+  replace: "“This is what Jehovah of armies says, ‘Judge with true justice, and deal with one another in loyal love and mercy."
+
+- triggers: ["!zechariah7:10 ","!zec7:10 ","!zech7:10 "]
+  replace: "Do not defraud the widow or the fatherless child, the foreigner or the poor; and do not scheme evil against one another in your hearts.’"
+
+- triggers: ["!zechariah7:11 ","!zec7:11 ","!zech7:11 "]
+  replace: "But they kept refusing to pay attention, and they stubbornly turned their backs, and they stopped up their ears so as not to hear."
+
+- triggers: ["!zechariah7:12 ","!zec7:12 ","!zech7:12 "]
+  replace: "They made their heart like a diamond and would not obey the law and the words that Jehovah of armies sent by his spirit through the former prophets. So there came great indignation from Jehovah of armies.”"
+
+- triggers: ["!zechariah7:13 ","!zec7:13 ","!zech7:13 "]
+  replace: "“‘Just as they did not listen when I called, so I would not listen when they called,’ says Jehovah of armies."
+
+- triggers: ["!zechariah7:14 ","!zec7:14 ","!zech7:14 "]
+  replace: "‘And I scattered them with a storm wind throughout all the nations that they had not known, and the land was left desolate behind them, with no one passing through or returning; for they turned the desirable land into an object of horror.’”"
+
+- triggers: ["!zechariah8:1 ","!zec8:1 ","!zech8:1 "]
+  replace: "The word of Jehovah of armies again came, saying:"
+
+- triggers: ["!zechariah8:2 ","!zec8:2 ","!zech8:2 "]
+  replace: "“This is what Jehovah of armies says, ‘I will be zealous for Zion with a great zeal, and with great wrath I will be zealous for her.’”"
+
+- triggers: ["!zechariah8:3 ","!zec8:3 ","!zech8:3 "]
+  replace: "“This is what Jehovah says, ‘I will return to Zion and reside in Jerusalem; and Jerusalem will be called the city of truth, and the mountain of Jehovah of armies, the holy mountain.’”"
+
+- triggers: ["!zechariah8:4 ","!zec8:4 ","!zech8:4 "]
+  replace: "“This is what Jehovah of armies says, ‘Old men and women will again sit in the public squares of Jerusalem, each with his staff in his hand because of his great age."
+
+- triggers: ["!zechariah8:5 ","!zec8:5 ","!zech8:5 "]
+  replace: "And the public squares of the city will be filled with boys and girls playing there.’”"
+
+- triggers: ["!zechariah8:6 ","!zec8:6 ","!zech8:6 "]
+  replace: "“This is what Jehovah of armies says, ‘Although it may seem too difficult to the remaining ones of this people in those days, should it seem too difficult also to me?’ declares Jehovah of armies.”"
+
+- triggers: ["!zechariah8:7 ","!zec8:7 ","!zech8:7 "]
+  replace: "“This is what Jehovah of armies says, ‘Here I am saving my people from the lands of the east and the west."
+
+- triggers: ["!zechariah8:8 ","!zec8:8 ","!zech8:8 "]
+  replace: "And I will bring them in, and they will reside in Jerusalem; and they will become my people, and I will become their God in truth and in righteousness.’”"
+
+- triggers: ["!zechariah8:9 ","!zec8:9 ","!zech8:9 "]
+  replace: "“This is what Jehovah of armies says, ‘Let your hands be strong, you who now hear these words from the mouth of the prophets, the same words that were spoken on the day the foundation of the house of Jehovah of armies was laid for the temple to be built."
+
+- triggers: ["!zechariah8:10 ","!zec8:10 ","!zech8:10 "]
+  replace: "For before that time, there were no wages being paid either for man or for beast; and it was not safe to come and go because of the adversary, for I turned all men one against another.’"
+
+- triggers: ["!zechariah8:11 ","!zec8:11 ","!zech8:11 "]
+  replace: "“‘But now I will not deal with the remaining ones of this people as in the former days,’ declares Jehovah of armies."
+
+- triggers: ["!zechariah8:12 ","!zec8:12 ","!zech8:12 "]
+  replace: "‘For the seed of peace will be sown; the vine will produce its fruit and the earth its yield, and the heavens will give their dew; and I will cause the remaining ones of this people to inherit all these things."
+
+- triggers: ["!zechariah8:13 ","!zec8:13 ","!zech8:13 "]
+  replace: "And just as you became an object of cursing among the nations, O house of Judah and house of Israel, so I will save you, and you will become a blessing. Do not be afraid! Let your hands be strong.’"
+
+- triggers: ["!zechariah8:14 ","!zec8:14 ","!zech8:14 "]
+  replace: "“For this is what Jehovah of armies says, ‘“Just as I had determined to bring calamity on you because your forefathers made me indignant,” says Jehovah of armies, “and I felt no regret,"
+
+- triggers: ["!zechariah8:15 ","!zec8:15 ","!zech8:15 "]
+  replace: "so at this time I have determined to do good to Jerusalem and to the house of Judah. Do not be afraid!”’"
+
+- triggers: ["!zechariah8:16 ","!zec8:16 ","!zech8:16 "]
+  replace: "“‘These are the things you should do: Speak the truth with one another, and the judgments in your gates must promote truth and peace."
+
+- triggers: ["!zechariah8:17 ","!zec8:17 ","!zech8:17 "]
+  replace: "Do not scheme calamity against one another in your hearts, and do not love any false oath; for these are all things that I hate,’ declares Jehovah.”"
+
+- triggers: ["!zechariah8:18 ","!zec8:18 ","!zech8:18 "]
+  replace: "The word of Jehovah of armies again came to me, saying:"
+
+- triggers: ["!zechariah8:19 ","!zec8:19 ","!zech8:19 "]
+  replace: "“This is what Jehovah of armies says, ‘The fast of the fourth month, the fast of the fifth month, the fast of the seventh month, and the fast of the tenth month will be occasions for exultation and joy for the house of Judah—festivals of rejoicing. So love truth and peace.’"
+
+- triggers: ["!zechariah8:20 ","!zec8:20 ","!zech8:20 "]
+  replace: "“This is what Jehovah of armies says, ‘It will yet come to pass that peoples and the inhabitants of many cities will come;"
+
+- triggers: ["!zechariah8:21 ","!zec8:21 ","!zech8:21 "]
+  replace: "and the inhabitants of one city will go to those of another and say: “Let us earnestly go to beg for the favor of Jehovah and to seek Jehovah of armies. I am also going.”"
+
+- triggers: ["!zechariah8:22 ","!zec8:22 ","!zech8:22 "]
+  replace: "And many peoples and mighty nations will come to seek Jehovah of armies in Jerusalem and to beg for the favor of Jehovah.’"
+
+- triggers: ["!zechariah8:23 ","!zec8:23 ","!zech8:23 "]
+  replace: "“This is what Jehovah of armies says, ‘In those days ten men out of all the languages of the nations will take hold, yes, they will take firm hold of the robe of a Jew, saying: “We want to go with you, for we have heard that God is with you people.”’”"
+
+- triggers: ["!zechariah9:1 ","!zec9:1 ","!zech9:1 "]
+  replace: "A pronouncement: “The word of Jehovah is against the land of Haʹdrach, And Damascus is its target —For Jehovah’s eye is on mankind And on all the tribes of Israel—"
+
+- triggers: ["!zechariah9:2 ","!zec9:2 ","!zech9:2 "]
+  replace: "And against Haʹmath, which borders on her, And against Tyre and Siʹdon, for they are so wise."
+
+- triggers: ["!zechariah9:3 ","!zec9:3 ","!zech9:3 "]
+  replace: "Tyre built herself a rampart. She piled up silver like dust And gold like the dirt of the streets."
+
+- triggers: ["!zechariah9:4 ","!zec9:4 ","!zech9:4 "]
+  replace: "Look! Jehovah will take away her possessions, And he will strike down her army into the sea; And she will be consumed in the fire."
+
+- triggers: ["!zechariah9:5 ","!zec9:5 ","!zech9:5 "]
+  replace: "Ashʹkelon will see it and be afraid; Gazʹa will feel great anguish, Also Ekʹron, because her hope is put to shame. A king will perish from Gazʹa, And Ashʹkelon will not be inhabited."
+
+- triggers: ["!zechariah9:6 ","!zec9:6 ","!zech9:6 "]
+  replace: "An illegitimate son will settle in Ashʹdod, And I will do away with the pride of the Philisʹtine."
+
+- triggers: ["!zechariah9:7 ","!zec9:7 ","!zech9:7 "]
+  replace: "I will remove the bloodstained things from his mouth And the disgusting things from between his teeth, And he will be left remaining for our God; And he will become like a sheikh in Judah, And Ekʹron like the Jebʹusite."
+
+- triggers: ["!zechariah9:8 ","!zec9:8 ","!zech9:8 "]
+  replace: "I will encamp as a guard for my house, So that there will be no one passing through and no one returning; And no taskmaster will pass through again, For now I have seen it with my eyes."
+
+- triggers: ["!zechariah9:9 ","!zec9:9 ","!zech9:9 "]
+  replace: "Rejoice greatly, O daughter of Zion. Shout in triumph, O daughter of Jerusalem. Look! Your king is coming to you. He is righteous, bringing salvation, Humble and riding on a donkey, On a colt, the foal of a female donkey."
+
+- triggers: ["!zechariah9:10 ","!zec9:10 ","!zech9:10 "]
+  replace: "I will take away the war chariot from Eʹphraim And the horse from Jerusalem. The battle bow will be taken away. And he will proclaim peace to the nations; His rulership will be from sea to sea And from the River to the ends of the earth."
+
+- triggers: ["!zechariah9:11 ","!zec9:11 ","!zech9:11 "]
+  replace: "As for you, O woman, by the blood of your covenant, I will send your prisoners out of the waterless pit."
+
+- triggers: ["!zechariah9:12 ","!zec9:12 ","!zech9:12 "]
+  replace: "Return to the stronghold, you prisoners with hope. Today I am telling you, ‘I will repay to you, O woman, a double portion."
+
+- triggers: ["!zechariah9:13 ","!zec9:13 ","!zech9:13 "]
+  replace: "For I will bend Judah as my bow. The bow I will fill with Eʹphraim, And I will awaken your sons, O Zion, Against your sons, O Greece, And I will make you like a warrior’s sword.’"
+
+- triggers: ["!zechariah9:14 ","!zec9:14 ","!zech9:14 "]
+  replace: "Jehovah will be seen over them, And his arrow will go out like lightning. The Sovereign Lord Jehovah will sound the horn, And he will advance with the windstorms of the south."
+
+- triggers: ["!zechariah9:15 ","!zec9:15 ","!zech9:15 "]
+  replace: "Jehovah of armies will defend them, And they will devour and subdue the slingstones. They will drink and be boisterous, as if with wine; And they will be filled like the bowl, Like the corners of the altar."
+
+- triggers: ["!zechariah9:16 ","!zec9:16 ","!zech9:16 "]
+  replace: "Jehovah their God will save them in that day As the flock of his people; For they will be like the gemstones of a crown glittering over his soil."
+
+- triggers: ["!zechariah9:17 ","!zec9:17 ","!zech9:17 "]
+  replace: "For how great his goodness is, And how great his handsomeness is! Grain will make the young men thrive, And new wine the virgins.”"
+
+- triggers: ["!zechariah10:1 ","!zec10:1 ","!zech10:1 "]
+  replace: "“Ask Jehovah for rain in the time of the spring rain. It is Jehovah who makes the storm clouds, Who pours rain for them, And gives vegetation in the field to everyone."
+
+- triggers: ["!zechariah10:2 ","!zec10:2 ","!zech10:2 "]
+  replace: "For the teraphim statues have spoken deception; And the diviners have visioned a lie. They speak about worthless dreams, And in vain they try to comfort. That is why they will wander like sheep. They will suffer, for there is no shepherd."
+
+- triggers: ["!zechariah10:3 ","!zec10:3 ","!zech10:3 "]
+  replace: "Against the shepherds my anger burns, And against the oppressive leaders I will hold an accounting; For Jehovah of armies has turned his attention to his flock, to the house of Judah, And he has made them like his majestic horse in the battle."
+
+- triggers: ["!zechariah10:4 ","!zec10:4 ","!zech10:4 "]
+  replace: "From him comes the keyman, From him comes the supporting ruler, From him comes the battle bow; From him goes forth every overseer, all of them together."
+
+- triggers: ["!zechariah10:5 ","!zec10:5 ","!zech10:5 "]
+  replace: "And they will become like warriors, Trampling down the mud of the streets in the battle. They will wage war, for Jehovah is with them; And the riders of horses will be put to shame."
+
+- triggers: ["!zechariah10:6 ","!zec10:6 ","!zech10:6 "]
+  replace: "I will make the house of Judah superior, And the house of Joseph I will save. I will restore them, For I will show them mercy; And they will be as though I had never cast them off; For I am Jehovah their God, and I will answer them."
+
+- triggers: ["!zechariah10:7 ","!zec10:7 ","!zech10:7 "]
+  replace: "Those of Eʹphraim must become like a mighty warrior, And their heart will rejoice as though from wine. Their sons will see this and rejoice; Their heart will be joyful in Jehovah."
+
+- triggers: ["!zechariah10:8 ","!zec10:8 ","!zech10:8 "]
+  replace: "‘I will whistle for them and gather them together; For I will redeem them, and they will become many, And continue to be many."
+
+- triggers: ["!zechariah10:9 ","!zec10:9 ","!zech10:9 "]
+  replace: "Though I scatter them like seed among the peoples, They will remember me in the distant places; With their sons they will revive and return."
+
+- triggers: ["!zechariah10:10 ","!zec10:10 ","!zech10:10 "]
+  replace: "I will bring them back from the land of Egypt And gather them from Assyrʹia; I will bring them to the land of Gilʹead and Lebʹanon, And there will be no more room for them."
+
+- triggers: ["!zechariah10:11 ","!zec10:11 ","!zech10:11 "]
+  replace: "He must pass through the sea with distress; And in the sea he will strike down the waves; All the depths of the Nile will dry up. The pride of Assyrʹia will be brought down, And the scepter of Egypt will depart."
+
+- triggers: ["!zechariah10:12 ","!zec10:12 ","!zech10:12 "]
+  replace: "I will make them superior in Jehovah, And they will walk about in his name,’ declares Jehovah.”"
+
+- triggers: ["!zechariah11:1 ","!zec11:1 ","!zech11:1 "]
+  replace: "“Open your doors, O Lebʹanon, So that a fire may consume your cedars."
+
+- triggers: ["!zechariah11:2 ","!zec11:2 ","!zech11:2 "]
+  replace: "Wail, you juniper, for the cedar has fallen; The majestic trees have been destroyed! Wail, you oaks of Baʹshan, For the dense forest has come down!"
+
+- triggers: ["!zechariah11:3 ","!zec11:3 ","!zech11:3 "]
+  replace: "Listen! The wailing of shepherds, For their majesty has been devastated. Listen! The roaring of young lions, For the dense thickets along the Jordan have been destroyed."
+
+- triggers: ["!zechariah11:4 ","!zec11:4 ","!zech11:4 "]
+  replace: "“This is what Jehovah my God says, ‘Shepherd the flock meant for the slaughter,"
+
+- triggers: ["!zechariah11:5 ","!zec11:5 ","!zech11:5 "]
+  replace: "whose buyers slaughter them and are not held guilty. And those who sell them say, “May Jehovah be praised, for I will become rich.” And their shepherds have no compassion for them.’"
+
+- triggers: ["!zechariah11:6 ","!zec11:6 ","!zech11:6 "]
+  replace: "“‘For I will no longer show compassion on the inhabitants of the land,’ declares Jehovah. ‘So I will cause each man to fall into the hand of his neighbor and his king; and they will crush the land, and I will not rescue them out of their hand.’”"
+
+- triggers: ["!zechariah11:7 ","!zec11:7 ","!zech11:7 "]
+  replace: "And I began to shepherd the flock meant for slaughter, in your behalf, O afflicted ones of the flock. So I took two staffs, and I called one Pleasantness, and the other Union, and I began to shepherd the flock."
+
+- triggers: ["!zechariah11:8 ","!zec11:8 ","!zech11:8 "]
+  replace: "And I dismissed three shepherds in one month, for I became impatient with them, and they detested me as well."
+
+- triggers: ["!zechariah11:9 ","!zec11:9 ","!zech11:9 "]
+  replace: "And I said: “I will not keep shepherding you. Let the one who is dying die, and let the one perishing perish. As for those who are left, let them devour one another’s flesh.”"
+
+- triggers: ["!zechariah11:10 ","!zec11:10 ","!zech11:10 "]
+  replace: "So I took my staff Pleasantness and cut it up, breaking my covenant that I had made with all the peoples."
+
+- triggers: ["!zechariah11:11 ","!zec11:11 ","!zech11:11 "]
+  replace: "So it was broken in that day, and the afflicted ones of the flock who were watching me knew that it was the word of Jehovah."
+
+- triggers: ["!zechariah11:12 ","!zec11:12 ","!zech11:12 "]
+  replace: "Then I said to them: “If it seems good to you, give me my wages; but if not, withhold them.” And they paid my wages, 30 pieces of silver."
+
+- triggers: ["!zechariah11:13 ","!zec11:13 ","!zech11:13 "]
+  replace: "Then Jehovah said to me: “Throw it into the treasury—the magnificent value with which they valued me.” So I took the 30 pieces of silver and threw it into the treasury at the house of Jehovah."
+
+- triggers: ["!zechariah11:14 ","!zec11:14 ","!zech11:14 "]
+  replace: "Then I cut up my second staff, the Union, breaking the brotherhood between Judah and Israel."
+
+- triggers: ["!zechariah11:15 ","!zec11:15 ","!zech11:15 "]
+  replace: "And Jehovah said to me: “Now take the equipment of a useless shepherd."
+
+- triggers: ["!zechariah11:16 ","!zec11:16 ","!zech11:16 "]
+  replace: "For I am letting a shepherd rise up in the land. He will not take care of the sheep that are perishing; he will not seek out the young or heal the injured or feed those able to stand. Instead, he devours the flesh of the fat one and tears off the hooves of the sheep."
+
+- triggers: ["!zechariah11:17 ","!zec11:17 ","!zech11:17 "]
+  replace: "Woe to my worthless shepherd, who is abandoning the flock! A sword will strike his arm and his right eye. His arm will wither completely, And his right eye will go completely blind.”"
+
+- triggers: ["!zechariah12:1 ","!zec12:1 ","!zech12:1 "]
+  replace: "A pronouncement: “The word of Jehovah concerning Israel,” declares Jehovah, The One who stretched out the heavens, Who laid the foundation of the earth, And who formed the spirit of man within him."
+
+- triggers: ["!zechariah12:2 ","!zec12:2 ","!zech12:2 "]
+  replace: "“Here I am making Jerusalem a cup that causes all the surrounding peoples to stagger; and there will be a siege against Judah as well as against Jerusalem."
+
+- triggers: ["!zechariah12:3 ","!zec12:3 ","!zech12:3 "]
+  replace: "In that day I will make Jerusalem a heavy stone to all the peoples. All those who lift it are sure to be severely injured; and all the nations of the earth will be gathered against her."
+
+- triggers: ["!zechariah12:4 ","!zec12:4 ","!zech12:4 "]
+  replace: "In that day,” declares Jehovah, “I will strike every horse with panic and its rider with madness. I will keep my eyes on the house of Judah, but I will strike every horse of the peoples with blindness."
+
+- triggers: ["!zechariah12:5 ","!zec12:5 ","!zech12:5 "]
+  replace: "And the sheikhs of Judah will say in their heart, ‘The inhabitants of Jerusalem are a strength to me by means of Jehovah of armies their God.’"
+
+- triggers: ["!zechariah12:6 ","!zec12:6 ","!zech12:6 "]
+  replace: "In that day I will make the sheikhs of Judah like a fiery pot among wood and like a fiery torch in a row of cut grain, and they will consume all the surrounding peoples on the right and on the left; and Jerusalem will again be inhabited in her place, in Jerusalem."
+
+- triggers: ["!zechariah12:7 ","!zec12:7 ","!zech12:7 "]
+  replace: "“And Jehovah will save the tents of Judah first, so that the beauty of the house of David and the beauty of the inhabitants of Jerusalem may not be too great over Judah."
+
+- triggers: ["!zechariah12:8 ","!zec12:8 ","!zech12:8 "]
+  replace: "In that day Jehovah will be a defense around the inhabitants of Jerusalem; in that day the one who stumbles among them will be like David, and the house of David like God, like Jehovah’s angel who goes before them."
+
+- triggers: ["!zechariah12:9 ","!zec12:9 ","!zech12:9 "]
+  replace: "And in that day I will be certain to annihilate all the nations that come against Jerusalem."
+
+- triggers: ["!zechariah12:10 ","!zec12:10 ","!zech12:10 "]
+  replace: "“I will pour out on the house of David and on the inhabitants of Jerusalem the spirit of favor and supplication, and they will look to the one whom they pierced, and they will wail over him as they would wail over an only son; and they will grieve bitterly over him as they would grieve over a firstborn son."
+
+- triggers: ["!zechariah12:11 ","!zec12:11 ","!zech12:11 "]
+  replace: "In that day the wailing in Jerusalem will be great, like the wailing at Hadadrimʹmon in the Plain of Megidʹdo."
+
+- triggers: ["!zechariah12:12 ","!zec12:12 ","!zech12:12 "]
+  replace: "And the land will wail, each family by itself; the family of David’s house by itself, and their women by themselves; the family of Nathan’s house by itself, and their women by themselves;"
+
+- triggers: ["!zechariah12:13 ","!zec12:13 ","!zech12:13 "]
+  replace: "the family of Leʹvi’s house by itself, and their women by themselves; the family of the Shimʹeites by itself, and their women by themselves;"
+
+- triggers: ["!zechariah12:14 ","!zec12:14 ","!zech12:14 "]
+  replace: "and all the families that are left remaining, each family by itself, and their women by themselves."
+
+- triggers: ["!zechariah13:1 ","!zec13:1 ","!zech13:1 "]
+  replace: "“In that day a well will be opened to the house of David and to the inhabitants of Jerusalem for cleansing sin and impurity."
+
+- triggers: ["!zechariah13:2 ","!zec13:2 ","!zech13:2 "]
+  replace: "“In that day,” declares Jehovah of armies, “I will erase the names of the idols from the land, and they will no longer be remembered; and I will rid the land of the prophets and the spirit of uncleanness."
+
+- triggers: ["!zechariah13:3 ","!zec13:3 ","!zech13:3 "]
+  replace: "And if a man should prophesy again, his father and his mother who caused his birth will say to him, ‘You will not live, because you have spoken lies in the name of Jehovah.’ And his father and his mother who caused his birth will pierce him through because of his prophesying."
+
+- triggers: ["!zechariah13:4 ","!zec13:4 ","!zech13:4 "]
+  replace: "“In that day each of the prophets will be ashamed of his vision when he prophesies; and they will not wear an official garment of hair in order to deceive."
+
+- triggers: ["!zechariah13:5 ","!zec13:5 ","!zech13:5 "]
+  replace: "And he will say, ‘I am no prophet. I am a man cultivating the soil, because a man bought me when I was young.’"
+
+- triggers: ["!zechariah13:6 ","!zec13:6 ","!zech13:6 "]
+  replace: "And if someone asks him, ‘What are these wounds between your shoulders?’ he will answer, ‘Wounds I received in the house of my friends.’”"
+
+- triggers: ["!zechariah13:7 ","!zec13:7 ","!zech13:7 "]
+  replace: "“O sword, awake against my shepherd, Against the man who is my companion,” declares Jehovah of armies. “Strike the shepherd, and let the flock be scattered; And I will turn my hand against those who are insignificant.”"
+
+- triggers: ["!zechariah13:8 ","!zec13:8 ","!zech13:8 "]
+  replace: "“And in all the land,” declares Jehovah, “Two parts in it will be cut off and perish; And the third part will be left remaining in it."
+
+- triggers: ["!zechariah13:9 ","!zec13:9 ","!zech13:9 "]
+  replace: "And I will bring the third part through the fire; And I will refine them as silver is refined, And test them as gold is tested. They will call on my name, And I will answer them. I will say, ‘They are my people,’ And they will say, ‘Jehovah is our God.’”"
+
+- triggers: ["!zechariah14:1 ","!zec14:1 ","!zech14:1 "]
+  replace: "“Look! The day is coming, a day belonging to Jehovah, when the spoil from you will be divided in your midst."
+
+- triggers: ["!zechariah14:2 ","!zec14:2 ","!zech14:2 "]
+  replace: "I will gather all the nations against Jerusalem for the war; and the city will be captured and the houses plundered and the women raped. And half of the city will go into exile, but the remaining ones of the people will not be cut off from the city."
+
+- triggers: ["!zechariah14:3 ","!zec14:3 ","!zech14:3 "]
+  replace: "“Jehovah will go out and war against those nations as when he fights in the day of a battle."
+
+- triggers: ["!zechariah14:4 ","!zec14:4 ","!zech14:4 "]
+  replace: "In that day his feet will stand on the Mount of Olives, which faces Jerusalem on the east; and the Mount of Olives will be split in half, from east to west, forming a very great valley; and half of the mountain will move to the north, and half of it to the south."
+
+- triggers: ["!zechariah14:5 ","!zec14:5 ","!zech14:5 "]
+  replace: "You will flee to the valley of my mountains, for the valley of the mountains will extend all the way to Aʹzel. You will have to flee, just as you fled because of the earthquake in the days of King Uzziʹah of Judah. And Jehovah my God will come, and all the holy ones will be with him."
+
+- triggers: ["!zechariah14:6 ","!zec14:6 ","!zech14:6 "]
+  replace: "“In that day there will be no precious light—things will be congealed."
+
+- triggers: ["!zechariah14:7 ","!zec14:7 ","!zech14:7 "]
+  replace: "And it will become one day that is known as belonging to Jehovah. It will not be day, nor will it be night; and at evening time there will be light."
+
+- triggers: ["!zechariah14:8 ","!zec14:8 ","!zech14:8 "]
+  replace: "In that day living waters will flow out from Jerusalem, half of them toward the eastern sea and half of them toward the western sea. It will happen in summer and in winter."
+
+- triggers: ["!zechariah14:9 ","!zec14:9 ","!zech14:9 "]
+  replace: "And Jehovah will be King over all the earth. In that day Jehovah will be one, and his name one."
+
+- triggers: ["!zechariah14:10 ","!zec14:10 ","!zech14:10 "]
+  replace: "“The whole land will become like the Arʹabah, from Geʹba to Rimʹmon south of Jerusalem; and she will rise and be inhabited in her place, from the Gate of Benjamin all the way to the site of the First Gate, all the way to the Corner Gate, and from the Tower of Hananʹel all the way to the winepresses of the king."
+
+- triggers: ["!zechariah14:11 ","!zec14:11 ","!zech14:11 "]
+  replace: "And people will inhabit her; and there will never again be a curse of destruction, and Jerusalem will be inhabited in security."
+
+- triggers: ["!zechariah14:12 ","!zec14:12 ","!zech14:12 "]
+  replace: "“And this is the scourge with which Jehovah will scourge all the peoples who wage war against Jerusalem: Their flesh will rot away while they stand on their feet, their eyes will rot away in their sockets, and their tongues will rot away in their mouths."
+
+- triggers: ["!zechariah14:13 ","!zec14:13 ","!zech14:13 "]
+  replace: "“In that day confusion from Jehovah will be widespread among them; and each one will grab hold of the hand of his companion, and his hand will come against the hand of his companion."
+
+- triggers: ["!zechariah14:14 ","!zec14:14 ","!zech14:14 "]
+  replace: "Judah will also be involved in the war at Jerusalem; and the wealth of all the surrounding nations will be gathered, gold and silver and garments in vast quantity."
+
+- triggers: ["!zechariah14:15 ","!zec14:15 ","!zech14:15 "]
+  replace: "“And a scourge like that scourge will also come against the horses, the mules, the camels, the donkeys, and all the livestock that are in those camps."
+
+- triggers: ["!zechariah14:16 ","!zec14:16 ","!zech14:16 "]
+  replace: "“Everyone who is left remaining out of all the nations that come against Jerusalem will go up from year to year to bow down to the King, Jehovah of armies, and to celebrate the Festival of Booths."
+
+- triggers: ["!zechariah14:17 ","!zec14:17 ","!zech14:17 "]
+  replace: "But if anyone among the families of the earth does not go up to Jerusalem to bow down to the King, Jehovah of armies, no rain will fall on them."
+
+- triggers: ["!zechariah14:18 ","!zec14:18 ","!zech14:18 "]
+  replace: "And if the family of Egypt does not come up and does not come in, they will have no rain. Instead, they will have the scourge with which Jehovah scourges the nations that do not come up to celebrate the Festival of Booths."
+
+- triggers: ["!zechariah14:19 ","!zec14:19 ","!zech14:19 "]
+  replace: "This will be the punishment for the sin of Egypt and the sin of all the nations that do not come up to celebrate the Festival of Booths."
+
+- triggers: ["!zechariah14:20 ","!zec14:20 ","!zech14:20 "]
+  replace: "“In that day the words ‘Holiness belongs to Jehovah!’ will be written on the bells of the horses. And the cooking pots in the house of Jehovah will be like the bowls before the altar."
+
+- triggers: ["!zechariah14:21 ","!zec14:21 ","!zech14:21 "]
+  replace: "And every cooking pot in Jerusalem and in Judah will be holy and will belong to Jehovah of armies, and all those who are sacrificing will come in and use some of them for boiling. In that day there will no longer be a Caʹnaanite in the house of Jehovah of armies.”"
+

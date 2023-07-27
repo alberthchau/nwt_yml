@@ -1,0 +1,3022 @@
+matches:
+- triggers: ["!ac1:1 ","!acts1:1 "]
+  replace: "The first account, O Theophʹilus, I composed about all the things Jesus started to do and to teach"
+
+- triggers: ["!ac1:2 ","!acts1:2 "]
+  replace: "until the day that he was taken up, after he had given instructions through holy spirit to the apostles he had chosen."
+
+- triggers: ["!ac1:3 ","!acts1:3 "]
+  replace: "After he had suffered, he showed himself alive to them by many convincing proofs. He was seen by them throughout 40 days, and he was speaking about the Kingdom of God."
+
+- triggers: ["!ac1:4 ","!acts1:4 "]
+  replace: "While he was meeting with them, he ordered them: 'Do not leave Jerusalem, but keep waiting for what the Father has promised, about which you heard from me;"
+
+- triggers: ["!ac1:5 ","!acts1:5 "]
+  replace: "for John, indeed, baptized with water, but you will be baptized with holy spirit not many days after this.'"
+
+- triggers: ["!ac1:6 ","!acts1:6 "]
+  replace: "So when they had assembled, they asked him: 'Lord, are you restoring the kingdom to Israel at this time?'"
+
+- triggers: ["!ac1:7 ","!acts1:7 "]
+  replace: "He said to them: 'It does not belong to you to know the times or seasons that the Father has placed in his own jurisdiction."
+
+- triggers: ["!ac1:8 ","!acts1:8 "]
+  replace: "But you will receive power when the holy spirit comes upon you, and you will be witnesses of me in Jerusalem, in all Judeʹa and Samarʹia, and to the most distant part of the earth.'"
+
+- triggers: ["!ac1:9 ","!acts1:9 "]
+  replace: "After he had said these things, while they were looking on, he was lifted up and a cloud caught him up from their sight."
+
+- triggers: ["!ac1:10 ","!acts1:10 "]
+  replace: "And as they were gazing into the sky while he was on his way, suddenly two men in white garments stood beside them"
+
+- triggers: ["!ac1:11 ","!acts1:11 "]
+  replace: "and said: 'Men of Galʹilee, why do you stand looking into the sky? This Jesus who was taken up from you into the sky will come in the same manner as you have seen him going into the sky.'"
+
+- triggers: ["!ac1:12 ","!acts1:12 "]
+  replace: "Then they returned to Jerusalem from a mountain called the Mount of Olives, which is near Jerusalem, only a sabbath day's journey away."
+
+- triggers: ["!ac1:13 ","!acts1:13 "]
+  replace: "When they arrived, they went up into the upper room where they were staying. There were Peter as well as John and James and Andrew, Philip and Thomas, Bartholʹomew and Matthew, James the son of Alphaeʹus, and Simon the zealous one, and Judas the son of James."
+
+- triggers: ["!ac1:14 ","!acts1:14 "]
+  replace: "With one purpose all of these were persisting in prayer, together with some women and Mary the mother of Jesus and with his brothers."
+
+- triggers: ["!ac1:15 ","!acts1:15 "]
+  replace: "During those days Peter stood up in the midst of the brothers (the number of people was altogether about 120) and said:"
+
+- triggers: ["!ac1:16 ","!acts1:16 "]
+  replace: "'Men, brothers, it was necessary for the scripture to be fulfilled that the holy spirit spoke prophetically through David about Judas, who became a guide to those who arrested Jesus."
+
+- triggers: ["!ac1:17 ","!acts1:17 "]
+  replace: "For he had been numbered among us and he obtained a share in this ministry."
+
+- triggers: ["!ac1:18 ","!acts1:18 "]
+  replace: "(This very man, therefore, purchased a field with the wages for unrighteousness, and falling headfirst, his body burst open and all his insides spilled out."
+
+- triggers: ["!ac1:19 ","!acts1:19 "]
+  replace: "This became known to all the inhabitants of Jerusalem, so that the field was called in their language Akelʹdama, that is, 'Field of Blood.')"
+
+- triggers: ["!ac1:20 ","!acts1:20 "]
+  replace: "For it is written in the book of Psalms, 'Let his dwelling become desolate, and let there be no inhabitant in it' and, 'His office of oversight let someone else take.'"
+
+- triggers: ["!ac1:21 ","!acts1:21 "]
+  replace: "It is therefore necessary that of the men who accompanied us during all the time in which the Lord Jesus carried on his activities among us,"
+
+- triggers: ["!ac1:22 ","!acts1:22 "]
+  replace: "starting with his baptism by John until the day he was taken up from us, one of these men should become a witness with us of his resurrection.'"
+
+- triggers: ["!ac1:23 ","!acts1:23 "]
+  replace: "So they proposed two, Joseph called Barʹsabbas, who was also called Justus, and Matthiʹas."
+
+- triggers: ["!ac1:24 ","!acts1:24 "]
+  replace: "Then they prayed and said: 'You, O Jehovah, who know the hearts of all, designate which one of these two men you have chosen"
+
+- triggers: ["!ac1:25 ","!acts1:25 "]
+  replace: "to take the place of this ministry and apostleship, from which Judas deviated to go to his own place.'"
+
+- triggers: ["!ac1:26 ","!acts1:26 "]
+  replace: "So they cast lots over them, and the lot fell to Matthiʹas, and he was counted along with the 11 apostles."
+
+- triggers: ["!ac2:1 ","!acts2:1 "]
+  replace: "Now while the day of the Festival of Pentecost was in progress, they were all together at the same place."
+
+- triggers: ["!ac2:2 ","!acts2:2 "]
+  replace: "Suddenly there was a noise from heaven, just like that of a rushing, stiff breeze, and it filled the whole house where they were sitting."
+
+- triggers: ["!ac2:3 ","!acts2:3 "]
+  replace: "And tongues as if of fire became visible to them and were distributed, and one came to rest on each one of them,"
+
+- triggers: ["!ac2:4 ","!acts2:4 "]
+  replace: "and they all became filled with holy spirit and started to speak in different languages, just as the spirit enabled them to speak."
+
+- triggers: ["!ac2:5 ","!acts2:5 "]
+  replace: "At that time devout Jews from every nation under heaven were staying in Jerusalem."
+
+- triggers: ["!ac2:6 ","!acts2:6 "]
+  replace: "So when this sound occurred, a crowd gathered and was bewildered, because each one heard them speaking in his own language."
+
+- triggers: ["!ac2:7 ","!acts2:7 "]
+  replace: "Indeed, they were utterly amazed and said: 'See here, all these who are speaking are Galileʹans, are they not?"
+
+- triggers: ["!ac2:8 ","!acts2:8 "]
+  replace: "How is it, then, that each one of us is hearing his own native language?"
+
+- triggers: ["!ac2:9 ","!acts2:9 "]
+  replace: "Parʹthians, Medes, and Eʹlamites, the inhabitants of Mesopotaʹmia, Judeʹa and Cappadoʹcia, Ponʹtus and the province of Asia,"
+
+- triggers: ["!ac2:10 ","!acts2:10 "]
+  replace: "Phrygʹia and Pamphylʹia, Egypt and the regions of Libʹya near Cyreʹne, sojourners from Rome, both Jews and proselytes,"
+
+- triggers: ["!ac2:11 ","!acts2:11 "]
+  replace: "Creʹtans, and Arabians-we hear them speaking in our languages about the magnificent things of God.'"
+
+- triggers: ["!ac2:12 ","!acts2:12 "]
+  replace: "Yes, they were all astonished and perplexed, saying to one another: 'What does this mean?'"
+
+- triggers: ["!ac2:13 ","!acts2:13 "]
+  replace: "However, others mocked them and said: 'They are full of sweet wine.'"
+
+- triggers: ["!ac2:14 ","!acts2:14 "]
+  replace: "But Peter stood up with the Eleven and spoke to them in a loud voice: 'Men of Judeʹa and all you inhabitants of Jerusalem, let this be known to you and listen carefully to my words."
+
+- triggers: ["!ac2:15 ","!acts2:15 "]
+  replace: "These people are, in fact, not drunk, as you suppose, for it is the third hour of the day."
+
+- triggers: ["!ac2:16 ","!acts2:16 "]
+  replace: "On the contrary, this is what was said through the prophet Joel:"
+
+- triggers: ["!ac2:17 ","!acts2:17 "]
+  replace: "''And in the last days,' God says, 'I will pour out some of my spirit on every sort of flesh, and your sons and your daughters will prophesy and your young men will see visions and your old men will dream dreams,"
+
+- triggers: ["!ac2:18 ","!acts2:18 "]
+  replace: "and even on my male slaves and on my female slaves I will pour out some of my spirit in those days, and they will prophesy."
+
+- triggers: ["!ac2:19 ","!acts2:19 "]
+  replace: "And I will give wonders in heaven above and signs on earth below-blood and fire and clouds of smoke."
+
+- triggers: ["!ac2:20 ","!acts2:20 "]
+  replace: "The sun will be turned into darkness and the moon into blood before the great and illustrious day of Jehovah comes."
+
+- triggers: ["!ac2:21 ","!acts2:21 "]
+  replace: "And everyone who calls on the name of Jehovah will be saved.''"
+
+- triggers: ["!ac2:22 ","!acts2:22 "]
+  replace: "'Men of Israel, hear these words: Jesus the Nazareneʹ was a man publicly shown to you by God through powerful works and wonders and signs that God did through him in your midst, just as you yourselves know."
+
+- triggers: ["!ac2:23 ","!acts2:23 "]
+  replace: "This man, who was handed over by the determined will and foreknowledge of God, you fastened to a stake by the hand of lawless men, and you did away with him."
+
+- triggers: ["!ac2:24 ","!acts2:24 "]
+  replace: "But God resurrected him by releasing him from the pangs of death, because it was not possible for him to be held fast by it."
+
+- triggers: ["!ac2:25 ","!acts2:25 "]
+  replace: "For David says about him: 'I keep Jehovah constantly in front of me, for he is at my right hand that I may never be shaken."
+
+- triggers: ["!ac2:26 ","!acts2:26 "]
+  replace: "On this account my heart became cheerful and my tongue rejoiced greatly. And I will reside in hope;"
+
+- triggers: ["!ac2:27 ","!acts2:27 "]
+  replace: "because you will not leave me in the Grave, nor will you allow your loyal one to see corruption."
+
+- triggers: ["!ac2:28 ","!acts2:28 "]
+  replace: "You have made life's ways known to me; you will fill me with great joy in your presence.'"
+
+- triggers: ["!ac2:29 ","!acts2:29 "]
+  replace: "'Men, brothers, it is permissible to speak with freeness of speech to you about the family head David, that he died and was buried, and his tomb is with us to this day."
+
+- triggers: ["!ac2:30 ","!acts2:30 "]
+  replace: "Because he was a prophet and knew that God had sworn to him with an oath that he would seat one of his offspring on his throne,"
+
+- triggers: ["!ac2:31 ","!acts2:31 "]
+  replace: "he foresaw and spoke about the resurrection of the Christ, that neither was he forsaken in the Grave nor did his flesh see corruption."
+
+- triggers: ["!ac2:32 ","!acts2:32 "]
+  replace: "God resurrected this Jesus, and of this we are all witnesses."
+
+- triggers: ["!ac2:33 ","!acts2:33 "]
+  replace: "Therefore, because he was exalted to the right hand of God and received the promised holy spirit from the Father, he has poured out what you see and hear."
+
+- triggers: ["!ac2:34 ","!acts2:34 "]
+  replace: "For David did not ascend to the heavens, but he himself says, 'Jehovah said to my Lord: 'Sit at my right hand"
+
+- triggers: ["!ac2:35 ","!acts2:35 "]
+  replace: "until I place your enemies as a stool for your feet.''"
+
+- triggers: ["!ac2:36 ","!acts2:36 "]
+  replace: "Therefore, let all the house of Israel know for a certainty that God made him both Lord and Christ, this Jesus whom you executed on a stake.'"
+
+- triggers: ["!ac2:37 ","!acts2:37 "]
+  replace: "Now when they heard this, they were stabbed to the heart, and they said to Peter and the rest of the apostles: 'Men, brothers, what should we do?'"
+
+- triggers: ["!ac2:38 ","!acts2:38 "]
+  replace: "Peter said to them: 'Repent, and let each one of you be baptized in the name of Jesus Christ for forgiveness of your sins, and you will receive the free gift of the holy spirit."
+
+- triggers: ["!ac2:39 ","!acts2:39 "]
+  replace: "For the promise is to you and your children, and to all those who are far away, to all those whom Jehovah our God may call to himself.'"
+
+- triggers: ["!ac2:40 ","!acts2:40 "]
+  replace: "And with many other words he gave a thorough witness and kept exhorting them, saying: 'Get saved from this crooked generation.'"
+
+- triggers: ["!ac2:41 ","!acts2:41 "]
+  replace: "So those who gladly accepted his word were baptized, and on that day about 3,000 people were added."
+
+- triggers: ["!ac2:42 ","!acts2:42 "]
+  replace: "And they continued devoting themselves to the teaching of the apostles, to associating together, to the taking of meals, and to prayers."
+
+- triggers: ["!ac2:43 ","!acts2:43 "]
+  replace: "Indeed, fear began to fall upon everyone, and many wonders and signs began to occur through the apostles."
+
+- triggers: ["!ac2:44 ","!acts2:44 "]
+  replace: "All those who became believers were together and had everything in common,"
+
+- triggers: ["!ac2:45 ","!acts2:45 "]
+  replace: "and they were selling their possessions and properties and distributing the proceeds to all, according to what each one needed."
+
+- triggers: ["!ac2:46 ","!acts2:46 "]
+  replace: "And day after day they were in constant attendance in the temple with a united purpose, and they took their meals in different homes and shared their food with great rejoicing and sincerity of heart,"
+
+- triggers: ["!ac2:47 ","!acts2:47 "]
+  replace: "praising God and finding favor with all the people. At the same time Jehovah continued to add to them daily those being saved."
+
+- triggers: ["!ac3:1 ","!acts3:1 "]
+  replace: "Now Peter and John were going up into the temple for the hour of prayer, the ninth hour,"
+
+- triggers: ["!ac3:2 ","!acts3:2 "]
+  replace: "and a man who was lame from birth was being carried. Every day they would put him near the temple door that was called Beautiful, so he could ask for gifts of mercy from those entering the temple."
+
+- triggers: ["!ac3:3 ","!acts3:3 "]
+  replace: "When he caught sight of Peter and John about to go into the temple, he began asking for gifts of mercy."
+
+- triggers: ["!ac3:4 ","!acts3:4 "]
+  replace: "But Peter, together with John, looked straight at him and said: 'Look at us.'"
+
+- triggers: ["!ac3:5 ","!acts3:5 "]
+  replace: "So he fixed his attention on them, expecting to get something from them."
+
+- triggers: ["!ac3:6 ","!acts3:6 "]
+  replace: "However, Peter said: 'Silver and gold I do not possess, but what I do have is what I give you. In the name of Jesus Christ the Nazareneʹ, walk!'"
+
+- triggers: ["!ac3:7 ","!acts3:7 "]
+  replace: "With that he took hold of him by the right hand and raised him up. Instantly his feet and his ankles were made firm;"
+
+- triggers: ["!ac3:8 ","!acts3:8 "]
+  replace: "and leaping to his feet, he began walking and went with them into the temple, walking and leaping and praising God."
+
+- triggers: ["!ac3:9 ","!acts3:9 "]
+  replace: "And all the people saw him walking and praising God."
+
+- triggers: ["!ac3:10 ","!acts3:10 "]
+  replace: "And they began to recognize him, that this was the man who used to sit waiting for gifts of mercy at the Beautiful Gate of the temple, and they were completely astonished and ecstatic about what had happened to him."
+
+- triggers: ["!ac3:11 ","!acts3:11 "]
+  replace: "While the man was still holding on to Peter and John, all the people ran together to them at what was called Solʹomon's Colonnade, completely surprised."
+
+- triggers: ["!ac3:12 ","!acts3:12 "]
+  replace: "When Peter saw this, he said to the people: 'Men of Israel, why are you so amazed at this, and why are you staring at us as though by personal power or godly devotion we have made him walk?"
+
+- triggers: ["!ac3:13 ","!acts3:13 "]
+  replace: "The God of Abraham and of Isaac and of Jacob, the God of our forefathers, has glorified his Servant, Jesus, whom you handed over and disowned before Pilate, even though he had decided to release him."
+
+- triggers: ["!ac3:14 ","!acts3:14 "]
+  replace: "Yes, you disowned that holy and righteous one, and you asked for a man who was a murderer to be given to you,"
+
+- triggers: ["!ac3:15 ","!acts3:15 "]
+  replace: "whereas you killed the Chief Agent of life. But God raised him up from the dead, of which fact we are witnesses."
+
+- triggers: ["!ac3:16 ","!acts3:16 "]
+  replace: "And through his name, and by our faith in his name, this man whom you see and know has been made strong. The faith that is through him has made this man completely healthy in front of all of you."
+
+- triggers: ["!ac3:17 ","!acts3:17 "]
+  replace: "And now, brothers, I know that you acted in ignorance, just as your rulers also did."
+
+- triggers: ["!ac3:18 ","!acts3:18 "]
+  replace: "But in this way God has fulfilled the things he announced beforehand through the mouth of all the prophets, that his Christ would suffer."
+
+- triggers: ["!ac3:19 ","!acts3:19 "]
+  replace: "'Repent, therefore, and turn around so as to get your sins blotted out, so that seasons of refreshing may come from Jehovah himself"
+
+- triggers: ["!ac3:20 ","!acts3:20 "]
+  replace: "and he may send the Christ appointed for you, Jesus."
+
+- triggers: ["!ac3:21 ","!acts3:21 "]
+  replace: "Heaven must hold this one within itself until the times of restoration of all things of which God spoke through the mouth of his holy prophets of old."
+
+- triggers: ["!ac3:22 ","!acts3:22 "]
+  replace: "In fact, Moses said: 'Jehovah your God will raise up for you from among your brothers a prophet like me. You must listen to whatever he tells you."
+
+- triggers: ["!ac3:23 ","!acts3:23 "]
+  replace: "Indeed, anyone who does not listen to that Prophet will be completely destroyed from among the people.'"
+
+- triggers: ["!ac3:24 ","!acts3:24 "]
+  replace: "And all the prophets from Samuel and those who followed him, as many as have spoken, have also plainly declared these days."
+
+- triggers: ["!ac3:25 ","!acts3:25 "]
+  replace: "You are the sons of the prophets and of the covenant that God made with your forefathers, saying to Abraham: 'And by means of your offspring all the families of the earth will be blessed.'"
+
+- triggers: ["!ac3:26 ","!acts3:26 "]
+  replace: "God, after raising up his Servant, sent him to you first to bless you by turning each one of you away from your wicked deeds.'"
+
+- triggers: ["!ac4:1 ","!acts4:1 "]
+  replace: "While the two were speaking to the people, the priests, the captain of the temple, and the Sadducees came up to them."
+
+- triggers: ["!ac4:2 ","!acts4:2 "]
+  replace: "These were annoyed because the apostles were teaching the people and were openly declaring the resurrection of Jesus from the dead."
+
+- triggers: ["!ac4:3 ","!acts4:3 "]
+  replace: "So they seized them and took them into custody until the next day, for it was already evening."
+
+- triggers: ["!ac4:4 ","!acts4:4 "]
+  replace: "However, many of those who had listened to the speech believed, and the number of the men became about 5,000."
+
+- triggers: ["!ac4:5 ","!acts4:5 "]
+  replace: "The next day their rulers, elders, and scribes gathered together in Jerusalem,"
+
+- triggers: ["!ac4:6 ","!acts4:6 "]
+  replace: "along with Anʹnas the chief priest, Caʹiaphas, John, Alexander, and all who were relatives of the chief priest."
+
+- triggers: ["!ac4:7 ","!acts4:7 "]
+  replace: "They stood Peter and John in their midst and began to question them: 'By what power or in whose name did you do this?'"
+
+- triggers: ["!ac4:8 ","!acts4:8 "]
+  replace: "Then Peter, filled with holy spirit, said to them: 'Rulers of the people and elders,"
+
+- triggers: ["!ac4:9 ","!acts4:9 "]
+  replace: "if we are being examined today about a good deed to a crippled man, and you want to know who made this man well,"
+
+- triggers: ["!ac4:10 ","!acts4:10 "]
+  replace: "let it be known to all of you and to all the people of Israel that in the name of Jesus Christ the Nazareneʹ, whom you executed on a stake but whom God raised up from the dead, by means of him this man stands here healthy in front of you."
+
+- triggers: ["!ac4:11 ","!acts4:11 "]
+  replace: "This is 'the stone that was treated by you builders as of no account that has become the chief cornerstone.'"
+
+- triggers: ["!ac4:12 ","!acts4:12 "]
+  replace: "Furthermore, there is no salvation in anyone else, for there is no other name under heaven that has been given among men by which we must get saved.'"
+
+- triggers: ["!ac4:13 ","!acts4:13 "]
+  replace: "Now when they saw the outspokenness of Peter and John, and perceived that they were uneducated and ordinary men, they were astonished. And they began to realize that they had been with Jesus."
+
+- triggers: ["!ac4:14 ","!acts4:14 "]
+  replace: "As they were looking at the man who had been cured standing with them, they had nothing to say in answer to this."
+
+- triggers: ["!ac4:15 ","!acts4:15 "]
+  replace: "So they commanded them to go outside the Sanʹhedrin hall, and they began consulting with one another,"
+
+- triggers: ["!ac4:16 ","!acts4:16 "]
+  replace: "saying: 'What should we do with these men? Because, for a fact, a noteworthy sign has occurred through them, one evident to all the inhabitants of Jerusalem, and we cannot deny it."
+
+- triggers: ["!ac4:17 ","!acts4:17 "]
+  replace: "So that this does not spread any further among the people, let us threaten them and tell them not to speak to anyone anymore on the basis of this name.'"
+
+- triggers: ["!ac4:18 ","!acts4:18 "]
+  replace: "With that they called them and ordered them not to say anything at all or to teach on the basis of the name of Jesus."
+
+- triggers: ["!ac4:19 ","!acts4:19 "]
+  replace: "But in reply Peter and John said to them: 'Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves."
+
+- triggers: ["!ac4:20 ","!acts4:20 "]
+  replace: "But as for us, we cannot stop speaking about the things we have seen and heard.'"
+
+- triggers: ["!ac4:21 ","!acts4:21 "]
+  replace: "So after they had threatened them further, they released them, since they did not find any grounds for punishing them and on account of the people, because they were all glorifying God over what had happened."
+
+- triggers: ["!ac4:22 ","!acts4:22 "]
+  replace: "For the man on whom this miracle of healing had been done was more than 40 years old."
+
+- triggers: ["!ac4:23 ","!acts4:23 "]
+  replace: "After being released, they went to their own people and reported what the chief priests and the elders had said to them."
+
+- triggers: ["!ac4:24 ","!acts4:24 "]
+  replace: "On hearing this, they raised their voices with one accord to God and said: 'Sovereign Lord, you are the One who made the heaven and the earth and the sea and all the things in them,"
+
+- triggers: ["!ac4:25 ","!acts4:25 "]
+  replace: "and who said through holy spirit by the mouth of our forefather David, your servant: 'Why did nations become agitated and peoples meditate on empty things?"
+
+- triggers: ["!ac4:26 ","!acts4:26 "]
+  replace: "The kings of the earth took their stand and the rulers gathered together as one against Jehovah and against his anointed one.'"
+
+- triggers: ["!ac4:27 ","!acts4:27 "]
+  replace: "For truly both Herod and Pontius Pilate with men of the nations and with peoples of Israel were gathered together in this city against your holy servant Jesus, whom you anointed,"
+
+- triggers: ["!ac4:28 ","!acts4:28 "]
+  replace: "to do what your hand and counsel had determined beforehand to occur."
+
+- triggers: ["!ac4:29 ","!acts4:29 "]
+  replace: "And now, Jehovah, give attention to their threats, and grant to your slaves to keep speaking your word with all boldness,"
+
+- triggers: ["!ac4:30 ","!acts4:30 "]
+  replace: "while you stretch out your hand for healing and while signs and wonders occur through the name of your holy servant Jesus.'"
+
+- triggers: ["!ac4:31 ","!acts4:31 "]
+  replace: "And when they had made supplication, the place where they were gathered together was shaken, and they were one and all filled with the holy spirit and were speaking the word of God with boldness."
+
+- triggers: ["!ac4:32 ","!acts4:32 "]
+  replace: "Moreover, the multitude of those who believed were of one heart and soul, and not even one of them would say that any of the things he possessed was his own, but they had all things in common."
+
+- triggers: ["!ac4:33 ","!acts4:33 "]
+  replace: "And with great power the apostles continued giving the witness about the resurrection of the Lord Jesus, and undeserved kindness was upon them all in large measure."
+
+- triggers: ["!ac4:34 ","!acts4:34 "]
+  replace: "In fact, no one was in need among them, for all those who owned fields or houses would sell them and bring the value of what was sold,"
+
+- triggers: ["!ac4:35 ","!acts4:35 "]
+  replace: "and they would deposit it at the feet of the apostles. In turn distribution would be made to each one according to his need."
+
+- triggers: ["!ac4:36 ","!acts4:36 "]
+  replace: "So Joseph, who was also called by the apostles Barʹnabas (which means, when translated, 'Son of Comfort'), a Levite, a native of Cyʹprus,"
+
+- triggers: ["!ac4:37 ","!acts4:37 "]
+  replace: "owned a piece of land, and he sold it and brought the money and deposited it at the feet of the apostles."
+
+- triggers: ["!ac5:1 ","!acts5:1 "]
+  replace: "However, a man named Ananiʹas, together with his wife Sapphiʹra, sold some property."
+
+- triggers: ["!ac5:2 ","!acts5:2 "]
+  replace: "But he secretly held back some of the price, with his wife's knowledge, and he brought just a part of it and deposited it at the feet of the apostles."
+
+- triggers: ["!ac5:3 ","!acts5:3 "]
+  replace: "But Peter said: 'Ananiʹas, why has Satan emboldened you to lie to the holy spirit and secretly hold back some of the price of the field?"
+
+- triggers: ["!ac5:4 ","!acts5:4 "]
+  replace: "As long as it remained with you, did it not remain yours? And after it was sold, was it not in your control? Why have you thought up such a deed as this in your heart? You have lied, not to men, but to God.'"
+
+- triggers: ["!ac5:5 ","!acts5:5 "]
+  replace: "On hearing these words, Ananiʹas collapsed and died. And great fear came over all those who heard about it."
+
+- triggers: ["!ac5:6 ","!acts5:6 "]
+  replace: "Then the younger men rose, wrapped him in cloths, carried him out, and buried him."
+
+- triggers: ["!ac5:7 ","!acts5:7 "]
+  replace: "Now after an interval of about three hours his wife came in, not knowing what had happened."
+
+- triggers: ["!ac5:8 ","!acts5:8 "]
+  replace: "Peter said to her: 'Tell me, did you two sell the field for so much?' She said: 'Yes, for that amount.'"
+
+- triggers: ["!ac5:9 ","!acts5:9 "]
+  replace: "So Peter said to her: 'Why did you two agree to make a test of the spirit of Jehovah? Look! The feet of those who buried your husband are at the door, and they will carry you out.'"
+
+- triggers: ["!ac5:10 ","!acts5:10 "]
+  replace: "Instantly she collapsed at his feet and died. When the young men came in, they found her dead and they carried her out and buried her alongside her husband."
+
+- triggers: ["!ac5:11 ","!acts5:11 "]
+  replace: "So great fear came over the whole congregation and over all those hearing about these things."
+
+- triggers: ["!ac5:12 ","!acts5:12 "]
+  replace: "Moreover, through the hands of the apostles many signs and wonders continued to occur among the people; and they would all meet together in Solʹomon's Colonnade."
+
+- triggers: ["!ac5:13 ","!acts5:13 "]
+  replace: "True, none of the others had the courage to join them; nevertheless, the people were speaking highly of them."
+
+- triggers: ["!ac5:14 ","!acts5:14 "]
+  replace: "More than that, believers in the Lord kept on being added, great numbers both of men and of women."
+
+- triggers: ["!ac5:15 ","!acts5:15 "]
+  replace: "They even brought the sick out into the main streets and laid them there on small beds and mats, so that as Peter would pass by, at least his shadow might fall on some of them."
+
+- triggers: ["!ac5:16 ","!acts5:16 "]
+  replace: "Also, crowds of people from the cities around Jerusalem kept coming, carrying sick people and those troubled with unclean spirits, and they were one and all cured."
+
+- triggers: ["!ac5:17 ","!acts5:17 "]
+  replace: "But the high priest rose, and all those with him, who were of the sect of the Sadducees, and they were filled with jealousy."
+
+- triggers: ["!ac5:18 ","!acts5:18 "]
+  replace: "And they seized the apostles and put them in the public jail."
+
+- triggers: ["!ac5:19 ","!acts5:19 "]
+  replace: "But during the night, Jehovah's angel opened the doors of the prison, brought them out, and said:"
+
+- triggers: ["!ac5:20 ","!acts5:20 "]
+  replace: "'Go and take your stand in the temple, and keep on speaking to the people all the sayings about this life.'"
+
+- triggers: ["!ac5:21 ","!acts5:21 "]
+  replace: "After hearing this, they entered the temple at daybreak and began to teach. Now when the high priest and those with him arrived, they called together the Sanʹhedrin and the entire assembly of elders of the sons of Israel, and they sent out to the jail to have the apostles brought before them."
+
+- triggers: ["!ac5:22 ","!acts5:22 "]
+  replace: "But when the officers got there, they did not find them in the prison. So they returned and made their report,"
+
+- triggers: ["!ac5:23 ","!acts5:23 "]
+  replace: "saying: 'We found the jail locked and secure, and the guards were standing at the doors, but on opening it up, we found no one inside.'"
+
+- triggers: ["!ac5:24 ","!acts5:24 "]
+  replace: "Well, when both the captain of the temple and the chief priests heard these words, they were perplexed about what would come of this."
+
+- triggers: ["!ac5:25 ","!acts5:25 "]
+  replace: "But someone came and reported to them: 'Look! The men you put in prison are in the temple, standing and teaching the people.'"
+
+- triggers: ["!ac5:26 ","!acts5:26 "]
+  replace: "Then the captain went off with his officers and brought them in, but without violence, because they were afraid of being stoned by the people."
+
+- triggers: ["!ac5:27 ","!acts5:27 "]
+  replace: "So they brought them and stood them before the Sanʹhedrin. Then the high priest questioned them"
+
+- triggers: ["!ac5:28 ","!acts5:28 "]
+  replace: "and said: 'We strictly ordered you not to keep teaching on the basis of this name, and yet look! you have filled Jerusalem with your teaching, and you are determined to bring the blood of this man upon us.'"
+
+- triggers: ["!ac5:29 ","!acts5:29 "]
+  replace: "In answer Peter and the other apostles said: 'We must obey God as ruler rather than men."
+
+- triggers: ["!ac5:30 ","!acts5:30 "]
+  replace: "The God of our forefathers raised up Jesus, whom you killed, hanging him on a stake."
+
+- triggers: ["!ac5:31 ","!acts5:31 "]
+  replace: "God exalted this one as Chief Agent and Savior to his right hand, to give repentance to Israel and forgiveness of sins."
+
+- triggers: ["!ac5:32 ","!acts5:32 "]
+  replace: "And we are witnesses of these matters, and so is the holy spirit, which God has given to those obeying him as ruler.'"
+
+- triggers: ["!ac5:33 ","!acts5:33 "]
+  replace: "When they heard this, they were infuriated and wanted to do away with them."
+
+- triggers: ["!ac5:34 ","!acts5:34 "]
+  replace: "But a Pharisee named Gamaʹliel rose in the Sanʹhedrin; he was a Law teacher esteemed by all the people, and he gave the command to put the men outside for a little while."
+
+- triggers: ["!ac5:35 ","!acts5:35 "]
+  replace: "Then he said to them: 'Men of Israel, be careful as to what you intend to do about these men."
+
+- triggers: ["!ac5:36 ","!acts5:36 "]
+  replace: "For instance, before these days Theuʹdas rose up, saying he himself was somebody, and a number of men, about 400, joined his party. But he was done away with, and all those who were following him were dispersed and came to nothing."
+
+- triggers: ["!ac5:37 ","!acts5:37 "]
+  replace: "After him, Judas the Galileʹan rose up in the days of the registration, and he drew followers after himself. That man also perished, and all those who were following him were scattered."
+
+- triggers: ["!ac5:38 ","!acts5:38 "]
+  replace: "So under the present circumstances, I say to you, do not meddle with these men, but let them alone. For if this scheme or this work is from men, it will be overthrown;"
+
+- triggers: ["!ac5:39 ","!acts5:39 "]
+  replace: "but if it is from God, you will not be able to overthrow them. Otherwise, you may even be found fighters against God himself.'"
+
+- triggers: ["!ac5:40 ","!acts5:40 "]
+  replace: "At this they took his advice, and they summoned the apostles, flogged them, and ordered them to stop speaking on the basis of Jesus' name, and let them go."
+
+- triggers: ["!ac5:41 ","!acts5:41 "]
+  replace: "So they went out from before the Sanʹhedrin, rejoicing because they had been counted worthy to be dishonored in behalf of his name."
+
+- triggers: ["!ac5:42 ","!acts5:42 "]
+  replace: "And every day in the temple and from house to house they continued without letup teaching and declaring the good news about the Christ, Jesus."
+
+- triggers: ["!ac6:1 ","!acts6:1 "]
+  replace: "Now in those days when the disciples were increasing, the Greek-speaking Jews began complaining against the Hebrew-speaking Jews, because their widows were being overlooked in the daily distribution."
+
+- triggers: ["!ac6:2 ","!acts6:2 "]
+  replace: "So the Twelve called the multitude of the disciples together and said: 'It is not right for us to leave the word of God to distribute food to tables."
+
+- triggers: ["!ac6:3 ","!acts6:3 "]
+  replace: "So, brothers, select for yourselves seven reputable men from among you, full of spirit and wisdom, that we may appoint them over this necessary matter;"
+
+- triggers: ["!ac6:4 ","!acts6:4 "]
+  replace: "but we will devote ourselves to prayer and to the ministry of the word.'"
+
+- triggers: ["!ac6:5 ","!acts6:5 "]
+  replace: "What they said was pleasing to the whole multitude, and they selected Stephen, a man full of faith and holy spirit, as well as Philip, Prochʹorus, Nicaʹnor, Tiʹmon, Parʹmenas, and Nicolaʹus, a proselyte of Antioch."
+
+- triggers: ["!ac6:6 ","!acts6:6 "]
+  replace: "They brought them to the apostles, and after praying, they laid their hands on them."
+
+- triggers: ["!ac6:7 ","!acts6:7 "]
+  replace: "Consequently, the word of God continued to spread, and the number of the disciples kept multiplying very much in Jerusalem; and a large crowd of priests began to be obedient to the faith."
+
+- triggers: ["!ac6:8 ","!acts6:8 "]
+  replace: "Now Stephen, full of divine favor and power, was performing great wonders and signs among the people."
+
+- triggers: ["!ac6:9 ","!acts6:9 "]
+  replace: "But some men of the so-called Synagogue of the Freedmen came forward, along with some Cyreʹnians and Alexandrians, and some from Ciliʹcia and Asia, to dispute with Stephen."
+
+- triggers: ["!ac6:10 ","!acts6:10 "]
+  replace: "But they could not hold their own against the wisdom and the spirit with which he was speaking."
+
+- triggers: ["!ac6:11 ","!acts6:11 "]
+  replace: "Then they secretly persuaded men to say: 'We have heard him speaking blasphemous things against Moses and God.'"
+
+- triggers: ["!ac6:12 ","!acts6:12 "]
+  replace: "And they stirred up the people, the elders, and the scribes, and coming upon him suddenly, they forcibly seized him and led him to the Sanʹhedrin."
+
+- triggers: ["!ac6:13 ","!acts6:13 "]
+  replace: "And they brought forward false witnesses, who said: 'This man does not stop speaking things against this holy place and against the Law."
+
+- triggers: ["!ac6:14 ","!acts6:14 "]
+  replace: "For instance, we have heard him say that this Jesus the Nazareneʹ will throw down this place and change the customs that Moses handed down to us.'"
+
+- triggers: ["!ac6:15 ","!acts6:15 "]
+  replace: "And as all those sitting in the Sanʹhedrin stared at him, they saw that his face was like an angel's face."
+
+- triggers: ["!ac7:1 ","!acts7:1 "]
+  replace: "But the high priest said: 'Are these things so?'"
+
+- triggers: ["!ac7:2 ","!acts7:2 "]
+  replace: "Stephen replied: 'Men, brothers and fathers, listen. The God of glory appeared to our forefather Abraham while he was in Mesopotaʹmia, before he took up residence in Haʹran,"
+
+- triggers: ["!ac7:3 ","!acts7:3 "]
+  replace: "and he said to him: 'Go out from your land and from your relatives and come into the land that I will show you.'"
+
+- triggers: ["!ac7:4 ","!acts7:4 "]
+  replace: "Then he went out of the land of the Chaldeʹans and took up residence in Haʹran. And from there, after his father died, God caused him to resettle in this land where you now dwell."
+
+- triggers: ["!ac7:5 ","!acts7:5 "]
+  replace: "And yet, he did not give him any inheritance in it, no, not even enough to put his foot on; but he promised to give it to him as a possession and after him to his offspring, though as yet he had no child."
+
+- triggers: ["!ac7:6 ","!acts7:6 "]
+  replace: "Moreover, God told him that his offspring would be foreigners in a land not theirs and that the people would enslave them and afflict them for 400 years."
+
+- triggers: ["!ac7:7 ","!acts7:7 "]
+  replace: "'And that nation for which they will slave I will judge,' God said, 'and after these things they will come out and will offer sacred service to me in this place.'"
+
+- triggers: ["!ac7:8 ","!acts7:8 "]
+  replace: "'He also gave him a covenant of circumcision, and he became the father of Isaac and circumcised him on the eighth day, and Isaac became the father of Jacob, and Jacob of the 12 family heads."
+
+- triggers: ["!ac7:9 ","!acts7:9 "]
+  replace: "And the family heads became jealous of Joseph and sold him into Egypt. But God was with him,"
+
+- triggers: ["!ac7:10 ","!acts7:10 "]
+  replace: "and he rescued him out of all his tribulations and gave him favor and wisdom before Pharʹaoh king of Egypt. And he appointed him to govern Egypt and his whole house."
+
+- triggers: ["!ac7:11 ","!acts7:11 "]
+  replace: "But a famine came on all of Egypt and Caʹnaan, yes, a great tribulation, and our forefathers could not find anything to eat."
+
+- triggers: ["!ac7:12 ","!acts7:12 "]
+  replace: "But Jacob heard that there were food supplies in Egypt, and he sent our forefathers out the first time."
+
+- triggers: ["!ac7:13 ","!acts7:13 "]
+  replace: "During the second time, Joseph made himself known to his brothers, and the family of Joseph became known to Pharʹaoh."
+
+- triggers: ["!ac7:14 ","!acts7:14 "]
+  replace: "So Joseph sent a message and called his father Jacob and all his relatives from that place, 75 persons in all."
+
+- triggers: ["!ac7:15 ","!acts7:15 "]
+  replace: "So Jacob went down into Egypt, and he died there, and so did our forefathers."
+
+- triggers: ["!ac7:16 ","!acts7:16 "]
+  replace: "They were carried to Sheʹchem and were laid in the tomb that Abraham had bought for a sum of silver money from the sons of Haʹmor in Sheʹchem."
+
+- triggers: ["!ac7:17 ","!acts7:17 "]
+  replace: "'Just as the time was approaching to fulfill the promise that God had announced to Abraham, the people grew and multiplied in Egypt,"
+
+- triggers: ["!ac7:18 ","!acts7:18 "]
+  replace: "until there rose a different king over Egypt, one who did not know of Joseph."
+
+- triggers: ["!ac7:19 ","!acts7:19 "]
+  replace: "This one dealt cunningly with our race and wrongfully forced the fathers to abandon their infants so that they would not be kept alive."
+
+- triggers: ["!ac7:20 ","!acts7:20 "]
+  replace: "At that time Moses was born, and he was divinely beautiful. And he was nursed for three months in his father's home."
+
+- triggers: ["!ac7:21 ","!acts7:21 "]
+  replace: "But when he was abandoned, the daughter of Pharʹaoh took him and brought him up as her own son."
+
+- triggers: ["!ac7:22 ","!acts7:22 "]
+  replace: "So Moses was instructed in all the wisdom of the Egyptians. In fact, he was powerful in his words and deeds."
+
+- triggers: ["!ac7:23 ","!acts7:23 "]
+  replace: "'Now when he reached the age of 40, it came into his heart to make a visit on his brothers, the sons of Israel."
+
+- triggers: ["!ac7:24 ","!acts7:24 "]
+  replace: "When he caught sight of one of them being unjustly treated, he defended him and avenged the one being abused by striking down the Egyptian."
+
+- triggers: ["!ac7:25 ","!acts7:25 "]
+  replace: "He thought that his brothers would grasp that God was giving them salvation by his hand, but they did not grasp it."
+
+- triggers: ["!ac7:26 ","!acts7:26 "]
+  replace: "The next day he appeared to them as they were fighting, and he tried to reconcile them in peace, saying: 'Men, you are brothers. Why do you mistreat each other?'"
+
+- triggers: ["!ac7:27 ","!acts7:27 "]
+  replace: "But the one who was mistreating his neighbor pushed him away, saying: 'Who appointed you ruler and judge over us?"
+
+- triggers: ["!ac7:28 ","!acts7:28 "]
+  replace: "You do not want to do away with me the way you did away with the Egyptian yesterday, do you?'"
+
+- triggers: ["!ac7:29 ","!acts7:29 "]
+  replace: "On hearing this, Moses fled and lived as a foreigner in the land of Midʹian, where he became the father of two sons."
+
+- triggers: ["!ac7:30 ","!acts7:30 "]
+  replace: "'After 40 years had passed, an angel appeared to him in the wilderness of Mount Siʹnai in the flame of a burning thornbush."
+
+- triggers: ["!ac7:31 ","!acts7:31 "]
+  replace: "When Moses saw it, he was amazed at the sight. But as he was approaching to investigate, Jehovah's voice was heard:"
+
+- triggers: ["!ac7:32 ","!acts7:32 "]
+  replace: "'I am the God of your forefathers, the God of Abraham and of Isaac and of Jacob.' Moses started trembling and did not dare to investigate further."
+
+- triggers: ["!ac7:33 ","!acts7:33 "]
+  replace: "Jehovah said to him: 'Remove the sandals from your feet, for the place where you are standing is holy ground."
+
+- triggers: ["!ac7:34 ","!acts7:34 "]
+  replace: "I have certainly seen the oppression of my people who are in Egypt, and I have heard their groaning, and I have come down to rescue them. Now come, I will send you off to Egypt.'"
+
+- triggers: ["!ac7:35 ","!acts7:35 "]
+  replace: "This same Moses whom they had disowned, saying: 'Who appointed you ruler and judge?' is the very one God sent as both ruler and deliverer by means of the angel who appeared to him in the thornbush."
+
+- triggers: ["!ac7:36 ","!acts7:36 "]
+  replace: "This man led them out, performing wonders and signs in Egypt and at the Red Sea and in the wilderness for 40 years."
+
+- triggers: ["!ac7:37 ","!acts7:37 "]
+  replace: "'This is the Moses who said to the sons of Israel: 'God will raise up for you from among your brothers a prophet like me.'"
+
+- triggers: ["!ac7:38 ","!acts7:38 "]
+  replace: "This is the one who came to be among the congregation in the wilderness with the angel who spoke to him on Mount Siʹnai and with our forefathers, and he received living sacred pronouncements to give us."
+
+- triggers: ["!ac7:39 ","!acts7:39 "]
+  replace: "Our forefathers refused to obey him, but they pushed him aside and in their hearts they turned back to Egypt,"
+
+- triggers: ["!ac7:40 ","!acts7:40 "]
+  replace: "saying to Aaron: 'Make gods for us to go ahead of us. For we do not know what has happened to this Moses, who led us out of the land of Egypt.'"
+
+- triggers: ["!ac7:41 ","!acts7:41 "]
+  replace: "So they made a calf in those days and brought a sacrifice to the idol and began to enjoy themselves in the works of their hands."
+
+- triggers: ["!ac7:42 ","!acts7:42 "]
+  replace: "So God turned away from them and handed them over to offer sacred service to the army of heaven, just as it is written in the book of the Prophets: 'It was not to me that you made offerings and sacrifices for 40 years in the wilderness, was it, O house of Israel?"
+
+- triggers: ["!ac7:43 ","!acts7:43 "]
+  replace: "But it was the tent of Moʹloch and the star of the god Reʹphan that you took up, the images that you made to worship them. So I will deport you beyond Babylon.'"
+
+- triggers: ["!ac7:44 ","!acts7:44 "]
+  replace: "'Our forefathers had the tent of the witness in the wilderness, just as He gave orders when speaking to Moses to make it according to the pattern he had seen."
+
+- triggers: ["!ac7:45 ","!acts7:45 "]
+  replace: "And our forefathers received possession of it and brought it in with Joshua into the land possessed by the nations, whom God drove out from before our forefathers. Here it remained until the days of David."
+
+- triggers: ["!ac7:46 ","!acts7:46 "]
+  replace: "He found favor in the sight of God and asked for the privilege of providing a dwelling place for the God of Jacob."
+
+- triggers: ["!ac7:47 ","!acts7:47 "]
+  replace: "But it was Solʹomon who built a house for him."
+
+- triggers: ["!ac7:48 ","!acts7:48 "]
+  replace: "However, the Most High does not dwell in houses made with hands, just as the prophet says:"
+
+- triggers: ["!ac7:49 ","!acts7:49 "]
+  replace: "'The heaven is my throne, and the earth is my footstool. What sort of house will you build for me? Jehovah says. Or where is my resting-place?"
+
+- triggers: ["!ac7:50 ","!acts7:50 "]
+  replace: "My hand made all these things, did it not?'"
+
+- triggers: ["!ac7:51 ","!acts7:51 "]
+  replace: "'Obstinate men and uncircumcised in hearts and ears, you are always resisting the holy spirit; as your forefathers did, so you do."
+
+- triggers: ["!ac7:52 ","!acts7:52 "]
+  replace: "Which one of the prophets did your forefathers not persecute? Yes, they killed those who announced in advance the coming of the righteous one, whose betrayers and murderers you have now become,"
+
+- triggers: ["!ac7:53 ","!acts7:53 "]
+  replace: "you who received the Law as transmitted by angels but have not kept it.'"
+
+- triggers: ["!ac7:54 ","!acts7:54 "]
+  replace: "Well, at hearing these things, they were infuriated in their hearts and began to grind their teeth at him."
+
+- triggers: ["!ac7:55 ","!acts7:55 "]
+  replace: "But he, being full of holy spirit, gazed into heaven and caught sight of God's glory and of Jesus standing at God's right hand,"
+
+- triggers: ["!ac7:56 ","!acts7:56 "]
+  replace: "and he said: 'Look! I see the heavens opened up and the Son of man standing at God's right hand.'"
+
+- triggers: ["!ac7:57 ","!acts7:57 "]
+  replace: "At this they cried out at the top of their voices and put their hands over their ears and rushed at him all together."
+
+- triggers: ["!ac7:58 ","!acts7:58 "]
+  replace: "After throwing him outside the city, they began stoning him. The witnesses laid down their outer garments at the feet of a young man called Saul."
+
+- triggers: ["!ac7:59 ","!acts7:59 "]
+  replace: "As they were stoning Stephen, he made this appeal: 'Lord Jesus, receive my spirit.'"
+
+- triggers: ["!ac7:60 ","!acts7:60 "]
+  replace: "Then, kneeling down, he cried out with a strong voice: 'Jehovah, do not charge this sin against them.' And after saying this, he fell asleep in death."
+
+- triggers: ["!ac8:1 ","!acts8:1 "]
+  replace: "Saul, for his part, approved of his murder. On that day great persecution arose against the congregation that was in Jerusalem; all except the apostles were scattered throughout the regions of Judeʹa and Samarʹia."
+
+- triggers: ["!ac8:2 ","!acts8:2 "]
+  replace: "But devout men carried Stephen away to bury him, and they made a great mourning over him."
+
+- triggers: ["!ac8:3 ","!acts8:3 "]
+  replace: "Saul, though, began to ravage the congregation. He would invade one house after another, dragging out both men and women and turning them over to prison."
+
+- triggers: ["!ac8:4 ","!acts8:4 "]
+  replace: "However, those who had been scattered went through the land declaring the good news of the word."
+
+- triggers: ["!ac8:5 ","!acts8:5 "]
+  replace: "Now Philip went down to the city of Samarʹia and began to preach the Christ to them."
+
+- triggers: ["!ac8:6 ","!acts8:6 "]
+  replace: "The crowds with one accord were paying attention to what Philip said while they listened and observed the signs he was performing."
+
+- triggers: ["!ac8:7 ","!acts8:7 "]
+  replace: "For many had unclean spirits, and these would cry out with a loud voice and come out. Moreover, many who were paralyzed and lame were cured."
+
+- triggers: ["!ac8:8 ","!acts8:8 "]
+  replace: "So there came to be a great deal of joy in that city."
+
+- triggers: ["!ac8:9 ","!acts8:9 "]
+  replace: "Now in the city was a man named Simon, who prior to this had been practicing magical arts and amazing the nation of Samarʹia, claiming that he was somebody great."
+
+- triggers: ["!ac8:10 ","!acts8:10 "]
+  replace: "All of them, from the least to the greatest, would pay attention to him and say: 'This man is the Power of God, which is called Great.'"
+
+- triggers: ["!ac8:11 ","!acts8:11 "]
+  replace: "So they would pay attention to him because he had amazed them for quite a while by his magical arts."
+
+- triggers: ["!ac8:12 ","!acts8:12 "]
+  replace: "But when they believed Philip, who was declaring the good news of the Kingdom of God and of the name of Jesus Christ, both men and women were getting baptized."
+
+- triggers: ["!ac8:13 ","!acts8:13 "]
+  replace: "Simon himself also became a believer, and after being baptized, he continued with Philip; and he was amazed at seeing the signs and great powerful works taking place."
+
+- triggers: ["!ac8:14 ","!acts8:14 "]
+  replace: "When the apostles in Jerusalem heard that Samarʹia had accepted the word of God, they sent Peter and John to them;"
+
+- triggers: ["!ac8:15 ","!acts8:15 "]
+  replace: "and these went down and prayed for them to get holy spirit."
+
+- triggers: ["!ac8:16 ","!acts8:16 "]
+  replace: "For it had not yet come upon any one of them, but they had only been baptized in the name of the Lord Jesus."
+
+- triggers: ["!ac8:17 ","!acts8:17 "]
+  replace: "Then they laid their hands on them, and they began to receive holy spirit."
+
+- triggers: ["!ac8:18 ","!acts8:18 "]
+  replace: "Now when Simon saw that the spirit was given through the laying on of the hands of the apostles, he offered them money,"
+
+- triggers: ["!ac8:19 ","!acts8:19 "]
+  replace: "saying: 'Give me this authority also, so that anyone on whom I lay my hands may receive holy spirit.'"
+
+- triggers: ["!ac8:20 ","!acts8:20 "]
+  replace: "But Peter said to him: 'May your silver perish with you, because you thought you could acquire the free gift of God with money."
+
+- triggers: ["!ac8:21 ","!acts8:21 "]
+  replace: "You have neither part nor share in this matter, for your heart is not straight in the sight of God."
+
+- triggers: ["!ac8:22 ","!acts8:22 "]
+  replace: "So repent of this badness of yours, and supplicate Jehovah that, if possible, the wicked intention of your heart may be forgiven you;"
+
+- triggers: ["!ac8:23 ","!acts8:23 "]
+  replace: "for I see you are a bitter poison and a slave of unrighteousness.'"
+
+- triggers: ["!ac8:24 ","!acts8:24 "]
+  replace: "In answer Simon said to them: 'Make supplication for me to Jehovah that none of the things you have said may come upon me.'"
+
+- triggers: ["!ac8:25 ","!acts8:25 "]
+  replace: "Therefore, when they had given the witness thoroughly and had spoken the word of Jehovah, they started back toward Jerusalem, and they went declaring the good news to many villages of the Samarʹitans."
+
+- triggers: ["!ac8:26 ","!acts8:26 "]
+  replace: "However, Jehovah's angel spoke to Philip, saying: 'Get up and go to the south to the road that runs down from Jerusalem to Gazʹa.' (This is a desert road.)"
+
+- triggers: ["!ac8:27 ","!acts8:27 "]
+  replace: "With that he got up and went, and look! an Ethioʹpian eunuch, a man who had authority under Candaʹce, queen of the Ethioʹpians, and who was in charge of all her treasure. He had gone to Jerusalem to worship,"
+
+- triggers: ["!ac8:28 ","!acts8:28 "]
+  replace: "and he was returning and was sitting in his chariot, reading aloud the prophet Isaiah."
+
+- triggers: ["!ac8:29 ","!acts8:29 "]
+  replace: "So the spirit said to Philip: 'Go over and approach this chariot.'"
+
+- triggers: ["!ac8:30 ","!acts8:30 "]
+  replace: "Philip ran alongside and heard him reading aloud Isaiah the prophet, and he said: 'Do you actually know what you are reading?'"
+
+- triggers: ["!ac8:31 ","!acts8:31 "]
+  replace: "He said: 'Really, how could I ever do so unless someone guided me?' So he urged Philip to get on and sit down with him."
+
+- triggers: ["!ac8:32 ","!acts8:32 "]
+  replace: "Now this was the passage of Scripture that he was reading: 'Like a sheep he was brought to the slaughter, and like a lamb that is silent before its shearer, so he does not open his mouth."
+
+- triggers: ["!ac8:33 ","!acts8:33 "]
+  replace: "During his humiliation, justice was taken away from him. Who will tell the details of his generation? Because his life is taken away from the earth.'"
+
+- triggers: ["!ac8:34 ","!acts8:34 "]
+  replace: "The eunuch then said to Philip: 'I beg you, about whom does the prophet say this? About himself or about some other man?'"
+
+- triggers: ["!ac8:35 ","!acts8:35 "]
+  replace: "Philip began to speak, and starting with this scripture, he declared to him the good news about Jesus."
+
+- triggers: ["!ac8:36 ","!acts8:36 "]
+  replace: "Now as they were going along the road, they came to a body of water, and the eunuch said: 'Look! Here is water; what prevents me from getting baptized?'"
+
+- triggers: ["!ac8:37 ","!acts8:37 "]
+  replace: "--"
+
+- triggers: ["!ac8:38 ","!acts8:38 "]
+  replace: "With that he commanded the chariot to halt, and both Philip and the eunuch went down into the water, and he baptized him."
+
+- triggers: ["!ac8:39 ","!acts8:39 "]
+  replace: "When they came up out of the water, Jehovah's spirit quickly led Philip away, and the eunuch did not see him anymore, but he went on his way rejoicing."
+
+- triggers: ["!ac8:40 ","!acts8:40 "]
+  replace: "Philip, however, found himself in Ashʹdod, and he went through the territory and kept on declaring the good news to all the cities until he got to Caesareʹa."
+
+- triggers: ["!ac9:1 ","!acts9:1 "]
+  replace: "But Saul, still breathing threat and murder against the disciples of the Lord, went to the high priest"
+
+- triggers: ["!ac9:2 ","!acts9:2 "]
+  replace: "and asked him for letters to the synagogues in Damascus, so that he might bring bound to Jerusalem any whom he found who belonged to The Way, both men and women."
+
+- triggers: ["!ac9:3 ","!acts9:3 "]
+  replace: "Now as he was traveling and getting near Damascus, suddenly a light from heaven flashed around him,"
+
+- triggers: ["!ac9:4 ","!acts9:4 "]
+  replace: "and he fell to the ground and heard a voice say to him: 'Saul, Saul, why are you persecuting me?'"
+
+- triggers: ["!ac9:5 ","!acts9:5 "]
+  replace: "He asked: 'Who are you, Lord?' He said: 'I am Jesus, whom you are persecuting."
+
+- triggers: ["!ac9:6 ","!acts9:6 "]
+  replace: "But get up and go into the city, and you will be told what you must do.'"
+
+- triggers: ["!ac9:7 ","!acts9:7 "]
+  replace: "Now the men who were traveling with him stood speechless, hearing, indeed, the sound of a voice but seeing no one."
+
+- triggers: ["!ac9:8 ","!acts9:8 "]
+  replace: "Saul then got up from the ground, and though his eyes were open, he could see nothing. So they led him by the hand and brought him into Damascus."
+
+- triggers: ["!ac9:9 ","!acts9:9 "]
+  replace: "And for three days he did not see anything, and he neither ate nor drank."
+
+- triggers: ["!ac9:10 ","!acts9:10 "]
+  replace: "There was a disciple named Ananiʹas in Damascus, and the Lord said to him in a vision: 'Ananiʹas!' He said: 'Here I am, Lord.'"
+
+- triggers: ["!ac9:11 ","!acts9:11 "]
+  replace: "The Lord said to him: 'Get up, go to the street called Straight, and look for a man named Saul, from Tarsus, at the house of Judas. For look! he is praying,"
+
+- triggers: ["!ac9:12 ","!acts9:12 "]
+  replace: "and in a vision he has seen a man named Ananiʹas come in and lay his hands on him so that he may recover sight.'"
+
+- triggers: ["!ac9:13 ","!acts9:13 "]
+  replace: "But Ananiʹas answered: 'Lord, I have heard from many about this man, about all the harm he did to your holy ones in Jerusalem."
+
+- triggers: ["!ac9:14 ","!acts9:14 "]
+  replace: "And here he has authority from the chief priests to arrest all those calling on your name.'"
+
+- triggers: ["!ac9:15 ","!acts9:15 "]
+  replace: "But the Lord said to him: 'Go! because this man is a chosen vessel to me to bear my name to the nations as well as to kings and the sons of Israel."
+
+- triggers: ["!ac9:16 ","!acts9:16 "]
+  replace: "For I will show him plainly how many things he must suffer for my name.'"
+
+- triggers: ["!ac9:17 ","!acts9:17 "]
+  replace: "So Ananiʹas went and entered the house, and he laid his hands on him and said: 'Saul, brother, the Lord Jesus, who appeared to you on the road along which you were coming, has sent me so that you may recover sight and be filled with holy spirit.'"
+
+- triggers: ["!ac9:18 ","!acts9:18 "]
+  replace: "And immediately, what looked like scales fell from his eyes, and he recovered his sight. He then got up and was baptized,"
+
+- triggers: ["!ac9:19 ","!acts9:19 "]
+  replace: "and he ate some food and gained strength. He stayed for some days with the disciples in Damascus,"
+
+- triggers: ["!ac9:20 ","!acts9:20 "]
+  replace: "and immediately in the synagogues he began to preach about Jesus, that this one is the Son of God."
+
+- triggers: ["!ac9:21 ","!acts9:21 "]
+  replace: "But all those hearing him were astonished and were saying: 'Is this not the man who ravaged those in Jerusalem who call on this name? Did he not come here for the purpose of arresting them and taking them to the chief priests?'"
+
+- triggers: ["!ac9:22 ","!acts9:22 "]
+  replace: "But Saul kept on acquiring more and more power and was confounding the Jews who lived in Damascus, as he proved logically that this is the Christ."
+
+- triggers: ["!ac9:23 ","!acts9:23 "]
+  replace: "Now when many days had passed, the Jews plotted together to do away with him."
+
+- triggers: ["!ac9:24 ","!acts9:24 "]
+  replace: "However, their plot against Saul became known to him. They were also watching the gates closely both day and night in order to do away with him."
+
+- triggers: ["!ac9:25 ","!acts9:25 "]
+  replace: "So his disciples took him and let him down by night through an opening in the wall, lowering him in a basket."
+
+- triggers: ["!ac9:26 ","!acts9:26 "]
+  replace: "On arriving in Jerusalem, he made efforts to join the disciples, but they were all afraid of him, because they did not believe he was a disciple."
+
+- triggers: ["!ac9:27 ","!acts9:27 "]
+  replace: "So Barʹnabas came to his aid and led him to the apostles, and he told them in detail how on the road he had seen the Lord, and that he had spoken to him, and how in Damascus he had spoken boldly in the name of Jesus."
+
+- triggers: ["!ac9:28 ","!acts9:28 "]
+  replace: "So he remained with them, moving about freely in Jerusalem, speaking boldly in the name of the Lord."
+
+- triggers: ["!ac9:29 ","!acts9:29 "]
+  replace: "He was talking and disputing with the Greek-speaking Jews, but these made attempts to do away with him."
+
+- triggers: ["!ac9:30 ","!acts9:30 "]
+  replace: "When the brothers found out about this, they brought him down to Caesareʹa and sent him off to Tarsus."
+
+- triggers: ["!ac9:31 ","!acts9:31 "]
+  replace: "Then, indeed, the congregation throughout the whole of Judeʹa and Galʹilee and Samarʹia entered into a period of peace, being built up; and as it walked in the fear of Jehovah and in the comfort of the holy spirit, it kept on multiplying."
+
+- triggers: ["!ac9:32 ","!acts9:32 "]
+  replace: "Now as Peter was traveling through all the region, he came down also to the holy ones who lived in Lydʹda."
+
+- triggers: ["!ac9:33 ","!acts9:33 "]
+  replace: "There he found a man named Aeneʹas, who had been lying flat on his bed for eight years, for he was paralyzed."
+
+- triggers: ["!ac9:34 ","!acts9:34 "]
+  replace: "Peter said to him: 'Aeneʹas, Jesus Christ heals you. Rise and make up your bed.' And he got up immediately."
+
+- triggers: ["!ac9:35 ","!acts9:35 "]
+  replace: "When all those living in Lydʹda and the Plain of Sharʹon saw him, they turned to the Lord."
+
+- triggers: ["!ac9:36 ","!acts9:36 "]
+  replace: "Now there was in Jopʹpa a disciple named Tabʹitha, which means, when translated, 'Dorʹcas.' She abounded in good deeds and gifts of mercy that she was making."
+
+- triggers: ["!ac9:37 ","!acts9:37 "]
+  replace: "But in those days she fell sick and died. So they bathed her and laid her in an upper room."
+
+- triggers: ["!ac9:38 ","!acts9:38 "]
+  replace: "Since Lydʹda was near Jopʹpa, when the disciples heard that Peter was in that city, they sent two men to him to urge him: 'Please come to us without delay.'"
+
+- triggers: ["!ac9:39 ","!acts9:39 "]
+  replace: "At that Peter got up and went with them. And when he arrived, they led him up into the upper room; and all the widows presented themselves to him, weeping and showing many garments and robes that Dorʹcas had made while she was with them."
+
+- triggers: ["!ac9:40 ","!acts9:40 "]
+  replace: "Peter then put everyone outside, and kneeling down, he prayed. Then turning toward the body, he said: 'Tabʹitha, rise!' She opened her eyes, and as she caught sight of Peter, she sat up."
+
+- triggers: ["!ac9:41 ","!acts9:41 "]
+  replace: "Giving her his hand, he raised her up, and he called the holy ones and the widows and presented her alive."
+
+- triggers: ["!ac9:42 ","!acts9:42 "]
+  replace: "This became known throughout all Jopʹpa, and many became believers in the Lord."
+
+- triggers: ["!ac9:43 ","!acts9:43 "]
+  replace: "He remained for quite a few days in Jopʹpa with a tanner named Simon."
+
+- triggers: ["!ac10:1 ","!acts10:1 "]
+  replace: "Now there was a man in Caesareʹa named Cornelius, an army officer in what was called the Italian unit."
+
+- triggers: ["!ac10:2 ","!acts10:2 "]
+  replace: "He was a devout man who feared God together with all his household, and he made many gifts of mercy to the people and made supplication to God continually."
+
+- triggers: ["!ac10:3 ","!acts10:3 "]
+  replace: "About the ninth hour of the day, he saw plainly in a vision an angel of God come in to him and say: 'Cornelius!'"
+
+- triggers: ["!ac10:4 ","!acts10:4 "]
+  replace: "Cornelius stared at him, terrified, and asked: 'What is it, Lord?' He said to him: 'Your prayers and gifts of mercy have ascended as a remembrance before God."
+
+- triggers: ["!ac10:5 ","!acts10:5 "]
+  replace: "So now send men to Jopʹpa and summon a man named Simon who is called Peter."
+
+- triggers: ["!ac10:6 ","!acts10:6 "]
+  replace: "This man is staying as a guest with Simon, a tanner who has a house by the sea.'"
+
+- triggers: ["!ac10:7 ","!acts10:7 "]
+  replace: "As soon as the angel who spoke to him left, he called two of his servants and a devout soldier from among those who were his attendants,"
+
+- triggers: ["!ac10:8 ","!acts10:8 "]
+  replace: "and he related everything to them and sent them to Jopʹpa."
+
+- triggers: ["!ac10:9 ","!acts10:9 "]
+  replace: "The next day as they were continuing on their journey and were approaching the city, Peter went up to the housetop about the sixth hour to pray."
+
+- triggers: ["!ac10:10 ","!acts10:10 "]
+  replace: "But he became very hungry and wanted to eat. While they were preparing the meal, he fell into a trance"
+
+- triggers: ["!ac10:11 ","!acts10:11 "]
+  replace: "and saw heaven opened and something descending like a great linen sheet being let down by its four corners on the earth;"
+
+- triggers: ["!ac10:12 ","!acts10:12 "]
+  replace: "and in it were all sorts of four-footed animals and reptiles of the earth and birds of heaven."
+
+- triggers: ["!ac10:13 ","!acts10:13 "]
+  replace: "Then a voice said to him: 'Get up, Peter, slaughter and eat!'"
+
+- triggers: ["!ac10:14 ","!acts10:14 "]
+  replace: "But Peter said: 'Not at all, Lord, because I have never eaten anything defiled and unclean.'"
+
+- triggers: ["!ac10:15 ","!acts10:15 "]
+  replace: "And the voice spoke again to him, the second time: 'Stop calling defiled the things God has cleansed.'"
+
+- triggers: ["!ac10:16 ","!acts10:16 "]
+  replace: "This happened a third time, and immediately it was taken up into heaven."
+
+- triggers: ["!ac10:17 ","!acts10:17 "]
+  replace: "While Peter was still perplexed about what the vision he had seen could mean, just then the men sent by Cornelius asked where Simon's house was and stood there at the gate."
+
+- triggers: ["!ac10:18 ","!acts10:18 "]
+  replace: "They called out and inquired whether Simon who was called Peter was a guest there."
+
+- triggers: ["!ac10:19 ","!acts10:19 "]
+  replace: "As Peter was still pondering over the vision, the spirit said: 'Look! Three men are asking for you."
+
+- triggers: ["!ac10:20 ","!acts10:20 "]
+  replace: "So get up, go downstairs and go with them, not doubting at all, because I have sent them.'"
+
+- triggers: ["!ac10:21 ","!acts10:21 "]
+  replace: "Then Peter went downstairs to the men and said: 'Here I am, the one you are looking for. Why are you here?'"
+
+- triggers: ["!ac10:22 ","!acts10:22 "]
+  replace: "They said: 'Cornelius, an army officer, a righteous and God-fearing man who is well-reported-on by the whole nation of the Jews, was given divine instructions by a holy angel to send for you to come to his house and to hear what you have to say.'"
+
+- triggers: ["!ac10:23 ","!acts10:23 "]
+  replace: "So he invited them in and had them stay as his guests. The next day he got up and went off with them, and some of the brothers from Jopʹpa went with him."
+
+- triggers: ["!ac10:24 ","!acts10:24 "]
+  replace: "The following day he entered into Caesareʹa. Cornelius, of course, was expecting them and had called together his relatives and close friends."
+
+- triggers: ["!ac10:25 ","!acts10:25 "]
+  replace: "As Peter entered, Cornelius met him, fell down at his feet, and did obeisance to him."
+
+- triggers: ["!ac10:26 ","!acts10:26 "]
+  replace: "But Peter lifted him up, saying: 'Rise; I too am just a man.'"
+
+- triggers: ["!ac10:27 ","!acts10:27 "]
+  replace: "As he conversed with him, he went in and found many people assembled."
+
+- triggers: ["!ac10:28 ","!acts10:28 "]
+  replace: "He said to them: 'You well know how unlawful it is for a Jew to associate with or approach a man of another race, and yet God has shown me that I should call no man defiled or unclean."
+
+- triggers: ["!ac10:29 ","!acts10:29 "]
+  replace: "So I came, really without objection, when I was sent for. Therefore, I ask you why you sent for me.'"
+
+- triggers: ["!ac10:30 ","!acts10:30 "]
+  replace: "Then Cornelius said: 'Four days ago counting from this hour, I was praying in my house at the ninth hour; just then a man in bright clothing stood in front of me"
+
+- triggers: ["!ac10:31 ","!acts10:31 "]
+  replace: "and said: 'Cornelius, your prayer has been favorably heard, and your gifts of mercy have been remembered before God."
+
+- triggers: ["!ac10:32 ","!acts10:32 "]
+  replace: "Therefore, send to Jopʹpa and call for Simon who is called Peter. This man is a guest in the house of Simon, a tanner, by the sea.'"
+
+- triggers: ["!ac10:33 ","!acts10:33 "]
+  replace: "I then sent for you at once, and you were kind enough to come here. So now we are all present before God to hear all the things you have been commanded by Jehovah to say.'"
+
+- triggers: ["!ac10:34 ","!acts10:34 "]
+  replace: "At this Peter began to speak, and he said: 'Now I truly understand that God is not partial,"
+
+- triggers: ["!ac10:35 ","!acts10:35 "]
+  replace: "but in every nation the man who fears him and does what is right is acceptable to him."
+
+- triggers: ["!ac10:36 ","!acts10:36 "]
+  replace: "He sent out the word to the sons of Israel to declare to them the good news of peace through Jesus Christ-this one is Lord of all."
+
+- triggers: ["!ac10:37 ","!acts10:37 "]
+  replace: "You know the subject that was talked about throughout all Judeʹa, starting from Galʹilee after the baptism that John preached:"
+
+- triggers: ["!ac10:38 ","!acts10:38 "]
+  replace: "about Jesus who was from Nazʹareth, how God anointed him with holy spirit and power, and he went through the land doing good and healing all those oppressed by the Devil, because God was with him."
+
+- triggers: ["!ac10:39 ","!acts10:39 "]
+  replace: "And we are witnesses of all the things he did both in the country of the Jews and in Jerusalem; but they did away with him by hanging him on a stake."
+
+- triggers: ["!ac10:40 ","!acts10:40 "]
+  replace: "God raised this one up on the third day and allowed him to become manifest,"
+
+- triggers: ["!ac10:41 ","!acts10:41 "]
+  replace: "not to all the people, but to witnesses appointed beforehand by God, to us, who ate and drank with him after his rising from the dead."
+
+- triggers: ["!ac10:42 ","!acts10:42 "]
+  replace: "Also, he ordered us to preach to the people and to give a thorough witness that this is the one decreed by God to be judge of the living and the dead."
+
+- triggers: ["!ac10:43 ","!acts10:43 "]
+  replace: "To him all the prophets bear witness, that everyone putting faith in him receives forgiveness of sins through his name.'"
+
+- triggers: ["!ac10:44 ","!acts10:44 "]
+  replace: "While Peter was still speaking about these matters, the holy spirit came upon all those hearing the word."
+
+- triggers: ["!ac10:45 ","!acts10:45 "]
+  replace: "And the circumcised believers who had come with Peter were amazed, because the free gift of the holy spirit was being poured out also on people of the nations."
+
+- triggers: ["!ac10:46 ","!acts10:46 "]
+  replace: "For they heard them speaking in foreign languages and magnifying God. Then Peter responded:"
+
+- triggers: ["!ac10:47 ","!acts10:47 "]
+  replace: "'Can anyone deny water to prevent these from being baptized who have received the holy spirit just as we have?'"
+
+- triggers: ["!ac10:48 ","!acts10:48 "]
+  replace: "With that he commanded them to be baptized in the name of Jesus Christ. Then they requested him to stay for some days."
+
+- triggers: ["!ac11:1 ","!acts11:1 "]
+  replace: "Now the apostles and the brothers who were in Judeʹa heard that people of the nations had also accepted the word of God."
+
+- triggers: ["!ac11:2 ","!acts11:2 "]
+  replace: "So when Peter came up to Jerusalem, the supporters of circumcision began to criticize him,"
+
+- triggers: ["!ac11:3 ","!acts11:3 "]
+  replace: "saying: 'You went into the house of men who were not circumcised and ate with them.'"
+
+- triggers: ["!ac11:4 ","!acts11:4 "]
+  replace: "At this Peter went on to explain the matter in detail to them, saying:"
+
+- triggers: ["!ac11:5 ","!acts11:5 "]
+  replace: "'I was in the city of Jopʹpa praying, and while in a trance I saw a vision, something descending like a great linen sheet being let down by its four corners from heaven, and it came right down to me."
+
+- triggers: ["!ac11:6 ","!acts11:6 "]
+  replace: "Looking closely into it, I observed four-footed animals of the earth, wild beasts, reptiles, and birds of heaven."
+
+- triggers: ["!ac11:7 ","!acts11:7 "]
+  replace: "I also heard a voice say to me: 'Get up, Peter, slaughter and eat!'"
+
+- triggers: ["!ac11:8 ","!acts11:8 "]
+  replace: "But I said: 'Certainly not, Lord, because a defiled or unclean thing has never entered my mouth.'"
+
+- triggers: ["!ac11:9 ","!acts11:9 "]
+  replace: "The second time, the voice from heaven answered: 'You stop calling defiled the things God has cleansed.'"
+
+- triggers: ["!ac11:10 ","!acts11:10 "]
+  replace: "This happened a third time, and everything was pulled up again into heaven."
+
+- triggers: ["!ac11:11 ","!acts11:11 "]
+  replace: "Also just at that moment, three men were standing at the house where we were staying, having been sent to me from Caesareʹa."
+
+- triggers: ["!ac11:12 ","!acts11:12 "]
+  replace: "Then the spirit told me to go with them, not doubting at all. But these six brothers also went with me, and we entered into the house of the man."
+
+- triggers: ["!ac11:13 ","!acts11:13 "]
+  replace: "'He reported to us how he saw the angel stand in his house and say: 'Send men to Jopʹpa and summon Simon who is called Peter,"
+
+- triggers: ["!ac11:14 ","!acts11:14 "]
+  replace: "and he will tell you things by which you and all your household may get saved.'"
+
+- triggers: ["!ac11:15 ","!acts11:15 "]
+  replace: "But when I started to speak, the holy spirit fell on them just as it did also on us in the beginning."
+
+- triggers: ["!ac11:16 ","!acts11:16 "]
+  replace: "At this I recalled the saying of the Lord, how he used to say: 'John baptized with water, but you will be baptized with holy spirit.'"
+
+- triggers: ["!ac11:17 ","!acts11:17 "]
+  replace: "If, therefore, God gave the same free gift to them that he gave to us who have believed in the Lord Jesus Christ, who was I that I should be able to hinder God?'"
+
+- triggers: ["!ac11:18 ","!acts11:18 "]
+  replace: "When they heard these things, they stopped objecting, and they glorified God, saying: 'So, then, God has also granted to people of the nations repentance leading to life.'"
+
+- triggers: ["!ac11:19 ","!acts11:19 "]
+  replace: "Now those who had been scattered by the tribulation that arose over Stephen went as far as Phoeniʹcia, Cyʹprus, and Antioch, but they spoke the word only to the Jews."
+
+- triggers: ["!ac11:20 ","!acts11:20 "]
+  replace: "However, some of the men among them from Cyʹprus and Cyreʹne came to Antioch and began talking to the Greek-speaking people, declaring the good news of the Lord Jesus."
+
+- triggers: ["!ac11:21 ","!acts11:21 "]
+  replace: "Furthermore, the hand of Jehovah was with them, and a great number became believers and turned to the Lord."
+
+- triggers: ["!ac11:22 ","!acts11:22 "]
+  replace: "The report about them reached the ears of the congregation in Jerusalem, and they sent out Barʹnabas as far as Antioch."
+
+- triggers: ["!ac11:23 ","!acts11:23 "]
+  replace: "When he arrived and saw the undeserved kindness of God, he rejoiced and began to encourage them all to continue in the Lord with heartfelt resolve;"
+
+- triggers: ["!ac11:24 ","!acts11:24 "]
+  replace: "for he was a good man and full of holy spirit and faith. And a considerable crowd was added to the Lord."
+
+- triggers: ["!ac11:25 ","!acts11:25 "]
+  replace: "So he went to Tarsus to make a thorough search for Saul."
+
+- triggers: ["!ac11:26 ","!acts11:26 "]
+  replace: "After he found him, he brought him to Antioch. So for a whole year they assembled with them in the congregation and taught quite a crowd, and it was first in Antioch that the disciples were by divine providence called Christians."
+
+- triggers: ["!ac11:27 ","!acts11:27 "]
+  replace: "In those days prophets came down from Jerusalem to Antioch."
+
+- triggers: ["!ac11:28 ","!acts11:28 "]
+  replace: "One of them named Agʹabus stood up and foretold through the spirit that a great famine was about to come on the entire inhabited earth, which, in fact, did take place in the time of Claudius."
+
+- triggers: ["!ac11:29 ","!acts11:29 "]
+  replace: "So the disciples determined, each according to what he could afford, to send relief to the brothers living in Judeʹa;"
+
+- triggers: ["!ac11:30 ","!acts11:30 "]
+  replace: "and this they did, sending it to the elders by the hand of Barʹnabas and Saul."
+
+- triggers: ["!ac12:1 ","!acts12:1 "]
+  replace: "About that time Herod the king began mistreating some of those of the congregation."
+
+- triggers: ["!ac12:2 ","!acts12:2 "]
+  replace: "He put James the brother of John to death by the sword."
+
+- triggers: ["!ac12:3 ","!acts12:3 "]
+  replace: "When he saw that it was pleasing to the Jews, he also went on to arrest Peter. (This was during the days of the Unleavened Bread.)"
+
+- triggers: ["!ac12:4 ","!acts12:4 "]
+  replace: "He seized him and put him in prison, turning him over to four shifts of four soldiers each to guard him, intending to bring him out before the people after the Passover."
+
+- triggers: ["!ac12:5 ","!acts12:5 "]
+  replace: "So Peter was being kept in the prison, but the congregation was intensely praying to God for him."
+
+- triggers: ["!ac12:6 ","!acts12:6 "]
+  replace: "When Herod was about to bring him out, that night Peter was sleeping bound with two chains between two soldiers, and guards in front of the door were keeping watch over the prison."
+
+- triggers: ["!ac12:7 ","!acts12:7 "]
+  replace: "But look! Jehovah's angel was standing there, and a light shone in the prison cell. Hitting Peter on the side, he woke him, saying: 'Get up quickly!' And the chains fell off his hands."
+
+- triggers: ["!ac12:8 ","!acts12:8 "]
+  replace: "The angel said to him: 'Get dressed and put on your sandals.' He did so. Finally he said to him: 'Put your outer garment on, and keep following me.'"
+
+- triggers: ["!ac12:9 ","!acts12:9 "]
+  replace: "And he went out and kept following him, but he did not know that what was happening through the angel was real. In fact, he thought he was seeing a vision."
+
+- triggers: ["!ac12:10 ","!acts12:10 "]
+  replace: "Going past the first sentinel guard and the second, they reached the iron gate leading into the city, and this opened to them by itself. After they went out, they made their way down one street, and immediately the angel departed from him."
+
+- triggers: ["!ac12:11 ","!acts12:11 "]
+  replace: "And Peter, realizing what was happening, said: 'Now I know for sure that Jehovah sent his angel and rescued me from Herod's hand and from everything that the Jews were expecting to happen.'"
+
+- triggers: ["!ac12:12 ","!acts12:12 "]
+  replace: "After he realized this, he went to the house of Mary the mother of John who was called Mark, where quite a few were gathered together and were praying."
+
+- triggers: ["!ac12:13 ","!acts12:13 "]
+  replace: "When he knocked at the door of the gateway, a servant girl named Rhoda came to answer the call."
+
+- triggers: ["!ac12:14 ","!acts12:14 "]
+  replace: "On recognizing the voice of Peter, she was so overjoyed that she did not open the gate, but ran inside and reported that Peter was standing at the gateway."
+
+- triggers: ["!ac12:15 ","!acts12:15 "]
+  replace: "They said to her: 'You are out of your mind.' But she kept insisting that it was so. They began to say: 'It is his angel.'"
+
+- triggers: ["!ac12:16 ","!acts12:16 "]
+  replace: "But Peter remained there, knocking. When they opened the door, they saw him and were astonished."
+
+- triggers: ["!ac12:17 ","!acts12:17 "]
+  replace: "But he motioned to them with his hand to be silent and told them in detail how Jehovah had brought him out of the prison, and he said: 'Report these things to James and the brothers.' With that he went out and traveled to another place."
+
+- triggers: ["!ac12:18 ","!acts12:18 "]
+  replace: "Now when it became day, there was quite a disturbance among the soldiers over what had become of Peter."
+
+- triggers: ["!ac12:19 ","!acts12:19 "]
+  replace: "Herod made a diligent search for him, and not finding him, he interrogated the guards and commanded them to be led off to punishment; and he went down from Judeʹa to Caesareʹa and spent some time there."
+
+- triggers: ["!ac12:20 ","!acts12:20 "]
+  replace: "Now he was in an angry mood against the people of Tyre and Siʹdon. So they came to him with one purpose, and after persuading Blastus, the man in charge of the king's household affairs, they sued for peace, because their country was supplied with food from the land of the king."
+
+- triggers: ["!ac12:21 ","!acts12:21 "]
+  replace: "On a set day, Herod clothed himself with royal raiment and sat down on the judgment seat and began giving them a public address."
+
+- triggers: ["!ac12:22 ","!acts12:22 "]
+  replace: "Then the people who were assembled began shouting: 'A god's voice, and not a man's!'"
+
+- triggers: ["!ac12:23 ","!acts12:23 "]
+  replace: "Instantly the angel of Jehovah struck him, because he did not give the glory to God, and he was eaten up with worms and died."
+
+- triggers: ["!ac12:24 ","!acts12:24 "]
+  replace: "But the word of Jehovah went on growing and spreading."
+
+- triggers: ["!ac12:25 ","!acts12:25 "]
+  replace: "As for Barʹnabas and Saul, after fully carrying out the relief work in Jerusalem, they returned and took along with them John, the one also called Mark."
+
+- triggers: ["!ac13:1 ","!acts13:1 "]
+  replace: "Now in Antioch there were prophets and teachers in the local congregation: Barʹnabas, Symʹeon who was called Niʹger, Lucius of Cyreʹne, Manʹaen who was educated with Herod the district ruler, and Saul."
+
+- triggers: ["!ac13:2 ","!acts13:2 "]
+  replace: "As they were ministering to Jehovah and fasting, the holy spirit said: 'Set aside for me Barʹnabas and Saul for the work to which I have called them.'"
+
+- triggers: ["!ac13:3 ","!acts13:3 "]
+  replace: "Then after fasting and praying, they laid their hands on them and sent them off."
+
+- triggers: ["!ac13:4 ","!acts13:4 "]
+  replace: "So these men, sent out by the holy spirit, went down to Seleuʹcia, and from there they sailed away to Cyʹprus."
+
+- triggers: ["!ac13:5 ","!acts13:5 "]
+  replace: "When they arrived in Salʹamis, they began proclaiming the word of God in the synagogues of the Jews. They also had John as an attendant."
+
+- triggers: ["!ac13:6 ","!acts13:6 "]
+  replace: "When they had gone through the whole island as far as Paʹphos, they met up with a Jewish man named Bar-Jeʹsus, who was a sorcerer and a false prophet."
+
+- triggers: ["!ac13:7 ","!acts13:7 "]
+  replace: "He was with the proconsul Sergius Paulus, an intelligent man. Calling Barʹnabas and Saul to him, this man was eager to hear the word of God."
+
+- triggers: ["!ac13:8 ","!acts13:8 "]
+  replace: "But Elʹymas the sorcerer (for that is how his name is translated) began opposing them, trying to turn the proconsul away from the faith."
+
+- triggers: ["!ac13:9 ","!acts13:9 "]
+  replace: "Then Saul, also called Paul, becoming filled with holy spirit, looked at him intently"
+
+- triggers: ["!ac13:10 ","!acts13:10 "]
+  replace: "and said: 'O man full of every sort of fraud and every sort of villainy, you son of the Devil, you enemy of everything righteous, will you not quit distorting the right ways of Jehovah?"
+
+- triggers: ["!ac13:11 ","!acts13:11 "]
+  replace: "Look! Jehovah's hand is upon you, and you will be blind, not seeing the sunlight for a time.' Instantly a thick mist and darkness fell on him, and he went around trying to find someone to lead him by the hand."
+
+- triggers: ["!ac13:12 ","!acts13:12 "]
+  replace: "Then the proconsul, on seeing what had happened, became a believer, for he was astounded at the teaching of Jehovah."
+
+- triggers: ["!ac13:13 ","!acts13:13 "]
+  replace: "Now Paul and his companions put out to sea from Paʹphos and arrived at Perga in Pamphylʹia. But John left them and returned to Jerusalem."
+
+- triggers: ["!ac13:14 ","!acts13:14 "]
+  replace: "However, they went on from Perga and came to Antioch in Pisidʹia. And going into the synagogue on the Sabbath day, they took a seat."
+
+- triggers: ["!ac13:15 ","!acts13:15 "]
+  replace: "After the public reading of the Law and the Prophets, the presiding officers of the synagogue sent word to them, saying: 'Men, brothers, if you have any word of encouragement for the people, tell it.'"
+
+- triggers: ["!ac13:16 ","!acts13:16 "]
+  replace: "So Paul stood up, and motioning with his hand, he said: 'Men, Israelites and you others who fear God, listen."
+
+- triggers: ["!ac13:17 ","!acts13:17 "]
+  replace: "The God of this people Israel chose our forefathers, and he exalted the people while they lived as foreigners in the land of Egypt and brought them out of it with an uplifted arm."
+
+- triggers: ["!ac13:18 ","!acts13:18 "]
+  replace: "And for a period of about 40 years, he put up with them in the wilderness."
+
+- triggers: ["!ac13:19 ","!acts13:19 "]
+  replace: "After destroying seven nations in the land of Caʹnaan, he assigned their land as an inheritance."
+
+- triggers: ["!ac13:20 ","!acts13:20 "]
+  replace: "All of that was during about 450 years. 'After this he gave them judges until Samuel the prophet."
+
+- triggers: ["!ac13:21 ","!acts13:21 "]
+  replace: "But afterward they demanded a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for 40 years."
+
+- triggers: ["!ac13:22 ","!acts13:22 "]
+  replace: "After removing him, he raised up for them David as king, about whom he bore witness and said: 'I have found David the son of Jesʹse a man agreeable to my heart; he will do all the things I desire.'"
+
+- triggers: ["!ac13:23 ","!acts13:23 "]
+  replace: "According to his promise, from the offspring of this man, God has brought to Israel a savior, Jesus."
+
+- triggers: ["!ac13:24 ","!acts13:24 "]
+  replace: "Before the arrival of that one, John had preached publicly to all the people of Israel baptism in symbol of repentance."
+
+- triggers: ["!ac13:25 ","!acts13:25 "]
+  replace: "But as John was finishing his course, he would say: 'What do you suppose I am? I am not he. But look! One is coming after me the sandals of whose feet I am not worthy to untie.'"
+
+- triggers: ["!ac13:26 ","!acts13:26 "]
+  replace: "'Men, brothers, you descendants of Abraham's family and those others among you who fear God, the word of this salvation has been sent to us."
+
+- triggers: ["!ac13:27 ","!acts13:27 "]
+  replace: "For the inhabitants of Jerusalem and their rulers did not recognize this one, but when acting as judges, they fulfilled the things spoken by the Prophets, which are read aloud every sabbath."
+
+- triggers: ["!ac13:28 ","!acts13:28 "]
+  replace: "Even though they found no cause for death, they demanded of Pilate to have him executed."
+
+- triggers: ["!ac13:29 ","!acts13:29 "]
+  replace: "And when they had accomplished all the things written about him, they took him down from the stake and laid him in a tomb."
+
+- triggers: ["!ac13:30 ","!acts13:30 "]
+  replace: "But God raised him up from the dead,"
+
+- triggers: ["!ac13:31 ","!acts13:31 "]
+  replace: "and for many days he became visible to those who had gone with him from Galʹilee up to Jerusalem. These are now his witnesses to the people."
+
+- triggers: ["!ac13:32 ","!acts13:32 "]
+  replace: "'So we are declaring to you the good news about the promise made to the forefathers."
+
+- triggers: ["!ac13:33 ","!acts13:33 "]
+  replace: "God has completely fulfilled it to us, their children, by resurrecting Jesus; just as it is written in the second psalm: 'You are my son; today I have become your father.'"
+
+- triggers: ["!ac13:34 ","!acts13:34 "]
+  replace: "And the fact that He resurrected him from the dead never again to return to corruption, He has stated in this way: 'I will give you the expressions of loyal love promised to David, which are faithful.'"
+
+- triggers: ["!ac13:35 ","!acts13:35 "]
+  replace: "So it also says in another psalm: 'You will not allow your loyal one to see corruption.'"
+
+- triggers: ["!ac13:36 ","!acts13:36 "]
+  replace: "David, on the one hand, rendered service to God in his own generation, fell asleep in death, was laid with his forefathers, and did see corruption."
+
+- triggers: ["!ac13:37 ","!acts13:37 "]
+  replace: "On the other hand, the one whom God raised up did not see corruption."
+
+- triggers: ["!ac13:38 ","!acts13:38 "]
+  replace: "'Let it therefore be known to you, brothers, that through this one a forgiveness of sins is being proclaimed to you,"
+
+- triggers: ["!ac13:39 ","!acts13:39 "]
+  replace: "and that from all the things from which you could not be declared guiltless by means of the Law of Moses, everyone who believes is declared guiltless by means of this one."
+
+- triggers: ["!ac13:40 ","!acts13:40 "]
+  replace: "Therefore, watch out that what is said in the Prophets does not come upon you:"
+
+- triggers: ["!ac13:41 ","!acts13:41 "]
+  replace: "'Look at it, you scorners, and be amazed, and perish, for I am doing a work in your days, a work that you will never believe even if anyone relates it to you in detail.''"
+
+- triggers: ["!ac13:42 ","!acts13:42 "]
+  replace: "Now when they were going out, the people pleaded with them to speak about these matters on the following Sabbath."
+
+- triggers: ["!ac13:43 ","!acts13:43 "]
+  replace: "So after the synagogue assembly was dismissed, many of the Jews and the proselytes who worshipped God followed Paul and Barʹnabas, who, as they spoke to them, urged them to remain in the undeserved kindness of God."
+
+- triggers: ["!ac13:44 ","!acts13:44 "]
+  replace: "The next Sabbath nearly all the city gathered together to hear the word of Jehovah."
+
+- triggers: ["!ac13:45 ","!acts13:45 "]
+  replace: "When the Jews saw the crowds, they were filled with jealousy and began blasphemously contradicting the things Paul was saying."
+
+- triggers: ["!ac13:46 ","!acts13:46 "]
+  replace: "Then Paul and Barʹnabas boldly said to them: 'It was necessary for the word of God to be spoken first to you. Since you are rejecting it and do not judge yourselves worthy of everlasting life, look! we turn to the nations."
+
+- triggers: ["!ac13:47 ","!acts13:47 "]
+  replace: "For Jehovah has commanded us in these words: 'I have appointed you as a light of nations, for you to be a salvation to the ends of the earth.''"
+
+- triggers: ["!ac13:48 ","!acts13:48 "]
+  replace: "When those of the nations heard this, they began to rejoice and to glorify the word of Jehovah, and all those who were rightly disposed for everlasting life became believers."
+
+- triggers: ["!ac13:49 ","!acts13:49 "]
+  replace: "Furthermore, the word of Jehovah was being spread throughout the whole country."
+
+- triggers: ["!ac13:50 ","!acts13:50 "]
+  replace: "But the Jews incited the prominent women who were God-fearing and the principal men of the city, and they stirred up persecution against Paul and Barʹnabas and threw them outside their boundaries."
+
+- triggers: ["!ac13:51 ","!acts13:51 "]
+  replace: "So they shook the dust off their feet against them and went to Icoʹnium."
+
+- triggers: ["!ac13:52 ","!acts13:52 "]
+  replace: "And the disciples continued to be filled with joy and holy spirit."
+
+- triggers: ["!ac14:1 ","!acts14:1 "]
+  replace: "Now in Icoʹnium they entered together into the synagogue of the Jews and spoke in such a manner that a great multitude of both Jews and Greeks became believers."
+
+- triggers: ["!ac14:2 ","!acts14:2 "]
+  replace: "But the Jews who did not believe stirred up and wrongly influenced the people of the nations against the brothers."
+
+- triggers: ["!ac14:3 ","!acts14:3 "]
+  replace: "So they spent considerable time speaking with boldness by the authority of Jehovah, who bore witness to the word of his undeserved kindness by allowing signs and wonders to be performed through them."
+
+- triggers: ["!ac14:4 ","!acts14:4 "]
+  replace: "However, the multitude of the city was divided; some were for the Jews but others for the apostles."
+
+- triggers: ["!ac14:5 ","!acts14:5 "]
+  replace: "When both the people of the nations and the Jews with their rulers made an attempt to treat them insolently and stone them,"
+
+- triggers: ["!ac14:6 ","!acts14:6 "]
+  replace: "they were informed of it, and they fled to the cities of Lycaoʹnia, Lysʹtra and Derʹbe, and to the surrounding country."
+
+- triggers: ["!ac14:7 ","!acts14:7 "]
+  replace: "There they went on declaring the good news."
+
+- triggers: ["!ac14:8 ","!acts14:8 "]
+  replace: "Now in Lysʹtra there was a man sitting down whose feet were crippled. He was lame from birth and had never walked."
+
+- triggers: ["!ac14:9 ","!acts14:9 "]
+  replace: "This man was listening to Paul as he was speaking. Paul, looking intently at him and seeing that he had faith to be made well,"
+
+- triggers: ["!ac14:10 ","!acts14:10 "]
+  replace: "said with a loud voice: 'Stand up on your feet.' So the man leaped up and began walking."
+
+- triggers: ["!ac14:11 ","!acts14:11 "]
+  replace: "When the crowds saw what Paul had done, they cried out in the Lycaoʹnian language: 'The gods have become like humans and have come down to us!'"
+
+- triggers: ["!ac14:12 ","!acts14:12 "]
+  replace: "And they started calling Barʹnabas Zeus, but Paul Herʹmes, since he was taking the lead in speaking."
+
+- triggers: ["!ac14:13 ","!acts14:13 "]
+  replace: "And the priest of Zeus, whose temple was at the entrance of the city, brought bulls and garlands to the gates and wanted to offer sacrifices with the crowds."
+
+- triggers: ["!ac14:14 ","!acts14:14 "]
+  replace: "However, when the apostles Barʹnabas and Paul heard of it, they ripped their garments and leaped out into the crowd and cried out:"
+
+- triggers: ["!ac14:15 ","!acts14:15 "]
+  replace: "'Men, why are you doing these things? We too are humans having the same infirmities as you have. And we are declaring the good news to you, for you to turn from these vain things to the living God, who made the heaven and the earth and the sea and all the things in them."
+
+- triggers: ["!ac14:16 ","!acts14:16 "]
+  replace: "In past generations he permitted all the nations to go on in their ways,"
+
+- triggers: ["!ac14:17 ","!acts14:17 "]
+  replace: "although he did not leave himself without witness in that he did good, giving you rains from heaven and fruitful seasons, satisfying you with food and filling your hearts with gladness.'"
+
+- triggers: ["!ac14:18 ","!acts14:18 "]
+  replace: "And yet despite saying these things, they barely restrained the crowds from sacrificing to them."
+
+- triggers: ["!ac14:19 ","!acts14:19 "]
+  replace: "But Jews arrived from Antioch and Icoʹnium and persuaded the crowds, and they stoned Paul and dragged him outside the city, imagining that he was dead."
+
+- triggers: ["!ac14:20 ","!acts14:20 "]
+  replace: "However, when the disciples surrounded him, he got up and entered the city. On the next day he left with Barʹnabas for Derʹbe."
+
+- triggers: ["!ac14:21 ","!acts14:21 "]
+  replace: "After declaring the good news to that city and making quite a few disciples, they returned to Lysʹtra, Icoʹnium, and Antioch."
+
+- triggers: ["!ac14:22 ","!acts14:22 "]
+  replace: "There they strengthened the disciples, encouraging them to remain in the faith and saying: 'We must enter into the Kingdom of God through many tribulations.'"
+
+- triggers: ["!ac14:23 ","!acts14:23 "]
+  replace: "Moreover, they appointed elders for them in each congregation, offering prayer with fasting, and they entrusted them to Jehovah, in whom they had become believers."
+
+- triggers: ["!ac14:24 ","!acts14:24 "]
+  replace: "Then they went through Pisidʹia and came into Pamphylʹia,"
+
+- triggers: ["!ac14:25 ","!acts14:25 "]
+  replace: "and after proclaiming the word in Perga, they went down to Attaliʹa."
+
+- triggers: ["!ac14:26 ","!acts14:26 "]
+  replace: "From there they sailed off for Antioch, where they had been entrusted to the undeserved kindness of God for the work they had now completed."
+
+- triggers: ["!ac14:27 ","!acts14:27 "]
+  replace: "When they had arrived and had gathered the congregation together, they related the many things God had done by means of them, and that he had opened to the nations the door to faith."
+
+- triggers: ["!ac14:28 ","!acts14:28 "]
+  replace: "So they spent considerable time with the disciples."
+
+- triggers: ["!ac15:1 ","!acts15:1 "]
+  replace: "Now some men came down from Judeʹa and began to teach the brothers: 'Unless you get circumcised according to the custom of Moses, you cannot be saved.'"
+
+- triggers: ["!ac15:2 ","!acts15:2 "]
+  replace: "But after quite a bit of dissension and disputing by Paul and Barʹnabas with them, it was arranged for Paul, Barʹnabas, and some of the others to go up to the apostles and elders in Jerusalem regarding this issue."
+
+- triggers: ["!ac15:3 ","!acts15:3 "]
+  replace: "So after being escorted partway by the congregation, these men continued on through both Phoeniʹcia and Samarʹia, relating in detail the conversion of people of the nations and bringing great joy to all the brothers."
+
+- triggers: ["!ac15:4 ","!acts15:4 "]
+  replace: "On arriving in Jerusalem, they were kindly received by the congregation and the apostles and the elders, and they related the many things God had done by means of them."
+
+- triggers: ["!ac15:5 ","!acts15:5 "]
+  replace: "But some of those of the sect of the Pharisees who had become believers stood up from their seats and said: 'It is necessary to circumcise them and command them to observe the Law of Moses.'"
+
+- triggers: ["!ac15:6 ","!acts15:6 "]
+  replace: "So the apostles and the elders gathered together to look into this matter."
+
+- triggers: ["!ac15:7 ","!acts15:7 "]
+  replace: "After much intense discussion had taken place, Peter rose and said to them: 'Men, brothers, you well know that from early days God made the choice among you that through my mouth people of the nations should hear the word of the good news and believe."
+
+- triggers: ["!ac15:8 ","!acts15:8 "]
+  replace: "And God, who knows the heart, bore witness by giving them the holy spirit, just as he did to us also."
+
+- triggers: ["!ac15:9 ","!acts15:9 "]
+  replace: "And he made no distinction at all between us and them, but purified their hearts by faith."
+
+- triggers: ["!ac15:10 ","!acts15:10 "]
+  replace: "So why are you now making a test of God by imposing on the neck of the disciples a yoke that neither our forefathers nor we were capable of bearing?"
+
+- triggers: ["!ac15:11 ","!acts15:11 "]
+  replace: "On the contrary, we have faith that we are saved through the undeserved kindness of the Lord Jesus in the same way that they are.'"
+
+- triggers: ["!ac15:12 ","!acts15:12 "]
+  replace: "At that the entire group became silent, and they began to listen to Barʹnabas and Paul relate the many signs and wonders that God had done through them among the nations."
+
+- triggers: ["!ac15:13 ","!acts15:13 "]
+  replace: "After they finished speaking, James replied: 'Men, brothers, hear me."
+
+- triggers: ["!ac15:14 ","!acts15:14 "]
+  replace: "Symʹeon has related thoroughly how God for the first time turned his attention to the nations to take out of them a people for his name."
+
+- triggers: ["!ac15:15 ","!acts15:15 "]
+  replace: "And with this the words of the Prophets agree, just as it is written:"
+
+- triggers: ["!ac15:16 ","!acts15:16 "]
+  replace: "'After these things I will return and raise up again the tent of David that is fallen down; I will rebuild its ruins and restore it,"
+
+- triggers: ["!ac15:17 ","!acts15:17 "]
+  replace: "so that the men who remain may earnestly seek Jehovah, together with people of all the nations, people who are called by my name, says Jehovah, who is doing these things,"
+
+- triggers: ["!ac15:18 ","!acts15:18 "]
+  replace: "known from of old.'"
+
+- triggers: ["!ac15:19 ","!acts15:19 "]
+  replace: "Therefore, my decision is not to trouble those from the nations who are turning to God,"
+
+- triggers: ["!ac15:20 ","!acts15:20 "]
+  replace: "but to write them to abstain from things polluted by idols, from sexual immorality, from what is strangled, and from blood."
+
+- triggers: ["!ac15:21 ","!acts15:21 "]
+  replace: "For from ancient times Moses has had those who preach him in city after city, because he is read aloud in the synagogues on every sabbath.'"
+
+- triggers: ["!ac15:22 ","!acts15:22 "]
+  replace: "Then the apostles and the elders, together with the whole congregation, decided to send chosen men from among them to Antioch, along with Paul and Barʹnabas; they sent Judas who was called Barʹsabbas and Silas, who were leading men among the brothers."
+
+- triggers: ["!ac15:23 ","!acts15:23 "]
+  replace: "They wrote this and sent it through them: 'The apostles and the elders, your brothers, to those brothers in Antioch, Syria, and Ciliʹcia who are from the nations: Greetings!"
+
+- triggers: ["!ac15:24 ","!acts15:24 "]
+  replace: "Since we have heard that some went out from among us and caused you trouble with what they have said, trying to subvert you, although we did not give them any instructions,"
+
+- triggers: ["!ac15:25 ","!acts15:25 "]
+  replace: "we have come to a unanimous decision to choose men to send to you together with our beloved Barʹnabas and Paul,"
+
+- triggers: ["!ac15:26 ","!acts15:26 "]
+  replace: "men who have given up their lives for the name of our Lord Jesus Christ."
+
+- triggers: ["!ac15:27 ","!acts15:27 "]
+  replace: "We are therefore sending Judas and Silas, so that they also may report the same things by word of mouth."
+
+- triggers: ["!ac15:28 ","!acts15:28 "]
+  replace: "For the holy spirit and we ourselves have favored adding no further burden to you except these necessary things:"
+
+- triggers: ["!ac15:29 ","!acts15:29 "]
+  replace: "to keep abstaining from things sacrificed to idols, from blood, from what is strangled, and from sexual immorality. If you carefully keep yourselves from these things, you will prosper. Good health to you!'"
+
+- triggers: ["!ac15:30 ","!acts15:30 "]
+  replace: "So when these men were dismissed, they went down to Antioch, and they gathered the whole group together and handed them the letter."
+
+- triggers: ["!ac15:31 ","!acts15:31 "]
+  replace: "After reading it, they rejoiced over the encouragement."
+
+- triggers: ["!ac15:32 ","!acts15:32 "]
+  replace: "And Judas and Silas, since they were also prophets, encouraged the brothers with many talks and strengthened them."
+
+- triggers: ["!ac15:33 ","!acts15:33 "]
+  replace: "After they had spent some time there, they were sent off in peace by the brothers to those who had sent them."
+
+- triggers: ["!ac15:34 ","!acts15:34 "]
+  replace: "--"
+
+- triggers: ["!ac15:35 ","!acts15:35 "]
+  replace: "But Paul and Barʹnabas stayed in Antioch, teaching and declaring, along with many others, the good news of the word of Jehovah."
+
+- triggers: ["!ac15:36 ","!acts15:36 "]
+  replace: "After some days, Paul said to Barʹnabas: 'Let us now return and visit the brothers in every one of the cities where we proclaimed the word of Jehovah, to see how they are.'"
+
+- triggers: ["!ac15:37 ","!acts15:37 "]
+  replace: "Barʹnabas was determined to take along John, who was called Mark."
+
+- triggers: ["!ac15:38 ","!acts15:38 "]
+  replace: "Paul, however, was not in favor of taking him along with them, seeing that he had departed from them in Pamphylʹia and had not gone with them to the work."
+
+- triggers: ["!ac15:39 ","!acts15:39 "]
+  replace: "At this there was a sharp burst of anger, so that they separated from each other; and Barʹnabas took Mark along and sailed away to Cyʹprus."
+
+- triggers: ["!ac15:40 ","!acts15:40 "]
+  replace: "Paul selected Silas and departed after he had been entrusted by the brothers to the undeserved kindness of Jehovah."
+
+- triggers: ["!ac15:41 ","!acts15:41 "]
+  replace: "He went through Syria and Ciliʹcia, strengthening the congregations."
+
+- triggers: ["!ac16:1 ","!acts16:1 "]
+  replace: "So he arrived at Derʹbe and also at Lysʹtra. And a disciple named Timothy was there, the son of a believing Jewish woman but of a Greek father,"
+
+- triggers: ["!ac16:2 ","!acts16:2 "]
+  replace: "and he was well-reported-on by the brothers in Lysʹtra and Icoʹnium."
+
+- triggers: ["!ac16:3 ","!acts16:3 "]
+  replace: "Paul expressed the desire for Timothy to accompany him, and he took him and circumcised him because of the Jews in those places, for they all knew that his father was a Greek."
+
+- triggers: ["!ac16:4 ","!acts16:4 "]
+  replace: "As they traveled on through the cities, they would deliver to them for observance the decrees that had been decided on by the apostles and the elders who were in Jerusalem."
+
+- triggers: ["!ac16:5 ","!acts16:5 "]
+  replace: "Then, indeed, the congregations continued to be made firm in the faith and to increase in number day by day."
+
+- triggers: ["!ac16:6 ","!acts16:6 "]
+  replace: "Moreover, they traveled through Phrygʹia and the country of Galaʹtia, because they were forbidden by the holy spirit to speak the word in the province of Asia."
+
+- triggers: ["!ac16:7 ","!acts16:7 "]
+  replace: "Further, when they came down to Mysʹia, they made efforts to go into Bithynʹia, but the spirit of Jesus did not permit them."
+
+- triggers: ["!ac16:8 ","!acts16:8 "]
+  replace: "So they passed by Mysʹia and came down to Troʹas."
+
+- triggers: ["!ac16:9 ","!acts16:9 "]
+  replace: "And during the night a vision appeared to Paul-a Macedoʹnian man was standing there urging him and saying: 'Step over into Macedoʹnia and help us.'"
+
+- triggers: ["!ac16:10 ","!acts16:10 "]
+  replace: "As soon as he had seen the vision, we tried to go into Macedoʹnia, drawing the conclusion that God had summoned us to declare the good news to them."
+
+- triggers: ["!ac16:11 ","!acts16:11 "]
+  replace: "So we put out to sea from Troʹas and made a straight run to Samʹothrace, but on the following day to Neapʹolis;"
+
+- triggers: ["!ac16:12 ","!acts16:12 "]
+  replace: "and from there we went to Philipʹpi, a colony, which is the principal city of the district of Macedoʹnia. We stayed in this city for some days."
+
+- triggers: ["!ac16:13 ","!acts16:13 "]
+  replace: "On the Sabbath day we went outside the gate beside a river, where we thought there was a place of prayer, and we sat down and began speaking to the women who had assembled."
+
+- triggers: ["!ac16:14 ","!acts16:14 "]
+  replace: "And a woman named Lydʹia, a seller of purple from the city of Thyatiʹra and a worshipper of God, was listening, and Jehovah opened her heart wide to pay attention to the things Paul was saying."
+
+- triggers: ["!ac16:15 ","!acts16:15 "]
+  replace: "Now when she and her household got baptized, she urged us: 'If you have considered me to be faithful to Jehovah, come and stay at my house.' And she just made us come."
+
+- triggers: ["!ac16:16 ","!acts16:16 "]
+  replace: "Now it happened that as we were going to the place of prayer, a servant girl with a spirit, a demon of divination, met us. She supplied her masters with much profit by fortune-telling."
+
+- triggers: ["!ac16:17 ","!acts16:17 "]
+  replace: "This girl kept following Paul and us and crying out with the words: 'These men are slaves of the Most High God and are proclaiming to you the way of salvation.'"
+
+- triggers: ["!ac16:18 ","!acts16:18 "]
+  replace: "She kept doing this for many days. Finally Paul got tired of it and turned and said to the spirit: 'I order you in the name of Jesus Christ to come out of her.' And it came out that very hour."
+
+- triggers: ["!ac16:19 ","!acts16:19 "]
+  replace: "Well, when her masters saw that their hope of profit was gone, they seized Paul and Silas and dragged them into the marketplace to the rulers."
+
+- triggers: ["!ac16:20 ","!acts16:20 "]
+  replace: "Leading them up to the civil magistrates, they said: 'These men are disturbing our city very much. They are Jews,"
+
+- triggers: ["!ac16:21 ","!acts16:21 "]
+  replace: "and they are proclaiming customs that it is not lawful for us to adopt or practice, seeing that we are Romans.'"
+
+- triggers: ["!ac16:22 ","!acts16:22 "]
+  replace: "And the crowd rose up together against them, and the civil magistrates, after tearing the garments off them, gave the command to beat them with rods."
+
+- triggers: ["!ac16:23 ","!acts16:23 "]
+  replace: "After they had inflicted many blows on them, they threw them into prison and ordered the jailer to guard them securely."
+
+- triggers: ["!ac16:24 ","!acts16:24 "]
+  replace: "Because he got such an order, he threw them into the inner prison and fastened their feet in the stocks."
+
+- triggers: ["!ac16:25 ","!acts16:25 "]
+  replace: "But about the middle of the night, Paul and Silas were praying and praising God with song, and the prisoners were listening to them."
+
+- triggers: ["!ac16:26 ","!acts16:26 "]
+  replace: "Suddenly a great earthquake occurred, so that the foundations of the jail were shaken. Moreover, all the doors were instantly opened, and everyone's bonds came loose."
+
+- triggers: ["!ac16:27 ","!acts16:27 "]
+  replace: "When the jailer woke up and saw that the prison doors were open, he drew his sword and was about to kill himself, assuming that the prisoners had escaped."
+
+- triggers: ["!ac16:28 ","!acts16:28 "]
+  replace: "But Paul called out with a loud voice: 'Do not hurt yourself, for we are all here!'"
+
+- triggers: ["!ac16:29 ","!acts16:29 "]
+  replace: "So he asked for lights and rushed in, and seized with trembling, he fell down before Paul and Silas."
+
+- triggers: ["!ac16:30 ","!acts16:30 "]
+  replace: "He brought them outside and said: 'Sirs, what must I do to get saved?'"
+
+- triggers: ["!ac16:31 ","!acts16:31 "]
+  replace: "They said: 'Believe in the Lord Jesus, and you will get saved, you and your household.'"
+
+- triggers: ["!ac16:32 ","!acts16:32 "]
+  replace: "Then they spoke the word of Jehovah to him together with all those in his house."
+
+- triggers: ["!ac16:33 ","!acts16:33 "]
+  replace: "And he took them along in that hour of the night and washed their wounds. Then he and his entire household were baptized without delay."
+
+- triggers: ["!ac16:34 ","!acts16:34 "]
+  replace: "He brought them into his house and set a table before them, and he rejoiced greatly with all his household now that he had believed in God."
+
+- triggers: ["!ac16:35 ","!acts16:35 "]
+  replace: "When it became day, the civil magistrates sent the constables to say: 'Release those men.'"
+
+- triggers: ["!ac16:36 ","!acts16:36 "]
+  replace: "The jailer reported their words to Paul: 'The civil magistrates have sent men to have you two released. So come out now and go in peace.'"
+
+- triggers: ["!ac16:37 ","!acts16:37 "]
+  replace: "But Paul said to them: 'They flogged us publicly, uncondemned, though we are Romans, and threw us into prison. Are they now throwing us out secretly? No, indeed! Let them come themselves and escort us out.'"
+
+- triggers: ["!ac16:38 ","!acts16:38 "]
+  replace: "The constables reported these words to the civil magistrates. These grew fearful when they heard that the men were Romans."
+
+- triggers: ["!ac16:39 ","!acts16:39 "]
+  replace: "So they came and pleaded with them, and after escorting them out, they requested them to depart from the city."
+
+- triggers: ["!ac16:40 ","!acts16:40 "]
+  replace: "But they came out of the prison and went to the home of Lydʹia; and when they saw the brothers, they encouraged them and departed."
+
+- triggers: ["!ac17:1 ","!acts17:1 "]
+  replace: "They now traveled through Amphipʹolis and Apolloʹnia and came to Thessaloniʹca, where there was a synagogue of the Jews."
+
+- triggers: ["!ac17:2 ","!acts17:2 "]
+  replace: "So according to Paul's custom he went inside to them, and for three sabbaths he reasoned with them from the Scriptures,"
+
+- triggers: ["!ac17:3 ","!acts17:3 "]
+  replace: "explaining and proving by references that it was necessary for the Christ to suffer and to rise from the dead, saying: 'This is the Christ, this Jesus whom I am proclaiming to you.'"
+
+- triggers: ["!ac17:4 ","!acts17:4 "]
+  replace: "As a result, some of them became believers and associated themselves with Paul and Silas, and so did a great multitude of the Greeks who worshipped God, along with quite a few of the principal women."
+
+- triggers: ["!ac17:5 ","!acts17:5 "]
+  replace: "But the Jews, getting jealous, gathered together some wicked men who were loitering at the marketplace and formed a mob and proceeded to throw the city into an uproar. They assaulted the house of Jaʹson and were seeking to have Paul and Silas brought out to the mob."
+
+- triggers: ["!ac17:6 ","!acts17:6 "]
+  replace: "When they did not find them, they dragged Jaʹson and some of the brothers to the city rulers, crying out: 'These men who have overturned the inhabited earth are present here also,"
+
+- triggers: ["!ac17:7 ","!acts17:7 "]
+  replace: "and Jaʹson has received them as his guests. All these men act in opposition to the decrees of Caesar, saying there is another king, Jesus.'"
+
+- triggers: ["!ac17:8 ","!acts17:8 "]
+  replace: "When they heard these things, the crowd and the city rulers were alarmed;"
+
+- triggers: ["!ac17:9 ","!acts17:9 "]
+  replace: "and after taking sufficient security from Jaʹson and the others, they let them go."
+
+- triggers: ["!ac17:10 ","!acts17:10 "]
+  replace: "Immediately by night the brothers sent both Paul and Silas to Beroeʹa. On arriving, they went into the synagogue of the Jews."
+
+- triggers: ["!ac17:11 ","!acts17:11 "]
+  replace: "Now these were more noble-minded than those in Thessaloniʹca, for they accepted the word with the greatest eagerness of mind, carefully examining the Scriptures daily to see whether these things were so."
+
+- triggers: ["!ac17:12 ","!acts17:12 "]
+  replace: "Therefore, many of them became believers, and so did quite a few of the reputable Greek women as well as some of the men."
+
+- triggers: ["!ac17:13 ","!acts17:13 "]
+  replace: "But when the Jews from Thessaloniʹca learned that the word of God was also being proclaimed by Paul in Beroeʹa, they came there to incite and agitate the crowds."
+
+- triggers: ["!ac17:14 ","!acts17:14 "]
+  replace: "Then the brothers immediately sent Paul away to the sea, but both Silas and Timothy remained behind there."
+
+- triggers: ["!ac17:15 ","!acts17:15 "]
+  replace: "However, those accompanying Paul brought him as far as Athens, and they departed after receiving instructions that Silas and Timothy should come to Paul as quickly as possible."
+
+- triggers: ["!ac17:16 ","!acts17:16 "]
+  replace: "Now while Paul was waiting for them in Athens, his spirit within him became irritated on seeing that the city was full of idols."
+
+- triggers: ["!ac17:17 ","!acts17:17 "]
+  replace: "So he began to reason in the synagogue with the Jews and the other people who worshipped God and every day in the marketplace with those who happened to be on hand."
+
+- triggers: ["!ac17:18 ","!acts17:18 "]
+  replace: "But some of both the Epicureʹan and the Stoʹic philosophers began disputing with him, and some were saying: 'What is it this chatterer would like to tell?' Others: 'He seems to be a proclaimer of foreign deities.' This was because he was declaring the good news of Jesus and the resurrection."
+
+- triggers: ["!ac17:19 ","!acts17:19 "]
+  replace: "So they took hold of him and led him to the Areopʹagus, saying: 'Can we get to know what this new teaching is that you are speaking about?"
+
+- triggers: ["!ac17:20 ","!acts17:20 "]
+  replace: "For you are introducing some things that are strange to our ears, and we want to know what these things mean.'"
+
+- triggers: ["!ac17:21 ","!acts17:21 "]
+  replace: "In fact, all Athenians and the foreigners staying there would spend their leisure time doing nothing else but telling or listening to something new."
+
+- triggers: ["!ac17:22 ","!acts17:22 "]
+  replace: "Paul now stood in the midst of the Areopʹagus and said: 'Men of Athens, I see that in all things you seem to be more given to the fear of the deities than others are."
+
+- triggers: ["!ac17:23 ","!acts17:23 "]
+  replace: "For instance, while passing along and carefully observing your objects of veneration, I found even an altar on which had been inscribed 'To an Unknown God.' Therefore, what you are unknowingly worshipping, this I am declaring to you."
+
+- triggers: ["!ac17:24 ","!acts17:24 "]
+  replace: "The God who made the world and all the things in it, being, as he is, Lord of heaven and earth, does not dwell in handmade temples;"
+
+- triggers: ["!ac17:25 ","!acts17:25 "]
+  replace: "nor is he served by human hands as if he needed anything, because he himself gives to all people life and breath and all things."
+
+- triggers: ["!ac17:26 ","!acts17:26 "]
+  replace: "And he made out of one man every nation of men to dwell on the entire surface of the earth, and he decreed the appointed times and the set limits of where men would dwell,"
+
+- triggers: ["!ac17:27 ","!acts17:27 "]
+  replace: "so that they would seek God, if they might grope for him and really find him, although, in fact, he is not far off from each one of us."
+
+- triggers: ["!ac17:28 ","!acts17:28 "]
+  replace: "For by him we have life and move and exist, even as some of your own poets have said, 'For we are also his children.'"
+
+- triggers: ["!ac17:29 ","!acts17:29 "]
+  replace: "'Therefore, since we are the children of God, we should not think that the Divine Being is like gold or silver or stone, like something sculptured by the art and design of humans."
+
+- triggers: ["!ac17:30 ","!acts17:30 "]
+  replace: "True, God has overlooked the times of such ignorance; but now he is declaring to all people everywhere that they should repent."
+
+- triggers: ["!ac17:31 ","!acts17:31 "]
+  replace: "Because he has set a day on which he purposes to judge the inhabited earth in righteousness by a man whom he has appointed, and he has provided a guarantee to all men by resurrecting him from the dead.'"
+
+- triggers: ["!ac17:32 ","!acts17:32 "]
+  replace: "Now when they heard of a resurrection of the dead, some began to scoff, while others said: 'We will hear you again about this.'"
+
+- triggers: ["!ac17:33 ","!acts17:33 "]
+  replace: "So Paul left them,"
+
+- triggers: ["!ac17:34 ","!acts17:34 "]
+  replace: "but some men joined him and became believers. Among them were Dionysʹius, who was a judge of the court of the Areopʹagus, and a woman named Damʹaris, and others besides them."
+
+- triggers: ["!ac18:1 ","!acts18:1 "]
+  replace: "After this he departed from Athens and came to Corinth."
+
+- triggers: ["!ac18:2 ","!acts18:2 "]
+  replace: "And he found a Jew named Aqʹuila, a native of Ponʹtus who had recently come from Italy with Priscilʹla his wife, because Claudius had ordered all the Jews to leave Rome. So he went to them,"
+
+- triggers: ["!ac18:3 ","!acts18:3 "]
+  replace: "and because he had the same trade, he stayed at their home and worked with them, for they were tentmakers by trade."
+
+- triggers: ["!ac18:4 ","!acts18:4 "]
+  replace: "He would give a talk in the synagogue every sabbath and would persuade Jews and Greeks."
+
+- triggers: ["!ac18:5 ","!acts18:5 "]
+  replace: "When, now, both Silas and Timothy came down from Macedoʹnia, Paul began to be intensely occupied with the word, witnessing to the Jews to prove that Jesus is the Christ."
+
+- triggers: ["!ac18:6 ","!acts18:6 "]
+  replace: "But after they kept on opposing him and speaking abusively, he shook out his garments and said to them: 'Let your blood be on your own heads. I am clean. From now on I will go to people of the nations.'"
+
+- triggers: ["!ac18:7 ","!acts18:7 "]
+  replace: "So he transferred from there and went into the house of a man named Titius Justus, a worshipper of God, whose house adjoined the synagogue."
+
+- triggers: ["!ac18:8 ","!acts18:8 "]
+  replace: "But Crisʹpus, the presiding officer of the synagogue, became a believer in the Lord, along with all his household. And many of the Corinthians who heard began to believe and be baptized."
+
+- triggers: ["!ac18:9 ","!acts18:9 "]
+  replace: "Moreover, the Lord said to Paul in a vision by night: 'Do not be afraid, but keep on speaking and do not keep silent,"
+
+- triggers: ["!ac18:10 ","!acts18:10 "]
+  replace: "for I am with you and no man will assault you to harm you; for I have many people in this city.'"
+
+- triggers: ["!ac18:11 ","!acts18:11 "]
+  replace: "So he stayed there for a year and six months, teaching the word of God among them."
+
+- triggers: ["!ac18:12 ","!acts18:12 "]
+  replace: "While Galʹlio was proconsul of Achaʹia, the Jews made a concerted attack against Paul and led him to the judgment seat,"
+
+- triggers: ["!ac18:13 ","!acts18:13 "]
+  replace: "saying: 'This man is persuading people to worship God in a way contrary to the law.'"
+
+- triggers: ["!ac18:14 ","!acts18:14 "]
+  replace: "But as Paul was about to speak, Galʹlio said to the Jews: 'If, indeed, it were some wrong or a serious crime, O Jews, it would be reasonable for me to hear you out patiently."
+
+- triggers: ["!ac18:15 ","!acts18:15 "]
+  replace: "But if it is controversies over speech and names and your own law, you yourselves must see to it. I do not wish to be a judge of these things.'"
+
+- triggers: ["!ac18:16 ","!acts18:16 "]
+  replace: "With that he drove them away from the judgment seat."
+
+- triggers: ["!ac18:17 ","!acts18:17 "]
+  replace: "So they all seized Sosʹthenes, the presiding officer of the synagogue, and began beating him in front of the judgment seat. But Galʹlio would not get involved at all with these things."
+
+- triggers: ["!ac18:18 ","!acts18:18 "]
+  replace: "However, after staying quite a few days longer, Paul said good-bye to the brothers and sailed away for Syria, accompanied by Priscilʹla and Aqʹuila. He had his hair clipped short in Cenʹchreae, for he had made a vow."
+
+- triggers: ["!ac18:19 ","!acts18:19 "]
+  replace: "So they arrived at Ephʹesus, and he left them there; but he entered the synagogue and reasoned with the Jews."
+
+- triggers: ["!ac18:20 ","!acts18:20 "]
+  replace: "Although they kept requesting him to stay longer, he would not consent"
+
+- triggers: ["!ac18:21 ","!acts18:21 "]
+  replace: "but said good-bye and told them: 'I will return to you again, if Jehovah is willing.' And he put out to sea from Ephʹesus"
+
+- triggers: ["!ac18:22 ","!acts18:22 "]
+  replace: "and came down to Caesareʹa. And he went up and greeted the congregation and then went down to Antioch."
+
+- triggers: ["!ac18:23 ","!acts18:23 "]
+  replace: "After spending some time there, he departed and went from place to place through the country of Galaʹtia and Phrygʹia, strengthening all the disciples."
+
+- triggers: ["!ac18:24 ","!acts18:24 "]
+  replace: "Now a Jew named Apolʹlos, a native of Alexandria, arrived in Ephʹesus; he was an eloquent man who was well-versed in the Scriptures."
+
+- triggers: ["!ac18:25 ","!acts18:25 "]
+  replace: "This man had been instructed in the way of Jehovah, and aglow with the spirit, he was speaking and teaching accurately the things about Jesus, but he was acquainted only with the baptism of John."
+
+- triggers: ["!ac18:26 ","!acts18:26 "]
+  replace: "He began to speak boldly in the synagogue, and when Priscilʹla and Aqʹuila heard him, they took him into their company and explained the way of God more accurately to him."
+
+- triggers: ["!ac18:27 ","!acts18:27 "]
+  replace: "Further, because he wanted to go across to Achaʹia, the brothers wrote to the disciples, urging them to receive him kindly. So when he got there, he greatly helped those who through God's undeserved kindness had become believers;"
+
+- triggers: ["!ac18:28 ","!acts18:28 "]
+  replace: "for publicly and with great intensity he thoroughly proved the Jews to be wrong, showing them from the Scriptures that Jesus is the Christ."
+
+- triggers: ["!ac19:1 ","!acts19:1 "]
+  replace: "In the course of events, while Apolʹlos was in Corinth, Paul went through the inland regions and came down to Ephʹesus. There he found some disciples"
+
+- triggers: ["!ac19:2 ","!acts19:2 "]
+  replace: "and said to them: 'Did you receive holy spirit when you became believers?' They replied to him: 'Why, we have never heard that there is a holy spirit.'"
+
+- triggers: ["!ac19:3 ","!acts19:3 "]
+  replace: "So he said: 'In what, then, were you baptized?' They said: 'In John's baptism.'"
+
+- triggers: ["!ac19:4 ","!acts19:4 "]
+  replace: "Paul said: 'John baptized with the baptism in symbol of repentance, telling the people to believe in the one coming after him, that is, in Jesus.'"
+
+- triggers: ["!ac19:5 ","!acts19:5 "]
+  replace: "On hearing this, they got baptized in the name of the Lord Jesus."
+
+- triggers: ["!ac19:6 ","!acts19:6 "]
+  replace: "And when Paul laid his hands on them, the holy spirit came upon them, and they began speaking in foreign languages and prophesying."
+
+- triggers: ["!ac19:7 ","!acts19:7 "]
+  replace: "There were about 12 men in all."
+
+- triggers: ["!ac19:8 ","!acts19:8 "]
+  replace: "Entering the synagogue, for three months he spoke with boldness, giving talks and reasoning persuasively about the Kingdom of God."
+
+- triggers: ["!ac19:9 ","!acts19:9 "]
+  replace: "But when some stubbornly refused to believe, speaking injuriously about The Way before the crowd, he withdrew from them and separated the disciples from them, giving talks daily in the school auditorium of Tyranʹnus."
+
+- triggers: ["!ac19:10 ","!acts19:10 "]
+  replace: "This went on for two years, so that all those living in the province of Asia heard the word of the Lord, both Jews and Greeks."
+
+- triggers: ["!ac19:11 ","!acts19:11 "]
+  replace: "And God kept performing extraordinary powerful works through the hands of Paul,"
+
+- triggers: ["!ac19:12 ","!acts19:12 "]
+  replace: "so that even cloths and aprons that had touched his body were carried to the sick, and the diseases left them, and the wicked spirits came out."
+
+- triggers: ["!ac19:13 ","!acts19:13 "]
+  replace: "But some of the Jews who traveled around casting out demons also tried to use the name of the Lord Jesus over those who had wicked spirits; they would say: 'I solemnly charge you by Jesus whom Paul preaches.'"
+
+- triggers: ["!ac19:14 ","!acts19:14 "]
+  replace: "Now there were seven sons of a Jewish chief priest named Sceʹva doing this."
+
+- triggers: ["!ac19:15 ","!acts19:15 "]
+  replace: "But in answer the wicked spirit said to them: 'I know Jesus and I am acquainted with Paul; but who are you?'"
+
+- triggers: ["!ac19:16 ","!acts19:16 "]
+  replace: "At that the man with the wicked spirit leaped on them, overpowered them one after the other, and prevailed against them, so that they fled naked and wounded out of that house."
+
+- triggers: ["!ac19:17 ","!acts19:17 "]
+  replace: "This became known to all, both the Jews and the Greeks who lived in Ephʹesus; and fear fell upon them all, and the name of the Lord Jesus went on being magnified."
+
+- triggers: ["!ac19:18 ","!acts19:18 "]
+  replace: "And many of those who had become believers would come and confess and report their practices openly."
+
+- triggers: ["!ac19:19 ","!acts19:19 "]
+  replace: "Indeed, quite a number of those who practiced magical arts brought their books together and burned them up before everybody. And they calculated their value and found them worth 50,000 pieces of silver."
+
+- triggers: ["!ac19:20 ","!acts19:20 "]
+  replace: "Thus in a mighty way, the word of Jehovah kept growing and prevailing."
+
+- triggers: ["!ac19:21 ","!acts19:21 "]
+  replace: "After these things had taken place, Paul resolved in his spirit that after going through Macedoʹnia and Achaʹia, he would travel to Jerusalem. He said: 'After going there, I must also see Rome.'"
+
+- triggers: ["!ac19:22 ","!acts19:22 "]
+  replace: "So he sent to Macedoʹnia two of those who ministered to him, Timothy and Erasʹtus, but he himself stayed on for some time in the province of Asia."
+
+- triggers: ["!ac19:23 ","!acts19:23 "]
+  replace: "At that time quite a disturbance arose concerning The Way."
+
+- triggers: ["!ac19:24 ","!acts19:24 "]
+  replace: "For a man named Demeʹtrius, a silversmith who made silver shrines of Arʹtemis, brought considerable profit to the craftsmen."
+
+- triggers: ["!ac19:25 ","!acts19:25 "]
+  replace: "He gathered them and others who worked at such things and said: 'Men, you well know that from this business comes our prosperity."
+
+- triggers: ["!ac19:26 ","!acts19:26 "]
+  replace: "Now you see and hear how, not only in Ephʹesus but in nearly all the province of Asia, this Paul has persuaded a considerable crowd and turned them to another opinion, saying that the gods made by hands are not really gods."
+
+- triggers: ["!ac19:27 ","!acts19:27 "]
+  replace: "Moreover, the danger exists not only that this business of ours will come into disrepute but also that the temple of the great goddess Arʹtemis will be viewed as nothing, and she who is worshipped in the whole province of Asia and the inhabited earth will be deprived of her magnificence.'"
+
+- triggers: ["!ac19:28 ","!acts19:28 "]
+  replace: "Hearing this and becoming full of anger, the men began crying out: 'Great is Arʹtemis of the Epheʹsians!'"
+
+- triggers: ["!ac19:29 ","!acts19:29 "]
+  replace: "So the city became filled with confusion, and all together they rushed into the theater, dragging along with them Gaʹius and Aristarʹchus, Macedoʹnians, traveling companions of Paul."
+
+- triggers: ["!ac19:30 ","!acts19:30 "]
+  replace: "For his part, Paul was willing to go inside to the people, but the disciples would not permit him."
+
+- triggers: ["!ac19:31 ","!acts19:31 "]
+  replace: "Even some of the commissioners of festivals and games who were friendly to him sent word to him, pleading with him not to risk going into the theater."
+
+- triggers: ["!ac19:32 ","!acts19:32 "]
+  replace: "Some were, in fact, crying out one thing and others something else; for the assembly was in confusion and the majority of them did not know the reason why they had come together."
+
+- triggers: ["!ac19:33 ","!acts19:33 "]
+  replace: "So they brought Alexander out of the crowd, the Jews shoving him forward, and Alexander motioned with his hand and wanted to make his defense to the people."
+
+- triggers: ["!ac19:34 ","!acts19:34 "]
+  replace: "But when they recognized that he was a Jew, they all started shouting in unison for about two hours: 'Great is Arʹtemis of the Epheʹsians!'"
+
+- triggers: ["!ac19:35 ","!acts19:35 "]
+  replace: "When the city recorder had finally quieted the crowd, he said: 'Men of Ephʹesus, who really is there among men who does not know that the city of the Epheʹsians is the temple keeper of the great Arʹtemis and of the image that fell from heaven?"
+
+- triggers: ["!ac19:36 ","!acts19:36 "]
+  replace: "Since these things are indisputable, you should keep calm and not act rashly."
+
+- triggers: ["!ac19:37 ","!acts19:37 "]
+  replace: "For you have brought these men here who are neither robbers of temples nor blasphemers of our goddess."
+
+- triggers: ["!ac19:38 ","!acts19:38 "]
+  replace: "So if Demeʹtrius and the craftsmen with him do have a case against someone, court days are held and there are proconsuls; let them bring charges against one another."
+
+- triggers: ["!ac19:39 ","!acts19:39 "]
+  replace: "But if you are searching for anything beyond that, it must be decided in a regular assembly."
+
+- triggers: ["!ac19:40 ","!acts19:40 "]
+  replace: "For we are really in danger of being charged with sedition over today's affair, since there are no grounds we could present as a reason for this disorderly mob.'"
+
+- triggers: ["!ac19:41 ","!acts19:41 "]
+  replace: "And after saying this, he dismissed the assembly."
+
+- triggers: ["!ac20:1 ","!acts20:1 "]
+  replace: "When the uproar had subsided, Paul sent for the disciples, and after he had encouraged them and said farewell, he began his journey to Macedoʹnia."
+
+- triggers: ["!ac20:2 ","!acts20:2 "]
+  replace: "After going through those regions and giving many words of encouragement to the ones there, he arrived in Greece."
+
+- triggers: ["!ac20:3 ","!acts20:3 "]
+  replace: "He spent three months there, but because a plot was hatched against him by the Jews when he was about to set sail for Syria, he made up his mind to return through Macedoʹnia."
+
+- triggers: ["!ac20:4 ","!acts20:4 "]
+  replace: "He was accompanied by Sopʹater the son of Pyrʹrhus of Beroeʹa, Aristarʹchus and Secunʹdus of the Thessaloʹnians, Gaʹius of Derʹbe, Timothy and, from the province of Asia, Tychʹicus and Trophʹimus."
+
+- triggers: ["!ac20:5 ","!acts20:5 "]
+  replace: "These men went on ahead and were waiting for us in Troʹas;"
+
+- triggers: ["!ac20:6 ","!acts20:6 "]
+  replace: "but we put out to sea from Philipʹpi after the days of the Unleavened Bread, and within five days we came to them in Troʹas, and there we spent seven days."
+
+- triggers: ["!ac20:7 ","!acts20:7 "]
+  replace: "On the first day of the week, when we were gathered together to have a meal, Paul began addressing them, as he was going to depart the next day; and he prolonged his speech until midnight."
+
+- triggers: ["!ac20:8 ","!acts20:8 "]
+  replace: "So there were quite a few lamps in the upper room where we were gathered together."
+
+- triggers: ["!ac20:9 ","!acts20:9 "]
+  replace: "Seated at the window, a young man named Euʹtychus sank into a deep sleep while Paul kept talking, and overcome by sleep, he fell down from the third story and was picked up dead."
+
+- triggers: ["!ac20:10 ","!acts20:10 "]
+  replace: "But Paul went downstairs, threw himself on him and embraced him, and said: 'Stop making a commotion, for he is alive.'"
+
+- triggers: ["!ac20:11 ","!acts20:11 "]
+  replace: "He then went upstairs and began the meal and ate. He continued conversing for quite a while, until daybreak, and then he departed."
+
+- triggers: ["!ac20:12 ","!acts20:12 "]
+  replace: "So they took the boy away alive and were comforted beyond measure."
+
+- triggers: ["!ac20:13 ","!acts20:13 "]
+  replace: "We now went ahead to the ship and set sail for Asʹsos, where we were intending to take Paul aboard, for after giving instructions to this effect, he was intending to go there on foot."
+
+- triggers: ["!ac20:14 ","!acts20:14 "]
+  replace: "So when he caught up with us in Asʹsos, we took him aboard and went to Mityleʹne."
+
+- triggers: ["!ac20:15 ","!acts20:15 "]
+  replace: "And sailing away from there the next day, we arrived off Chiʹos, but the day after that, we touched at Saʹmos, and on the following day, we arrived at Mileʹtus."
+
+- triggers: ["!ac20:16 ","!acts20:16 "]
+  replace: "Paul had decided to sail past Ephʹesus so as not to spend any time in the province of Asia, for he was hurrying to get to Jerusalem on the day of the Festival of Pentecost if he possibly could."
+
+- triggers: ["!ac20:17 ","!acts20:17 "]
+  replace: "However, from Mileʹtus he sent word to Ephʹesus and called for the elders of the congregation."
+
+- triggers: ["!ac20:18 ","!acts20:18 "]
+  replace: "When they came to him, he said to them: 'You well know how I conducted myself among you from the first day I stepped into the province of Asia,"
+
+- triggers: ["!ac20:19 ","!acts20:19 "]
+  replace: "slaving for the Lord with all humility and with tears and trials that befell me by the plots of the Jews,"
+
+- triggers: ["!ac20:20 ","!acts20:20 "]
+  replace: "while I did not hold back from telling you any of the things that were profitable nor from teaching you publicly and from house to house."
+
+- triggers: ["!ac20:21 ","!acts20:21 "]
+  replace: "But I thoroughly bore witness both to Jews and to Greeks about repentance toward God and faith in our Lord Jesus."
+
+- triggers: ["!ac20:22 ","!acts20:22 "]
+  replace: "And now look! bound in the spirit, I am traveling to Jerusalem, although not knowing what will happen to me there,"
+
+- triggers: ["!ac20:23 ","!acts20:23 "]
+  replace: "except that from city to city the holy spirit repeatedly bears witness to me, saying that imprisonment and tribulations are waiting for me."
+
+- triggers: ["!ac20:24 ","!acts20:24 "]
+  replace: "Nevertheless, I do not consider my own life of any importance to me, if only I may finish my course and the ministry that I received from the Lord Jesus, to bear thorough witness to the good news of the undeserved kindness of God."
+
+- triggers: ["!ac20:25 ","!acts20:25 "]
+  replace: "'And now look! I know that none of you among whom I preached the Kingdom will ever see my face again."
+
+- triggers: ["!ac20:26 ","!acts20:26 "]
+  replace: "So I call you to witness this very day that I am clean from the blood of all men,"
+
+- triggers: ["!ac20:27 ","!acts20:27 "]
+  replace: "for I have not held back from telling you all the counsel of God."
+
+- triggers: ["!ac20:28 ","!acts20:28 "]
+  replace: "Pay attention to yourselves and to all the flock, among which the holy spirit has appointed you overseers, to shepherd the congregation of God, which he purchased with the blood of his own Son."
+
+- triggers: ["!ac20:29 ","!acts20:29 "]
+  replace: "I know that after my going away oppressive wolves will enter in among you and will not treat the flock with tenderness,"
+
+- triggers: ["!ac20:30 ","!acts20:30 "]
+  replace: "and from among you yourselves men will rise and speak twisted things to draw away the disciples after themselves."
+
+- triggers: ["!ac20:31 ","!acts20:31 "]
+  replace: "'Therefore keep awake, and bear in mind that for three years, night and day, I never stopped admonishing each one of you with tears."
+
+- triggers: ["!ac20:32 ","!acts20:32 "]
+  replace: "And now I entrust you to God and to the word of his undeserved kindness, which word can build you up and give you the inheritance among all the sanctified ones."
+
+- triggers: ["!ac20:33 ","!acts20:33 "]
+  replace: "I have desired no man's silver or gold or clothing."
+
+- triggers: ["!ac20:34 ","!acts20:34 "]
+  replace: "You yourselves know that these hands have provided for my own needs and the needs of those with me."
+
+- triggers: ["!ac20:35 ","!acts20:35 "]
+  replace: "I have shown you in all things that by working hard in this way, you must assist those who are weak and must keep in mind the words of the Lord Jesus, when he himself said: 'There is more happiness in giving than there is in receiving.''"
+
+- triggers: ["!ac20:36 ","!acts20:36 "]
+  replace: "And when he had said these things, he knelt down with all of them and prayed."
+
+- triggers: ["!ac20:37 ","!acts20:37 "]
+  replace: "Indeed, quite a bit of weeping broke out among them all, and they embraced Paul and affectionately kissed him,"
+
+- triggers: ["!ac20:38 ","!acts20:38 "]
+  replace: "for they were especially pained at the word he had spoken that they would not see his face anymore. Then they accompanied him to the ship."
+
+- triggers: ["!ac21:1 ","!acts21:1 "]
+  replace: "After tearing ourselves away from them and putting out to sea, we ran with a straight course and came to Cos, on the next day to Rhodes, and from there to Patʹara."
+
+- triggers: ["!ac21:2 ","!acts21:2 "]
+  replace: "When we found a ship that was crossing to Phoeniʹcia, we went aboard and sailed away."
+
+- triggers: ["!ac21:3 ","!acts21:3 "]
+  replace: "After coming in sight of the island of Cyʹprus, we left it behind on the left side and sailed on to Syria and landed at Tyre, where the ship was to unload its cargo."
+
+- triggers: ["!ac21:4 ","!acts21:4 "]
+  replace: "We searched for and found the disciples and remained there for seven days. But through the spirit they repeatedly told Paul not to set foot in Jerusalem."
+
+- triggers: ["!ac21:5 ","!acts21:5 "]
+  replace: "So when our time there was over, we left and started on our way, but they all, together with the women and children, accompanied us until we were outside the city. And kneeling down on the beach, we prayed"
+
+- triggers: ["!ac21:6 ","!acts21:6 "]
+  replace: "and said good-bye to one another. Then we went aboard the ship, and they returned to their homes."
+
+- triggers: ["!ac21:7 ","!acts21:7 "]
+  replace: "We then completed the voyage from Tyre and arrived at Ptolemaʹis, and we greeted the brothers and stayed one day with them."
+
+- triggers: ["!ac21:8 ","!acts21:8 "]
+  replace: "The next day we left and came to Caesareʹa, and we entered the house of Philip the evangelizer, who was one of the seven men, and we stayed with him."
+
+- triggers: ["!ac21:9 ","!acts21:9 "]
+  replace: "This man had four unmarried daughters who prophesied."
+
+- triggers: ["!ac21:10 ","!acts21:10 "]
+  replace: "But after we had stayed there for quite a number of days, a prophet named Agʹabus came down from Judeʹa."
+
+- triggers: ["!ac21:11 ","!acts21:11 "]
+  replace: "And he came to us and took Paul's belt and tied his own feet and hands and said: 'Thus says the holy spirit, 'The man to whom this belt belongs will be bound like this by the Jews in Jerusalem, and they will give him into the hands of people of the nations.''"
+
+- triggers: ["!ac21:12 ","!acts21:12 "]
+  replace: "Now when we heard this, both we and those who were there began begging him not to go up to Jerusalem."
+
+- triggers: ["!ac21:13 ","!acts21:13 "]
+  replace: "Then Paul answered: 'What are you doing by weeping and trying to weaken my resolve? Rest assured, I am ready not only to be bound but also to die at Jerusalem for the name of the Lord Jesus.'"
+
+- triggers: ["!ac21:14 ","!acts21:14 "]
+  replace: "When he would not be dissuaded, we stopped objecting and said: 'Let the will of Jehovah take place.'"
+
+- triggers: ["!ac21:15 ","!acts21:15 "]
+  replace: "Now after these days we prepared for the journey and started on our way to Jerusalem."
+
+- triggers: ["!ac21:16 ","!acts21:16 "]
+  replace: "Some of the disciples from Caesareʹa also went with us, taking us to Mnaʹson of Cyʹprus, an early disciple at whose home we were to be guests."
+
+- triggers: ["!ac21:17 ","!acts21:17 "]
+  replace: "When we got to Jerusalem, the brothers welcomed us gladly."
+
+- triggers: ["!ac21:18 ","!acts21:18 "]
+  replace: "But on the following day Paul went in with us to James, and all the elders were present."
+
+- triggers: ["!ac21:19 ","!acts21:19 "]
+  replace: "And he greeted them and began giving a detailed account of the things God did among the nations through his ministry."
+
+- triggers: ["!ac21:20 ","!acts21:20 "]
+  replace: "After hearing this, they began to glorify God, but they said to him: 'You see, brother, how many thousands of believers there are among the Jews, and they are all zealous for the Law."
+
+- triggers: ["!ac21:21 ","!acts21:21 "]
+  replace: "But they have heard it rumored about you that you have been teaching all the Jews among the nations an apostasy from Moses, telling them not to circumcise their children or to follow the customary practices."
+
+- triggers: ["!ac21:22 ","!acts21:22 "]
+  replace: "What, then, is to be done about it? They are certainly going to hear that you have arrived."
+
+- triggers: ["!ac21:23 ","!acts21:23 "]
+  replace: "So do what we tell you: We have four men who have put themselves under a vow."
+
+- triggers: ["!ac21:24 ","!acts21:24 "]
+  replace: "Take these men with you and cleanse yourself ceremonially together with them and take care of their expenses, so that they may have their heads shaved. Then everyone will know that there is nothing to the rumors they were told about you, but that you are walking orderly and you are also keeping the Law."
+
+- triggers: ["!ac21:25 ","!acts21:25 "]
+  replace: "As for the believers from among the nations, we have sent them our decision in writing that they should keep away from what is sacrificed to idols as well as from blood, from what is strangled, and from sexual immorality.'"
+
+- triggers: ["!ac21:26 ","!acts21:26 "]
+  replace: "Then Paul took the men the next day and cleansed himself ceremonially along with them, and he went into the temple to give notice of when the days for the ceremonial cleansing would be completed and the offering should be presented for each one of them."
+
+- triggers: ["!ac21:27 ","!acts21:27 "]
+  replace: "Now when the seven days were about to end, the Jews from Asia, on seeing him in the temple, stirred up the whole crowd, and they seized him,"
+
+- triggers: ["!ac21:28 ","!acts21:28 "]
+  replace: "shouting: 'Men of Israel, help! This is the man who teaches everyone everywhere against our people and our Law and this place. And what is more, he even brought Greeks into the temple and has defiled this holy place.'"
+
+- triggers: ["!ac21:29 ","!acts21:29 "]
+  replace: "For they had previously seen Trophʹimus the Epheʹsian in the city with him, and they assumed that Paul had brought him into the temple."
+
+- triggers: ["!ac21:30 ","!acts21:30 "]
+  replace: "The whole city was in an uproar, and the people came running together and seized Paul and dragged him outside the temple, and immediately the doors were closed."
+
+- triggers: ["!ac21:31 ","!acts21:31 "]
+  replace: "While they were trying to kill him, word reached the commander of the army unit that all Jerusalem was in confusion;"
+
+- triggers: ["!ac21:32 ","!acts21:32 "]
+  replace: "and he immediately took soldiers and army officers and ran down to them. When they caught sight of the military commander and the soldiers, they stopped beating Paul."
+
+- triggers: ["!ac21:33 ","!acts21:33 "]
+  replace: "Then the military commander came near and took him into custody and ordered that he be bound with two chains; then he inquired who he was and what he had done."
+
+- triggers: ["!ac21:34 ","!acts21:34 "]
+  replace: "But some in the crowd began shouting out one thing, and others something else. So being unable himself to learn anything for certain because of the disturbance, he commanded him to be brought to the soldiers' quarters."
+
+- triggers: ["!ac21:35 ","!acts21:35 "]
+  replace: "But when he reached the stairs, he had to be carried by the soldiers because of the violence of the crowd,"
+
+- triggers: ["!ac21:36 ","!acts21:36 "]
+  replace: "for a crowd of the people kept following, crying out: 'Do away with him!'"
+
+- triggers: ["!ac21:37 ","!acts21:37 "]
+  replace: "As he was about to be led into the soldiers' quarters, Paul said to the military commander: 'Am I allowed to say something to you?' He said: 'Can you speak Greek?"
+
+- triggers: ["!ac21:38 ","!acts21:38 "]
+  replace: "Are you not, then, the Egyptian who some time ago stirred up a sedition and led the 4,000 dagger men out into the wilderness?'"
+
+- triggers: ["!ac21:39 ","!acts21:39 "]
+  replace: "Then Paul said: 'I am, in fact, a Jew, of Tarsus in Ciliʹcia, a citizen of no obscure city. So I beg you, permit me to speak to the people.'"
+
+- triggers: ["!ac21:40 ","!acts21:40 "]
+  replace: "After he gave permission, Paul, standing on the stairs, motioned with his hand to the people. When a great silence fell, he addressed them in the Hebrew language, saying:"
+
+- triggers: ["!ac22:1 ","!acts22:1 "]
+  replace: "'Men, brothers and fathers, hear my defense to you now.'"
+
+- triggers: ["!ac22:2 ","!acts22:2 "]
+  replace: "Well, when they heard that he was addressing them in the Hebrew language, they kept all the more silent, and he said:"
+
+- triggers: ["!ac22:3 ","!acts22:3 "]
+  replace: "'I am a Jew, born in Tarsus of Ciliʹcia, but educated in this city at the feet of Gamaʹliel, instructed according to the strictness of the ancestral Law, and zealous for God just as all of you are this day."
+
+- triggers: ["!ac22:4 ","!acts22:4 "]
+  replace: "I persecuted this Way to the point of death, binding and handing over to prisons both men and women,"
+
+- triggers: ["!ac22:5 ","!acts22:5 "]
+  replace: "as the high priest and all the assembly of elders can bear witness. From them I also obtained letters to the brothers in Damascus, and I was on my way to bring those who were there in bonds to Jerusalem to be punished."
+
+- triggers: ["!ac22:6 ","!acts22:6 "]
+  replace: "'But as I was traveling and getting near to Damascus, about midday, suddenly out of heaven a great light flashed all around me,"
+
+- triggers: ["!ac22:7 ","!acts22:7 "]
+  replace: "and I fell to the ground and heard a voice say to me: 'Saul, Saul, why are you persecuting me?'"
+
+- triggers: ["!ac22:8 ","!acts22:8 "]
+  replace: "I answered: 'Who are you, Lord?' And he said to me: 'I am Jesus the Nazareneʹ, whom you are persecuting.'"
+
+- triggers: ["!ac22:9 ","!acts22:9 "]
+  replace: "Now the men who were with me did see the light, but they did not hear the voice of the one speaking to me."
+
+- triggers: ["!ac22:10 ","!acts22:10 "]
+  replace: "At that I said: 'What should I do, Lord?' The Lord said to me: 'Rise, go into Damascus, and there you will be told about everything it is appointed for you to do.'"
+
+- triggers: ["!ac22:11 ","!acts22:11 "]
+  replace: "But since I could not see anything because of the glory of that light, I arrived in Damascus led by the hand of those who were with me."
+
+- triggers: ["!ac22:12 ","!acts22:12 "]
+  replace: "'Then a man named Ananiʹas, a devout man according to the Law, well-reported-on by all the Jews living there,"
+
+- triggers: ["!ac22:13 ","!acts22:13 "]
+  replace: "came to me. He stood by me and said to me: 'Saul, brother, regain your sight!' And that very moment I looked up and saw him."
+
+- triggers: ["!ac22:14 ","!acts22:14 "]
+  replace: "He said: 'The God of our forefathers has chosen you to come to know his will and to see the righteous one and to hear the voice of his mouth,"
+
+- triggers: ["!ac22:15 ","!acts22:15 "]
+  replace: "because you are to be a witness for him to all men of the things you have seen and heard."
+
+- triggers: ["!ac22:16 ","!acts22:16 "]
+  replace: "And now why are you delaying? Rise, get baptized, and wash your sins away by your calling on his name.'"
+
+- triggers: ["!ac22:17 ","!acts22:17 "]
+  replace: "'But when I had returned to Jerusalem and was praying in the temple, I fell into a trance"
+
+- triggers: ["!ac22:18 ","!acts22:18 "]
+  replace: "and saw him saying to me: 'Hurry up and get out of Jerusalem quickly, because they will not accept your witness concerning me.'"
+
+- triggers: ["!ac22:19 ","!acts22:19 "]
+  replace: "And I said: 'Lord, they themselves well know that I used to imprison and flog in one synagogue after another those believing in you;"
+
+- triggers: ["!ac22:20 ","!acts22:20 "]
+  replace: "and when the blood of Stephen your witness was being spilled, I was standing by and approving and guarding the outer garments of those doing away with him.'"
+
+- triggers: ["!ac22:21 ","!acts22:21 "]
+  replace: "And yet he said to me: 'Go, because I will send you out to nations far away.''"
+
+- triggers: ["!ac22:22 ","!acts22:22 "]
+  replace: "Now they kept listening to him down to this word. Then they raised their voices, saying: 'Take such a man away from the earth, for he is not fit to live!'"
+
+- triggers: ["!ac22:23 ","!acts22:23 "]
+  replace: "Because they were crying out, throwing their outer garments about, and tossing dust into the air,"
+
+- triggers: ["!ac22:24 ","!acts22:24 "]
+  replace: "the military commander ordered Paul to be brought into the soldiers' quarters and said that he should be interrogated under scourging, so that he could learn exactly why they were shouting against Paul this way."
+
+- triggers: ["!ac22:25 ","!acts22:25 "]
+  replace: "But when they had stretched him out for the whipping, Paul said to the army officer standing there: 'Is it lawful for you to scourge a Roman who has not been condemned?'"
+
+- triggers: ["!ac22:26 ","!acts22:26 "]
+  replace: "Well, when the army officer heard this, he went to the military commander and reported it, saying: 'What are you intending to do? For this man is a Roman.'"
+
+- triggers: ["!ac22:27 ","!acts22:27 "]
+  replace: "So the military commander approached and said to him: 'Tell me, are you a Roman?' He said: 'Yes.'"
+
+- triggers: ["!ac22:28 ","!acts22:28 "]
+  replace: "The military commander responded: 'I purchased these rights as a citizen for a large sum of money.' Paul said: 'But I have them by birth.'"
+
+- triggers: ["!ac22:29 ","!acts22:29 "]
+  replace: "Immediately, therefore, the men who were about to interrogate him under torture backed away from him; and the military commander became afraid when he realized that he was a Roman and that he had bound him in chains."
+
+- triggers: ["!ac22:30 ","!acts22:30 "]
+  replace: "So the next day, because he wanted to know for sure just why he was being accused by the Jews, he released him and commanded the chief priests and all the Sanʹhedrin to assemble. He then brought Paul down and had him stand among them."
+
+- triggers: ["!ac23:1 ","!acts23:1 "]
+  replace: "Looking intently at the Sanʹhedrin, Paul said: 'Men, brothers, I have behaved before God with a perfectly clear conscience down to this day.'"
+
+- triggers: ["!ac23:2 ","!acts23:2 "]
+  replace: "At this the high priest Ananiʹas ordered those standing by him to strike him on the mouth."
+
+- triggers: ["!ac23:3 ","!acts23:3 "]
+  replace: "Then Paul said to him: 'God is going to strike you, you whitewashed wall. Do you sit to judge me according to the Law and at the same time violate the Law by commanding me to be struck?'"
+
+- triggers: ["!ac23:4 ","!acts23:4 "]
+  replace: "Those standing by said: 'Are you insulting the high priest of God?'"
+
+- triggers: ["!ac23:5 ","!acts23:5 "]
+  replace: "And Paul said: 'Brothers, I did not know he was high priest. For it is written, 'You must not speak injuriously of a ruler of your people.''"
+
+- triggers: ["!ac23:6 ","!acts23:6 "]
+  replace: "Now Paul, knowing that the one part was made up of Sadducees but the other of Pharisees, cried out in the Sanʹhedrin: 'Men, brothers, I am a Pharisee, a son of Pharisees. Over the hope of the resurrection of the dead I am being judged.'"
+
+- triggers: ["!ac23:7 ","!acts23:7 "]
+  replace: "Because he said this, a dissension arose between the Pharisees and the Sadducees, and the assembly was split."
+
+- triggers: ["!ac23:8 ","!acts23:8 "]
+  replace: "For the Sadducees say that there is neither resurrection nor angel nor spirit, but the Pharisees accept them all."
+
+- triggers: ["!ac23:9 ","!acts23:9 "]
+  replace: "So a great uproar broke out, and some of the scribes of the party of the Pharisees rose and began arguing fiercely, saying: 'We find nothing wrong in this man, but if a spirit or an angel spoke to him-.'"
+
+- triggers: ["!ac23:10 ","!acts23:10 "]
+  replace: "Now when the dissension grew great, the military commander feared that Paul would be torn apart by them, and he commanded the soldiers to go down and snatch him from their midst and bring him into the soldiers' quarters."
+
+- triggers: ["!ac23:11 ","!acts23:11 "]
+  replace: "But the following night the Lord stood by him and said: 'Take courage! For just as you have been giving a thorough witness about me in Jerusalem, so you must also bear witness in Rome.'"
+
+- triggers: ["!ac23:12 ","!acts23:12 "]
+  replace: "When it became day, the Jews formed a conspiracy and bound themselves with a curse, saying that they would neither eat nor drink until they had killed Paul."
+
+- triggers: ["!ac23:13 ","!acts23:13 "]
+  replace: "There were more than 40 men who formed this oath-bound conspiracy."
+
+- triggers: ["!ac23:14 ","!acts23:14 "]
+  replace: "These men went to the chief priests and the elders and said: 'We have solemnly bound ourselves with a curse not to eat anything at all until we have killed Paul."
+
+- triggers: ["!ac23:15 ","!acts23:15 "]
+  replace: "So now you together with the Sanʹhedrin should inform the military commander that he should bring him down to you as though you want to examine his case more thoroughly. But before he gets near, we will be ready to do away with him.'"
+
+- triggers: ["!ac23:16 ","!acts23:16 "]
+  replace: "However, the son of Paul's sister heard of the ambush they were planning, and he entered the soldiers' quarters and reported it to Paul."
+
+- triggers: ["!ac23:17 ","!acts23:17 "]
+  replace: "Paul then called one of the army officers to him and said: 'Take this young man to the military commander, for he has something to report to him.'"
+
+- triggers: ["!ac23:18 ","!acts23:18 "]
+  replace: "So he brought him and led him to the military commander and said: 'The prisoner Paul called me and asked me to bring this young man to you because he has something to tell you.'"
+
+- triggers: ["!ac23:19 ","!acts23:19 "]
+  replace: "The military commander took him by the hand and withdrew privately and asked him: 'What do you have to report to me?'"
+
+- triggers: ["!ac23:20 ","!acts23:20 "]
+  replace: "He said: 'The Jews have agreed to request you to bring Paul down to the Sanʹhedrin tomorrow, as though they intend to learn more details about his case."
+
+- triggers: ["!ac23:21 ","!acts23:21 "]
+  replace: "But do not let them persuade you, for more than 40 of their men are waiting to ambush him, and they have bound themselves with a curse neither to eat nor to drink until they have killed him; and they are now ready, waiting for the promise from you.'"
+
+- triggers: ["!ac23:22 ","!acts23:22 "]
+  replace: "So the military commander let the young man go, after ordering him: 'Do not tell anyone that you have informed me of this.'"
+
+- triggers: ["!ac23:23 ","!acts23:23 "]
+  replace: "And he summoned two of the army officers and said: 'Get 200 soldiers ready to march clear to Caesareʹa, also 70 horsemen and 200 spearmen, at the third hour of the night."
+
+- triggers: ["!ac23:24 ","!acts23:24 "]
+  replace: "Also, provide horses for Paul to ride, to take him safely to Felix the governor.'"
+
+- triggers: ["!ac23:25 ","!acts23:25 "]
+  replace: "And he wrote a letter with this content:"
+
+- triggers: ["!ac23:26 ","!acts23:26 "]
+  replace: "'Claudius Lysʹias to His Excellency, Governor Felix: Greetings!"
+
+- triggers: ["!ac23:27 ","!acts23:27 "]
+  replace: "This man was seized by the Jews and was about to be killed by them, but I came quickly with my soldiers and rescued him, because I learned that he is a Roman."
+
+- triggers: ["!ac23:28 ","!acts23:28 "]
+  replace: "And wanting to find out the cause for which they were accusing him, I brought him down into their Sanʹhedrin."
+
+- triggers: ["!ac23:29 ","!acts23:29 "]
+  replace: "I found him to be accused about questions of their Law, but not charged with a single thing deserving of death or prison bonds."
+
+- triggers: ["!ac23:30 ","!acts23:30 "]
+  replace: "But because a plot against the man has been made known to me, I am at once sending him to you and ordering the accusers to speak against him before you.'"
+
+- triggers: ["!ac23:31 ","!acts23:31 "]
+  replace: "So these soldiers took Paul according to their orders and brought him by night to Antipʹatris."
+
+- triggers: ["!ac23:32 ","!acts23:32 "]
+  replace: "The next day they permitted the horsemen to go on with him, but they returned to the soldiers' quarters."
+
+- triggers: ["!ac23:33 ","!acts23:33 "]
+  replace: "The horsemen entered Caesareʹa and delivered the letter to the governor and also presented Paul to him."
+
+- triggers: ["!ac23:34 ","!acts23:34 "]
+  replace: "So he read it and asked what province he was from and learned that he was from Ciliʹcia."
+
+- triggers: ["!ac23:35 ","!acts23:35 "]
+  replace: "'I will give you a thorough hearing,' he said, 'when your accusers arrive.' And he commanded that he be kept under guard in Herod's palace."
+
+- triggers: ["!ac24:1 ","!acts24:1 "]
+  replace: "Five days later the high priest Ananiʹas came down with some elders and a public speaker named Tertulʹlus, and they presented their case against Paul to the governor."
+
+- triggers: ["!ac24:2 ","!acts24:2 "]
+  replace: "When he was called, Tertulʹlus started accusing him, saying: 'Seeing that we enjoy great peace through you and that through your forethought reforms are taking place in this nation,"
+
+- triggers: ["!ac24:3 ","!acts24:3 "]
+  replace: "at all times and also in all places we acknowledge this, Your Excellency Felix, with the greatest thankfulness."
+
+- triggers: ["!ac24:4 ","!acts24:4 "]
+  replace: "But that I may not detain you any further, I beg you to hear us briefly in your kindness."
+
+- triggers: ["!ac24:5 ","!acts24:5 "]
+  replace: "For we have found this man to be a pest, stirring up seditions among all the Jews throughout the inhabited earth, and he is a spearhead of the sect of the Nazarenesʹ."
+
+- triggers: ["!ac24:6 ","!acts24:6 "]
+  replace: "He also tried to profane the temple, so we seized him."
+
+- triggers: ["!ac24:7 ","!acts24:7 "]
+  replace: "--"
+
+- triggers: ["!ac24:8 ","!acts24:8 "]
+  replace: "When you examine him yourself, you will find out about all these things of which we are accusing him.'"
+
+- triggers: ["!ac24:9 ","!acts24:9 "]
+  replace: "With that the Jews also joined in the attack, asserting that these things were true."
+
+- triggers: ["!ac24:10 ","!acts24:10 "]
+  replace: "When the governor nodded to Paul to speak, he answered: 'Knowing well that this nation has had you as judge for many years, I readily speak in my own defense."
+
+- triggers: ["!ac24:11 ","!acts24:11 "]
+  replace: "As you can verify for yourself, it has not been more than"
+
+- triggers: ["!ac24:12 ","!acts24:12 "]
+  replace: "days since I went up to worship in Jerusalem; 12 and they found me neither arguing with anyone in the temple nor stirring up a mob, either in the synagogues or throughout the city."
+
+- triggers: ["!ac24:13 ","!acts24:13 "]
+  replace: "Nor can they prove to you the things they are accusing me of right now."
+
+- triggers: ["!ac24:14 ","!acts24:14 "]
+  replace: "But I do admit this to you, that according to the way that they call a sect, in this manner I am rendering sacred service to the God of my forefathers, as I believe all the things set forth in the Law and written in the Prophets."
+
+- triggers: ["!ac24:15 ","!acts24:15 "]
+  replace: "And I have hope toward God, which hope these men also look forward to, that there is going to be a resurrection of both the righteous and the unrighteous."
+
+- triggers: ["!ac24:16 ","!acts24:16 "]
+  replace: "Because of this I always strive to maintain a clear conscience before God and men."
+
+- triggers: ["!ac24:17 ","!acts24:17 "]
+  replace: "Now after quite a number of years, I arrived to bring gifts of mercy to my nation and to make offerings."
+
+- triggers: ["!ac24:18 ","!acts24:18 "]
+  replace: "While I was caring for these matters, they found me ceremonially cleansed in the temple, but not with a crowd or causing a disturbance. But there were some Jews from the province of Asia"
+
+- triggers: ["!ac24:19 ","!acts24:19 "]
+  replace: "who ought to be present before you to accuse me if they actually have anything against me."
+
+- triggers: ["!ac24:20 ","!acts24:20 "]
+  replace: "Or let the men here say for themselves what wrong they found as I stood before the Sanʹhedrin,"
+
+- triggers: ["!ac24:21 ","!acts24:21 "]
+  replace: "except for this one thing that I cried out while standing among them: 'Over the resurrection of the dead I am today being judged before you!''"
+
+- triggers: ["!ac24:22 ","!acts24:22 "]
+  replace: "However, Felix, knowing quite well the facts concerning this Way, began to put them off and say: 'Whenever Lysʹias the military commander comes down, I will decide these matters involving you.'"
+
+- triggers: ["!ac24:23 ","!acts24:23 "]
+  replace: "And he gave orders to the army officer that the man be kept under arrest but given some freedom, and that his people be allowed to attend to his needs."
+
+- triggers: ["!ac24:24 ","!acts24:24 "]
+  replace: "Some days later Felix came with Drusilʹla his wife, who was Jewish, and he sent for Paul and listened to him speak about the belief in Christ Jesus."
+
+- triggers: ["!ac24:25 ","!acts24:25 "]
+  replace: "But as Paul talked about righteousness and self-control and the judgment to come, Felix became frightened and answered: 'Go away for now, but when I have an opportunity I will send for you again.'"
+
+- triggers: ["!ac24:26 ","!acts24:26 "]
+  replace: "At the same time he was hoping that Paul would give him money. For that reason, he sent for him even more frequently and conversed with him."
+
+- triggers: ["!ac24:27 ","!acts24:27 "]
+  replace: "But when two years had elapsed, Felix was succeeded by Porcius Festus; and because Felix desired to gain favor with the Jews, he left Paul in custody."
+
+- triggers: ["!ac25:1 ","!acts25:1 "]
+  replace: "Therefore Festus, after arriving in the province and taking charge, went up three days later to Jerusalem from Caesareʹa."
+
+- triggers: ["!ac25:2 ","!acts25:2 "]
+  replace: "And the chief priests and the principal men of the Jews gave him information against Paul. So they began to beg Festus"
+
+- triggers: ["!ac25:3 ","!acts25:3 "]
+  replace: "as a favor to send for Paul to come to Jerusalem. But they were planning to ambush Paul and kill him along the road."
+
+- triggers: ["!ac25:4 ","!acts25:4 "]
+  replace: "However, Festus answered that Paul was to be kept in Caesareʹa and that he himself was about to go back there shortly."
+
+- triggers: ["!ac25:5 ","!acts25:5 "]
+  replace: "'So let those who are in power among you,' he said, 'come down with me and accuse him if, indeed, the man has done something wrong.'"
+
+- triggers: ["!ac25:6 ","!acts25:6 "]
+  replace: "So when he had spent not more than eight or ten days among them, he went down to Caesareʹa, and the next day he sat down on the judgment seat and commanded Paul to be brought in."
+
+- triggers: ["!ac25:7 ","!acts25:7 "]
+  replace: "When he came in, the Jews who had come down from Jerusalem stood around him, bringing against him many serious charges that they were unable to prove."
+
+- triggers: ["!ac25:8 ","!acts25:8 "]
+  replace: "But Paul said in defense: 'Neither against the Law of the Jews nor against the temple nor against Caesar have I committed any sin.'"
+
+- triggers: ["!ac25:9 ","!acts25:9 "]
+  replace: "Festus, desiring to gain favor with the Jews, said in reply to Paul: 'Do you wish to go up to Jerusalem and be judged before me there concerning these things?'"
+
+- triggers: ["!ac25:10 ","!acts25:10 "]
+  replace: "But Paul said: 'I am standing before the judgment seat of Caesar, where I ought to be judged. I have done no wrong to the Jews, of which you are also becoming well-aware."
+
+- triggers: ["!ac25:11 ","!acts25:11 "]
+  replace: "If I am really a wrongdoer and have committed anything deserving of death, I do not beg off from dying; but if there is no substance to the accusations these men have made against me, no man has the right to hand me over to them as a favor. I appeal to Caesar!'"
+
+- triggers: ["!ac25:12 ","!acts25:12 "]
+  replace: "Then Festus, after speaking with the assembly of counselors, replied: 'To Caesar you have appealed; to Caesar you will go.'"
+
+- triggers: ["!ac25:13 ","!acts25:13 "]
+  replace: "After some days had passed, Agripʹpa the king and Bernice arrived in Caesareʹa for a courtesy visit to Festus."
+
+- triggers: ["!ac25:14 ","!acts25:14 "]
+  replace: "Since they were spending a number of days there, Festus presented Paul's case to the king, saying: 'There is a man who was left as a prisoner by Felix,"
+
+- triggers: ["!ac25:15 ","!acts25:15 "]
+  replace: "and when I was in Jerusalem the chief priests and the elders of the Jews brought information about him, asking for a judgment of condemnation against him."
+
+- triggers: ["!ac25:16 ","!acts25:16 "]
+  replace: "But I replied to them that it is not Roman procedure to hand any man over as a favor before the accused man meets his accusers face-to-face and gets a chance to speak in his defense concerning the complaint."
+
+- triggers: ["!ac25:17 ","!acts25:17 "]
+  replace: "So when they arrived here, I did not delay, but the next day I sat down on the judgment seat and commanded the man to be brought in."
+
+- triggers: ["!ac25:18 ","!acts25:18 "]
+  replace: "Taking the stand, the accusers did not charge him with any of the wicked things I had expected concerning him."
+
+- triggers: ["!ac25:19 ","!acts25:19 "]
+  replace: "They simply had certain disputes with him concerning their own worship of the deity and concerning a man named Jesus, who was dead but who Paul kept asserting was alive."
+
+- triggers: ["!ac25:20 ","!acts25:20 "]
+  replace: "Being at a loss as to how to handle this dispute, I asked if he would like to go to Jerusalem and be judged there concerning these matters."
+
+- triggers: ["!ac25:21 ","!acts25:21 "]
+  replace: "But when Paul appealed to be kept in custody for the decision by the August One, I commanded him to be held until I should send him on to Caesar.'"
+
+- triggers: ["!ac25:22 ","!acts25:22 "]
+  replace: "Agripʹpa then said to Festus: 'I would like to hear the man myself.' 'Tomorrow,' he said, 'you will hear him.'"
+
+- triggers: ["!ac25:23 ","!acts25:23 "]
+  replace: "So the next day Agripʹpa and Bernice came with much pompous show and entered the audience chamber together with military commanders as well as the prominent men in the city; and when Festus gave the command, Paul was brought in."
+
+- triggers: ["!ac25:24 ","!acts25:24 "]
+  replace: "And Festus said: 'King Agripʹpa and all you who are present with us, you see this man about whom the whole Jewish populace have petitioned me both in Jerusalem and here, shouting that he ought not to live any longer."
+
+- triggers: ["!ac25:25 ","!acts25:25 "]
+  replace: "But I perceived that he had done nothing deserving of death. So when this man himself appealed to the August One, I decided to send him."
+
+- triggers: ["!ac25:26 ","!acts25:26 "]
+  replace: "But I have nothing certain to write about him to my Lord. So I brought him before all of you, and especially before you, King Agripʹpa, so that after the judicial examination has taken place, I might have something to write."
+
+- triggers: ["!ac25:27 ","!acts25:27 "]
+  replace: "For it seems unreasonable to me to send a prisoner and not also to indicate the charges against him.'"
+
+- triggers: ["!ac26:1 ","!acts26:1 "]
+  replace: "Agripʹpa said to Paul: 'You are permitted to speak in your own behalf.' Then Paul stretched out his hand and proceeded to say in his defense:"
+
+- triggers: ["!ac26:2 ","!acts26:2 "]
+  replace: "'Concerning all the things of which I am accused by the Jews, King Agripʹpa, I consider myself happy that it is before you I am to make my defense this day,"
+
+- triggers: ["!ac26:3 ","!acts26:3 "]
+  replace: "especially because you are an expert on all the customs as well as the controversies among the Jews. Therefore, I beg you to hear me patiently."
+
+- triggers: ["!ac26:4 ","!acts26:4 "]
+  replace: "'Indeed, the manner of life I led from youth up among my people and in Jerusalem is well-known by all the Jews"
+
+- triggers: ["!ac26:5 ","!acts26:5 "]
+  replace: "who were previously acquainted with me, if they would be willing to testify, that according to the strictest sect of our form of worship, I lived as a Pharisee."
+
+- triggers: ["!ac26:6 ","!acts26:6 "]
+  replace: "But now for the hope of the promise that was made by God to our forefathers, I stand on trial;"
+
+- triggers: ["!ac26:7 ","!acts26:7 "]
+  replace: "this is the same promise our 12 tribes are hoping to see fulfilled by intensely rendering him sacred service night and day. Concerning this hope I am accused by Jews, O King."
+
+- triggers: ["!ac26:8 ","!acts26:8 "]
+  replace: "'Why is it considered unbelievable among you that God raises up the dead?"
+
+- triggers: ["!ac26:9 ","!acts26:9 "]
+  replace: "I, for one, was convinced that I should commit many acts of opposition against the name of Jesus the Nazareneʹ."
+
+- triggers: ["!ac26:10 ","!acts26:10 "]
+  replace: "This is exactly what I did in Jerusalem, and I locked up many of the holy ones in prisons, for I had received authority from the chief priests; and when they were to be executed, I cast my vote against them."
+
+- triggers: ["!ac26:11 ","!acts26:11 "]
+  replace: "By punishing them often in all the synagogues, I tried to force them to recant; and since I was extremely furious with them, I went so far as to persecute them even in outlying cities."
+
+- triggers: ["!ac26:12 ","!acts26:12 "]
+  replace: "'While doing this as I was traveling to Damascus with authority and a commission from the chief priests,"
+
+- triggers: ["!ac26:13 ","!acts26:13 "]
+  replace: "I saw at midday on the road, O King, a light beyond the brilliance of the sun flash from heaven around me and around those traveling with me."
+
+- triggers: ["!ac26:14 ","!acts26:14 "]
+  replace: "And when we had all fallen to the ground, I heard a voice say to me in the Hebrew language: 'Saul, Saul, why are you persecuting me? To keep kicking against the goads makes it hard for you.'"
+
+- triggers: ["!ac26:15 ","!acts26:15 "]
+  replace: "But I said: 'Who are you, Lord?' And the Lord said: 'I am Jesus, whom you are persecuting."
+
+- triggers: ["!ac26:16 ","!acts26:16 "]
+  replace: "But rise and stand on your feet. This is why I have appeared to you, to choose you as a servant and a witness both of things you have seen and things I will make you see respecting me."
+
+- triggers: ["!ac26:17 ","!acts26:17 "]
+  replace: "And I will rescue you from this people and from the nations, to whom I am sending you"
+
+- triggers: ["!ac26:18 ","!acts26:18 "]
+  replace: "to open their eyes, to turn them from darkness to light and from the authority of Satan to God, so that they may receive forgiveness of sins and an inheritance among those sanctified by their faith in me.'"
+
+- triggers: ["!ac26:19 ","!acts26:19 "]
+  replace: "'Therefore, King Agripʹpa, I did not become disobedient to the heavenly vision,"
+
+- triggers: ["!ac26:20 ","!acts26:20 "]
+  replace: "but to those in Damascus first and then to those in Jerusalem, and over all the country of Judeʹa, and also to the nations, I was bringing the message that they should repent and turn to God by doing works that befit repentance."
+
+- triggers: ["!ac26:21 ","!acts26:21 "]
+  replace: "This is why the Jews seized me in the temple and tried to kill me."
+
+- triggers: ["!ac26:22 ","!acts26:22 "]
+  replace: "However, because I have experienced the help that is from God, I continue to this day bearing witness to both small and great, saying nothing except what the Prophets as well as Moses stated was going to take place-"
+
+- triggers: ["!ac26:23 ","!acts26:23 "]
+  replace: "that the Christ was to suffer and that as the first to be resurrected from the dead, he was going to proclaim light both to this people and to the nations.'"
+
+- triggers: ["!ac26:24 ","!acts26:24 "]
+  replace: "Now as Paul was saying these things in his defense, Festus said in a loud voice: 'You are going out of your mind, Paul! Great learning is driving you out of your mind!'"
+
+- triggers: ["!ac26:25 ","!acts26:25 "]
+  replace: "But Paul said: 'I am not going out of my mind, Your Excellency Festus, but I am speaking words of truth and of a sound mind."
+
+- triggers: ["!ac26:26 ","!acts26:26 "]
+  replace: "For a fact, the king to whom I am speaking so freely well knows about these things; I am convinced that not one of these things escapes his notice, for none of this has been done in a corner."
+
+- triggers: ["!ac26:27 ","!acts26:27 "]
+  replace: "Do you, King Agripʹpa, believe the Prophets? I know that you believe.'"
+
+- triggers: ["!ac26:28 ","!acts26:28 "]
+  replace: "But Agripʹpa said to Paul: 'In a short time you would persuade me to become a Christian.'"
+
+- triggers: ["!ac26:29 ","!acts26:29 "]
+  replace: "At this Paul said: 'I wish to God that whether in a short time or in a long time, not only you but also all those who hear me today would become men such as I am, with the exception of these prison bonds.'"
+
+- triggers: ["!ac26:30 ","!acts26:30 "]
+  replace: "Then the king rose and so did the governor and Bernice and the men seated with them."
+
+- triggers: ["!ac26:31 ","!acts26:31 "]
+  replace: "But as they were leaving, they began saying to one another: 'This man is doing nothing deserving of death or prison bonds.'"
+
+- triggers: ["!ac26:32 ","!acts26:32 "]
+  replace: "Agripʹpa then said to Festus: 'This man could have been released if he had not appealed to Caesar.'"
+
+- triggers: ["!ac27:1 ","!acts27:1 "]
+  replace: "Now as it was decided for us to sail away to Italy, they handed Paul and some other prisoners over to an army officer named Julius, of the unit of Augusʹtus."
+
+- triggers: ["!ac27:2 ","!acts27:2 "]
+  replace: "Going aboard a ship from Adramytʹtium that was about to sail to ports along the coast of the province of Asia, we set sail; Aristarʹchus, a Macedoʹnian from Thessaloniʹca, was with us."
+
+- triggers: ["!ac27:3 ","!acts27:3 "]
+  replace: "The next day we landed at Siʹdon, and Julius treated Paul with kindness and permitted him to go to his friends and enjoy their care."
+
+- triggers: ["!ac27:4 ","!acts27:4 "]
+  replace: "And putting out to sea from there, we sailed under the shelter of Cyʹprus, because the winds were against us."
+
+- triggers: ["!ac27:5 ","!acts27:5 "]
+  replace: "Then we navigated through the open sea along Ciliʹcia and Pamphylʹia and put into port at Myʹra in Lyʹcia."
+
+- triggers: ["!ac27:6 ","!acts27:6 "]
+  replace: "There the army officer found a ship from Alexandria that was sailing for Italy, and he made us board it."
+
+- triggers: ["!ac27:7 ","!acts27:7 "]
+  replace: "Then after sailing on slowly quite a number of days, we came to Cniʹdus with difficulty. Because the wind did not let us make headway, we sailed under the shelter of Crete off Salmoʹne."
+
+- triggers: ["!ac27:8 ","!acts27:8 "]
+  replace: "And sailing with difficulty along the coast, we came to a place called Fair Havens, which was near the city of Laseʹa."
+
+- triggers: ["!ac27:9 ","!acts27:9 "]
+  replace: "A considerable time had passed and by now it was hazardous to navigate, because even the fast of Atonement Day was already over, so Paul made a recommendation"
+
+- triggers: ["!ac27:10 ","!acts27:10 "]
+  replace: "to them: 'Men, I can see that this voyage is going to result in damage and great loss not only of the cargo and the ship but also of our lives.'"
+
+- triggers: ["!ac27:11 ","!acts27:11 "]
+  replace: "However, the army officer listened to the pilot and the shipowner rather than to what Paul was saying."
+
+- triggers: ["!ac27:12 ","!acts27:12 "]
+  replace: "Since the harbor was unsuitable for wintering, the majority advised setting sail from there to see if they could somehow make it to spend the winter in Phoenix, a harbor of Crete that opens toward the northeast and toward the southeast."
+
+- triggers: ["!ac27:13 ","!acts27:13 "]
+  replace: "When the south wind blew softly, they thought they had achieved their purpose, and they lifted anchor and began sailing along Crete close to the shore."
+
+- triggers: ["!ac27:14 ","!acts27:14 "]
+  replace: "After a short time, however, a violent wind called Euroaqʹuilo rushed down on it."
+
+- triggers: ["!ac27:15 ","!acts27:15 "]
+  replace: "As the ship was violently seized and was not able to keep its head against the wind, we gave way to it and were driven along."
+
+- triggers: ["!ac27:16 ","!acts27:16 "]
+  replace: "Then we ran under the shelter of a small island called Cauʹda, and yet we were hardly able to get the skiff at the stern of the ship under control."
+
+- triggers: ["!ac27:17 ","!acts27:17 "]
+  replace: "But after hoisting it aboard, they used supports to undergird the ship, and fearing that they would run aground on the Syrʹtis, they lowered the gear and so were driven along."
+
+- triggers: ["!ac27:18 ","!acts27:18 "]
+  replace: "Because we were being violently tossed by the storm, they began to lighten the ship the following day."
+
+- triggers: ["!ac27:19 ","!acts27:19 "]
+  replace: "And on the third day, they threw away the tackling of the ship with their own hands."
+
+- triggers: ["!ac27:20 ","!acts27:20 "]
+  replace: "When neither sun nor stars appeared for many days and a violent storm was battering us, all hope of our being saved finally began to fade."
+
+- triggers: ["!ac27:21 ","!acts27:21 "]
+  replace: "After they had gone a long time without food, Paul stood up in their midst and said: 'Men, you certainly should have taken my advice and not have put out to sea from Crete and as a result suffered this damage and loss."
+
+- triggers: ["!ac27:22 ","!acts27:22 "]
+  replace: "Still, I now urge you to take courage, for not one of you will be lost, only the ship will."
+
+- triggers: ["!ac27:23 ","!acts27:23 "]
+  replace: "This night an angel of the God to whom I belong and to whom I render sacred service stood by me"
+
+- triggers: ["!ac27:24 ","!acts27:24 "]
+  replace: "and said: 'Have no fear, Paul. You must stand before Caesar, and look! God has granted to you all those sailing with you.'"
+
+- triggers: ["!ac27:25 ","!acts27:25 "]
+  replace: "So take courage, men, for I believe God that it will be exactly as I was told."
+
+- triggers: ["!ac27:26 ","!acts27:26 "]
+  replace: "However, we must be cast ashore on some island.'"
+
+- triggers: ["!ac27:27 ","!acts27:27 "]
+  replace: "Now when the 14th night fell and we were being tossed about on the Sea of Aʹdria, at midnight the sailors began to suspect that they were getting near to some land."
+
+- triggers: ["!ac27:28 ","!acts27:28 "]
+  replace: "They sounded the depth and found it 20 fathoms, so they proceeded a short distance and again made a sounding and found it 15 fathoms."
+
+- triggers: ["!ac27:29 ","!acts27:29 "]
+  replace: "And fearing that we might run aground on the rocks, they cast out four anchors from the stern and began wishing for it to become day."
+
+- triggers: ["!ac27:30 ","!acts27:30 "]
+  replace: "But when the sailors began trying to escape from the ship and were lowering the skiff into the sea under the pretense of intending to let down anchors from the bow,"
+
+- triggers: ["!ac27:31 ","!acts27:31 "]
+  replace: "Paul said to the army officer and the soldiers: 'Unless these men remain in the ship, you cannot be saved.'"
+
+- triggers: ["!ac27:32 ","!acts27:32 "]
+  replace: "Then the soldiers cut away the ropes of the skiff and let it fall off."
+
+- triggers: ["!ac27:33 ","!acts27:33 "]
+  replace: "Now close to daybreak, Paul encouraged them all to take some food, saying: 'Today is the 14th day you have been waiting anxiously, and you have gone without taking any food at all."
+
+- triggers: ["!ac27:34 ","!acts27:34 "]
+  replace: "So I encourage you to eat some food; this is in the interests of your safety, for not a hair of the head of any one of you will perish.'"
+
+- triggers: ["!ac27:35 ","!acts27:35 "]
+  replace: "After he said this, he took bread, gave thanks to God before them all, broke it, and started eating."
+
+- triggers: ["!ac27:36 ","!acts27:36 "]
+  replace: "So they all took courage and began taking some food themselves."
+
+- triggers: ["!ac27:37 ","!acts27:37 "]
+  replace: "In all we were 276 persons in the ship."
+
+- triggers: ["!ac27:38 ","!acts27:38 "]
+  replace: "When they had eaten enough food to be satisfied, they lightened the ship by throwing the wheat overboard into the sea."
+
+- triggers: ["!ac27:39 ","!acts27:39 "]
+  replace: "When daylight came, they could not recognize the land, but they saw a bay with a beach and were determined to beach the ship there if they could."
+
+- triggers: ["!ac27:40 ","!acts27:40 "]
+  replace: "So they cut away the anchors and let them fall into the sea, at the same time loosening the lashings of the rudder oars; and after hoisting the foresail to the wind, they made for the beach."
+
+- triggers: ["!ac27:41 ","!acts27:41 "]
+  replace: "When they struck a shoal washed on each side by the sea, they ran the ship aground and the bow got stuck and stayed immovable, but the stern began to be violently broken to pieces by the waves."
+
+- triggers: ["!ac27:42 ","!acts27:42 "]
+  replace: "At this the soldiers decided to kill the prisoners so that no one might swim away and escape."
+
+- triggers: ["!ac27:43 ","!acts27:43 "]
+  replace: "But the army officer was determined to bring Paul safely through and prevented them from carrying out their plan. He commanded those able to swim to jump into the sea and make it to land first,"
+
+- triggers: ["!ac27:44 ","!acts27:44 "]
+  replace: "and the rest were to follow, some on planks and some on pieces of the ship. So all were brought safely to land."
+
+- triggers: ["!ac28:1 ","!acts28:1 "]
+  replace: "After we made it to safety, we learned that the island was called Malta."
+
+- triggers: ["!ac28:2 ","!acts28:2 "]
+  replace: "And the foreign-speaking people showed us extraordinary kindness. They kindled a fire and received all of us kindly because of the rain that was falling and because of the cold."
+
+- triggers: ["!ac28:3 ","!acts28:3 "]
+  replace: "But when Paul collected a bundle of sticks and laid it on the fire, a viper came out because of the heat and fastened itself on his hand."
+
+- triggers: ["!ac28:4 ","!acts28:4 "]
+  replace: "When the foreign-speaking people caught sight of the venomous creature hanging from his hand, they began saying to one another: 'Surely this man is a murderer, and although he made it to safety from the sea, Justice did not permit him to keep on living.'"
+
+- triggers: ["!ac28:5 ","!acts28:5 "]
+  replace: "However, he shook the creature off into the fire and suffered no harm."
+
+- triggers: ["!ac28:6 ","!acts28:6 "]
+  replace: "But they were expecting him to swell up or suddenly to drop dead. After they waited for a long time and saw that nothing bad happened to him, they changed their mind and began saying he was a god."
+
+- triggers: ["!ac28:7 ","!acts28:7 "]
+  replace: "Now in the neighborhood of that place were lands belonging to the principal man of the island, whose name was Pubʹlius, and he welcomed us and entertained us hospitably for three days."
+
+- triggers: ["!ac28:8 ","!acts28:8 "]
+  replace: "It so happened that the father of Pubʹlius was lying in bed sick with fever and dysentery, and Paul went in to him and prayed, laid his hands on him, and healed him."
+
+- triggers: ["!ac28:9 ","!acts28:9 "]
+  replace: "After this occurred, the rest of the people on the island who were sick also began to come to him and be cured."
+
+- triggers: ["!ac28:10 ","!acts28:10 "]
+  replace: "They also honored us with many gifts, and when we were setting sail, they loaded us up with whatever we needed."
+
+- triggers: ["!ac28:11 ","!acts28:11 "]
+  replace: "Three months later we set sail in a ship with the figurehead 'Sons of Zeus.' The ship was from Alexandria and had wintered in the island."
+
+- triggers: ["!ac28:12 ","!acts28:12 "]
+  replace: "Putting into port at Syracuse, we remained there for three days;"
+
+- triggers: ["!ac28:13 ","!acts28:13 "]
+  replace: "from there we went along and arrived at Rheʹgium. A day later a south wind sprang up and we made it into Puteʹoli on the second day."
+
+- triggers: ["!ac28:14 ","!acts28:14 "]
+  replace: "Here we found brothers and were urged to remain with them for seven days, and so we went toward Rome."
+
+- triggers: ["!ac28:15 ","!acts28:15 "]
+  replace: "From there the brothers, when they heard the news about us, came as far as the Marketplace of Apʹpius and Three Taverns to meet us. On catching sight of them, Paul thanked God and took courage."
+
+- triggers: ["!ac28:16 ","!acts28:16 "]
+  replace: "When finally we entered Rome, Paul was permitted to stay by himself with the soldier guarding him."
+
+- triggers: ["!ac28:17 ","!acts28:17 "]
+  replace: "However, three days later he called together the principal men of the Jews. When they had assembled, he said to them: 'Men, brothers, although I had done nothing contrary to the people or the customs of our forefathers, I was handed over as a prisoner from Jerusalem into the hands of the Romans."
+
+- triggers: ["!ac28:18 ","!acts28:18 "]
+  replace: "And after making an examination, they wanted to release me, for there were no grounds for putting me to death."
+
+- triggers: ["!ac28:19 ","!acts28:19 "]
+  replace: "But when the Jews objected, I was compelled to appeal to Caesar, but not because I had any accusation to make against my nation."
+
+- triggers: ["!ac28:20 ","!acts28:20 "]
+  replace: "So for this reason I asked to see and speak to you, for it is because of the hope of Israel that I have this chain around me.'"
+
+- triggers: ["!ac28:21 ","!acts28:21 "]
+  replace: "They said to him: 'We have not received letters about you from Judeʹa, nor have any of the brothers who came from there reported or spoken anything bad about you."
+
+- triggers: ["!ac28:22 ","!acts28:22 "]
+  replace: "But we think it proper to hear from you what your thoughts are, for truly as regards this sect, we know that it is spoken against everywhere.'"
+
+- triggers: ["!ac28:23 ","!acts28:23 "]
+  replace: "They now arranged for a day to meet with him, and they came in even greater numbers to him in his lodging place. And from morning to evening, he explained the matter to them by bearing thorough witness concerning the Kingdom of God, to persuade them about Jesus from both the Law of Moses and the Prophets."
+
+- triggers: ["!ac28:24 ","!acts28:24 "]
+  replace: "Some began to believe the things he said; others would not believe."
+
+- triggers: ["!ac28:25 ","!acts28:25 "]
+  replace: "So because they disagreed with one another, they began to leave, and Paul made this one comment: 'The holy spirit aptly spoke through Isaiah the prophet to your forefathers,"
+
+- triggers: ["!ac28:26 ","!acts28:26 "]
+  replace: "saying, 'Go to this people and say: 'You will indeed hear but by no means understand, and you will indeed look but by no means see."
+
+- triggers: ["!ac28:27 ","!acts28:27 "]
+  replace: "For the heart of this people has grown unreceptive, and with their ears they have heard without response, and they have shut their eyes, so that they might never see with their eyes and hear with their ears and understand with their heart and turn back and I heal them.''"
+
+- triggers: ["!ac28:28 ","!acts28:28 "]
+  replace: "So let it be known to you that this salvation from God has been sent out to the nations; they will certainly listen to it.'"
+
+- triggers: ["!ac28:29 ","!acts28:29 "]
+  replace: "--"
+
+- triggers: ["!ac28:30 ","!acts28:30 "]
+  replace: "So he remained there for an entire two years in his own rented house, and he would kindly receive all those who came to him,"
+
+- triggers: ["!ac28:31 ","!acts28:31 "]
+  replace: "preaching the Kingdom of God to them and teaching about the Lord Jesus Christ with the greatest freeness of speech, without hindrance."
+

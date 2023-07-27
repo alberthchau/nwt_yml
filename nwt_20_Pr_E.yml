@@ -1,0 +1,2746 @@
+matches:
+- triggers: ["!proverbs1:1 ","!prov1:1 ","!pr1:1 "]
+  replace: "The proverbs of Solʹomon, the son of David, the king of Israel:"
+
+- triggers: ["!proverbs1:2 ","!prov1:2 ","!pr1:2 "]
+  replace: "To learn wisdom and discipline; To understand wise sayings;"
+
+- triggers: ["!proverbs1:3 ","!prov1:3 ","!pr1:3 "]
+  replace: "To acquire the discipline that gives insight, Righteousness, good judgment, and uprightness;"
+
+- triggers: ["!proverbs1:4 ","!prov1:4 ","!pr1:4 "]
+  replace: "To impart shrewdness to the inexperienced; To give a young man knowledge and thinking ability."
+
+- triggers: ["!proverbs1:5 ","!prov1:5 ","!pr1:5 "]
+  replace: "A wise person listens and takes in more instruction; A man of understanding acquires skillful direction"
+
+- triggers: ["!proverbs1:6 ","!prov1:6 ","!pr1:6 "]
+  replace: "To understand a proverb and a puzzling saying, The words of the wise and their riddles."
+
+- triggers: ["!proverbs1:7 ","!prov1:7 ","!pr1:7 "]
+  replace: "The fear of Jehovah is the beginning of knowledge. Only fools despise wisdom and discipline."
+
+- triggers: ["!proverbs1:8 ","!prov1:8 ","!pr1:8 "]
+  replace: "Listen, my son, to the discipline of your father, And do not forsake the instruction of your mother."
+
+- triggers: ["!proverbs1:9 ","!prov1:9 ","!pr1:9 "]
+  replace: "They are an attractive wreath for your head And a fine ornament for your neck."
+
+- triggers: ["!proverbs1:10 ","!prov1:10 ","!pr1:10 "]
+  replace: "My son, if sinners try to entice you, do not consent."
+
+- triggers: ["!proverbs1:11 ","!prov1:11 ","!pr1:11 "]
+  replace: "If they say: “Come with us. Let us set an ambush to shed blood. We will lie hidden, waiting for innocent victims without cause."
+
+- triggers: ["!proverbs1:12 ","!prov1:12 ","!pr1:12 "]
+  replace: "We will swallow them alive as the Grave does, Whole, like those going down to the pit."
+
+- triggers: ["!proverbs1:13 ","!prov1:13 ","!pr1:13 "]
+  replace: "Let us seize all their precious treasures; We will fill our houses with spoil."
+
+- triggers: ["!proverbs1:14 ","!prov1:14 ","!pr1:14 "]
+  replace: "You should join us, And we will all share equally what we steal.”"
+
+- triggers: ["!proverbs1:15 ","!prov1:15 ","!pr1:15 "]
+  replace: "My son, do not follow them. Keep your feet off their path,"
+
+- triggers: ["!proverbs1:16 ","!prov1:16 ","!pr1:16 "]
+  replace: "For their feet run to do evil; They hurry to shed blood."
+
+- triggers: ["!proverbs1:17 ","!prov1:17 ","!pr1:17 "]
+  replace: "It is surely in vain to spread a net in full sight of a bird."
+
+- triggers: ["!proverbs1:18 ","!prov1:18 ","!pr1:18 "]
+  replace: "That is why these lie in ambush to shed blood; They lie hidden to take the lives of others."
+
+- triggers: ["!proverbs1:19 ","!prov1:19 ","!pr1:19 "]
+  replace: "These are the ways of those seeking dishonest profit, Which will take away the life of those who obtain it."
+
+- triggers: ["!proverbs1:20 ","!prov1:20 ","!pr1:20 "]
+  replace: "True wisdom cries aloud in the street. It keeps raising its voice in the public squares."
+
+- triggers: ["!proverbs1:21 ","!prov1:21 ","!pr1:21 "]
+  replace: "At the corner of the busy streets it calls out. At the entrances of the city gates it says:"
+
+- triggers: ["!proverbs1:22 ","!prov1:22 ","!pr1:22 "]
+  replace: "“How long will you inexperienced ones love inexperience? How long will you ridiculers take pleasure in ridicule? And how long will you foolish ones hate knowledge?"
+
+- triggers: ["!proverbs1:23 ","!prov1:23 ","!pr1:23 "]
+  replace: "Respond to my reproof. Then I will pour out my spirit for you; I will make my words known to you."
+
+- triggers: ["!proverbs1:24 ","!prov1:24 ","!pr1:24 "]
+  replace: "Because I called out, but you kept refusing, I stretched out my hand, but no one was paying attention,"
+
+- triggers: ["!proverbs1:25 ","!prov1:25 ","!pr1:25 "]
+  replace: "You kept neglecting all my advice And rejecting my reproof,"
+
+- triggers: ["!proverbs1:26 ","!prov1:26 ","!pr1:26 "]
+  replace: "I also will laugh when disaster strikes you; I will mock when what you dread comes,"
+
+- triggers: ["!proverbs1:27 ","!prov1:27 ","!pr1:27 "]
+  replace: "When what you dread comes like a storm, And your disaster arrives like a storm wind, When distress and trouble come upon you."
+
+- triggers: ["!proverbs1:28 ","!prov1:28 ","!pr1:28 "]
+  replace: "At that time they will keep calling me, but I will not answer; They will eagerly look for me, but they will not find me,"
+
+- triggers: ["!proverbs1:29 ","!prov1:29 ","!pr1:29 "]
+  replace: "Because they hated knowledge, And they did not choose to fear Jehovah."
+
+- triggers: ["!proverbs1:30 ","!prov1:30 ","!pr1:30 "]
+  replace: "They refused my advice; They disrespected all my reproof."
+
+- triggers: ["!proverbs1:31 ","!prov1:31 ","!pr1:31 "]
+  replace: "So they will bear the consequences of their way, And they will be glutted with their own counsel."
+
+- triggers: ["!proverbs1:32 ","!prov1:32 ","!pr1:32 "]
+  replace: "For the waywardness of the inexperienced will kill them, And the complacency of fools will destroy them."
+
+- triggers: ["!proverbs1:33 ","!prov1:33 ","!pr1:33 "]
+  replace: "But the one listening to me will dwell in security And be undisturbed by the dread of calamity.”"
+
+- triggers: ["!proverbs2:1 ","!prov2:1 ","!pr2:1 "]
+  replace: "My son, if you accept my sayings And treasure up my commandments,"
+
+- triggers: ["!proverbs2:2 ","!prov2:2 ","!pr2:2 "]
+  replace: "By making your ear attentive to wisdom And inclining your heart to discernment;"
+
+- triggers: ["!proverbs2:3 ","!prov2:3 ","!pr2:3 "]
+  replace: "Moreover, if you call out for understanding And raise your voice for discernment;"
+
+- triggers: ["!proverbs2:4 ","!prov2:4 ","!pr2:4 "]
+  replace: "If you keep seeking for it as for silver, And you keep searching for it as for hidden treasures;"
+
+- triggers: ["!proverbs2:5 ","!prov2:5 ","!pr2:5 "]
+  replace: "Then you will understand the fear of Jehovah, And you will find the knowledge of God."
+
+- triggers: ["!proverbs2:6 ","!prov2:6 ","!pr2:6 "]
+  replace: "For Jehovah himself gives wisdom; From his mouth come knowledge and discernment."
+
+- triggers: ["!proverbs2:7 ","!prov2:7 ","!pr2:7 "]
+  replace: "He treasures up practical wisdom for the upright; He is a shield for those walking in integrity."
+
+- triggers: ["!proverbs2:8 ","!prov2:8 ","!pr2:8 "]
+  replace: "He watches over the paths of justice, And he will guard the way of his loyal ones."
+
+- triggers: ["!proverbs2:9 ","!prov2:9 ","!pr2:9 "]
+  replace: "Then you will understand what is righteous and just and fair, The entire course of what is good."
+
+- triggers: ["!proverbs2:10 ","!prov2:10 ","!pr2:10 "]
+  replace: "When wisdom enters your heart And knowledge becomes pleasant to your soul,"
+
+- triggers: ["!proverbs2:11 ","!prov2:11 ","!pr2:11 "]
+  replace: "Thinking ability will keep watch over you, And discernment will safeguard you,"
+
+- triggers: ["!proverbs2:12 ","!prov2:12 ","!pr2:12 "]
+  replace: "To save you from the bad course, From the man speaking perverse things,"
+
+- triggers: ["!proverbs2:13 ","!prov2:13 ","!pr2:13 "]
+  replace: "From those leaving the upright paths To walk in the ways of darkness,"
+
+- triggers: ["!proverbs2:14 ","!prov2:14 ","!pr2:14 "]
+  replace: "From those who rejoice in wrongdoing, Who find joy in the perverseness of evil,"
+
+- triggers: ["!proverbs2:15 ","!prov2:15 ","!pr2:15 "]
+  replace: "Those whose paths are crooked And whose entire course is devious."
+
+- triggers: ["!proverbs2:16 ","!prov2:16 ","!pr2:16 "]
+  replace: "It will save you from the wayward woman, From the smooth words of the immoral woman,"
+
+- triggers: ["!proverbs2:17 ","!prov2:17 ","!pr2:17 "]
+  replace: "Who abandons the close companion of her youth And forgets the covenant of her God;"
+
+- triggers: ["!proverbs2:18 ","!prov2:18 ","!pr2:18 "]
+  replace: "For her house sinks down into death, And her paths lead to those powerless in death."
+
+- triggers: ["!proverbs2:19 ","!prov2:19 ","!pr2:19 "]
+  replace: "None of those having relations with her will return, Nor will they regain the pathways of life."
+
+- triggers: ["!proverbs2:20 ","!prov2:20 ","!pr2:20 "]
+  replace: "So follow the way of good people And stay on the paths of the righteous,"
+
+- triggers: ["!proverbs2:21 ","!prov2:21 ","!pr2:21 "]
+  replace: "For only the upright will reside in the earth, And the blameless will remain in it."
+
+- triggers: ["!proverbs2:22 ","!prov2:22 ","!pr2:22 "]
+  replace: "As for the wicked, they will be cut off from the earth, And the treacherous will be torn away from it."
+
+- triggers: ["!proverbs3:1 ","!prov3:1 ","!pr3:1 "]
+  replace: "My son, do not forget my teaching, And may your heart observe my commandments,"
+
+- triggers: ["!proverbs3:2 ","!prov3:2 ","!pr3:2 "]
+  replace: "Because they will add many days And years of life and peace to you."
+
+- triggers: ["!proverbs3:3 ","!prov3:3 ","!pr3:3 "]
+  replace: "Do not let loyal love and faithfulness leave you. Tie them around your neck; Write them on the tablet of your heart;"
+
+- triggers: ["!proverbs3:4 ","!prov3:4 ","!pr3:4 "]
+  replace: "Then you will find favor and good insight In the eyes of God and man."
+
+- triggers: ["!proverbs3:5 ","!prov3:5 ","!pr3:5 "]
+  replace: "Trust in Jehovah with all your heart, And do not rely on your own understanding."
+
+- triggers: ["!proverbs3:6 ","!prov3:6 ","!pr3:6 "]
+  replace: "In all your ways take notice of him, And he will make your paths straight."
+
+- triggers: ["!proverbs3:7 ","!prov3:7 ","!pr3:7 "]
+  replace: "Do not become wise in your own eyes. Fear Jehovah and turn away from bad."
+
+- triggers: ["!proverbs3:8 ","!prov3:8 ","!pr3:8 "]
+  replace: "It will be a healing to your body And refreshment for your bones."
+
+- triggers: ["!proverbs3:9 ","!prov3:9 ","!pr3:9 "]
+  replace: "Honor Jehovah with your valuable things, With the firstfruits of all your produce;"
+
+- triggers: ["!proverbs3:10 ","!prov3:10 ","!pr3:10 "]
+  replace: "Then your storehouses will be completely filled, And your vats will overflow with new wine."
+
+- triggers: ["!proverbs3:11 ","!prov3:11 ","!pr3:11 "]
+  replace: "My son, do not reject the discipline of Jehovah, And do not loathe his reproof,"
+
+- triggers: ["!proverbs3:12 ","!prov3:12 ","!pr3:12 "]
+  replace: "For those whom Jehovah loves he reproves, Just as a father does a son in whom he delights."
+
+- triggers: ["!proverbs3:13 ","!prov3:13 ","!pr3:13 "]
+  replace: "Happy is the man who finds wisdom And the man who acquires discernment;"
+
+- triggers: ["!proverbs3:14 ","!prov3:14 ","!pr3:14 "]
+  replace: "To gain it is better than gaining silver, And having it as profit is better than having gold."
+
+- triggers: ["!proverbs3:15 ","!prov3:15 ","!pr3:15 "]
+  replace: "It is more precious than corals; Nothing you desire can compare to it."
+
+- triggers: ["!proverbs3:16 ","!prov3:16 ","!pr3:16 "]
+  replace: "Long life is in its right hand; Riches and glory are in its left hand."
+
+- triggers: ["!proverbs3:17 ","!prov3:17 ","!pr3:17 "]
+  replace: "Its ways are pleasant, And all its paths are peaceful."
+
+- triggers: ["!proverbs3:18 ","!prov3:18 ","!pr3:18 "]
+  replace: "It is a tree of life to those who take hold of it, And those who keep firm hold of it will be called happy."
+
+- triggers: ["!proverbs3:19 ","!prov3:19 ","!pr3:19 "]
+  replace: "Jehovah founded the earth in wisdom. He solidly established the heavens in discernment."
+
+- triggers: ["!proverbs3:20 ","!prov3:20 ","!pr3:20 "]
+  replace: "By his knowledge the watery deeps were split apart And the cloudy skies dripped with dew."
+
+- triggers: ["!proverbs3:21 ","!prov3:21 ","!pr3:21 "]
+  replace: "My son, do not lose sight of them. Safeguard practical wisdom and thinking ability;"
+
+- triggers: ["!proverbs3:22 ","!prov3:22 ","!pr3:22 "]
+  replace: "They will give you life And be an adornment for your neck;"
+
+- triggers: ["!proverbs3:23 ","!prov3:23 ","!pr3:23 "]
+  replace: "Then you will walk on your way in safety, And your foot will never stumble."
+
+- triggers: ["!proverbs3:24 ","!prov3:24 ","!pr3:24 "]
+  replace: "When you lie down, you will have no fear; You will lie down, and your sleep will be pleasant."
+
+- triggers: ["!proverbs3:25 ","!prov3:25 ","!pr3:25 "]
+  replace: "You will not fear any sudden terror Nor the storm that is coming on the wicked."
+
+- triggers: ["!proverbs3:26 ","!prov3:26 ","!pr3:26 "]
+  replace: "For Jehovah will prove to be your source of confidence; He will keep your foot from being caught."
+
+- triggers: ["!proverbs3:27 ","!prov3:27 ","!pr3:27 "]
+  replace: "Do not withhold good from those to whom you should give it If it is within your power to help."
+
+- triggers: ["!proverbs3:28 ","!prov3:28 ","!pr3:28 "]
+  replace: "Do not say to your neighbor, “Go away; come back later! I will give it to you tomorrow,” If you can give it now."
+
+- triggers: ["!proverbs3:29 ","!prov3:29 ","!pr3:29 "]
+  replace: "Do not plot harm against your neighbor When he lives in a sense of security with you."
+
+- triggers: ["!proverbs3:30 ","!prov3:30 ","!pr3:30 "]
+  replace: "Do not quarrel with a man for no reason If he has done nothing bad to you."
+
+- triggers: ["!proverbs3:31 ","!prov3:31 ","!pr3:31 "]
+  replace: "Do not envy the violent man Nor choose any of his ways,"
+
+- triggers: ["!proverbs3:32 ","!prov3:32 ","!pr3:32 "]
+  replace: "For Jehovah detests a devious person, But His close friendship is with the upright."
+
+- triggers: ["!proverbs3:33 ","!prov3:33 ","!pr3:33 "]
+  replace: "The curse of Jehovah is on the house of the wicked one, But he blesses the home of the righteous."
+
+- triggers: ["!proverbs3:34 ","!prov3:34 ","!pr3:34 "]
+  replace: "For he mocks those who ridicule, But he shows favor to the meek."
+
+- triggers: ["!proverbs3:35 ","!prov3:35 ","!pr3:35 "]
+  replace: "The wise will inherit honor, But the stupid ones glorify dishonor."
+
+- triggers: ["!proverbs4:1 ","!prov4:1 ","!pr4:1 "]
+  replace: "Listen, my sons, to the discipline of a father; Pay attention in order to gain understanding,"
+
+- triggers: ["!proverbs4:2 ","!prov4:2 ","!pr4:2 "]
+  replace: "For I will give you good instruction; Do not forsake my teaching."
+
+- triggers: ["!proverbs4:3 ","!prov4:3 ","!pr4:3 "]
+  replace: "I was a true son to my father And the one especially loved by my mother."
+
+- triggers: ["!proverbs4:4 ","!prov4:4 ","!pr4:4 "]
+  replace: "He taught me and said: “May your heart hold fast to my words. Keep my commandments and continue living."
+
+- triggers: ["!proverbs4:5 ","!prov4:5 ","!pr4:5 "]
+  replace: "Acquire wisdom, acquire understanding. Do not forget, and do not turn aside from what I say."
+
+- triggers: ["!proverbs4:6 ","!prov4:6 ","!pr4:6 "]
+  replace: "Do not forsake it, and it will protect you. Love it, and it will safeguard you."
+
+- triggers: ["!proverbs4:7 ","!prov4:7 ","!pr4:7 "]
+  replace: "Wisdom is the most important thing, so acquire wisdom, And with all you acquire, acquire understanding."
+
+- triggers: ["!proverbs4:8 ","!prov4:8 ","!pr4:8 "]
+  replace: "Highly esteem it, and it will exalt you. It will honor you because you embrace it."
+
+- triggers: ["!proverbs4:9 ","!prov4:9 ","!pr4:9 "]
+  replace: "It will place an attractive wreath on your head; It will adorn you with a crown of beauty.”"
+
+- triggers: ["!proverbs4:10 ","!prov4:10 ","!pr4:10 "]
+  replace: "Listen, my son, and accept my sayings, And the years of your life will be many."
+
+- triggers: ["!proverbs4:11 ","!prov4:11 ","!pr4:11 "]
+  replace: "I will instruct you in the way of wisdom; I will lead you in the tracks of uprightness."
+
+- triggers: ["!proverbs4:12 ","!prov4:12 ","!pr4:12 "]
+  replace: "When you walk, your steps will not be hindered; And if you run, you will not stumble."
+
+- triggers: ["!proverbs4:13 ","!prov4:13 ","!pr4:13 "]
+  replace: "Hold on to discipline; do not let it go. Safeguard it, for it means your life."
+
+- triggers: ["!proverbs4:14 ","!prov4:14 ","!pr4:14 "]
+  replace: "Do not enter the path of the wicked, And do not walk in the way of evil men."
+
+- triggers: ["!proverbs4:15 ","!prov4:15 ","!pr4:15 "]
+  replace: "Shun it, do not take it; Turn away from it, and pass it by."
+
+- triggers: ["!proverbs4:16 ","!prov4:16 ","!pr4:16 "]
+  replace: "For they cannot sleep unless they do what is bad. They are robbed of sleep unless they cause someone’s downfall."
+
+- triggers: ["!proverbs4:17 ","!prov4:17 ","!pr4:17 "]
+  replace: "They feed themselves with the bread of wickedness, And they drink the wine of violence."
+
+- triggers: ["!proverbs4:18 ","!prov4:18 ","!pr4:18 "]
+  replace: "But the path of the righteous is like the bright morning light That grows brighter and brighter until full daylight."
+
+- triggers: ["!proverbs4:19 ","!prov4:19 ","!pr4:19 "]
+  replace: "The way of the wicked is like the darkness; They do not know what makes them stumble."
+
+- triggers: ["!proverbs4:20 ","!prov4:20 ","!pr4:20 "]
+  replace: "My son, pay attention to my words; Listen carefully to my sayings."
+
+- triggers: ["!proverbs4:21 ","!prov4:21 ","!pr4:21 "]
+  replace: "Do not lose sight of them; Keep them deep within your heart,"
+
+- triggers: ["!proverbs4:22 ","!prov4:22 ","!pr4:22 "]
+  replace: "For they are life to those who find them And health to their whole body."
+
+- triggers: ["!proverbs4:23 ","!prov4:23 ","!pr4:23 "]
+  replace: "Above all the things that you guard, safeguard your heart, For out of it are the sources of life."
+
+- triggers: ["!proverbs4:24 ","!prov4:24 ","!pr4:24 "]
+  replace: "Put crooked speech away from you, And keep devious talk far away from you."
+
+- triggers: ["!proverbs4:25 ","!prov4:25 ","!pr4:25 "]
+  replace: "Your eyes should look straight ahead, Yes, fix your gaze straight ahead of you."
+
+- triggers: ["!proverbs4:26 ","!prov4:26 ","!pr4:26 "]
+  replace: "Smooth out the course of your feet, And all your ways will be sure."
+
+- triggers: ["!proverbs4:27 ","!prov4:27 ","!pr4:27 "]
+  replace: "Do not incline to the right or the left. Turn your feet away from what is bad."
+
+- triggers: ["!proverbs5:1 ","!prov5:1 ","!pr5:1 "]
+  replace: "My son, pay attention to my wisdom. Listen carefully to my discernment,"
+
+- triggers: ["!proverbs5:2 ","!prov5:2 ","!pr5:2 "]
+  replace: "So that you may guard your thinking abilities And safeguard knowledge with your lips."
+
+- triggers: ["!proverbs5:3 ","!prov5:3 ","!pr5:3 "]
+  replace: "For the lips of a wayward woman drip like a honeycomb, And her mouth is smoother than oil."
+
+- triggers: ["!proverbs5:4 ","!prov5:4 ","!pr5:4 "]
+  replace: "But in the end she is as bitter as wormwood And as sharp as a two-edged sword."
+
+- triggers: ["!proverbs5:5 ","!prov5:5 ","!pr5:5 "]
+  replace: "Her feet descend into death. Her steps lead straight to the Grave."
+
+- triggers: ["!proverbs5:6 ","!prov5:6 ","!pr5:6 "]
+  replace: "She gives no thought to the path of life. Her course wanders, but she does not know where."
+
+- triggers: ["!proverbs5:7 ","!prov5:7 ","!pr5:7 "]
+  replace: "Now, my sons, listen to me And do not turn away from what I am saying."
+
+- triggers: ["!proverbs5:8 ","!prov5:8 ","!pr5:8 "]
+  replace: "Stay far away from her; Do not go near the entrance of her house,"
+
+- triggers: ["!proverbs5:9 ","!prov5:9 ","!pr5:9 "]
+  replace: "So that you may not give your dignity to others Nor reap years of what is cruel;"
+
+- triggers: ["!proverbs5:10 ","!prov5:10 ","!pr5:10 "]
+  replace: "So that strangers may not drain your resources And what you labored for go to the house of a foreigner."
+
+- triggers: ["!proverbs5:11 ","!prov5:11 ","!pr5:11 "]
+  replace: "Otherwise, you will groan at the end of your life When your flesh and body waste away"
+
+- triggers: ["!proverbs5:12 ","!prov5:12 ","!pr5:12 "]
+  replace: "And you say: “How I hated discipline! How my heart despised reproof!"
+
+- triggers: ["!proverbs5:13 ","!prov5:13 ","!pr5:13 "]
+  replace: "I did not listen to the voice of my instructors Or pay attention to my teachers."
+
+- triggers: ["!proverbs5:14 ","!prov5:14 ","!pr5:14 "]
+  replace: "I have come to the brink of complete ruin In the midst of the entire congregation.”"
+
+- triggers: ["!proverbs5:15 ","!prov5:15 ","!pr5:15 "]
+  replace: "Drink water from your own cistern And flowing water from your own well."
+
+- triggers: ["!proverbs5:16 ","!prov5:16 ","!pr5:16 "]
+  replace: "Should your springs be dispersed outside, Your streams of water in the public squares?"
+
+- triggers: ["!proverbs5:17 ","!prov5:17 ","!pr5:17 "]
+  replace: "Let them be for you alone, And not for strangers with you."
+
+- triggers: ["!proverbs5:18 ","!prov5:18 ","!pr5:18 "]
+  replace: "May your own fountain be blessed, And may you rejoice with the wife of your youth,"
+
+- triggers: ["!proverbs5:19 ","!prov5:19 ","!pr5:19 "]
+  replace: "A loving doe, a graceful mountain goat. Let her breasts satisfy you at all times. May you be captivated by her love constantly."
+
+- triggers: ["!proverbs5:20 ","!prov5:20 ","!pr5:20 "]
+  replace: "So why, my son, should you be captivated by a wayward woman Or embrace the bosom of an immoral woman?"
+
+- triggers: ["!proverbs5:21 ","!prov5:21 ","!pr5:21 "]
+  replace: "For the ways of man are before the eyes of Jehovah; He examines all his paths."
+
+- triggers: ["!proverbs5:22 ","!prov5:22 ","!pr5:22 "]
+  replace: "The wicked one is ensnared by his own errors, And he will be caught in the ropes of his own sin."
+
+- triggers: ["!proverbs5:23 ","!prov5:23 ","!pr5:23 "]
+  replace: "He will die for lack of discipline And go astray because of his excessive foolishness."
+
+- triggers: ["!proverbs6:1 ","!prov6:1 ","!pr6:1 "]
+  replace: "My son, if you have put up security for your neighbor, If you have given your handshake to a stranger,"
+
+- triggers: ["!proverbs6:2 ","!prov6:2 ","!pr6:2 "]
+  replace: "If you have been ensnared by your promise, Caught by the words of your mouth,"
+
+- triggers: ["!proverbs6:3 ","!prov6:3 ","!pr6:3 "]
+  replace: "Do this, my son, and free yourself, For you have fallen into the hand of your neighbor: Go and humble yourself and urgently plead with your neighbor."
+
+- triggers: ["!proverbs6:4 ","!prov6:4 ","!pr6:4 "]
+  replace: "Do not allow your eyes to sleep, Nor your eyelids to slumber."
+
+- triggers: ["!proverbs6:5 ","!prov6:5 ","!pr6:5 "]
+  replace: "Free yourself like a gazelle from the hunter’s hand, Like a bird from the hand of the birdcatcher."
+
+- triggers: ["!proverbs6:6 ","!prov6:6 ","!pr6:6 "]
+  replace: "Go to the ant, you lazy one; Observe its ways and become wise."
+
+- triggers: ["!proverbs6:7 ","!prov6:7 ","!pr6:7 "]
+  replace: "Although it has no commander, officer, or ruler,"
+
+- triggers: ["!proverbs6:8 ","!prov6:8 ","!pr6:8 "]
+  replace: "It prepares its food in the summer, And it gathers its food supplies in the harvest."
+
+- triggers: ["!proverbs6:9 ","!prov6:9 ","!pr6:9 "]
+  replace: "How long, you lazy one, will you lie there? When will you rise up from your sleep?"
+
+- triggers: ["!proverbs6:10 ","!prov6:10 ","!pr6:10 "]
+  replace: "A little sleep, a little slumbering, A little folding of the hands to rest,"
+
+- triggers: ["!proverbs6:11 ","!prov6:11 ","!pr6:11 "]
+  replace: "And your poverty will come like a bandit, And your want like an armed man."
+
+- triggers: ["!proverbs6:12 ","!prov6:12 ","!pr6:12 "]
+  replace: "A useless and wicked man walks about with crooked speech;"
+
+- triggers: ["!proverbs6:13 ","!prov6:13 ","!pr6:13 "]
+  replace: "He winks with his eye, signals with his foot, and motions with his fingers."
+
+- triggers: ["!proverbs6:14 ","!prov6:14 ","!pr6:14 "]
+  replace: "With a perverted heart, He is always scheming evil and spreading contentions."
+
+- triggers: ["!proverbs6:15 ","!prov6:15 ","!pr6:15 "]
+  replace: "Therefore, his disaster will come suddenly; In a moment he will be broken beyond healing."
+
+- triggers: ["!proverbs6:16 ","!prov6:16 ","!pr6:16 "]
+  replace: "There are six things that Jehovah hates; Yes, seven things that he detests:"
+
+- triggers: ["!proverbs6:17 ","!prov6:17 ","!pr6:17 "]
+  replace: "Haughty eyes, a lying tongue, and hands that shed innocent blood,"
+
+- triggers: ["!proverbs6:18 ","!prov6:18 ","!pr6:18 "]
+  replace: "A heart plotting wicked schemes, and feet that run quickly to evil,"
+
+- triggers: ["!proverbs6:19 ","!prov6:19 ","!pr6:19 "]
+  replace: "A false witness who lies with every breath, And anyone sowing contentions among brothers."
+
+- triggers: ["!proverbs6:20 ","!prov6:20 ","!pr6:20 "]
+  replace: "Observe, my son, the commandment of your father, And do not forsake the instruction of your mother."
+
+- triggers: ["!proverbs6:21 ","!prov6:21 ","!pr6:21 "]
+  replace: "Always bind them around your heart; Tie them about your neck."
+
+- triggers: ["!proverbs6:22 ","!prov6:22 ","!pr6:22 "]
+  replace: "When you walk about, it will lead you; When you lie down, it will stand guard over you; And when you awaken, it will speak to you."
+
+- triggers: ["!proverbs6:23 ","!prov6:23 ","!pr6:23 "]
+  replace: "For the commandment is a lamp, And the law is a light, And the reproofs of discipline are the way to life."
+
+- triggers: ["!proverbs6:24 ","!prov6:24 ","!pr6:24 "]
+  replace: "They will guard you against the bad woman, Against the seductive tongue of the immoral woman."
+
+- triggers: ["!proverbs6:25 ","!prov6:25 ","!pr6:25 "]
+  replace: "Do not desire her beauty in your heart Or allow her to captivate you with her alluring eyes,"
+
+- triggers: ["!proverbs6:26 ","!prov6:26 ","!pr6:26 "]
+  replace: "For because of a prostitute, a man is reduced to a loaf of bread, But the wife of another man preys on a precious life."
+
+- triggers: ["!proverbs6:27 ","!prov6:27 ","!pr6:27 "]
+  replace: "Can a man rake fire to his chest and not burn his garments?"
+
+- triggers: ["!proverbs6:28 ","!prov6:28 ","!pr6:28 "]
+  replace: "Or can a man walk on hot coals without scorching his feet?"
+
+- triggers: ["!proverbs6:29 ","!prov6:29 ","!pr6:29 "]
+  replace: "It is the same with anyone having relations with his neighbor’s wife; No one who touches her will go unpunished."
+
+- triggers: ["!proverbs6:30 ","!prov6:30 ","!pr6:30 "]
+  replace: "People do not despise a thief If he steals to satisfy himself when he is hungry."
+
+- triggers: ["!proverbs6:31 ","!prov6:31 ","!pr6:31 "]
+  replace: "Yet, when found, he will repay sevenfold; He will give up all the valuables of his house."
+
+- triggers: ["!proverbs6:32 ","!prov6:32 ","!pr6:32 "]
+  replace: "Anyone committing adultery with a woman is lacking good sense; The one who does so brings ruin on himself."
+
+- triggers: ["!proverbs6:33 ","!prov6:33 ","!pr6:33 "]
+  replace: "He will get only wounds and dishonor, And his disgrace will not be wiped away."
+
+- triggers: ["!proverbs6:34 ","!prov6:34 ","!pr6:34 "]
+  replace: "For jealousy makes a husband furious; He will show no compassion when he takes revenge."
+
+- triggers: ["!proverbs6:35 ","!prov6:35 ","!pr6:35 "]
+  replace: "He will accept no compensation; He will not be appeased, no matter how large you make the gift."
+
+- triggers: ["!proverbs7:1 ","!prov7:1 ","!pr7:1 "]
+  replace: "My son, keep my sayings, And treasure up my commandments."
+
+- triggers: ["!proverbs7:2 ","!prov7:2 ","!pr7:2 "]
+  replace: "Keep my commandments and live; Guard my instruction like the pupil of your eye."
+
+- triggers: ["!proverbs7:3 ","!prov7:3 ","!pr7:3 "]
+  replace: "Tie them around your fingers; Write them on the tablet of your heart."
+
+- triggers: ["!proverbs7:4 ","!prov7:4 ","!pr7:4 "]
+  replace: "Say to wisdom, “You are my sister,” And call understanding “my relative,”"
+
+- triggers: ["!proverbs7:5 ","!prov7:5 ","!pr7:5 "]
+  replace: "To guard you against the wayward woman, Against the immoral woman and her smooth words."
+
+- triggers: ["!proverbs7:6 ","!prov7:6 ","!pr7:6 "]
+  replace: "From the window of my house, Through my lattice, I looked down,"
+
+- triggers: ["!proverbs7:7 ","!prov7:7 ","!pr7:7 "]
+  replace: "And as I observed the naive ones, I discerned among the youths a young man lacking good sense."
+
+- triggers: ["!proverbs7:8 ","!prov7:8 ","!pr7:8 "]
+  replace: "He passed along the street near her corner, And he marched in the direction of her house"
+
+- triggers: ["!proverbs7:9 ","!prov7:9 ","!pr7:9 "]
+  replace: "In the twilight, in the evening, At the approach of night and darkness."
+
+- triggers: ["!proverbs7:10 ","!prov7:10 ","!pr7:10 "]
+  replace: "Then I saw a woman meet him, Dressed like a prostitute, with a cunning heart."
+
+- triggers: ["!proverbs7:11 ","!prov7:11 ","!pr7:11 "]
+  replace: "She is loud and defiant. She never stays at home."
+
+- triggers: ["!proverbs7:12 ","!prov7:12 ","!pr7:12 "]
+  replace: "One moment she is outside, next she is in the public squares, She lurks near every corner."
+
+- triggers: ["!proverbs7:13 ","!prov7:13 ","!pr7:13 "]
+  replace: "She grabs hold of him and gives him a kiss; With a bold face, she says to him:"
+
+- triggers: ["!proverbs7:14 ","!prov7:14 ","!pr7:14 "]
+  replace: "“I had to offer communion sacrifices. Today I paid my vows."
+
+- triggers: ["!proverbs7:15 ","!prov7:15 ","!pr7:15 "]
+  replace: "That is why I came out to meet you, To look for you, and I found you!"
+
+- triggers: ["!proverbs7:16 ","!prov7:16 ","!pr7:16 "]
+  replace: "I have spread fine covers upon my bed, Colorful linen from Egypt."
+
+- triggers: ["!proverbs7:17 ","!prov7:17 ","!pr7:17 "]
+  replace: "I have sprinkled my bed with myrrh, aloes, and cinnamon."
+
+- triggers: ["!proverbs7:18 ","!prov7:18 ","!pr7:18 "]
+  replace: "Come, let us drink our fill of love until the morning; Let us enjoy passionate love together,"
+
+- triggers: ["!proverbs7:19 ","!prov7:19 ","!pr7:19 "]
+  replace: "For my husband is not at home; He has gone on a distant journey."
+
+- triggers: ["!proverbs7:20 ","!prov7:20 ","!pr7:20 "]
+  replace: "He took a bag of money with him, And he will not return until the day of the full moon.”"
+
+- triggers: ["!proverbs7:21 ","!prov7:21 ","!pr7:21 "]
+  replace: "She misleads him with great persuasiveness. She seduces him with smooth speech."
+
+- triggers: ["!proverbs7:22 ","!prov7:22 ","!pr7:22 "]
+  replace: "Suddenly he goes after her, like a bull to the slaughter, Like a fool to be punished in the stocks,"
+
+- triggers: ["!proverbs7:23 ","!prov7:23 ","!pr7:23 "]
+  replace: "Until an arrow pierces his liver; Like a bird rushing into a trap, he does not know that it will cost him his life."
+
+- triggers: ["!proverbs7:24 ","!prov7:24 ","!pr7:24 "]
+  replace: "And now, my sons, listen to me; Pay attention to the words I speak."
+
+- triggers: ["!proverbs7:25 ","!prov7:25 ","!pr7:25 "]
+  replace: "Do not let your heart turn aside to her ways. Do not stray onto her paths,"
+
+- triggers: ["!proverbs7:26 ","!prov7:26 ","!pr7:26 "]
+  replace: "For she has caused many to fall down slain, And those she has killed are numerous."
+
+- triggers: ["!proverbs7:27 ","!prov7:27 ","!pr7:27 "]
+  replace: "Her house leads to the Grave; It goes down to the inner chambers of death."
+
+- triggers: ["!proverbs8:1 ","!prov8:1 ","!pr8:1 "]
+  replace: "Is not wisdom calling out? Is not discernment raising its voice?"
+
+- triggers: ["!proverbs8:2 ","!prov8:2 ","!pr8:2 "]
+  replace: "On the heights along the road, It takes its position at the crossroads."
+
+- triggers: ["!proverbs8:3 ","!prov8:3 ","!pr8:3 "]
+  replace: "Next to the gates leading into the city, At the entrances of the doorways, It keeps crying out loudly:"
+
+- triggers: ["!proverbs8:4 ","!prov8:4 ","!pr8:4 "]
+  replace: "“To you, O people, I am calling; I raise my voice to everyone."
+
+- triggers: ["!proverbs8:5 ","!prov8:5 ","!pr8:5 "]
+  replace: "You inexperienced ones, learn shrewdness; You stupid ones, acquire an understanding heart."
+
+- triggers: ["!proverbs8:6 ","!prov8:6 ","!pr8:6 "]
+  replace: "Listen, for what I say is important, My lips speak what is right;"
+
+- triggers: ["!proverbs8:7 ","!prov8:7 ","!pr8:7 "]
+  replace: "For my mouth softly utters truth, And my lips detest what is wicked."
+
+- triggers: ["!proverbs8:8 ","!prov8:8 ","!pr8:8 "]
+  replace: "All the sayings of my mouth are righteous. None of them are twisted or crooked."
+
+- triggers: ["!proverbs8:9 ","!prov8:9 ","!pr8:9 "]
+  replace: "They are all straightforward to the discerning And right to those who have found knowledge."
+
+- triggers: ["!proverbs8:10 ","!prov8:10 ","!pr8:10 "]
+  replace: "Take my discipline instead of silver, And knowledge rather than the finest gold,"
+
+- triggers: ["!proverbs8:11 ","!prov8:11 ","!pr8:11 "]
+  replace: "For wisdom is better than corals; All other desirable things cannot compare to it."
+
+- triggers: ["!proverbs8:12 ","!prov8:12 ","!pr8:12 "]
+  replace: "I, wisdom, dwell together with shrewdness; I have found knowledge and thinking ability."
+
+- triggers: ["!proverbs8:13 ","!prov8:13 ","!pr8:13 "]
+  replace: "The fear of Jehovah means the hating of bad. I hate self-exaltation and pride and the evil way and perverse speech."
+
+- triggers: ["!proverbs8:14 ","!prov8:14 ","!pr8:14 "]
+  replace: "I possess good advice and practical wisdom; Understanding and power are mine."
+
+- triggers: ["!proverbs8:15 ","!prov8:15 ","!pr8:15 "]
+  replace: "By me kings keep reigning, And high officials decree righteousness."
+
+- triggers: ["!proverbs8:16 ","!prov8:16 ","!pr8:16 "]
+  replace: "By me princes keep ruling, And nobles judge in righteousness."
+
+- triggers: ["!proverbs8:17 ","!prov8:17 ","!pr8:17 "]
+  replace: "I love those loving me, And those seeking me will find me."
+
+- triggers: ["!proverbs8:18 ","!prov8:18 ","!pr8:18 "]
+  replace: "Riches and glory are with me, Lasting wealth and righteousness."
+
+- triggers: ["!proverbs8:19 ","!prov8:19 ","!pr8:19 "]
+  replace: "My fruitage is better than gold, even refined gold, And what I produce is better than the finest silver."
+
+- triggers: ["!proverbs8:20 ","!prov8:20 ","!pr8:20 "]
+  replace: "I walk in the path of righteousness, In the middle of the pathways of justice;"
+
+- triggers: ["!proverbs8:21 ","!prov8:21 ","!pr8:21 "]
+  replace: "I give a rich inheritance to those who love me, And I fill up their storehouses."
+
+- triggers: ["!proverbs8:22 ","!prov8:22 ","!pr8:22 "]
+  replace: "Jehovah produced me as the beginning of his way, The earliest of his achievements of long ago."
+
+- triggers: ["!proverbs8:23 ","!prov8:23 ","!pr8:23 "]
+  replace: "From ancient times I was installed, From the start, from times earlier than the earth."
+
+- triggers: ["!proverbs8:24 ","!prov8:24 ","!pr8:24 "]
+  replace: "When there were no deep waters, I was brought forth, When there were no springs overflowing with water."
+
+- triggers: ["!proverbs8:25 ","!prov8:25 ","!pr8:25 "]
+  replace: "Before the mountains were set in place, Before the hills, I was brought forth,"
+
+- triggers: ["!proverbs8:26 ","!prov8:26 ","!pr8:26 "]
+  replace: "When he had not yet made the earth and its fields Or the first clods of earth’s soil."
+
+- triggers: ["!proverbs8:27 ","!prov8:27 ","!pr8:27 "]
+  replace: "When he prepared the heavens, I was there; When he marked out the horizon on the surface of the waters,"
+
+- triggers: ["!proverbs8:28 ","!prov8:28 ","!pr8:28 "]
+  replace: "When he established the clouds above, When he founded the fountains of the deep,"
+
+- triggers: ["!proverbs8:29 ","!prov8:29 ","!pr8:29 "]
+  replace: "When he set a decree for the sea That its waters should not pass beyond his order, When he established the foundations of the earth,"
+
+- triggers: ["!proverbs8:30 ","!prov8:30 ","!pr8:30 "]
+  replace: "Then I was beside him as a master worker. I was the one he was especially fond of day by day; I rejoiced before him all the time;"
+
+- triggers: ["!proverbs8:31 ","!prov8:31 ","!pr8:31 "]
+  replace: "I rejoiced over his habitable earth, And I was especially fond of the sons of men."
+
+- triggers: ["!proverbs8:32 ","!prov8:32 ","!pr8:32 "]
+  replace: "And now, my sons, listen to me; Yes, happy are those who keep my ways."
+
+- triggers: ["!proverbs8:33 ","!prov8:33 ","!pr8:33 "]
+  replace: "Listen to discipline and become wise, And never neglect it."
+
+- triggers: ["!proverbs8:34 ","!prov8:34 ","!pr8:34 "]
+  replace: "Happy is the man who listens to me By coming early to my doors day by day, By waiting next to my doorposts;"
+
+- triggers: ["!proverbs8:35 ","!prov8:35 ","!pr8:35 "]
+  replace: "For the one finding me will find life, And he receives approval from Jehovah."
+
+- triggers: ["!proverbs8:36 ","!prov8:36 ","!pr8:36 "]
+  replace: "But the one who ignores me harms himself, And those who hate me love death.”"
+
+- triggers: ["!proverbs9:1 ","!prov9:1 ","!pr9:1 "]
+  replace: "True wisdom has built its house; It has carved out its seven pillars."
+
+- triggers: ["!proverbs9:2 ","!prov9:2 ","!pr9:2 "]
+  replace: "It has fully prepared its meat; It has mixed its wine; It has also arranged its table."
+
+- triggers: ["!proverbs9:3 ","!prov9:3 ","!pr9:3 "]
+  replace: "It has sent out its female servants To call out from the heights above the city:"
+
+- triggers: ["!proverbs9:4 ","!prov9:4 ","!pr9:4 "]
+  replace: "“Whoever is inexperienced, let him come in here.” She says to the one lacking good sense:"
+
+- triggers: ["!proverbs9:5 ","!prov9:5 ","!pr9:5 "]
+  replace: "“Come, eat my bread And share in drinking the wine that I have mixed."
+
+- triggers: ["!proverbs9:6 ","!prov9:6 ","!pr9:6 "]
+  replace: "Leave behind your inexperience and live; Walk forward in the way of understanding.”"
+
+- triggers: ["!proverbs9:7 ","!prov9:7 ","!pr9:7 "]
+  replace: "The one who corrects a ridiculer invites dishonor, And whoever reproves someone wicked will get hurt."
+
+- triggers: ["!proverbs9:8 ","!prov9:8 ","!pr9:8 "]
+  replace: "Do not reprove a ridiculer, or he will hate you. Reprove a wise person, and he will love you."
+
+- triggers: ["!proverbs9:9 ","!prov9:9 ","!pr9:9 "]
+  replace: "Share with a wise person, and he will become wiser. Teach someone righteous, and he will add to his learning."
+
+- triggers: ["!proverbs9:10 ","!prov9:10 ","!pr9:10 "]
+  replace: "The fear of Jehovah is the beginning of wisdom, And knowledge of the Most Holy One is understanding."
+
+- triggers: ["!proverbs9:11 ","!prov9:11 ","!pr9:11 "]
+  replace: "For by me your days will be many, And years will be added to your life."
+
+- triggers: ["!proverbs9:12 ","!prov9:12 ","!pr9:12 "]
+  replace: "If you become wise, you are wise to your own advantage, But if you are a ridiculer, you alone will bear it."
+
+- triggers: ["!proverbs9:13 ","!prov9:13 ","!pr9:13 "]
+  replace: "A stupid woman is loud. She is ignorant and knows absolutely nothing."
+
+- triggers: ["!proverbs9:14 ","!prov9:14 ","!pr9:14 "]
+  replace: "She sits at the entrance of her house On a seat in the high places of the city,"
+
+- triggers: ["!proverbs9:15 ","!prov9:15 ","!pr9:15 "]
+  replace: "Calling out to those passing by, To those walking straight ahead on their way:"
+
+- triggers: ["!proverbs9:16 ","!prov9:16 ","!pr9:16 "]
+  replace: "“Whoever is inexperienced, let him come in here.” She says to those lacking good sense:"
+
+- triggers: ["!proverbs9:17 ","!prov9:17 ","!pr9:17 "]
+  replace: "“Stolen waters are sweet, And food eaten in secret is pleasant.”"
+
+- triggers: ["!proverbs9:18 ","!prov9:18 ","!pr9:18 "]
+  replace: "But he does not know that those powerless in death are there, That her guests are in the depths of the Grave."
+
+- triggers: ["!proverbs10:1 ","!prov10:1 ","!pr10:1 "]
+  replace: "Proverbs of Solʹomon. A wise son makes his father rejoice, But a foolish son is the grief of his mother."
+
+- triggers: ["!proverbs10:2 ","!prov10:2 ","!pr10:2 "]
+  replace: "The treasures gained by wickedness will be of no benefit, But righteousness is what rescues from death."
+
+- triggers: ["!proverbs10:3 ","!prov10:3 ","!pr10:3 "]
+  replace: "Jehovah will not cause the righteous one to go hungry, But he will deny the wicked what they crave."
+
+- triggers: ["!proverbs10:4 ","!prov10:4 ","!pr10:4 "]
+  replace: "Idle hands will cause poverty, But diligent hands bring riches."
+
+- triggers: ["!proverbs10:5 ","!prov10:5 ","!pr10:5 "]
+  replace: "The son acting with insight gathers the crop in summer, But the son acting shamefully is fast asleep during the harvest."
+
+- triggers: ["!proverbs10:6 ","!prov10:6 ","!pr10:6 "]
+  replace: "Blessings are on the head of the righteous one, But the mouth of the wicked conceals violence."
+
+- triggers: ["!proverbs10:7 ","!prov10:7 ","!pr10:7 "]
+  replace: "The memory of the righteous one is due for a blessing, But the name of the wicked will rot."
+
+- triggers: ["!proverbs10:8 ","!prov10:8 ","!pr10:8 "]
+  replace: "The wisehearted person will accept instructions, But the one speaking foolishly will be trodden down."
+
+- triggers: ["!proverbs10:9 ","!prov10:9 ","!pr10:9 "]
+  replace: "The one walking in integrity will walk in security, But the one making his ways crooked will be found out."
+
+- triggers: ["!proverbs10:10 ","!prov10:10 ","!pr10:10 "]
+  replace: "The one who slyly winks his eye causes grief, And the one who speaks foolishly will be trodden down."
+
+- triggers: ["!proverbs10:11 ","!prov10:11 ","!pr10:11 "]
+  replace: "The mouth of the righteous one is a source of life, But the mouth of the wicked conceals violence."
+
+- triggers: ["!proverbs10:12 ","!prov10:12 ","!pr10:12 "]
+  replace: "Hatred is what stirs up contentions, But love covers over all transgressions."
+
+- triggers: ["!proverbs10:13 ","!prov10:13 ","!pr10:13 "]
+  replace: "Wisdom is found on the lips of the discerning person, But the rod is for the back of one lacking good sense."
+
+- triggers: ["!proverbs10:14 ","!prov10:14 ","!pr10:14 "]
+  replace: "Those who are wise treasure up knowledge, But the mouth of the fool invites ruin."
+
+- triggers: ["!proverbs10:15 ","!prov10:15 ","!pr10:15 "]
+  replace: "The wealth of a rich man is his fortified city. The ruin of the poor is their poverty."
+
+- triggers: ["!proverbs10:16 ","!prov10:16 ","!pr10:16 "]
+  replace: "The activity of the righteous one leads to life; But the produce of the wicked one leads to sin."
+
+- triggers: ["!proverbs10:17 ","!prov10:17 ","!pr10:17 "]
+  replace: "The one who heeds discipline is a path to life, But the one who ignores reproof leads others astray."
+
+- triggers: ["!proverbs10:18 ","!prov10:18 ","!pr10:18 "]
+  replace: "The one who conceals his hatred speaks lies, And the one spreading malicious reports is stupid."
+
+- triggers: ["!proverbs10:19 ","!prov10:19 ","!pr10:19 "]
+  replace: "When words are many, transgression cannot be avoided, But whoever controls his lips acts discreetly."
+
+- triggers: ["!proverbs10:20 ","!prov10:20 ","!pr10:20 "]
+  replace: "The tongue of the righteous one is like the finest silver, But the heart of the wicked one is worth little."
+
+- triggers: ["!proverbs10:21 ","!prov10:21 ","!pr10:21 "]
+  replace: "The lips of the righteous one nourish many, But the foolish die for lack of sense."
+
+- triggers: ["!proverbs10:22 ","!prov10:22 ","!pr10:22 "]
+  replace: "It is the blessing of Jehovah that makes one rich, And He adds no pain with it."
+
+- triggers: ["!proverbs10:23 ","!prov10:23 ","!pr10:23 "]
+  replace: "Engaging in shameful conduct is like a game to the stupid one, But wisdom is for the man of discernment."
+
+- triggers: ["!proverbs10:24 ","!prov10:24 ","!pr10:24 "]
+  replace: "What the wicked one fears will come upon him; But the desire of the righteous will be granted."
+
+- triggers: ["!proverbs10:25 ","!prov10:25 ","!pr10:25 "]
+  replace: "When the storm passes by, the wicked one will be no more, But the righteous one is a foundation forever."
+
+- triggers: ["!proverbs10:26 ","!prov10:26 ","!pr10:26 "]
+  replace: "Like vinegar to the teeth and smoke to the eyes, So the lazy person is to the one who sends him."
+
+- triggers: ["!proverbs10:27 ","!prov10:27 ","!pr10:27 "]
+  replace: "The fear of Jehovah prolongs life, But the years of the wicked will be cut short."
+
+- triggers: ["!proverbs10:28 ","!prov10:28 ","!pr10:28 "]
+  replace: "The expectation of the righteous brings joy, But the hope of the wicked will perish."
+
+- triggers: ["!proverbs10:29 ","!prov10:29 ","!pr10:29 "]
+  replace: "The way of Jehovah is a stronghold for the blameless one, But it means ruin for evildoers."
+
+- triggers: ["!proverbs10:30 ","!prov10:30 ","!pr10:30 "]
+  replace: "The righteous one will never be made to fall, But the wicked will no longer inhabit the earth."
+
+- triggers: ["!proverbs10:31 ","!prov10:31 ","!pr10:31 "]
+  replace: "The mouth of the righteous one produces wisdom, But the perverse tongue will be cut off."
+
+- triggers: ["!proverbs10:32 ","!prov10:32 ","!pr10:32 "]
+  replace: "The lips of the righteous one know what is pleasing, But the mouth of the wicked is perverse."
+
+- triggers: ["!proverbs11:1 ","!prov11:1 ","!pr11:1 "]
+  replace: "Dishonest scales are detestable to Jehovah, But an accurate weight brings pleasure to him."
+
+- triggers: ["!proverbs11:2 ","!prov11:2 ","!pr11:2 "]
+  replace: "When presumptuousness comes, dishonor will follow, But wisdom is with the modest ones."
+
+- triggers: ["!proverbs11:3 ","!prov11:3 ","!pr11:3 "]
+  replace: "The integrity of the upright is what guides them, But the deviousness of the treacherous will destroy them."
+
+- triggers: ["!proverbs11:4 ","!prov11:4 ","!pr11:4 "]
+  replace: "Wealth will be of no benefit on the day of fury, But righteousness is what will rescue from death."
+
+- triggers: ["!proverbs11:5 ","!prov11:5 ","!pr11:5 "]
+  replace: "The righteousness of the blameless one makes his path straight, But the wicked one will fall because of his own wickedness."
+
+- triggers: ["!proverbs11:6 ","!prov11:6 ","!pr11:6 "]
+  replace: "The righteousness of the upright will rescue them, But the treacherous will be caught by their own desires."
+
+- triggers: ["!proverbs11:7 ","!prov11:7 ","!pr11:7 "]
+  replace: "When a wicked man dies, his hope perishes; And expectations based on his power also perish."
+
+- triggers: ["!proverbs11:8 ","!prov11:8 ","!pr11:8 "]
+  replace: "The righteous one is rescued from distress, And the wicked one takes his place."
+
+- triggers: ["!proverbs11:9 ","!prov11:9 ","!pr11:9 "]
+  replace: "By his mouth the apostate brings his neighbor to ruin, But by knowledge the righteous are rescued."
+
+- triggers: ["!proverbs11:10 ","!prov11:10 ","!pr11:10 "]
+  replace: "The goodness of the righteous makes a city rejoice, And when the wicked perish, there is a joyful cry."
+
+- triggers: ["!proverbs11:11 ","!prov11:11 ","!pr11:11 "]
+  replace: "Because of the blessing of the upright a city is exalted, But the mouth of the wicked tears it down."
+
+- triggers: ["!proverbs11:12 ","!prov11:12 ","!pr11:12 "]
+  replace: "Whoever is lacking good sense shows contempt for his neighbor, But the man of true discernment remains silent."
+
+- triggers: ["!proverbs11:13 ","!prov11:13 ","!pr11:13 "]
+  replace: "A slanderer goes about revealing confidential talk, But the trustworthy person keeps a confidence."
+
+- triggers: ["!proverbs11:14 ","!prov11:14 ","!pr11:14 "]
+  replace: "When there is no skillful direction, the people fall, But there is success through many advisers."
+
+- triggers: ["!proverbs11:15 ","!prov11:15 ","!pr11:15 "]
+  replace: "Whoever guarantees a loan for a stranger is sure to fare badly, But whoever avoids shaking hands in a pledge will be secure."
+
+- triggers: ["!proverbs11:16 ","!prov11:16 ","!pr11:16 "]
+  replace: "A gracious woman acquires glory, But ruthless men seize riches."
+
+- triggers: ["!proverbs11:17 ","!prov11:17 ","!pr11:17 "]
+  replace: "A kind man benefits himself, But the cruel person brings trouble on himself."
+
+- triggers: ["!proverbs11:18 ","!prov11:18 ","!pr11:18 "]
+  replace: "The wicked one earns deceptive wages, But the one who sows righteousness receives a true reward."
+
+- triggers: ["!proverbs11:19 ","!prov11:19 ","!pr11:19 "]
+  replace: "The one standing firmly for righteousness is in line for life, But the one chasing after evil is in line for death."
+
+- triggers: ["!proverbs11:20 ","!prov11:20 ","!pr11:20 "]
+  replace: "Those crooked at heart are detestable to Jehovah, But those whose way is blameless bring pleasure to him."
+
+- triggers: ["!proverbs11:21 ","!prov11:21 ","!pr11:21 "]
+  replace: "Be assured of this: An evil person will not go unpunished, But the children of the righteous will escape."
+
+- triggers: ["!proverbs11:22 ","!prov11:22 ","!pr11:22 "]
+  replace: "Like a gold ring in the snout of a pig Is a beautiful woman who rejects good sense."
+
+- triggers: ["!proverbs11:23 ","!prov11:23 ","!pr11:23 "]
+  replace: "The desire of the righteous leads to good, But what the wicked hope for leads to fury."
+
+- triggers: ["!proverbs11:24 ","!prov11:24 ","!pr11:24 "]
+  replace: "One gives generously and ends up with more; Another withholds what should be given, but he comes to poverty."
+
+- triggers: ["!proverbs11:25 ","!prov11:25 ","!pr11:25 "]
+  replace: "The generous person will prosper, And whoever refreshes others will himself be refreshed."
+
+- triggers: ["!proverbs11:26 ","!prov11:26 ","!pr11:26 "]
+  replace: "The people will curse the one who withholds grain, But they will bless the one who sells it."
+
+- triggers: ["!proverbs11:27 ","!prov11:27 ","!pr11:27 "]
+  replace: "The one who diligently seeks to do good seeks favor, But the one searching for bad—that is what will surely come upon him."
+
+- triggers: ["!proverbs11:28 ","!prov11:28 ","!pr11:28 "]
+  replace: "The one trusting in his riches will fall, But the righteous will flourish like the foliage."
+
+- triggers: ["!proverbs11:29 ","!prov11:29 ","!pr11:29 "]
+  replace: "Anyone who brings trouble on his household will inherit the wind, And the fool will be a servant to the wisehearted one."
+
+- triggers: ["!proverbs11:30 ","!prov11:30 ","!pr11:30 "]
+  replace: "The fruitage of the righteous one is a tree of life, And the one who wins souls is wise."
+
+- triggers: ["!proverbs11:31 ","!prov11:31 ","!pr11:31 "]
+  replace: "If, indeed, the righteous one on earth is rewarded, How much more the wicked one and the sinner!"
+
+- triggers: ["!proverbs12:1 ","!prov12:1 ","!pr12:1 "]
+  replace: "The one who loves discipline loves knowledge, But the one who hates reproof is unreasoning."
+
+- triggers: ["!proverbs12:2 ","!prov12:2 ","!pr12:2 "]
+  replace: "The good person obtains Jehovah’s approval, But He condemns the man of wicked schemes."
+
+- triggers: ["!proverbs12:3 ","!prov12:3 ","!pr12:3 "]
+  replace: "No man is made secure by wickedness, But the righteous will never be uprooted."
+
+- triggers: ["!proverbs12:4 ","!prov12:4 ","!pr12:4 "]
+  replace: "A capable wife is a crown to her husband, But the wife who acts shamefully is like rottenness in his bones."
+
+- triggers: ["!proverbs12:5 ","!prov12:5 ","!pr12:5 "]
+  replace: "The thoughts of the righteous are just, But the guidance of the wicked is deceptive."
+
+- triggers: ["!proverbs12:6 ","!prov12:6 ","!pr12:6 "]
+  replace: "The words of the wicked are a deadly ambush, But the mouth of the upright saves them."
+
+- triggers: ["!proverbs12:7 ","!prov12:7 ","!pr12:7 "]
+  replace: "When the wicked are overthrown, they are no more, But the house of the righteous will keep standing."
+
+- triggers: ["!proverbs12:8 ","!prov12:8 ","!pr12:8 "]
+  replace: "A man is praised for the discretion of his mouth, But one with a twisted heart will be treated with contempt."
+
+- triggers: ["!proverbs12:9 ","!prov12:9 ","!pr12:9 "]
+  replace: "Better to be lightly esteemed and have a servant Than to glorify oneself and have no food."
+
+- triggers: ["!proverbs12:10 ","!prov12:10 ","!pr12:10 "]
+  replace: "The righteous one takes care of his domestic animals, But even the mercy of the wicked is cruel."
+
+- triggers: ["!proverbs12:11 ","!prov12:11 ","!pr12:11 "]
+  replace: "The one who cultivates his land will be satisfied with food, But the one pursuing worthless things is lacking good sense."
+
+- triggers: ["!proverbs12:12 ","!prov12:12 ","!pr12:12 "]
+  replace: "The wicked man envies what other evil men have caught, But the root of the righteous bears fruit."
+
+- triggers: ["!proverbs12:13 ","!prov12:13 ","!pr12:13 "]
+  replace: "The evil man is ensnared by his own sinful speech, But the righteous one escapes from distress."
+
+- triggers: ["!proverbs12:14 ","!prov12:14 ","!pr12:14 "]
+  replace: "From the fruitage of his speech a man is satisfied with good, And the work of his hands will reward him."
+
+- triggers: ["!proverbs12:15 ","!prov12:15 ","!pr12:15 "]
+  replace: "The way of the fool is right in his own eyes, But the wise one accepts advice."
+
+- triggers: ["!proverbs12:16 ","!prov12:16 ","!pr12:16 "]
+  replace: "A fool immediately shows his annoyance, But the shrewd man overlooks an insult."
+
+- triggers: ["!proverbs12:17 ","!prov12:17 ","!pr12:17 "]
+  replace: "The one who testifies faithfully will tell the truth, But a false witness speaks deceit."
+
+- triggers: ["!proverbs12:18 ","!prov12:18 ","!pr12:18 "]
+  replace: "Thoughtless speech is like the stabs of a sword, But the tongue of the wise is a healing."
+
+- triggers: ["!proverbs12:19 ","!prov12:19 ","!pr12:19 "]
+  replace: "Truthful lips will endure forever, But a lying tongue will last for only a moment."
+
+- triggers: ["!proverbs12:20 ","!prov12:20 ","!pr12:20 "]
+  replace: "Deceit is in the heart of those who plot mischief, But those who promote peace have joy."
+
+- triggers: ["!proverbs12:21 ","!prov12:21 ","!pr12:21 "]
+  replace: "No harm will befall the righteous one, But the wicked will have their fill of calamity."
+
+- triggers: ["!proverbs12:22 ","!prov12:22 ","!pr12:22 "]
+  replace: "Lying lips are detestable to Jehovah, But those acting faithfully bring pleasure to him."
+
+- triggers: ["!proverbs12:23 ","!prov12:23 ","!pr12:23 "]
+  replace: "A shrewd man conceals what he knows, But the heart of the fool blurts out his foolishness."
+
+- triggers: ["!proverbs12:24 ","!prov12:24 ","!pr12:24 "]
+  replace: "The hand of the diligent ones will rule, But idle hands will be put to forced labor."
+
+- triggers: ["!proverbs12:25 ","!prov12:25 ","!pr12:25 "]
+  replace: "Anxiety in a man’s heart weighs it down, But a good word cheers it up."
+
+- triggers: ["!proverbs12:26 ","!prov12:26 ","!pr12:26 "]
+  replace: "The righteous one searches out his pastures, But the course of the wicked leads them astray."
+
+- triggers: ["!proverbs12:27 ","!prov12:27 ","!pr12:27 "]
+  replace: "The lazy do not chase after the prey, But diligence is a man’s precious treasure."
+
+- triggers: ["!proverbs12:28 ","!prov12:28 ","!pr12:28 "]
+  replace: "The path of righteousness leads to life; Along its pathway there is no death."
+
+- triggers: ["!proverbs13:1 ","!prov13:1 ","!pr13:1 "]
+  replace: "A wise son accepts his father’s discipline, But the scoffer does not listen to a rebuke."
+
+- triggers: ["!proverbs13:2 ","!prov13:2 ","!pr13:2 "]
+  replace: "From the fruitage of his speech a man will eat what is good, But the very desire of the treacherous is for violence."
+
+- triggers: ["!proverbs13:3 ","!prov13:3 ","!pr13:3 "]
+  replace: "The one guarding his mouth protects his life, But the one opening his lips wide will come to ruin."
+
+- triggers: ["!proverbs13:4 ","!prov13:4 ","!pr13:4 "]
+  replace: "The lazy person has his cravings, yet he has nothing, But the diligent one will be fully satisfied."
+
+- triggers: ["!proverbs13:5 ","!prov13:5 ","!pr13:5 "]
+  replace: "The righteous one hates lies, But the actions of the wicked bring shame and disgrace."
+
+- triggers: ["!proverbs13:6 ","!prov13:6 ","!pr13:6 "]
+  replace: "Righteousness protects the one whose way is innocent, But wickedness brings down the sinner."
+
+- triggers: ["!proverbs13:7 ","!prov13:7 ","!pr13:7 "]
+  replace: "There is one who pretends to be rich, yet has nothing; There is another who pretends to be poor, yet has great wealth."
+
+- triggers: ["!proverbs13:8 ","!prov13:8 ","!pr13:8 "]
+  replace: "Riches are the ransom for a man’s life, But the poor are not even threatened."
+
+- triggers: ["!proverbs13:9 ","!prov13:9 ","!pr13:9 "]
+  replace: "The light of the righteous shines brightly, But the lamp of the wicked will be extinguished."
+
+- triggers: ["!proverbs13:10 ","!prov13:10 ","!pr13:10 "]
+  replace: "Presumptuousness leads only to strife, But wisdom belongs to those who seek advice."
+
+- triggers: ["!proverbs13:11 ","!prov13:11 ","!pr13:11 "]
+  replace: "Wealth quickly gained will dwindle, But the wealth of the one who gathers it little by little will increase."
+
+- triggers: ["!proverbs13:12 ","!prov13:12 ","!pr13:12 "]
+  replace: "Expectation postponed makes the heart sick, But a desire realized is a tree of life."
+
+- triggers: ["!proverbs13:13 ","!prov13:13 ","!pr13:13 "]
+  replace: "Whoever despises instruction will pay the penalty, But the one who respects the commandment will be rewarded."
+
+- triggers: ["!proverbs13:14 ","!prov13:14 ","!pr13:14 "]
+  replace: "The teaching of the wise one is a source of life To turn one away from the snares of death."
+
+- triggers: ["!proverbs13:15 ","!prov13:15 ","!pr13:15 "]
+  replace: "Keen insight wins favor, But the way of the treacherous is harsh."
+
+- triggers: ["!proverbs13:16 ","!prov13:16 ","!pr13:16 "]
+  replace: "The shrewd person acts with knowledge, But the fool exposes his own foolishness."
+
+- triggers: ["!proverbs13:17 ","!prov13:17 ","!pr13:17 "]
+  replace: "A wicked messenger falls into trouble, But a faithful envoy brings healing."
+
+- triggers: ["!proverbs13:18 ","!prov13:18 ","!pr13:18 "]
+  replace: "Whoever neglects discipline comes to poverty and disgrace, But the one accepting correction will be glorified."
+
+- triggers: ["!proverbs13:19 ","!prov13:19 ","!pr13:19 "]
+  replace: "Desire when realized is sweet to a person, But the stupid hate to turn away from bad."
+
+- triggers: ["!proverbs13:20 ","!prov13:20 ","!pr13:20 "]
+  replace: "The one walking with the wise will become wise, But the one who has dealings with the stupid will fare badly."
+
+- triggers: ["!proverbs13:21 ","!prov13:21 ","!pr13:21 "]
+  replace: "Calamity pursues sinners, But prosperity rewards the righteous."
+
+- triggers: ["!proverbs13:22 ","!prov13:22 ","!pr13:22 "]
+  replace: "The good person leaves an inheritance to his grandchildren, But the sinner’s wealth will be stored up for the righteous one."
+
+- triggers: ["!proverbs13:23 ","!prov13:23 ","!pr13:23 "]
+  replace: "The plowed field of the poor yields much food, But it may be swept away by injustice."
+
+- triggers: ["!proverbs13:24 ","!prov13:24 ","!pr13:24 "]
+  replace: "Whoever holds back his rod hates his son, But the one who loves him disciplines him diligently."
+
+- triggers: ["!proverbs13:25 ","!prov13:25 ","!pr13:25 "]
+  replace: "The righteous one eats and satisfies his appetite, But the stomach of the wicked is empty."
+
+- triggers: ["!proverbs14:1 ","!prov14:1 ","!pr14:1 "]
+  replace: "The truly wise woman builds up her house, But the foolish one tears it down with her own hands."
+
+- triggers: ["!proverbs14:2 ","!prov14:2 ","!pr14:2 "]
+  replace: "The one walking in his uprightness fears Jehovah, But the one whose ways are devious despises Him."
+
+- triggers: ["!proverbs14:3 ","!prov14:3 ","!pr14:3 "]
+  replace: "The rod of haughtiness is in the mouth of the fool, But the lips of the wise will protect them."
+
+- triggers: ["!proverbs14:4 ","!prov14:4 ","!pr14:4 "]
+  replace: "Where there are no cattle the manger is clean, But the power of a bull yields an abundant harvest."
+
+- triggers: ["!proverbs14:5 ","!prov14:5 ","!pr14:5 "]
+  replace: "A faithful witness will not lie, But a false witness lies with every breath."
+
+- triggers: ["!proverbs14:6 ","!prov14:6 ","!pr14:6 "]
+  replace: "The scoffer seeks wisdom and finds none, But knowledge comes easily to the person with understanding."
+
+- triggers: ["!proverbs14:7 ","!prov14:7 ","!pr14:7 "]
+  replace: "Stay away from the foolish man, For you will not find knowledge on his lips."
+
+- triggers: ["!proverbs14:8 ","!prov14:8 ","!pr14:8 "]
+  replace: "By wisdom the shrewd man understands the way he is going, But the stupid are deceived by their foolishness."
+
+- triggers: ["!proverbs14:9 ","!prov14:9 ","!pr14:9 "]
+  replace: "Fools make fun of guilt, But among the upright, there is a willingness to reconcile."
+
+- triggers: ["!proverbs14:10 ","!prov14:10 ","!pr14:10 "]
+  replace: "The heart knows its own bitterness, And no outsider can share in its joy."
+
+- triggers: ["!proverbs14:11 ","!prov14:11 ","!pr14:11 "]
+  replace: "The house of the wicked will be destroyed, But the tent of the upright will flourish."
+
+- triggers: ["!proverbs14:12 ","!prov14:12 ","!pr14:12 "]
+  replace: "There is a way that seems right to a man, But in the end it leads to death."
+
+- triggers: ["!proverbs14:13 ","!prov14:13 ","!pr14:13 "]
+  replace: "Even in laughter the heart may feel pain, And rejoicing may end in grief."
+
+- triggers: ["!proverbs14:14 ","!prov14:14 ","!pr14:14 "]
+  replace: "The one wayward at heart will reap the results of his ways, But the good man reaps the reward of his dealings."
+
+- triggers: ["!proverbs14:15 ","!prov14:15 ","!pr14:15 "]
+  replace: "The naive person believes every word, But the shrewd one ponders each step."
+
+- triggers: ["!proverbs14:16 ","!prov14:16 ","!pr14:16 "]
+  replace: "The wise one is cautious and turns away from evil, But the stupid one is reckless and overconfident."
+
+- triggers: ["!proverbs14:17 ","!prov14:17 ","!pr14:17 "]
+  replace: "The one who is quick to anger acts foolishly, But the man who thinks things out is hated."
+
+- triggers: ["!proverbs14:18 ","!prov14:18 ","!pr14:18 "]
+  replace: "The naive will inherit foolishness, But the shrewd are crowned with knowledge."
+
+- triggers: ["!proverbs14:19 ","!prov14:19 ","!pr14:19 "]
+  replace: "Bad people will have to bow down before the good, And the wicked will bow at the gates of the righteous."
+
+- triggers: ["!proverbs14:20 ","!prov14:20 ","!pr14:20 "]
+  replace: "The poor man is hated even by his neighbors, But many are the friends of the rich person."
+
+- triggers: ["!proverbs14:21 ","!prov14:21 ","!pr14:21 "]
+  replace: "The one who despises his neighbor sins, But whoever shows compassion to the lowly is happy."
+
+- triggers: ["!proverbs14:22 ","!prov14:22 ","!pr14:22 "]
+  replace: "Will not those who plot mischief go astray? But those intent on doing good will receive loyal love and faithfulness."
+
+- triggers: ["!proverbs14:23 ","!prov14:23 ","!pr14:23 "]
+  replace: "There is benefit in every kind of hard work, But mere talk leads to want."
+
+- triggers: ["!proverbs14:24 ","!prov14:24 ","!pr14:24 "]
+  replace: "The crown of the wise is their wealth; But the foolishness of the stupid is only foolishness."
+
+- triggers: ["!proverbs14:25 ","!prov14:25 ","!pr14:25 "]
+  replace: "A true witness saves lives, But a deceitful one lies with every breath."
+
+- triggers: ["!proverbs14:26 ","!prov14:26 ","!pr14:26 "]
+  replace: "There is strong confidence in the fear of Jehovah, And it will be a refuge for his children."
+
+- triggers: ["!proverbs14:27 ","!prov14:27 ","!pr14:27 "]
+  replace: "The fear of Jehovah is a fountain of life, To turn one away from the snares of death."
+
+- triggers: ["!proverbs14:28 ","!prov14:28 ","!pr14:28 "]
+  replace: "A multitude of people are a king’s majesty, But a ruler without subjects is ruined."
+
+- triggers: ["!proverbs14:29 ","!prov14:29 ","!pr14:29 "]
+  replace: "The one who is slow to anger has great discernment, But the impatient one displays his foolishness."
+
+- triggers: ["!proverbs14:30 ","!prov14:30 ","!pr14:30 "]
+  replace: "A calm heart gives life to the body, But jealousy is rottenness to the bones."
+
+- triggers: ["!proverbs14:31 ","!prov14:31 ","!pr14:31 "]
+  replace: "The one who defrauds the lowly one insults his Maker, But whoever shows compassion to the poor glorifies Him."
+
+- triggers: ["!proverbs14:32 ","!prov14:32 ","!pr14:32 "]
+  replace: "The wicked one will be brought down by his own evil, But the righteous one will find refuge in his integrity."
+
+- triggers: ["!proverbs14:33 ","!prov14:33 ","!pr14:33 "]
+  replace: "Wisdom rests quietly in the heart of an understanding person, But among the stupid it must make itself known."
+
+- triggers: ["!proverbs14:34 ","!prov14:34 ","!pr14:34 "]
+  replace: "Righteousness exalts a nation, But sin is disgraceful to a people."
+
+- triggers: ["!proverbs14:35 ","!prov14:35 ","!pr14:35 "]
+  replace: "The king finds pleasure in a servant who acts with insight, But his fury is against the one who acts shamefully."
+
+- triggers: ["!proverbs15:1 ","!prov15:1 ","!pr15:1 "]
+  replace: "A mild answer turns away rage, But a harsh word stirs up anger."
+
+- triggers: ["!proverbs15:2 ","!prov15:2 ","!pr15:2 "]
+  replace: "The tongue of the wise makes good use of knowledge, But the mouth of the stupid blurts out foolishness."
+
+- triggers: ["!proverbs15:3 ","!prov15:3 ","!pr15:3 "]
+  replace: "The eyes of Jehovah are everywhere, Watching both the bad and the good."
+
+- triggers: ["!proverbs15:4 ","!prov15:4 ","!pr15:4 "]
+  replace: "A calm tongue is a tree of life, But twisted speech causes despair."
+
+- triggers: ["!proverbs15:5 ","!prov15:5 ","!pr15:5 "]
+  replace: "A fool disrespects his father’s discipline, But a shrewd person accepts correction."
+
+- triggers: ["!proverbs15:6 ","!prov15:6 ","!pr15:6 "]
+  replace: "In the house of the righteous one there is abundant treasure, But the produce of the wicked one brings him trouble."
+
+- triggers: ["!proverbs15:7 ","!prov15:7 ","!pr15:7 "]
+  replace: "The lips of the wise spread knowledge, But not so the heart of the stupid one."
+
+- triggers: ["!proverbs15:8 ","!prov15:8 ","!pr15:8 "]
+  replace: "The sacrifice of the wicked is detestable to Jehovah, But the prayer of the upright is a pleasure to Him."
+
+- triggers: ["!proverbs15:9 ","!prov15:9 ","!pr15:9 "]
+  replace: "Jehovah detests the way of the wicked one, But he loves the one who pursues righteousness."
+
+- triggers: ["!proverbs15:10 ","!prov15:10 ","!pr15:10 "]
+  replace: "Discipline seems bad to one forsaking the way, But whoever hates reproof will die."
+
+- triggers: ["!proverbs15:11 ","!prov15:11 ","!pr15:11 "]
+  replace: "The Grave and the place of destruction are in full view of Jehovah. How much more so the hearts of men!"
+
+- triggers: ["!proverbs15:12 ","!prov15:12 ","!pr15:12 "]
+  replace: "The scoffer does not love the one correcting him. He will not consult the wise."
+
+- triggers: ["!proverbs15:13 ","!prov15:13 ","!pr15:13 "]
+  replace: "A joyful heart makes for a cheerful countenance, But heartache crushes the spirit."
+
+- triggers: ["!proverbs15:14 ","!prov15:14 ","!pr15:14 "]
+  replace: "The understanding heart seeks knowledge, But the mouth of the stupid feeds on foolishness."
+
+- triggers: ["!proverbs15:15 ","!prov15:15 ","!pr15:15 "]
+  replace: "All the days of the afflicted one are bad, But the one with a cheerful heart has a continual feast."
+
+- triggers: ["!proverbs15:16 ","!prov15:16 ","!pr15:16 "]
+  replace: "Better is a little in the fear of Jehovah Than great wealth along with anxiety."
+
+- triggers: ["!proverbs15:17 ","!prov15:17 ","!pr15:17 "]
+  replace: "Better is a dish of vegetables where there is love Than a fattened bull where there is hatred."
+
+- triggers: ["!proverbs15:18 ","!prov15:18 ","!pr15:18 "]
+  replace: "A hot-tempered man stirs up strife, But one who is slow to anger calms a quarrel."
+
+- triggers: ["!proverbs15:19 ","!prov15:19 ","!pr15:19 "]
+  replace: "The way of the lazy one is like a hedge of thorns, But the path of the upright is like a level highway."
+
+- triggers: ["!proverbs15:20 ","!prov15:20 ","!pr15:20 "]
+  replace: "A wise son makes his father rejoice, But a stupid man despises his mother."
+
+- triggers: ["!proverbs15:21 ","!prov15:21 ","!pr15:21 "]
+  replace: "Foolishness is a joy to one lacking good sense, But the man of discernment walks straight ahead."
+
+- triggers: ["!proverbs15:22 ","!prov15:22 ","!pr15:22 "]
+  replace: "Plans fail when there is no consultation, But there is accomplishment through many advisers."
+
+- triggers: ["!proverbs15:23 ","!prov15:23 ","!pr15:23 "]
+  replace: "A man rejoices in giving the right answer, And a word spoken at the right time—how good it is!"
+
+- triggers: ["!proverbs15:24 ","!prov15:24 ","!pr15:24 "]
+  replace: "The path of life leads upward to one with insight, To turn him away from the Grave below."
+
+- triggers: ["!proverbs15:25 ","!prov15:25 ","!pr15:25 "]
+  replace: "Jehovah will tear down the house of the haughty, But he will preserve the boundary of the widow."
+
+- triggers: ["!proverbs15:26 ","!prov15:26 ","!pr15:26 "]
+  replace: "Jehovah detests the schemes of the wicked one, But pleasant sayings are pure to Him."
+
+- triggers: ["!proverbs15:27 ","!prov15:27 ","!pr15:27 "]
+  replace: "The one making dishonest profit brings trouble on his own household, But the one hating bribes will keep living."
+
+- triggers: ["!proverbs15:28 ","!prov15:28 ","!pr15:28 "]
+  replace: "The heart of the righteous one meditates before answering, But the mouth of the wicked blurts out bad things."
+
+- triggers: ["!proverbs15:29 ","!prov15:29 ","!pr15:29 "]
+  replace: "Jehovah is far away from the wicked, But he hears the prayer of the righteous."
+
+- triggers: ["!proverbs15:30 ","!prov15:30 ","!pr15:30 "]
+  replace: "Bright eyes make the heart rejoice; A good report invigorates the bones."
+
+- triggers: ["!proverbs15:31 ","!prov15:31 ","!pr15:31 "]
+  replace: "The one who listens to life-giving reproof Is at home among the wise."
+
+- triggers: ["!proverbs15:32 ","!prov15:32 ","!pr15:32 "]
+  replace: "Anyone refusing discipline despises his life, But whoever listens to reproof acquires understanding."
+
+- triggers: ["!proverbs15:33 ","!prov15:33 ","!pr15:33 "]
+  replace: "The fear of Jehovah is a training in wisdom, And before glory there is humility."
+
+- triggers: ["!proverbs16:1 ","!prov16:1 ","!pr16:1 "]
+  replace: "A man prepares the thoughts of his heart, But the answer he gives is from Jehovah."
+
+- triggers: ["!proverbs16:2 ","!prov16:2 ","!pr16:2 "]
+  replace: "All of a man’s ways seem right to him, But Jehovah examines the motives."
+
+- triggers: ["!proverbs16:3 ","!prov16:3 ","!pr16:3 "]
+  replace: "Commit to Jehovah whatever you do, And your plans will succeed."
+
+- triggers: ["!proverbs16:4 ","!prov16:4 ","!pr16:4 "]
+  replace: "Jehovah has made everything work for his purpose, Even the wicked for the day of disaster."
+
+- triggers: ["!proverbs16:5 ","!prov16:5 ","!pr16:5 "]
+  replace: "Everyone proud in heart is detestable to Jehovah. Be assured that he will not go unpunished."
+
+- triggers: ["!proverbs16:6 ","!prov16:6 ","!pr16:6 "]
+  replace: "By loyal love and faithfulness, error is atoned for, And by fearing Jehovah one turns away from bad."
+
+- triggers: ["!proverbs16:7 ","!prov16:7 ","!pr16:7 "]
+  replace: "When Jehovah is pleased with a man’s ways, He causes even his enemies to be at peace with him."
+
+- triggers: ["!proverbs16:8 ","!prov16:8 ","!pr16:8 "]
+  replace: "Better is a little with righteousness Than a large income without justice."
+
+- triggers: ["!proverbs16:9 ","!prov16:9 ","!pr16:9 "]
+  replace: "A man may plot out his course in his heart, But it is Jehovah who directs his steps."
+
+- triggers: ["!proverbs16:10 ","!prov16:10 ","!pr16:10 "]
+  replace: "Inspired decision should be on the lips of a king; He must never betray justice."
+
+- triggers: ["!proverbs16:11 ","!prov16:11 ","!pr16:11 "]
+  replace: "Honest balances and scales are from Jehovah; All the weights in the bag are his doing."
+
+- triggers: ["!proverbs16:12 ","!prov16:12 ","!pr16:12 "]
+  replace: "Wicked practices are detestable to kings, For the throne is firmly established by righteousness."
+
+- triggers: ["!proverbs16:13 ","!prov16:13 ","!pr16:13 "]
+  replace: "Righteous speech is a pleasure to kings. They love someone who speaks honestly."
+
+- triggers: ["!proverbs16:14 ","!prov16:14 ","!pr16:14 "]
+  replace: "The king’s rage is like a messenger of death, But the wise man appeases it."
+
+- triggers: ["!proverbs16:15 ","!prov16:15 ","!pr16:15 "]
+  replace: "In the light of the king’s face there is life; His favor is like a cloud of rain in spring."
+
+- triggers: ["!proverbs16:16 ","!prov16:16 ","!pr16:16 "]
+  replace: "How much better to acquire wisdom than gold! To gain understanding is to be chosen over silver."
+
+- triggers: ["!proverbs16:17 ","!prov16:17 ","!pr16:17 "]
+  replace: "The highway of the upright avoids what is bad. Whoever safeguards his way preserves his life."
+
+- triggers: ["!proverbs16:18 ","!prov16:18 ","!pr16:18 "]
+  replace: "Pride is before a crash, And a haughty spirit before stumbling."
+
+- triggers: ["!proverbs16:19 ","!prov16:19 ","!pr16:19 "]
+  replace: "Better to be humble among the meek Than to share the spoil of the haughty."
+
+- triggers: ["!proverbs16:20 ","!prov16:20 ","!pr16:20 "]
+  replace: "The one who shows insight in a matter will find success, And happy is the one trusting in Jehovah."
+
+- triggers: ["!proverbs16:21 ","!prov16:21 ","!pr16:21 "]
+  replace: "The wise in heart will be called understanding, And the one kind in speech adds persuasiveness."
+
+- triggers: ["!proverbs16:22 ","!prov16:22 ","!pr16:22 "]
+  replace: "Insight is a fountain of life to those possessing it, But fools are disciplined by their own foolishness."
+
+- triggers: ["!proverbs16:23 ","!prov16:23 ","!pr16:23 "]
+  replace: "The heart of the wise one gives his mouth insight And adds persuasiveness to his speech."
+
+- triggers: ["!proverbs16:24 ","!prov16:24 ","!pr16:24 "]
+  replace: "Pleasant sayings are a honeycomb, Sweet to the soul and a healing to the bones."
+
+- triggers: ["!proverbs16:25 ","!prov16:25 ","!pr16:25 "]
+  replace: "There is a way that seems right to a man, But in the end it leads to death."
+
+- triggers: ["!proverbs16:26 ","!prov16:26 ","!pr16:26 "]
+  replace: "The appetite of a laborer makes him work hard For his hunger urges him on."
+
+- triggers: ["!proverbs16:27 ","!prov16:27 ","!pr16:27 "]
+  replace: "A worthless man digs up what is bad; His speech is like a scorching fire."
+
+- triggers: ["!proverbs16:28 ","!prov16:28 ","!pr16:28 "]
+  replace: "A troublemaker causes dissension, And a slanderer separates close friends."
+
+- triggers: ["!proverbs16:29 ","!prov16:29 ","!pr16:29 "]
+  replace: "A violent man entices his neighbor And leads him in the wrong way."
+
+- triggers: ["!proverbs16:30 ","!prov16:30 ","!pr16:30 "]
+  replace: "He winks his eye as he schemes harm. He pinches his lips together as he carries out mischief."
+
+- triggers: ["!proverbs16:31 ","!prov16:31 ","!pr16:31 "]
+  replace: "Gray hair is a crown of beauty When it is found in the way of righteousness."
+
+- triggers: ["!proverbs16:32 ","!prov16:32 ","!pr16:32 "]
+  replace: "The one slow to anger is better than a mighty man, And the one controlling his temper than one conquering a city."
+
+- triggers: ["!proverbs16:33 ","!prov16:33 ","!pr16:33 "]
+  replace: "The lot is cast into the lap, But every decision by it is from Jehovah."
+
+- triggers: ["!proverbs17:1 ","!prov17:1 ","!pr17:1 "]
+  replace: "Better is a piece of dry bread where there is peace Than a house full of feasting along with quarreling."
+
+- triggers: ["!proverbs17:2 ","!prov17:2 ","!pr17:2 "]
+  replace: "A servant with insight will rule over a son who acts shamefully; He will share in the inheritance as one of the brothers."
+
+- triggers: ["!proverbs17:3 ","!prov17:3 ","!pr17:3 "]
+  replace: "The refining pot is for silver and the furnace for gold, But Jehovah is the examiner of hearts."
+
+- triggers: ["!proverbs17:4 ","!prov17:4 ","!pr17:4 "]
+  replace: "A wicked man pays attention to hurtful speech, And a deceptive man listens to a malicious tongue."
+
+- triggers: ["!proverbs17:5 ","!prov17:5 ","!pr17:5 "]
+  replace: "Whoever mocks the poor insults his Maker, And whoever rejoices over another’s disaster will not go unpunished."
+
+- triggers: ["!proverbs17:6 ","!prov17:6 ","!pr17:6 "]
+  replace: "Grandsons are a crown to the aged, And fathers are the glory of their sons."
+
+- triggers: ["!proverbs17:7 ","!prov17:7 ","!pr17:7 "]
+  replace: "Upright speech does not befit a fool. How much less does false speech befit a ruler!"
+
+- triggers: ["!proverbs17:8 ","!prov17:8 ","!pr17:8 "]
+  replace: "A gift is like a precious stone to its owner; Everywhere he turns, it brings him success."
+
+- triggers: ["!proverbs17:9 ","!prov17:9 ","!pr17:9 "]
+  replace: "Whoever forgives a transgression seeks love, But the one who keeps harping on a matter separates close friends."
+
+- triggers: ["!proverbs17:10 ","!prov17:10 ","!pr17:10 "]
+  replace: "A rebuke makes a deeper impression on one having understanding Than striking a stupid person a hundred times."
+
+- triggers: ["!proverbs17:11 ","!prov17:11 ","!pr17:11 "]
+  replace: "A bad man seeks only rebellion, But a cruel messenger will be sent to punish him."
+
+- triggers: ["!proverbs17:12 ","!prov17:12 ","!pr17:12 "]
+  replace: "Better to meet a bear bereaved of her cubs Than to encounter someone stupid in his foolishness."
+
+- triggers: ["!proverbs17:13 ","!prov17:13 ","!pr17:13 "]
+  replace: "If anyone repays bad for good, Bad will not depart from his house."
+
+- triggers: ["!proverbs17:14 ","!prov17:14 ","!pr17:14 "]
+  replace: "Beginning a fight is like opening a floodgate; Before the quarrel breaks out, take your leave."
+
+- triggers: ["!proverbs17:15 ","!prov17:15 ","!pr17:15 "]
+  replace: "Anyone who acquits the wicked one and anyone who condemns the righteous one —Both of them are detestable to Jehovah."
+
+- triggers: ["!proverbs17:16 ","!prov17:16 ","!pr17:16 "]
+  replace: "What good is it that the stupid one has the means to acquire wisdom When he has no heart for acquiring it?"
+
+- triggers: ["!proverbs17:17 ","!prov17:17 ","!pr17:17 "]
+  replace: "A true friend shows love at all times And is a brother who is born for times of distress."
+
+- triggers: ["!proverbs17:18 ","!prov17:18 ","!pr17:18 "]
+  replace: "A man lacking good sense shakes hands and agrees To put up security in the presence of his neighbor."
+
+- triggers: ["!proverbs17:19 ","!prov17:19 ","!pr17:19 "]
+  replace: "The one who loves conflict loves transgression. Anyone who makes his entryway high invites a crash."
+
+- triggers: ["!proverbs17:20 ","!prov17:20 ","!pr17:20 "]
+  replace: "The one who is crooked at heart will not find success, And the one who speaks deceitfully will fall into ruin."
+
+- triggers: ["!proverbs17:21 ","!prov17:21 ","!pr17:21 "]
+  replace: "The one who fathers a stupid child will experience grief; And the father of a senseless child has no joy."
+
+- triggers: ["!proverbs17:22 ","!prov17:22 ","!pr17:22 "]
+  replace: "A joyful heart is good medicine, But a crushed spirit saps one’s strength."
+
+- triggers: ["!proverbs17:23 ","!prov17:23 ","!pr17:23 "]
+  replace: "A wicked man will take a bribe in secret To pervert the course of justice."
+
+- triggers: ["!proverbs17:24 ","!prov17:24 ","!pr17:24 "]
+  replace: "Wisdom is directly in front of the discerning person, But the eyes of the stupid wander to the ends of the earth."
+
+- triggers: ["!proverbs17:25 ","!prov17:25 ","!pr17:25 "]
+  replace: "A stupid son brings grief to his father And heartache to the one who gave birth to him."
+
+- triggers: ["!proverbs17:26 ","!prov17:26 ","!pr17:26 "]
+  replace: "To punish the righteous one is not good, And to flog honorable people goes against what is right."
+
+- triggers: ["!proverbs17:27 ","!prov17:27 ","!pr17:27 "]
+  replace: "A man of knowledge restrains his words, And a discerning man will remain calm."
+
+- triggers: ["!proverbs17:28 ","!prov17:28 ","!pr17:28 "]
+  replace: "Even a fool who keeps silent will be considered wise, And the one who seals his lips, discerning."
+
+- triggers: ["!proverbs18:1 ","!prov18:1 ","!pr18:1 "]
+  replace: "Whoever isolates himself pursues his own selfish desires; He rejects all practical wisdom."
+
+- triggers: ["!proverbs18:2 ","!prov18:2 ","!pr18:2 "]
+  replace: "A stupid person takes no pleasure in understanding; He would rather disclose what is in his heart."
+
+- triggers: ["!proverbs18:3 ","!prov18:3 ","!pr18:3 "]
+  replace: "When a wicked person comes, contempt also comes, And along with dishonor there is disgrace."
+
+- triggers: ["!proverbs18:4 ","!prov18:4 ","!pr18:4 "]
+  replace: "The words of a man’s mouth are deep waters. The fountain of wisdom is a bubbling brook."
+
+- triggers: ["!proverbs18:5 ","!prov18:5 ","!pr18:5 "]
+  replace: "It is not good to show partiality to the wicked one Or to deprive the righteous one of justice."
+
+- triggers: ["!proverbs18:6 ","!prov18:6 ","!pr18:6 "]
+  replace: "The speech of the stupid one leads to quarrels, And his mouth invites a beating."
+
+- triggers: ["!proverbs18:7 ","!prov18:7 ","!pr18:7 "]
+  replace: "The mouth of the stupid is his ruin, And his lips are a snare for his life."
+
+- triggers: ["!proverbs18:8 ","!prov18:8 ","!pr18:8 "]
+  replace: "The words of a slanderer are like tasty morsels; They are gulped right down into the stomach."
+
+- triggers: ["!proverbs18:9 ","!prov18:9 ","!pr18:9 "]
+  replace: "Whoever is lazy in his work Is a brother to the one who causes ruin."
+
+- triggers: ["!proverbs18:10 ","!prov18:10 ","!pr18:10 "]
+  replace: "The name of Jehovah is a strong tower. Into it the righteous one runs and receives protection."
+
+- triggers: ["!proverbs18:11 ","!prov18:11 ","!pr18:11 "]
+  replace: "The wealth of the rich is his fortified city; It is like a protective wall in his imagination."
+
+- triggers: ["!proverbs18:12 ","!prov18:12 ","!pr18:12 "]
+  replace: "Before a crash a man’s heart is lofty, And before glory there is humility."
+
+- triggers: ["!proverbs18:13 ","!prov18:13 ","!pr18:13 "]
+  replace: "When anyone replies to a matter before he hears the facts, It is foolish and humiliating."
+
+- triggers: ["!proverbs18:14 ","!prov18:14 ","!pr18:14 "]
+  replace: "A person’s spirit can sustain him through illness, But who can bear a crushed spirit?"
+
+- triggers: ["!proverbs18:15 ","!prov18:15 ","!pr18:15 "]
+  replace: "The heart of the understanding one acquires knowledge, And the ear of the wise seeks to find knowledge."
+
+- triggers: ["!proverbs18:16 ","!prov18:16 ","!pr18:16 "]
+  replace: "A man’s gift opens the way for him; It gives him access to great people."
+
+- triggers: ["!proverbs18:17 ","!prov18:17 ","!pr18:17 "]
+  replace: "The first to state his case seems right, Until the other party comes and cross-examines him."
+
+- triggers: ["!proverbs18:18 ","!prov18:18 ","!pr18:18 "]
+  replace: "Casting lots puts an end to disputes And decides between strong opponents."
+
+- triggers: ["!proverbs18:19 ","!prov18:19 ","!pr18:19 "]
+  replace: "A brother offended is more unyielding than a fortified city, And there are disputes like the bars of a fortress."
+
+- triggers: ["!proverbs18:20 ","!prov18:20 ","!pr18:20 "]
+  replace: "From the fruitage of a man’s speech his stomach will be filled; He will be satisfied with what his lips produce."
+
+- triggers: ["!proverbs18:21 ","!prov18:21 ","!pr18:21 "]
+  replace: "Death and life are in the power of the tongue; Those who love to use it will eat its fruitage."
+
+- triggers: ["!proverbs18:22 ","!prov18:22 ","!pr18:22 "]
+  replace: "The one who finds a good wife has found something good, And he receives Jehovah’s favor."
+
+- triggers: ["!proverbs18:23 ","!prov18:23 ","!pr18:23 "]
+  replace: "The poor man implores when speaking, But the rich man answers harshly."
+
+- triggers: ["!proverbs18:24 ","!prov18:24 ","!pr18:24 "]
+  replace: "There are companions ready to crush one another, But there is a friend who sticks closer than a brother."
+
+- triggers: ["!proverbs19:1 ","!prov19:1 ","!pr19:1 "]
+  replace: "It is better to be poor and walk in integrity Than to be stupid and speak lies."
+
+- triggers: ["!proverbs19:2 ","!prov19:2 ","!pr19:2 "]
+  replace: "A person without knowledge is not good, And the one who acts rashly is sinning."
+
+- triggers: ["!proverbs19:3 ","!prov19:3 ","!pr19:3 "]
+  replace: "It is a man’s own foolishness that distorts his way, And his heart becomes enraged against Jehovah."
+
+- triggers: ["!proverbs19:4 ","!prov19:4 ","!pr19:4 "]
+  replace: "Wealth attracts many friends, But the poor man will be deserted even by his friend."
+
+- triggers: ["!proverbs19:5 ","!prov19:5 ","!pr19:5 "]
+  replace: "A false witness will not go unpunished, And the one who lies with every breath will not escape."
+
+- triggers: ["!proverbs19:6 ","!prov19:6 ","!pr19:6 "]
+  replace: "Many seek the favor of a noble, And everyone is a friend to the man who gives gifts."
+
+- triggers: ["!proverbs19:7 ","!prov19:7 ","!pr19:7 "]
+  replace: "All the brothers of a poor man hate him; How much more he is shunned by his friends! He pursues them with requests, but no one responds."
+
+- triggers: ["!proverbs19:8 ","!prov19:8 ","!pr19:8 "]
+  replace: "Whoever acquires good sense loves himself. Whoever treasures discernment will find success."
+
+- triggers: ["!proverbs19:9 ","!prov19:9 ","!pr19:9 "]
+  replace: "A false witness will not go unpunished, And the one who lies with every breath will perish."
+
+- triggers: ["!proverbs19:10 ","!prov19:10 ","!pr19:10 "]
+  replace: "It is not fitting for a fool to live in luxury; How much less for a servant to rule over princes!"
+
+- triggers: ["!proverbs19:11 ","!prov19:11 ","!pr19:11 "]
+  replace: "The insight of a man certainly slows down his anger, And it is beauty on his part to overlook an offense."
+
+- triggers: ["!proverbs19:12 ","!prov19:12 ","!pr19:12 "]
+  replace: "The king’s rage is like the growling of a lion, But his favor is like dew on the vegetation."
+
+- triggers: ["!proverbs19:13 ","!prov19:13 ","!pr19:13 "]
+  replace: "A stupid son brings adversity on his father, And a quarrelsome wife is like a roof that never stops leaking."
+
+- triggers: ["!proverbs19:14 ","!prov19:14 ","!pr19:14 "]
+  replace: "A house and wealth are inherited from fathers, But a discreet wife is from Jehovah."
+
+- triggers: ["!proverbs19:15 ","!prov19:15 ","!pr19:15 "]
+  replace: "Laziness brings on a deep sleep, And a sluggish person will go hungry."
+
+- triggers: ["!proverbs19:16 ","!prov19:16 ","!pr19:16 "]
+  replace: "The one who keeps the commandment keeps his life; The one who is reckless about his ways will die."
+
+- triggers: ["!proverbs19:17 ","!prov19:17 ","!pr19:17 "]
+  replace: "The one showing favor to the lowly is lending to Jehovah, And He will repay him for what he does."
+
+- triggers: ["!proverbs19:18 ","!prov19:18 ","!pr19:18 "]
+  replace: "Discipline your son while there is hope, And do not become responsible for his death."
+
+- triggers: ["!proverbs19:19 ","!prov19:19 ","!pr19:19 "]
+  replace: "The hot-tempered man will pay the penalty; If you try to spare him, you will have to do it again and again."
+
+- triggers: ["!proverbs19:20 ","!prov19:20 ","!pr19:20 "]
+  replace: "Listen to counsel and accept discipline, In order to become wise in your future."
+
+- triggers: ["!proverbs19:21 ","!prov19:21 ","!pr19:21 "]
+  replace: "Many are the plans in a man’s heart, But the counsel of Jehovah is what will prevail."
+
+- triggers: ["!proverbs19:22 ","!prov19:22 ","!pr19:22 "]
+  replace: "The desirable thing in a man is his loyal love; And it is better to be poor than to be a liar."
+
+- triggers: ["!proverbs19:23 ","!prov19:23 ","!pr19:23 "]
+  replace: "The fear of Jehovah leads to life; The one who has it will have a pleasant rest, free from harm."
+
+- triggers: ["!proverbs19:24 ","!prov19:24 ","!pr19:24 "]
+  replace: "The lazy one buries his hand in the banquet bowl, But he does not even bother to bring it back to his mouth."
+
+- triggers: ["!proverbs19:25 ","!prov19:25 ","!pr19:25 "]
+  replace: "Strike the ridiculer, so that the inexperienced one may become shrewd, And reprove the understanding one, so that he will increase in knowledge."
+
+- triggers: ["!proverbs19:26 ","!prov19:26 ","!pr19:26 "]
+  replace: "The one who mistreats his father and drives away his mother Is a son causing shame and disgrace."
+
+- triggers: ["!proverbs19:27 ","!prov19:27 ","!pr19:27 "]
+  replace: "My son, if you stop listening to discipline, You will stray from the sayings of knowledge."
+
+- triggers: ["!proverbs19:28 ","!prov19:28 ","!pr19:28 "]
+  replace: "A worthless witness mocks justice, And the mouth of the wicked gulps down evil."
+
+- triggers: ["!proverbs19:29 ","!prov19:29 ","!pr19:29 "]
+  replace: "Judgment is in store for ridiculers, And beatings for the back of the stupid ones."
+
+- triggers: ["!proverbs20:1 ","!prov20:1 ","!pr20:1 "]
+  replace: "Wine is a ridiculer, alcohol is unruly; Whoever goes astray by them is not wise."
+
+- triggers: ["!proverbs20:2 ","!prov20:2 ","!pr20:2 "]
+  replace: "The terror of a king is like the growling of a lion; Whoever provokes his anger risks his own life."
+
+- triggers: ["!proverbs20:3 ","!prov20:3 ","!pr20:3 "]
+  replace: "It is honorable for a man to refrain from a dispute, But every fool will become embroiled in it."
+
+- triggers: ["!proverbs20:4 ","!prov20:4 ","!pr20:4 "]
+  replace: "The lazy one does not plow in winter, So he will be begging during the harvest when he has nothing."
+
+- triggers: ["!proverbs20:5 ","!prov20:5 ","!pr20:5 "]
+  replace: "The thoughts of a man’s heart are like deep waters, But the discerning man draws them out."
+
+- triggers: ["!proverbs20:6 ","!prov20:6 ","!pr20:6 "]
+  replace: "Many men proclaim their loyal love, But who can find a faithful man?"
+
+- triggers: ["!proverbs20:7 ","!prov20:7 ","!pr20:7 "]
+  replace: "The righteous one is walking in his integrity. Happy are his children who come after him."
+
+- triggers: ["!proverbs20:8 ","!prov20:8 ","!pr20:8 "]
+  replace: "When the king sits on the throne to judge, He sifts out all evil with his eyes."
+
+- triggers: ["!proverbs20:9 ","!prov20:9 ","!pr20:9 "]
+  replace: "Who can say: “I have cleansed my heart; I am pure from my sin”?"
+
+- triggers: ["!proverbs20:10 ","!prov20:10 ","!pr20:10 "]
+  replace: "Dishonest weights and false measures —Both are detestable to Jehovah."
+
+- triggers: ["!proverbs20:11 ","!prov20:11 ","!pr20:11 "]
+  replace: "Even a child is known by his actions, Whether his behavior is pure and right."
+
+- triggers: ["!proverbs20:12 ","!prov20:12 ","!pr20:12 "]
+  replace: "The hearing ear and the seeing eye —Jehovah has made both of them."
+
+- triggers: ["!proverbs20:13 ","!prov20:13 ","!pr20:13 "]
+  replace: "Do not love sleep, or you will come to poverty. Open your eyes, and you will be satisfied with bread."
+
+- triggers: ["!proverbs20:14 ","!prov20:14 ","!pr20:14 "]
+  replace: "“It is no good, it is no good!” says the buyer; Then he goes away and boasts about himself."
+
+- triggers: ["!proverbs20:15 ","!prov20:15 ","!pr20:15 "]
+  replace: "There is gold, also much coral, But the lips of knowledge are something precious."
+
+- triggers: ["!proverbs20:16 ","!prov20:16 ","!pr20:16 "]
+  replace: "Take a man’s garment if he has given security for a stranger; Seize the pledge from him if he did so for a foreign woman."
+
+- triggers: ["!proverbs20:17 ","!prov20:17 ","!pr20:17 "]
+  replace: "Bread gained by deceit tastes good to a man, But afterward his mouth will be full of gravel."
+
+- triggers: ["!proverbs20:18 ","!prov20:18 ","!pr20:18 "]
+  replace: "By consultation, plans will succeed, And by skillful direction wage your war."
+
+- triggers: ["!proverbs20:19 ","!prov20:19 ","!pr20:19 "]
+  replace: "A slanderer goes about revealing confidential talk; Do not associate with one who loves to gossip."
+
+- triggers: ["!proverbs20:20 ","!prov20:20 ","!pr20:20 "]
+  replace: "Whoever curses his father and his mother, His lamp will be extinguished when darkness comes."
+
+- triggers: ["!proverbs20:21 ","!prov20:21 ","!pr20:21 "]
+  replace: "An inheritance obtained first by greed Will not be a blessing in the end."
+
+- triggers: ["!proverbs20:22 ","!prov20:22 ","!pr20:22 "]
+  replace: "Do not say: “I will pay back evil!” Hope in Jehovah, and he will save you."
+
+- triggers: ["!proverbs20:23 ","!prov20:23 ","!pr20:23 "]
+  replace: "Dishonest weights are detestable to Jehovah, And deceptive scales are not good."
+
+- triggers: ["!proverbs20:24 ","!prov20:24 ","!pr20:24 "]
+  replace: "A man’s footsteps are directed by Jehovah; How can a man understand his own way?"
+
+- triggers: ["!proverbs20:25 ","!prov20:25 ","!pr20:25 "]
+  replace: "It is a snare for a man to cry out rashly, “Holy!” And only later to give consideration to what he vowed."
+
+- triggers: ["!proverbs20:26 ","!prov20:26 ","!pr20:26 "]
+  replace: "A wise king sifts out the wicked And drives the threshing wheel over them."
+
+- triggers: ["!proverbs20:27 ","!prov20:27 ","!pr20:27 "]
+  replace: "The breath of a man is the lamp of Jehovah, Searching through his innermost being."
+
+- triggers: ["!proverbs20:28 ","!prov20:28 ","!pr20:28 "]
+  replace: "Loyal love and faithfulness safeguard the king; By loyal love he sustains his throne."
+
+- triggers: ["!proverbs20:29 ","!prov20:29 ","!pr20:29 "]
+  replace: "The glory of young men is their strength, And the splendor of old men is their gray hair."
+
+- triggers: ["!proverbs20:30 ","!prov20:30 ","!pr20:30 "]
+  replace: "Bruises and wounds purge away evil, And beatings cleanse one’s innermost being."
+
+- triggers: ["!proverbs21:1 ","!prov21:1 ","!pr21:1 "]
+  replace: "A king’s heart is like streams of water in Jehovah’s hand. He directs it wherever He pleases."
+
+- triggers: ["!proverbs21:2 ","!prov21:2 ","!pr21:2 "]
+  replace: "All of a man’s ways seem right to him, But Jehovah examines the hearts."
+
+- triggers: ["!proverbs21:3 ","!prov21:3 ","!pr21:3 "]
+  replace: "To do what is right and just Is more pleasing to Jehovah than a sacrifice."
+
+- triggers: ["!proverbs21:4 ","!prov21:4 ","!pr21:4 "]
+  replace: "Haughty eyes and an arrogant heart —The lamp that guides the wicked is sin."
+
+- triggers: ["!proverbs21:5 ","!prov21:5 ","!pr21:5 "]
+  replace: "The plans of the diligent surely lead to success, But all who are hasty surely head for poverty."
+
+- triggers: ["!proverbs21:6 ","!prov21:6 ","!pr21:6 "]
+  replace: "Gaining treasures by a lying tongue Is like a vanishing mist, a deadly snare."
+
+- triggers: ["!proverbs21:7 ","!prov21:7 ","!pr21:7 "]
+  replace: "The violence of the wicked will sweep them away, For they refuse to act with justice."
+
+- triggers: ["!proverbs21:8 ","!prov21:8 ","!pr21:8 "]
+  replace: "The way of a guilty man is crooked, But the activity of the pure man is upright."
+
+- triggers: ["!proverbs21:9 ","!prov21:9 ","!pr21:9 "]
+  replace: "Better to dwell on a corner of the roof Than in the same house with a quarrelsome wife."
+
+- triggers: ["!proverbs21:10 ","!prov21:10 ","!pr21:10 "]
+  replace: "The wicked man craves what is bad; He shows no favor toward his neighbor."
+
+- triggers: ["!proverbs21:11 ","!prov21:11 ","!pr21:11 "]
+  replace: "When a ridiculer is punished, the inexperienced become wiser, And when a wise person receives insight, he gains knowledge."
+
+- triggers: ["!proverbs21:12 ","!prov21:12 ","!pr21:12 "]
+  replace: "The Righteous One observes the house of the wicked one; He overthrows the wicked to their ruin."
+
+- triggers: ["!proverbs21:13 ","!prov21:13 ","!pr21:13 "]
+  replace: "Whoever stops up his ear to the cry of the lowly one Will himself call and not be answered."
+
+- triggers: ["!proverbs21:14 ","!prov21:14 ","!pr21:14 "]
+  replace: "A secret gift subdues anger, And a hidden bribe, fierce rage."
+
+- triggers: ["!proverbs21:15 ","!prov21:15 ","!pr21:15 "]
+  replace: "It is a joy for the righteous one to act with justice, But it is something terrible to those who practice evil."
+
+- triggers: ["!proverbs21:16 ","!prov21:16 ","!pr21:16 "]
+  replace: "The man who strays from the way of insight Will rest in the company of those powerless in death."
+
+- triggers: ["!proverbs21:17 ","!prov21:17 ","!pr21:17 "]
+  replace: "The one who loves having a good time will come to poverty; The one who loves wine and oil will not grow rich."
+
+- triggers: ["!proverbs21:18 ","!prov21:18 ","!pr21:18 "]
+  replace: "The wicked one is a ransom for the righteous one, And the treacherous one will be taken in place of the upright."
+
+- triggers: ["!proverbs21:19 ","!prov21:19 ","!pr21:19 "]
+  replace: "Better to dwell in the wilderness Than with a quarrelsome and irritable wife."
+
+- triggers: ["!proverbs21:20 ","!prov21:20 ","!pr21:20 "]
+  replace: "Precious treasure and oil are found in the house of the wise, But the stupid man will squander what he has."
+
+- triggers: ["!proverbs21:21 ","!prov21:21 ","!pr21:21 "]
+  replace: "Whoever pursues righteousness and loyal love Will find life, righteousness, and glory."
+
+- triggers: ["!proverbs21:22 ","!prov21:22 ","!pr21:22 "]
+  replace: "A wise man can scale the city of the mighty And undermine the strength in which they trust."
+
+- triggers: ["!proverbs21:23 ","!prov21:23 ","!pr21:23 "]
+  replace: "The one guarding his mouth and his tongue Keeps himself out of trouble."
+
+- triggers: ["!proverbs21:24 ","!prov21:24 ","!pr21:24 "]
+  replace: "A presumptuous, arrogant braggart is what you call The man who acts with reckless presumptuousness."
+
+- triggers: ["!proverbs21:25 ","!prov21:25 ","!pr21:25 "]
+  replace: "What the lazy man craves will put him to death, For his hands refuse to work."
+
+- triggers: ["!proverbs21:26 ","!prov21:26 ","!pr21:26 "]
+  replace: "All day long he greedily craves, But the righteous one gives, holding nothing back."
+
+- triggers: ["!proverbs21:27 ","!prov21:27 ","!pr21:27 "]
+  replace: "The sacrifice of the wicked is detestable. How much more when he offers it with evil intent!"
+
+- triggers: ["!proverbs21:28 ","!prov21:28 ","!pr21:28 "]
+  replace: "A lying witness will perish, But the man who listens will testify with success."
+
+- triggers: ["!proverbs21:29 ","!prov21:29 ","!pr21:29 "]
+  replace: "The wicked man puts on a bold face, But it is the upright one whose course is sure."
+
+- triggers: ["!proverbs21:30 ","!prov21:30 ","!pr21:30 "]
+  replace: "There is no wisdom, nor discernment, nor counsel in opposition to Jehovah."
+
+- triggers: ["!proverbs21:31 ","!prov21:31 ","!pr21:31 "]
+  replace: "The horse is prepared for the day of battle, But salvation belongs to Jehovah."
+
+- triggers: ["!proverbs22:1 ","!prov22:1 ","!pr22:1 "]
+  replace: "A good name is to be chosen rather than great wealth; To be respected is better than silver and gold."
+
+- triggers: ["!proverbs22:2 ","!prov22:2 ","!pr22:2 "]
+  replace: "The rich and the poor have this in common: Jehovah made them both."
+
+- triggers: ["!proverbs22:3 ","!prov22:3 ","!pr22:3 "]
+  replace: "The shrewd one sees the danger and conceals himself, But the inexperienced keep right on going and suffer the consequences."
+
+- triggers: ["!proverbs22:4 ","!prov22:4 ","!pr22:4 "]
+  replace: "The result of humility and the fear of Jehovah Is riches and glory and life."
+
+- triggers: ["!proverbs22:5 ","!prov22:5 ","!pr22:5 "]
+  replace: "Thorns and traps are in the crooked man’s path, But whoever values his life keeps far away from them."
+
+- triggers: ["!proverbs22:6 ","!prov22:6 ","!pr22:6 "]
+  replace: "Train a boy in the way he should go; Even when he grows old he will not depart from it."
+
+- triggers: ["!proverbs22:7 ","!prov22:7 ","!pr22:7 "]
+  replace: "The rich one rules the poor, And the borrower is a slave to the lender."
+
+- triggers: ["!proverbs22:8 ","!prov22:8 ","!pr22:8 "]
+  replace: "Whoever sows unrighteousness will reap disaster, And the rod of his fury will come to its end."
+
+- triggers: ["!proverbs22:9 ","!prov22:9 ","!pr22:9 "]
+  replace: "The generous person will be blessed, For he shares his food with the poor."
+
+- triggers: ["!proverbs22:10 ","!prov22:10 ","!pr22:10 "]
+  replace: "Drive away the scornful man, And contention will disappear; Disputes and insults will cease."
+
+- triggers: ["!proverbs22:11 ","!prov22:11 ","!pr22:11 "]
+  replace: "The one who loves a pure heart and whose speech is gracious Will have the king as his friend."
+
+- triggers: ["!proverbs22:12 ","!prov22:12 ","!pr22:12 "]
+  replace: "The eyes of Jehovah safeguard knowledge, But He overturns the words of the treacherous."
+
+- triggers: ["!proverbs22:13 ","!prov22:13 ","!pr22:13 "]
+  replace: "The lazy one says: “There is a lion outside! I will be killed in the middle of the public square!”"
+
+- triggers: ["!proverbs22:14 ","!prov22:14 ","!pr22:14 "]
+  replace: "The mouth of wayward women is a deep pit. The one condemned by Jehovah will fall into it."
+
+- triggers: ["!proverbs22:15 ","!prov22:15 ","!pr22:15 "]
+  replace: "Foolishness is bound up in the heart of a boy, But the rod of discipline will remove it far from him."
+
+- triggers: ["!proverbs22:16 ","!prov22:16 ","!pr22:16 "]
+  replace: "The one defrauding the poor to increase his wealth And the one giving gifts to the rich Will end up in poverty."
+
+- triggers: ["!proverbs22:17 ","!prov22:17 ","!pr22:17 "]
+  replace: "Incline your ear and listen to the words of the wise, In order to apply your heart to my knowledge,"
+
+- triggers: ["!proverbs22:18 ","!prov22:18 ","!pr22:18 "]
+  replace: "For it is pleasant to keep them deep within you, So that all of them may constantly be on your lips."
+
+- triggers: ["!proverbs22:19 ","!prov22:19 ","!pr22:19 "]
+  replace: "For your confidence to be in Jehovah, I am giving you knowledge today."
+
+- triggers: ["!proverbs22:20 ","!prov22:20 ","!pr22:20 "]
+  replace: "Have I not already written you, Imparting advice and knowledge,"
+
+- triggers: ["!proverbs22:21 ","!prov22:21 ","!pr22:21 "]
+  replace: "To teach you true and reliable words, So that you can return with an accurate report to the one who sent you?"
+
+- triggers: ["!proverbs22:22 ","!prov22:22 ","!pr22:22 "]
+  replace: "Do not rob the poor man because he is poor, And do not crush the lowly man in the city gate,"
+
+- triggers: ["!proverbs22:23 ","!prov22:23 ","!pr22:23 "]
+  replace: "For Jehovah himself will plead their cause And he will take the life of those who defraud them."
+
+- triggers: ["!proverbs22:24 ","!prov22:24 ","!pr22:24 "]
+  replace: "Do not keep company with a hot-tempered man Or get involved with one disposed to rage,"
+
+- triggers: ["!proverbs22:25 ","!prov22:25 ","!pr22:25 "]
+  replace: "So that you never learn his ways And ensnare yourself."
+
+- triggers: ["!proverbs22:26 ","!prov22:26 ","!pr22:26 "]
+  replace: "Do not be among those who shake hands in a pledge, Who put up security for loans."
+
+- triggers: ["!proverbs22:27 ","!prov22:27 ","!pr22:27 "]
+  replace: "If you have nothing to pay, Your bed will be taken right out from under you!"
+
+- triggers: ["!proverbs22:28 ","!prov22:28 ","!pr22:28 "]
+  replace: "Do not move an ancient boundary marker That your forefathers put in place."
+
+- triggers: ["!proverbs22:29 ","!prov22:29 ","!pr22:29 "]
+  replace: "Have you seen a man skillful at his work? He will stand before kings; He will not stand before common men."
+
+- triggers: ["!proverbs23:1 ","!prov23:1 ","!pr23:1 "]
+  replace: "When you sit down to eat with a king, Carefully consider what is before you;"
+
+- triggers: ["!proverbs23:2 ","!prov23:2 ","!pr23:2 "]
+  replace: "Put a knife to your throat If you have a large appetite."
+
+- triggers: ["!proverbs23:3 ","!prov23:3 ","!pr23:3 "]
+  replace: "Do not crave his delicacies, For it is deceptive food."
+
+- triggers: ["!proverbs23:4 ","!prov23:4 ","!pr23:4 "]
+  replace: "Do not wear yourself out to gain wealth. Stop and show understanding."
+
+- triggers: ["!proverbs23:5 ","!prov23:5 ","!pr23:5 "]
+  replace: "When you cast your eyes on it, it is not there, For it will surely sprout wings like an eagle and fly off into the sky."
+
+- triggers: ["!proverbs23:6 ","!prov23:6 ","!pr23:6 "]
+  replace: "Do not eat the food of a stingy person; Do not crave his delicacies,"
+
+- triggers: ["!proverbs23:7 ","!prov23:7 ","!pr23:7 "]
+  replace: "For he is like one keeping accounts. “Eat and drink,” he says to you, but he does not mean it."
+
+- triggers: ["!proverbs23:8 ","!prov23:8 ","!pr23:8 "]
+  replace: "You will vomit up the morsels you have eaten And will have wasted your compliments."
+
+- triggers: ["!proverbs23:9 ","!prov23:9 ","!pr23:9 "]
+  replace: "Do not speak in the ears of the stupid one, For he will despise the wisdom of your words."
+
+- triggers: ["!proverbs23:10 ","!prov23:10 ","!pr23:10 "]
+  replace: "Do not move an ancient boundary marker Or encroach on the field of the fatherless."
+
+- triggers: ["!proverbs23:11 ","!prov23:11 ","!pr23:11 "]
+  replace: "For their Defender is strong; He will take up their cause against you."
+
+- triggers: ["!proverbs23:12 ","!prov23:12 ","!pr23:12 "]
+  replace: "Apply your heart to discipline And your ear to the sayings of knowledge."
+
+- triggers: ["!proverbs23:13 ","!prov23:13 ","!pr23:13 "]
+  replace: "Do not hold back discipline from a boy. If you strike him with the rod, he will not die."
+
+- triggers: ["!proverbs23:14 ","!prov23:14 ","!pr23:14 "]
+  replace: "With the rod you should strike him, In order to save him from the Grave."
+
+- triggers: ["!proverbs23:15 ","!prov23:15 ","!pr23:15 "]
+  replace: "My son, if your heart becomes wise, Then my own heart will rejoice."
+
+- triggers: ["!proverbs23:16 ","!prov23:16 ","!pr23:16 "]
+  replace: "My innermost being will find joy When your lips speak what is right."
+
+- triggers: ["!proverbs23:17 ","!prov23:17 ","!pr23:17 "]
+  replace: "Let your heart not envy sinners, But be in the fear of Jehovah all day long,"
+
+- triggers: ["!proverbs23:18 ","!prov23:18 ","!pr23:18 "]
+  replace: "For then you will have a future And your hope will not be cut off."
+
+- triggers: ["!proverbs23:19 ","!prov23:19 ","!pr23:19 "]
+  replace: "Listen, my son, and become wise, And direct your heart in the right way."
+
+- triggers: ["!proverbs23:20 ","!prov23:20 ","!pr23:20 "]
+  replace: "Do not be among those who drink too much wine, Among those who gorge themselves on meat,"
+
+- triggers: ["!proverbs23:21 ","!prov23:21 ","!pr23:21 "]
+  replace: "For a drunkard and a glutton will come to poverty, And drowsiness will clothe one with rags."
+
+- triggers: ["!proverbs23:22 ","!prov23:22 ","!pr23:22 "]
+  replace: "Listen to your father who caused your birth, And do not despise your mother just because she has grown old."
+
+- triggers: ["!proverbs23:23 ","!prov23:23 ","!pr23:23 "]
+  replace: "Buy truth and never sell it, Also wisdom and discipline and understanding."
+
+- triggers: ["!proverbs23:24 ","!prov23:24 ","!pr23:24 "]
+  replace: "The father of a righteous one will surely be joyful; Whoever fathers a wise son will rejoice in him."
+
+- triggers: ["!proverbs23:25 ","!prov23:25 ","!pr23:25 "]
+  replace: "Your father and your mother will rejoice, And she who gave birth to you will be joyful."
+
+- triggers: ["!proverbs23:26 ","!prov23:26 ","!pr23:26 "]
+  replace: "My son, do give your heart to me, And may your eyes take pleasure in my ways."
+
+- triggers: ["!proverbs23:27 ","!prov23:27 ","!pr23:27 "]
+  replace: "For a prostitute is a deep pit, And an immoral woman is a narrow well."
+
+- triggers: ["!proverbs23:28 ","!prov23:28 ","!pr23:28 "]
+  replace: "She lies in wait like a robber; She increases the number of unfaithful men."
+
+- triggers: ["!proverbs23:29 ","!prov23:29 ","!pr23:29 "]
+  replace: "Who has woe? Who has uneasiness? Who has quarrels? Who has complaints? Who has wounds for no reason? Who has bleary eyes?"
+
+- triggers: ["!proverbs23:30 ","!prov23:30 ","!pr23:30 "]
+  replace: "Those lingering long over wine; Those searching out mixed wine."
+
+- triggers: ["!proverbs23:31 ","!prov23:31 ","!pr23:31 "]
+  replace: "Do not look at the wine’s red color As it sparkles in the cup and goes down smoothly,"
+
+- triggers: ["!proverbs23:32 ","!prov23:32 ","!pr23:32 "]
+  replace: "For in the end it bites like a serpent, And it secretes poison like a viper."
+
+- triggers: ["!proverbs23:33 ","!prov23:33 ","!pr23:33 "]
+  replace: "Your eyes will see strange things, And your heart will speak perverse things."
+
+- triggers: ["!proverbs23:34 ","!prov23:34 ","!pr23:34 "]
+  replace: "And you will be like one lying down in the middle of the sea, Like one lying at the top of a ship’s mast."
+
+- triggers: ["!proverbs23:35 ","!prov23:35 ","!pr23:35 "]
+  replace: "You will say: “They have struck me, but I did not feel it. They beat me, but I did not know it. When will I wake up? I need another drink.”"
+
+- triggers: ["!proverbs24:1 ","!prov24:1 ","!pr24:1 "]
+  replace: "Do not envy evil men, And do not crave their company,"
+
+- triggers: ["!proverbs24:2 ","!prov24:2 ","!pr24:2 "]
+  replace: "For their heart meditates on violence, And their lips speak of trouble."
+
+- triggers: ["!proverbs24:3 ","!prov24:3 ","!pr24:3 "]
+  replace: "By wisdom a house is built up, And by discernment it is made secure."
+
+- triggers: ["!proverbs24:4 ","!prov24:4 ","!pr24:4 "]
+  replace: "By knowledge its rooms are filled With all sorts of precious and pleasant treasures."
+
+- triggers: ["!proverbs24:5 ","!prov24:5 ","!pr24:5 "]
+  replace: "A wise man is powerful, And with knowledge a man increases his power."
+
+- triggers: ["!proverbs24:6 ","!prov24:6 ","!pr24:6 "]
+  replace: "By skillful direction you will wage your war, And through many advisers there is victory."
+
+- triggers: ["!proverbs24:7 ","!prov24:7 ","!pr24:7 "]
+  replace: "True wisdom is unattainable for a fool; He has nothing to say in the city gate."
+
+- triggers: ["!proverbs24:8 ","!prov24:8 ","!pr24:8 "]
+  replace: "Anyone who plots evil Will be called a master schemer."
+
+- triggers: ["!proverbs24:9 ","!prov24:9 ","!pr24:9 "]
+  replace: "Foolish schemes are sinful, And people detest a ridiculer."
+
+- triggers: ["!proverbs24:10 ","!prov24:10 ","!pr24:10 "]
+  replace: "If you become discouraged in the day of distress, Your strength will be meager."
+
+- triggers: ["!proverbs24:11 ","!prov24:11 ","!pr24:11 "]
+  replace: "Rescue those who are being taken away to death, And hold back those staggering to the slaughter."
+
+- triggers: ["!proverbs24:12 ","!prov24:12 ","!pr24:12 "]
+  replace: "If you say, “But we did not know about this,” Does not the One who examines hearts discern it? Yes, the One who watches you will know And will repay each man according to his activity."
+
+- triggers: ["!proverbs24:13 ","!prov24:13 ","!pr24:13 "]
+  replace: "My son, eat honey, because it is good; Honey from the comb is sweet to the taste."
+
+- triggers: ["!proverbs24:14 ","!prov24:14 ","!pr24:14 "]
+  replace: "Likewise, know that wisdom is good for you. If you find it, you will have a future And your hope will not be cut off."
+
+- triggers: ["!proverbs24:15 ","!prov24:15 ","!pr24:15 "]
+  replace: "Do not wickedly lie in ambush near the home of the righteous one; Do not destroy his place of rest."
+
+- triggers: ["!proverbs24:16 ","!prov24:16 ","!pr24:16 "]
+  replace: "For the righteous one may fall seven times, and he will get up again, But the wicked will be made to stumble by calamity."
+
+- triggers: ["!proverbs24:17 ","!prov24:17 ","!pr24:17 "]
+  replace: "When your enemy falls, do not rejoice, And when he stumbles, do not let your heart be joyful;"
+
+- triggers: ["!proverbs24:18 ","!prov24:18 ","!pr24:18 "]
+  replace: "Otherwise, Jehovah will see and be displeased, And He will turn away his anger from him."
+
+- triggers: ["!proverbs24:19 ","!prov24:19 ","!pr24:19 "]
+  replace: "Do not be upset because of evil men; Do not envy wicked people,"
+
+- triggers: ["!proverbs24:20 ","!prov24:20 ","!pr24:20 "]
+  replace: "For there is no future for anyone evil; The lamp of the wicked will be extinguished."
+
+- triggers: ["!proverbs24:21 ","!prov24:21 ","!pr24:21 "]
+  replace: "My son, fear Jehovah and the king. And do not associate with dissenters,"
+
+- triggers: ["!proverbs24:22 ","!prov24:22 ","!pr24:22 "]
+  replace: "For their disaster will arise suddenly. Who knows what ruin both will bring upon them?"
+
+- triggers: ["!proverbs24:23 ","!prov24:23 ","!pr24:23 "]
+  replace: "These sayings also belong to the wise: Partiality in judgment is not good."
+
+- triggers: ["!proverbs24:24 ","!prov24:24 ","!pr24:24 "]
+  replace: "Whoever says to the wicked one, “You are righteous,” Will be cursed by the peoples and denounced by the nations."
+
+- triggers: ["!proverbs24:25 ","!prov24:25 ","!pr24:25 "]
+  replace: "But it will go well for those reproving him; Blessings of good things will come upon them."
+
+- triggers: ["!proverbs24:26 ","!prov24:26 ","!pr24:26 "]
+  replace: "People will kiss the lips of the one replying honestly."
+
+- triggers: ["!proverbs24:27 ","!prov24:27 ","!pr24:27 "]
+  replace: "Prepare your outside work, and get everything ready in the field; Then build your house."
+
+- triggers: ["!proverbs24:28 ","!prov24:28 ","!pr24:28 "]
+  replace: "Do not testify against your neighbor without grounds. Do not use your lips to deceive others."
+
+- triggers: ["!proverbs24:29 ","!prov24:29 ","!pr24:29 "]
+  replace: "Do not say: “I will do to him just as he has done to me; I will repay him for what he did.”"
+
+- triggers: ["!proverbs24:30 ","!prov24:30 ","!pr24:30 "]
+  replace: "I passed by the field of the lazy one, By the vineyard of the man lacking good sense."
+
+- triggers: ["!proverbs24:31 ","!prov24:31 ","!pr24:31 "]
+  replace: "I saw that it was overgrown with weeds; The ground was covered with nettles, And its stone wall was broken down."
+
+- triggers: ["!proverbs24:32 ","!prov24:32 ","!pr24:32 "]
+  replace: "I observed this and took it to heart; I saw it and learned this lesson:"
+
+- triggers: ["!proverbs24:33 ","!prov24:33 ","!pr24:33 "]
+  replace: "A little sleep, a little slumbering, A little folding of the hands to rest,"
+
+- triggers: ["!proverbs24:34 ","!prov24:34 ","!pr24:34 "]
+  replace: "And your poverty will come like a bandit, And your want like an armed man."
+
+- triggers: ["!proverbs25:1 ","!prov25:1 ","!pr25:1 "]
+  replace: "These also are the proverbs of Solʹomon, which the men of Hezekiʹah the king of Judah transcribed:"
+
+- triggers: ["!proverbs25:2 ","!prov25:2 ","!pr25:2 "]
+  replace: "It is the glory of God to keep a matter secret, And the glory of kings is to search through a matter."
+
+- triggers: ["!proverbs25:3 ","!prov25:3 ","!pr25:3 "]
+  replace: "As the heavens are high and the earth is deep, So the heart of kings is unsearchable."
+
+- triggers: ["!proverbs25:4 ","!prov25:4 ","!pr25:4 "]
+  replace: "Remove the dross from the silver, And it will emerge completely refined."
+
+- triggers: ["!proverbs25:5 ","!prov25:5 ","!pr25:5 "]
+  replace: "Remove the wicked one from the king’s presence, And his throne will be firmly established in righteousness."
+
+- triggers: ["!proverbs25:6 ","!prov25:6 ","!pr25:6 "]
+  replace: "Do not honor yourself before the king, And do not take a place among the prominent,"
+
+- triggers: ["!proverbs25:7 ","!prov25:7 ","!pr25:7 "]
+  replace: "For it is better for him to say to you, “Come up here,” Than to humiliate you in the presence of a noble."
+
+- triggers: ["!proverbs25:8 ","!prov25:8 ","!pr25:8 "]
+  replace: "Do not rush into a legal dispute, For what will you do later if your neighbor humiliates you?"
+
+- triggers: ["!proverbs25:9 ","!prov25:9 ","!pr25:9 "]
+  replace: "Plead your case with your neighbor, But do not reveal what you were told confidentially,"
+
+- triggers: ["!proverbs25:10 ","!prov25:10 ","!pr25:10 "]
+  replace: "So that the one listening will not put you to shame And you spread a bad report that cannot be recalled."
+
+- triggers: ["!proverbs25:11 ","!prov25:11 ","!pr25:11 "]
+  replace: "Like apples of gold in silver carvings Is a word spoken at the right time."
+
+- triggers: ["!proverbs25:12 ","!prov25:12 ","!pr25:12 "]
+  replace: "Like an earring of gold and an ornament of fine gold Is a wise reprover to the receptive ear."
+
+- triggers: ["!proverbs25:13 ","!prov25:13 ","!pr25:13 "]
+  replace: "Just like the coldness of snow on the day of harvest Is a faithful messenger to those who sent him, For he refreshes his master."
+
+- triggers: ["!proverbs25:14 ","!prov25:14 ","!pr25:14 "]
+  replace: "Like clouds and wind that bring no rain Is a man who boasts about a gift never given."
+
+- triggers: ["!proverbs25:15 ","!prov25:15 ","!pr25:15 "]
+  replace: "By patience a commander is won over, And a gentle tongue can break a bone."
+
+- triggers: ["!proverbs25:16 ","!prov25:16 ","!pr25:16 "]
+  replace: "If you find honey, eat only what you need, For if you take too much, you may vomit it up."
+
+- triggers: ["!proverbs25:17 ","!prov25:17 ","!pr25:17 "]
+  replace: "Rarely set foot in your neighbor’s house, So that he does not get tired of you and hate you."
+
+- triggers: ["!proverbs25:18 ","!prov25:18 ","!pr25:18 "]
+  replace: "Like a war club and a sword and a sharp arrow Is a man bearing false witness against his neighbor."
+
+- triggers: ["!proverbs25:19 ","!prov25:19 ","!pr25:19 "]
+  replace: "Like a broken tooth or an unsteady foot Is confidence in an unreliable person in times of trouble."
+
+- triggers: ["!proverbs25:20 ","!prov25:20 ","!pr25:20 "]
+  replace: "Like one who removes a garment on a cold day And like vinegar poured on soda Is the one who sings songs to a gloomy heart."
+
+- triggers: ["!proverbs25:21 ","!prov25:21 ","!pr25:21 "]
+  replace: "If your enemy is hungry, give him bread to eat; If he is thirsty, give him water to drink,"
+
+- triggers: ["!proverbs25:22 ","!prov25:22 ","!pr25:22 "]
+  replace: "For you will be heaping burning coals on his head, And Jehovah will reward you."
+
+- triggers: ["!proverbs25:23 ","!prov25:23 ","!pr25:23 "]
+  replace: "The north wind brings a downpour, And a gossiping tongue brings an angry face."
+
+- triggers: ["!proverbs25:24 ","!prov25:24 ","!pr25:24 "]
+  replace: "Better to dwell on a corner of the roof Than in the same house with a quarrelsome wife."
+
+- triggers: ["!proverbs25:25 ","!prov25:25 ","!pr25:25 "]
+  replace: "Like cold water on a tired soul Is a good report from a distant land."
+
+- triggers: ["!proverbs25:26 ","!prov25:26 ","!pr25:26 "]
+  replace: "Like a muddied spring and a ruined well Is a righteous person who gives in to a wicked one."
+
+- triggers: ["!proverbs25:27 ","!prov25:27 ","!pr25:27 "]
+  replace: "It is not good to eat too much honey, Nor is it glorious to seek one’s own glory."
+
+- triggers: ["!proverbs25:28 ","!prov25:28 ","!pr25:28 "]
+  replace: "As a city broken through, without a wall, Is the man who cannot control his temper."
+
+- triggers: ["!proverbs26:1 ","!prov26:1 ","!pr26:1 "]
+  replace: "Like snow in summer and rain at harvesttime, Honor is not fitting for someone stupid."
+
+- triggers: ["!proverbs26:2 ","!prov26:2 ","!pr26:2 "]
+  replace: "Just as a bird has reason to flee and a swallow to fly, So a curse does not come without a real reason."
+
+- triggers: ["!proverbs26:3 ","!prov26:3 ","!pr26:3 "]
+  replace: "A whip is for the horse, a bridle is for the donkey, And the rod is for the back of stupid people."
+
+- triggers: ["!proverbs26:4 ","!prov26:4 ","!pr26:4 "]
+  replace: "Do not answer the stupid one according to his foolishness, So that you do not put yourself on his level."
+
+- triggers: ["!proverbs26:5 ","!prov26:5 ","!pr26:5 "]
+  replace: "Answer the stupid one according to his foolishness, So that he does not think he is wise."
+
+- triggers: ["!proverbs26:6 ","!prov26:6 ","!pr26:6 "]
+  replace: "Like someone who cripples his own feet and harms himself Is the one who entrusts matters to someone stupid."
+
+- triggers: ["!proverbs26:7 ","!prov26:7 ","!pr26:7 "]
+  replace: "Like the limp legs of the lame, So is a proverb in the mouth of stupid people."
+
+- triggers: ["!proverbs26:8 ","!prov26:8 ","!pr26:8 "]
+  replace: "Like tying a stone to a sling, So is giving glory to someone stupid."
+
+- triggers: ["!proverbs26:9 ","!prov26:9 ","!pr26:9 "]
+  replace: "Like a thorn plant that comes into the hand of a drunkard, So is a proverb in the mouth of stupid people."
+
+- triggers: ["!proverbs26:10 ","!prov26:10 ","!pr26:10 "]
+  replace: "Like an archer who wounds at random, So is the one who hires the stupid one or those passing by."
+
+- triggers: ["!proverbs26:11 ","!prov26:11 ","!pr26:11 "]
+  replace: "Like a dog that returns to its vomit, The stupid one repeats his foolishness."
+
+- triggers: ["!proverbs26:12 ","!prov26:12 ","!pr26:12 "]
+  replace: "Have you seen a man who thinks he is wise? There is more hope for someone stupid than for him."
+
+- triggers: ["!proverbs26:13 ","!prov26:13 ","!pr26:13 "]
+  replace: "The lazy one says: “There is a young lion in the road, A lion in the public square!”"
+
+- triggers: ["!proverbs26:14 ","!prov26:14 ","!pr26:14 "]
+  replace: "A door keeps turning on its hinges, And the lazy one on his bed."
+
+- triggers: ["!proverbs26:15 ","!prov26:15 ","!pr26:15 "]
+  replace: "The lazy one buries his hand in the banquet bowl, But he is too tired to bring it back to his mouth."
+
+- triggers: ["!proverbs26:16 ","!prov26:16 ","!pr26:16 "]
+  replace: "The lazy one thinks he is wiser Than seven people who give a sensible reply."
+
+- triggers: ["!proverbs26:17 ","!prov26:17 ","!pr26:17 "]
+  replace: "Like someone grabbing hold of a dog’s ears Is the one passing by who becomes furious about a quarrel that is not his."
+
+- triggers: ["!proverbs26:18 ","!prov26:18 ","!pr26:18 "]
+  replace: "Like a madman who shoots fiery missiles, arrows, and death"
+
+- triggers: ["!proverbs26:19 ","!prov26:19 ","!pr26:19 "]
+  replace: "Is the man who plays a trick on his neighbor and says, “I was only joking!”"
+
+- triggers: ["!proverbs26:20 ","!prov26:20 ","!pr26:20 "]
+  replace: "Where there is no wood, the fire goes out, And where there is no slanderer, quarreling ceases."
+
+- triggers: ["!proverbs26:21 ","!prov26:21 ","!pr26:21 "]
+  replace: "As charcoal for the embers and wood for the fire, So a contentious man kindles a quarrel."
+
+- triggers: ["!proverbs26:22 ","!prov26:22 ","!pr26:22 "]
+  replace: "The words of a slanderer are like tasty morsels; They are gulped right down into the stomach."
+
+- triggers: ["!proverbs26:23 ","!prov26:23 ","!pr26:23 "]
+  replace: "Like a silver glazing over a piece of earthenware Are affectionate words from an evil heart."
+
+- triggers: ["!proverbs26:24 ","!prov26:24 ","!pr26:24 "]
+  replace: "The one who hates others disguises it with his lips, But inside he harbors deceit."
+
+- triggers: ["!proverbs26:25 ","!prov26:25 ","!pr26:25 "]
+  replace: "Although he speaks graciously, do not trust him, For there are seven detestable things in his heart."
+
+- triggers: ["!proverbs26:26 ","!prov26:26 ","!pr26:26 "]
+  replace: "Though his hatred is concealed by deceit, His evil will be exposed in the congregation."
+
+- triggers: ["!proverbs26:27 ","!prov26:27 ","!pr26:27 "]
+  replace: "The one who digs a pit will fall into it, And whoever rolls away a stone—it will come back on him."
+
+- triggers: ["!proverbs26:28 ","!prov26:28 ","!pr26:28 "]
+  replace: "A lying tongue hates those crushed by it, And a flattering mouth causes ruin."
+
+- triggers: ["!proverbs27:1 ","!prov27:1 ","!pr27:1 "]
+  replace: "Do not boast about tomorrow, For you do not know what a day will bring."
+
+- triggers: ["!proverbs27:2 ","!prov27:2 ","!pr27:2 "]
+  replace: "Let someone else praise you, and not your own mouth; Others, and not your own lips."
+
+- triggers: ["!proverbs27:3 ","!prov27:3 ","!pr27:3 "]
+  replace: "A stone is heavy and sand is weighty, But the irritation caused by a fool is heavier than both."
+
+- triggers: ["!proverbs27:4 ","!prov27:4 ","!pr27:4 "]
+  replace: "There is the cruelty of rage and the flood of anger, But who can withstand jealousy?"
+
+- triggers: ["!proverbs27:5 ","!prov27:5 ","!pr27:5 "]
+  replace: "Open reproof is better than concealed love."
+
+- triggers: ["!proverbs27:6 ","!prov27:6 ","!pr27:6 "]
+  replace: "The wounds inflicted by a friend are faithful, But an enemy’s kisses are plentiful."
+
+- triggers: ["!proverbs27:7 ","!prov27:7 ","!pr27:7 "]
+  replace: "One whose appetite is satisfied turns down honey from the comb, But to the hungry, even what is bitter tastes sweet."
+
+- triggers: ["!proverbs27:8 ","!prov27:8 ","!pr27:8 "]
+  replace: "Like a bird that strays from its nest Is a man who strays from his home."
+
+- triggers: ["!proverbs27:9 ","!prov27:9 ","!pr27:9 "]
+  replace: "Oil and incense make the heart rejoice; So does sweet friendship springing from sincere counsel."
+
+- triggers: ["!proverbs27:10 ","!prov27:10 ","!pr27:10 "]
+  replace: "Do not forsake your friend or your father’s friend, And do not enter your own brother’s house on the day of your disaster; Better is a neighbor nearby than a brother far away."
+
+- triggers: ["!proverbs27:11 ","!prov27:11 ","!pr27:11 "]
+  replace: "Be wise, my son, and make my heart rejoice, So that I can make a reply to him who taunts me."
+
+- triggers: ["!proverbs27:12 ","!prov27:12 ","!pr27:12 "]
+  replace: "The shrewd person sees the danger and conceals himself, But the inexperienced keep right on going and suffer the consequences."
+
+- triggers: ["!proverbs27:13 ","!prov27:13 ","!pr27:13 "]
+  replace: "Take a man’s garment if he has given security for a stranger; Seize the pledge from him if he did so for a foreign woman."
+
+- triggers: ["!proverbs27:14 ","!prov27:14 ","!pr27:14 "]
+  replace: "When someone blesses his fellow man with a loud voice early in the morning, It will be counted as a curse to him."
+
+- triggers: ["!proverbs27:15 ","!prov27:15 ","!pr27:15 "]
+  replace: "A quarrelsome wife is like a constantly leaking roof on a rainy day."
+
+- triggers: ["!proverbs27:16 ","!prov27:16 ","!pr27:16 "]
+  replace: "Whoever can restrain her can restrain the wind And can grip oil with his right hand."
+
+- triggers: ["!proverbs27:17 ","!prov27:17 ","!pr27:17 "]
+  replace: "As iron sharpens iron, So one man sharpens his friend."
+
+- triggers: ["!proverbs27:18 ","!prov27:18 ","!pr27:18 "]
+  replace: "The one who cares for a fig tree will eat its fruit, And the one who takes care of his master will be honored."
+
+- triggers: ["!proverbs27:19 ","!prov27:19 ","!pr27:19 "]
+  replace: "As water reflects one’s face, So the heart of one man reflects another’s."
+
+- triggers: ["!proverbs27:20 ","!prov27:20 ","!pr27:20 "]
+  replace: "The Grave and the place of destruction are never satisfied, Nor are a man’s eyes ever satisfied."
+
+- triggers: ["!proverbs27:21 ","!prov27:21 ","!pr27:21 "]
+  replace: "As the refining pot is for silver and the furnace for gold, So a person is tested by the praise he receives."
+
+- triggers: ["!proverbs27:22 ","!prov27:22 ","!pr27:22 "]
+  replace: "Even if you pound a fool with a pestle Like crushed grain in a mortar, His foolishness will not leave him."
+
+- triggers: ["!proverbs27:23 ","!prov27:23 ","!pr27:23 "]
+  replace: "You should know well the appearance of your flock. Take good care of your sheep,"
+
+- triggers: ["!proverbs27:24 ","!prov27:24 ","!pr27:24 "]
+  replace: "For wealth does not last forever, Nor a crown for all generations."
+
+- triggers: ["!proverbs27:25 ","!prov27:25 ","!pr27:25 "]
+  replace: "The green grass disappears, new grass appears, And the vegetation of the mountains is gathered in."
+
+- triggers: ["!proverbs27:26 ","!prov27:26 ","!pr27:26 "]
+  replace: "The young rams provide your clothing, And the male goats provide the price of a field."
+
+- triggers: ["!proverbs27:27 ","!prov27:27 ","!pr27:27 "]
+  replace: "And there will be enough goat’s milk to feed you, To feed your household, and to sustain your servant girls."
+
+- triggers: ["!proverbs28:1 ","!prov28:1 ","!pr28:1 "]
+  replace: "The wicked flee when no one pursues them, But the righteous are as confident as a lion."
+
+- triggers: ["!proverbs28:2 ","!prov28:2 ","!pr28:2 "]
+  replace: "When there is transgression in the land, it will have one prince after another, But with the help of a man of discernment and knowledge, a prince will long endure."
+
+- triggers: ["!proverbs28:3 ","!prov28:3 ","!pr28:3 "]
+  replace: "A poor man who defrauds the lowly Is like a rain that sweeps away all the food."
+
+- triggers: ["!proverbs28:4 ","!prov28:4 ","!pr28:4 "]
+  replace: "Those who abandon the law praise the wicked one, But those who observe the law are indignant with them."
+
+- triggers: ["!proverbs28:5 ","!prov28:5 ","!pr28:5 "]
+  replace: "Evil men cannot understand justice, But those who seek Jehovah can understand everything."
+
+- triggers: ["!proverbs28:6 ","!prov28:6 ","!pr28:6 "]
+  replace: "Better is a poor man who walks in his integrity Than a rich man whose ways are corrupt."
+
+- triggers: ["!proverbs28:7 ","!prov28:7 ","!pr28:7 "]
+  replace: "An understanding son observes the law, But a companion of gluttons disgraces his father."
+
+- triggers: ["!proverbs28:8 ","!prov28:8 ","!pr28:8 "]
+  replace: "The one who increases his wealth by interest and usury Amasses it for the one who shows favor to the poor."
+
+- triggers: ["!proverbs28:9 ","!prov28:9 ","!pr28:9 "]
+  replace: "The one refusing to listen to the law —Even his prayer is detestable."
+
+- triggers: ["!proverbs28:10 ","!prov28:10 ","!pr28:10 "]
+  replace: "The one misleading the upright into an evil course will fall into his own pit, But the blameless will inherit what is good."
+
+- triggers: ["!proverbs28:11 ","!prov28:11 ","!pr28:11 "]
+  replace: "A rich man is wise in his own eyes, But a poor man with discernment can see through him."
+
+- triggers: ["!proverbs28:12 ","!prov28:12 ","!pr28:12 "]
+  replace: "When the righteous triumph, there is great glory, But when the wicked rise to power, people go into hiding."
+
+- triggers: ["!proverbs28:13 ","!prov28:13 ","!pr28:13 "]
+  replace: "The one covering over his transgressions will not succeed, But whoever confesses and abandons them will be shown mercy."
+
+- triggers: ["!proverbs28:14 ","!prov28:14 ","!pr28:14 "]
+  replace: "Happy is the man who is always on guard, But whoever hardens his heart will fall into calamity."
+
+- triggers: ["!proverbs28:15 ","!prov28:15 ","!pr28:15 "]
+  replace: "Like a growling lion and a charging bear Is a wicked ruler over a helpless people."
+
+- triggers: ["!proverbs28:16 ","!prov28:16 ","!pr28:16 "]
+  replace: "A leader without discernment abuses his power, But the one hating dishonest profit will prolong his life."
+
+- triggers: ["!proverbs28:17 ","!prov28:17 ","!pr28:17 "]
+  replace: "A man burdened with bloodguilt for taking someone’s life will keep fleeing until the grave. Let no one support him."
+
+- triggers: ["!proverbs28:18 ","!prov28:18 ","!pr28:18 "]
+  replace: "The one walking faultlessly will be saved, But the one whose ways are crooked will suddenly fall."
+
+- triggers: ["!proverbs28:19 ","!prov28:19 ","!pr28:19 "]
+  replace: "The one cultivating his ground will have plenty of bread, But the one taking up worthless pursuits will have his fill of poverty."
+
+- triggers: ["!proverbs28:20 ","!prov28:20 ","!pr28:20 "]
+  replace: "A faithful man will receive many blessings, But the one hastening to get rich will not remain innocent."
+
+- triggers: ["!proverbs28:21 ","!prov28:21 ","!pr28:21 "]
+  replace: "It is not good to show partiality; But a man might do wrong for a piece of bread."
+
+- triggers: ["!proverbs28:22 ","!prov28:22 ","!pr28:22 "]
+  replace: "An envious man is eager for wealth, Not knowing that poverty will overtake him."
+
+- triggers: ["!proverbs28:23 ","!prov28:23 ","!pr28:23 "]
+  replace: "Whoever reproves a man will afterward find more favor Than someone who flatters with his tongue."
+
+- triggers: ["!proverbs28:24 ","!prov28:24 ","!pr28:24 "]
+  replace: "Whoever robs his father and mother and says, “It is not wrong,” Is a partner of the man who causes ruin."
+
+- triggers: ["!proverbs28:25 ","!prov28:25 ","!pr28:25 "]
+  replace: "The greedy person stirs up dissension, But whoever relies on Jehovah will prosper."
+
+- triggers: ["!proverbs28:26 ","!prov28:26 ","!pr28:26 "]
+  replace: "Whoever trusts in his own heart is stupid, But the one who walks in wisdom will escape."
+
+- triggers: ["!proverbs28:27 ","!prov28:27 ","!pr28:27 "]
+  replace: "Whoever gives to the poor will lack nothing, But the one who closes his eyes to them will receive many curses."
+
+- triggers: ["!proverbs28:28 ","!prov28:28 ","!pr28:28 "]
+  replace: "When the wicked rise to power, a man hides himself, But when they perish, the righteous increase."
+
+- triggers: ["!proverbs29:1 ","!prov29:1 ","!pr29:1 "]
+  replace: "A man who stiffens his neck after much reproof Will suddenly be broken beyond healing."
+
+- triggers: ["!proverbs29:2 ","!prov29:2 ","!pr29:2 "]
+  replace: "When the righteous are many, the people rejoice, But when the wicked one rules, the people groan."
+
+- triggers: ["!proverbs29:3 ","!prov29:3 ","!pr29:3 "]
+  replace: "A man who loves wisdom makes his father rejoice, But the one who keeps company with prostitutes squanders his wealth."
+
+- triggers: ["!proverbs29:4 ","!prov29:4 ","!pr29:4 "]
+  replace: "By justice a king brings stability to a land, But a man seeking bribes brings it to ruin."
+
+- triggers: ["!proverbs29:5 ","!prov29:5 ","!pr29:5 "]
+  replace: "A man who flatters his neighbor Spreads out a net for his feet."
+
+- triggers: ["!proverbs29:6 ","!prov29:6 ","!pr29:6 "]
+  replace: "A bad man’s transgression ensnares him, But the righteous one cries out joyfully and rejoices."
+
+- triggers: ["!proverbs29:7 ","!prov29:7 ","!pr29:7 "]
+  replace: "The righteous one is concerned about the legal rights of the poor, But the wicked one has no such concern."
+
+- triggers: ["!proverbs29:8 ","!prov29:8 ","!pr29:8 "]
+  replace: "Boastful men inflame a town, But those who are wise turn away anger."
+
+- triggers: ["!proverbs29:9 ","!prov29:9 ","!pr29:9 "]
+  replace: "When a wise man enters into a controversy with a fool, There will be ranting and ridicule, but no satisfaction."
+
+- triggers: ["!proverbs29:10 ","!prov29:10 ","!pr29:10 "]
+  replace: "Bloodthirsty men hate anyone innocent, And they seek to take the life of the upright."
+
+- triggers: ["!proverbs29:11 ","!prov29:11 ","!pr29:11 "]
+  replace: "A stupid person gives vent to all his feelings, But the wise one calmly keeps them in check."
+
+- triggers: ["!proverbs29:12 ","!prov29:12 ","!pr29:12 "]
+  replace: "When a ruler pays attention to lies, All his servants will be wicked."
+
+- triggers: ["!proverbs29:13 ","!prov29:13 ","!pr29:13 "]
+  replace: "The poor man and the oppressor have this in common: Jehovah gives light to the eyes of both."
+
+- triggers: ["!proverbs29:14 ","!prov29:14 ","!pr29:14 "]
+  replace: "When a king judges the poor fairly, His throne will always be secure."
+
+- triggers: ["!proverbs29:15 ","!prov29:15 ","!pr29:15 "]
+  replace: "The rod and reproof impart wisdom, But a child left unrestrained brings shame on his mother."
+
+- triggers: ["!proverbs29:16 ","!prov29:16 ","!pr29:16 "]
+  replace: "When the wicked increase, transgression increases, But the righteous will see their downfall."
+
+- triggers: ["!proverbs29:17 ","!prov29:17 ","!pr29:17 "]
+  replace: "Discipline your son and he will bring you rest; And he will give you great pleasure."
+
+- triggers: ["!proverbs29:18 ","!prov29:18 ","!pr29:18 "]
+  replace: "Where there is no vision, the people go unrestrained, But happy are those who observe the law."
+
+- triggers: ["!proverbs29:19 ","!prov29:19 ","!pr29:19 "]
+  replace: "A servant will not let himself be corrected by words, For though he understands, he does not obey."
+
+- triggers: ["!proverbs29:20 ","!prov29:20 ","!pr29:20 "]
+  replace: "Have you seen a man hasty with his words? There is more hope for a fool than for him."
+
+- triggers: ["!proverbs29:21 ","!prov29:21 ","!pr29:21 "]
+  replace: "If a servant is pampered from his youth, He will become thankless later on."
+
+- triggers: ["!proverbs29:22 ","!prov29:22 ","!pr29:22 "]
+  replace: "A man prone to anger stirs up strife; Anyone disposed to rage commits many transgressions."
+
+- triggers: ["!proverbs29:23 ","!prov29:23 ","!pr29:23 "]
+  replace: "The haughtiness of a man will humble him, But whoever is humble in spirit will obtain glory."
+
+- triggers: ["!proverbs29:24 ","!prov29:24 ","!pr29:24 "]
+  replace: "The partner of a thief hates himself. He may hear the call to testify, but he reports nothing."
+
+- triggers: ["!proverbs29:25 ","!prov29:25 ","!pr29:25 "]
+  replace: "Trembling at men is a snare, But the one trusting in Jehovah will be protected."
+
+- triggers: ["!proverbs29:26 ","!prov29:26 ","!pr29:26 "]
+  replace: "Many seek an audience with a ruler, But it is from Jehovah that a man gets justice."
+
+- triggers: ["!proverbs29:27 ","!prov29:27 ","!pr29:27 "]
+  replace: "An unjust man is detestable to the righteous, But the one whose way is upright is detestable to the wicked one."
+
+- triggers: ["!proverbs30:1 ","!prov30:1 ","!pr30:1 "]
+  replace: "The weighty message contained in the words of Aʹgur son of Jaʹkeh, which he spoke to Ithʹiel, to Ithʹiel and Uʹcal."
+
+- triggers: ["!proverbs30:2 ","!prov30:2 ","!pr30:2 "]
+  replace: "I am more ignorant than anyone else, And I lack the understanding a man should have."
+
+- triggers: ["!proverbs30:3 ","!prov30:3 ","!pr30:3 "]
+  replace: "I have not learned wisdom, And I do not possess the knowledge of the Most Holy One."
+
+- triggers: ["!proverbs30:4 ","!prov30:4 ","!pr30:4 "]
+  replace: "Who has ascended to heaven and then descended? Who has gathered the wind in the palms of both hands? Who has wrapped up the waters in his garment? Who has established all the ends of the earth? What is his name and the name of his son—if you know?"
+
+- triggers: ["!proverbs30:5 ","!prov30:5 ","!pr30:5 "]
+  replace: "Every saying of God is refined. He is a shield to those taking refuge in him."
+
+- triggers: ["!proverbs30:6 ","!prov30:6 ","!pr30:6 "]
+  replace: "Add nothing to his words, Or he will reprove you, And you will be proved a liar."
+
+- triggers: ["!proverbs30:7 ","!prov30:7 ","!pr30:7 "]
+  replace: "Two things I ask of you. Do not withhold them from me before I die."
+
+- triggers: ["!proverbs30:8 ","!prov30:8 ","!pr30:8 "]
+  replace: "Remove untruth and lies far from me. Give me neither poverty nor riches. Just let me consume my portion of food,"
+
+- triggers: ["!proverbs30:9 ","!prov30:9 ","!pr30:9 "]
+  replace: "So that I do not become satisfied and deny you and say, “Who is Jehovah?” Nor let me become poor and steal and dishonor the name of my God."
+
+- triggers: ["!proverbs30:10 ","!prov30:10 ","!pr30:10 "]
+  replace: "Do not slander a servant to his master, Or he may curse you and you will be found guilty."
+
+- triggers: ["!proverbs30:11 ","!prov30:11 ","!pr30:11 "]
+  replace: "There is a generation that curses its father And does not bless its mother."
+
+- triggers: ["!proverbs30:12 ","!prov30:12 ","!pr30:12 "]
+  replace: "There is a generation that is pure in its own eyes But has not been cleansed from its filth."
+
+- triggers: ["!proverbs30:13 ","!prov30:13 ","!pr30:13 "]
+  replace: "There is a generation whose eyes are so haughty And whose eyes look so arrogantly!"
+
+- triggers: ["!proverbs30:14 ","!prov30:14 ","!pr30:14 "]
+  replace: "There is a generation whose teeth are swords And whose jaws are slaughtering knives; They devour the lowly ones of the earth And the poor from among mankind."
+
+- triggers: ["!proverbs30:15 ","!prov30:15 ","!pr30:15 "]
+  replace: "The leeches have two daughters that cry, “Give! Give!” There are three things that do not get satisfied, Four that never say, “Enough!”"
+
+- triggers: ["!proverbs30:16 ","!prov30:16 ","!pr30:16 "]
+  replace: "—The Grave and a barren womb, A land that is deprived of water, And fire that never says, “Enough!”"
+
+- triggers: ["!proverbs30:17 ","!prov30:17 ","!pr30:17 "]
+  replace: "The eye that mocks a father and despises obedience to a mother —The ravens of the valley will peck it out, And the young eagles will eat it up."
+
+- triggers: ["!proverbs30:18 ","!prov30:18 ","!pr30:18 "]
+  replace: "There are three things that are beyond my comprehension, And four that I do not understand:"
+
+- triggers: ["!proverbs30:19 ","!prov30:19 ","!pr30:19 "]
+  replace: "The way of an eagle in the heavens, The way of a serpent on a rock, The way of a ship in the open sea, And the way of a man with a young woman."
+
+- triggers: ["!proverbs30:20 ","!prov30:20 ","!pr30:20 "]
+  replace: "This is the way of an adulterous woman: She eats, she wipes her mouth; Then she says, “I have done nothing wrong.”"
+
+- triggers: ["!proverbs30:21 ","!prov30:21 ","!pr30:21 "]
+  replace: "There are three things that make the earth shudder And four things it cannot endure:"
+
+- triggers: ["!proverbs30:22 ","!prov30:22 ","!pr30:22 "]
+  replace: "When a slave rules as king, When a fool is glutted with food,"
+
+- triggers: ["!proverbs30:23 ","!prov30:23 ","!pr30:23 "]
+  replace: "When a hated woman is taken as a wife, And when a servant girl takes the place of her mistress."
+
+- triggers: ["!proverbs30:24 ","!prov30:24 ","!pr30:24 "]
+  replace: "Four things on earth are among the smallest, But they are instinctively wise:"
+
+- triggers: ["!proverbs30:25 ","!prov30:25 ","!pr30:25 "]
+  replace: "The ants are not strong creatures, Yet they prepare their food in the summer."
+
+- triggers: ["!proverbs30:26 ","!prov30:26 ","!pr30:26 "]
+  replace: "The rock badgers are not mighty creatures, Yet they make their house in the crags."
+
+- triggers: ["!proverbs30:27 ","!prov30:27 ","!pr30:27 "]
+  replace: "The locusts have no king, Yet they all go forward in formation."
+
+- triggers: ["!proverbs30:28 ","!prov30:28 ","!pr30:28 "]
+  replace: "The gecko lizard clings with its feet, And it goes into the palace of a king."
+
+- triggers: ["!proverbs30:29 ","!prov30:29 ","!pr30:29 "]
+  replace: "There are three things that have an impressive stride, Four that are impressive as they move:"
+
+- triggers: ["!proverbs30:30 ","!prov30:30 ","!pr30:30 "]
+  replace: "The lion, the mightiest among beasts, Which does not retreat from anyone;"
+
+- triggers: ["!proverbs30:31 ","!prov30:31 ","!pr30:31 "]
+  replace: "The greyhound; the male goat; And a king whose army is with him."
+
+- triggers: ["!proverbs30:32 ","!prov30:32 ","!pr30:32 "]
+  replace: "If you have foolishly exalted yourself Or if you have schemed to do so, Put your hand over your mouth."
+
+- triggers: ["!proverbs30:33 ","!prov30:33 ","!pr30:33 "]
+  replace: "For as the churning of milk produces butter And the squeezing of the nose produces blood, So the stirring up of anger produces quarrels."
+
+- triggers: ["!proverbs31:1 ","!prov31:1 ","!pr31:1 "]
+  replace: "The words of King Lemʹuel, the weighty message his mother gave to instruct him:"
+
+- triggers: ["!proverbs31:2 ","!prov31:2 ","!pr31:2 "]
+  replace: "What should I tell you, O my son, What, O son of my womb, And what, O son of my vows?"
+
+- triggers: ["!proverbs31:3 ","!prov31:3 ","!pr31:3 "]
+  replace: "Do not give your vigor to women, Nor follow ways that destroy kings."
+
+- triggers: ["!proverbs31:4 ","!prov31:4 ","!pr31:4 "]
+  replace: "It is not for kings, O Lemʹuel, It is not for kings to drink wine Nor for rulers to say, “Where is my drink?”"
+
+- triggers: ["!proverbs31:5 ","!prov31:5 ","!pr31:5 "]
+  replace: "So that they do not drink and forget what is decreed And pervert the rights of the lowly ones."
+
+- triggers: ["!proverbs31:6 ","!prov31:6 ","!pr31:6 "]
+  replace: "Give alcohol to those who are perishing And wine to those in bitter distress."
+
+- triggers: ["!proverbs31:7 ","!prov31:7 ","!pr31:7 "]
+  replace: "Let them drink and forget their poverty; Let them remember their trouble no more."
+
+- triggers: ["!proverbs31:8 ","!prov31:8 ","!pr31:8 "]
+  replace: "Speak up in behalf of the speechless; Defend the rights of all who are perishing."
+
+- triggers: ["!proverbs31:9 ","!prov31:9 ","!pr31:9 "]
+  replace: "Speak up and judge righteously; Defend the rights of the lowly and the poor. א [Aleph]"
+
+- triggers: ["!proverbs31:10 ","!prov31:10 ","!pr31:10 "]
+  replace: "Who can find a capable wife? Her value is far more than that of corals. ב [Beth]"
+
+- triggers: ["!proverbs31:11 ","!prov31:11 ","!pr31:11 "]
+  replace: "Her husband trusts her from his heart, And he lacks nothing of value. ג [Gimel]"
+
+- triggers: ["!proverbs31:12 ","!prov31:12 ","!pr31:12 "]
+  replace: "She rewards him with good, not bad, All the days of her life. ד [Daleth]"
+
+- triggers: ["!proverbs31:13 ","!prov31:13 ","!pr31:13 "]
+  replace: "She obtains wool and linen; She delights to work with her hands. ה [He]"
+
+- triggers: ["!proverbs31:14 ","!prov31:14 ","!pr31:14 "]
+  replace: "She is like the ships of a merchant, Bringing her food in from afar. ו [Waw]"
+
+- triggers: ["!proverbs31:15 ","!prov31:15 ","!pr31:15 "]
+  replace: "She also rises while it is still night, Providing food for her household And portions for her female servants. ז [Zayin]"
+
+- triggers: ["!proverbs31:16 ","!prov31:16 ","!pr31:16 "]
+  replace: "She sets her mind on a field and buys it; She plants a vineyard from her own labors. ח [Heth]"
+
+- triggers: ["!proverbs31:17 ","!prov31:17 ","!pr31:17 "]
+  replace: "She prepares herself for hard work, And she strengthens her arms. ט [Teth]"
+
+- triggers: ["!proverbs31:18 ","!prov31:18 ","!pr31:18 "]
+  replace: "She sees that her trading is profitable; Her lamp does not go out at night. י [Yod]"
+
+- triggers: ["!proverbs31:19 ","!prov31:19 ","!pr31:19 "]
+  replace: "Her hands seize the distaff, And her hands take hold of the spindle. כ [Kaph]"
+
+- triggers: ["!proverbs31:20 ","!prov31:20 ","!pr31:20 "]
+  replace: "She extends her palm to the lowly one, And she opens her hands to the poor. ל [Lamed]"
+
+- triggers: ["!proverbs31:21 ","!prov31:21 ","!pr31:21 "]
+  replace: "She does not worry about her household because of the snow, For her whole household is clothed in warm garments. מ [Mem]"
+
+- triggers: ["!proverbs31:22 ","!prov31:22 ","!pr31:22 "]
+  replace: "She makes her own bed covers. Her clothing is of linen and purple wool. נ [Nun]"
+
+- triggers: ["!proverbs31:23 ","!prov31:23 ","!pr31:23 "]
+  replace: "Her husband is well-known in the city gates, Where he sits among the elders of the land. ס [Samekh]"
+
+- triggers: ["!proverbs31:24 ","!prov31:24 ","!pr31:24 "]
+  replace: "She makes and sells linen garments And supplies belts to the merchants. ע [Ayin]"
+
+- triggers: ["!proverbs31:25 ","!prov31:25 ","!pr31:25 "]
+  replace: "She is clothed with strength and splendor, And she looks to the future with confidence. פ [Pe]"
+
+- triggers: ["!proverbs31:26 ","!prov31:26 ","!pr31:26 "]
+  replace: "She opens her mouth in wisdom; The law of kindness is on her tongue. צ [Tsade]"
+
+- triggers: ["!proverbs31:27 ","!prov31:27 ","!pr31:27 "]
+  replace: "She watches over the activity of her household, And the bread of laziness she does not eat. ק [Qoph]"
+
+- triggers: ["!proverbs31:28 ","!prov31:28 ","!pr31:28 "]
+  replace: "Her children rise up and declare her happy; Her husband rises up and praises her. ר [Resh]"
+
+- triggers: ["!proverbs31:29 ","!prov31:29 ","!pr31:29 "]
+  replace: "There are many capable women, But you—you surpass them all. ש [Shin]"
+
+- triggers: ["!proverbs31:30 ","!prov31:30 ","!pr31:30 "]
+  replace: "Charm may be false, and beauty may be fleeting, But the woman who fears Jehovah will be praised. ת [Taw]"
+
+- triggers: ["!proverbs31:31 ","!prov31:31 ","!pr31:31 "]
+  replace: "Give her the reward for what she does, And let her works praise her in the city gates."
+

@@ -1,0 +1,463 @@
+matches:
+- triggers: ["!lamentations1:1 ","!lam1:1 ","!la1:1 "]
+  replace: "How she now sits all alone, the city that was full of people! How she has become like a widow, she who was populous among the nations! How she who was a princess among the provinces has been put to forced labor! ב [Beth]"
+
+- triggers: ["!lamentations1:2 ","!lam1:2 ","!la1:2 "]
+  replace: "She weeps profusely during the night, and her tears cover her cheeks. Not one of all her lovers is there to comfort her. All her own companions have betrayed her; they have become her enemies. ג [Gimel]"
+
+- triggers: ["!lamentations1:3 ","!lam1:3 ","!la1:3 "]
+  replace: "Judah has gone into exile under affliction and harsh slavery. She must dwell among the nations; she finds no resting-place. All her persecutors have overtaken her in her distress. ד [Daleth]"
+
+- triggers: ["!lamentations1:4 ","!lam1:4 ","!la1:4 "]
+  replace: "The roads to Zion are mourning, because no one is coming to the festival. All her gates are desolate; her priests are sighing. Her virgins are grieving, and she is in bitter anguish. ה [He]"
+
+- triggers: ["!lamentations1:5 ","!lam1:5 ","!la1:5 "]
+  replace: "Her adversaries are now her master; her enemies are carefree. For Jehovah has brought grief to her because of her many transgressions. Her children have gone into captivity before the adversary. ו [Waw]"
+
+- triggers: ["!lamentations1:6 ","!lam1:6 ","!la1:6 "]
+  replace: "All the splendor has departed from the daughter of Zion. Her princes are like stags that have found no pasture, And they walk exhausted before the pursuer. ז [Zayin]"
+
+- triggers: ["!lamentations1:7 ","!lam1:7 ","!la1:7 "]
+  replace: "In the days of her affliction and her homelessness, Jerusalem remembers All the precious things that were hers in the days of long ago. When her people fell into the hand of the adversary and she had no helper, The adversaries saw her and laughed over her collapse. ח [Heth]"
+
+- triggers: ["!lamentations1:8 ","!lam1:8 ","!la1:8 "]
+  replace: "Jerusalem has sinned greatly. That is why she has become something abhorrent. All who used to honor her now treat her as something contemptible, for they have seen her nakedness. She herself groans and turns away in shame. ט [Teth]"
+
+- triggers: ["!lamentations1:9 ","!lam1:9 ","!la1:9 "]
+  replace: "Her uncleanness is in her skirts. She gave no thought to her future. Her downfall was astounding; she has no one to comfort her. O Jehovah, see my affliction, for the enemy has magnified himself. י [Yod]"
+
+- triggers: ["!lamentations1:10 ","!lam1:10 ","!la1:10 "]
+  replace: "The adversary has laid his hands on all her treasures. For she has seen nations enter her sanctuary, Those whom you commanded should not enter into your congregation. כ [Kaph]"
+
+- triggers: ["!lamentations1:11 ","!lam1:11 ","!la1:11 "]
+  replace: "All her people are sighing; they are looking for bread. They have given their valuable things for something to eat, just to stay alive. Look, O Jehovah, and see that I have become as a worthless woman. ל [Lamed]"
+
+- triggers: ["!lamentations1:12 ","!lam1:12 ","!la1:12 "]
+  replace: "Is it nothing to all of you who pass along the road? Look and see! Is there any pain like the pain that was dealt out to me, Which Jehovah made me suffer in the day of his burning anger? מ [Mem]"
+
+- triggers: ["!lamentations1:13 ","!lam1:13 ","!la1:13 "]
+  replace: "From on high he has sent fire into my bones, and he subdues each one. He has spread out a net for my feet; he has forced me to turn backward. He has made me a desolate woman. All day long I am ill. נ [Nun]"
+
+- triggers: ["!lamentations1:14 ","!lam1:14 ","!la1:14 "]
+  replace: "My transgressions are bound as a yoke, fastened together by his hand. They have been placed on my neck, and my strength has failed. Jehovah has given me into the hand of those whom I cannot resist. ס [Samekh]"
+
+- triggers: ["!lamentations1:15 ","!lam1:15 ","!la1:15 "]
+  replace: "Jehovah has tossed aside all the powerful men in my midst. He has summoned an assembly against me to crush my young men. Jehovah has trodden the virgin daughter of Judah in the winepress. ע [Ayin]"
+
+- triggers: ["!lamentations1:16 ","!lam1:16 ","!la1:16 "]
+  replace: "I am weeping because of these things; my eyes flow with tears. For anyone who could comfort me or refresh me is far away from me. My sons are desolate, for the enemy has prevailed. פ [Pe]"
+
+- triggers: ["!lamentations1:17 ","!lam1:17 ","!la1:17 "]
+  replace: "Zion has spread out her hands; she has no one to comfort her. Jehovah has given an order against Jacob to all his adversaries around him. Jerusalem has become to them an abhorrent thing. צ [Tsade]"
+
+- triggers: ["!lamentations1:18 ","!lam1:18 ","!la1:18 "]
+  replace: "Jehovah is righteous, for it is against his commands that I have rebelled. Listen, all you peoples, and see my pain. My virgins and my young men have gone into captivity. ק [Qoph]"
+
+- triggers: ["!lamentations1:19 ","!lam1:19 ","!la1:19 "]
+  replace: "I have called out to my lovers, but they have betrayed me. In the city my priests and my elders have perished, While they searched for food in order to stay alive. ר [Resh]"
+
+- triggers: ["!lamentations1:20 ","!lam1:20 ","!la1:20 "]
+  replace: "See, O Jehovah, for I am in great distress. My insides are churning. My heart has turned over within me, for I have been completely rebellious. Outside the sword bereaves; inside the house it is like death. ש [Shin]"
+
+- triggers: ["!lamentations1:21 ","!lam1:21 ","!la1:21 "]
+  replace: "People have heard my sighing; there is no one to comfort me. All my enemies have heard of my calamity. They are joyful, because you brought it about. But you will bring about the day that you proclaimed, when they will become like me. ת [Taw]"
+
+- triggers: ["!lamentations1:22 ","!lam1:22 ","!la1:22 "]
+  replace: "May all their badness come before you, and may you deal harshly with them, Just as you have dealt harshly with me because of all my transgressions. For my sighs are many, and my heart is sick."
+
+- triggers: ["!lamentations2:1 ","!lam2:1 ","!la2:1 "]
+  replace: "How Jehovah has covered the daughter of Zion in the cloud of his anger! He has thrown down the beauty of Israel from heaven to earth. He has not remembered his footstool in the day of his anger. ב [Beth]"
+
+- triggers: ["!lamentations2:2 ","!lam2:2 ","!la2:2 "]
+  replace: "Jehovah has swallowed up without compassion all the dwellings of Jacob. In his fury he has torn down the fortified places of the daughter of Judah. He has brought down to the ground and profaned the kingdom and her princes. ג [Gimel]"
+
+- triggers: ["!lamentations2:3 ","!lam2:3 ","!la2:3 "]
+  replace: "In the heat of anger he has cut down all the strength of Israel. He withdrew his right hand when the enemy approached, And in Jacob he kept burning like a fire that consumed everything around it. ד [Daleth]"
+
+- triggers: ["!lamentations2:4 ","!lam2:4 ","!la2:4 "]
+  replace: "He has bent his bow like an enemy; his right hand is poised as an adversary; He kept killing all those desirable to the eyes. And he poured out his wrath like a fire into the tent of the daughter of Zion. ה [He]"
+
+- triggers: ["!lamentations2:5 ","!lam2:5 ","!la2:5 "]
+  replace: "Jehovah has become like an enemy; He has swallowed down Israel. He has swallowed down all her towers; He has destroyed all its fortified places. And in the daughter of Judah he makes mourning and lamentation abound. ו [Waw]"
+
+- triggers: ["!lamentations2:6 ","!lam2:6 ","!la2:6 "]
+  replace: "He treats his booth violently, like a hut in a garden. He has put an end to his festival. Jehovah has caused festival and sabbath to be forgotten in Zion, And in his fierce indignation he shows no regard for king and priest. ז [Zayin]"
+
+- triggers: ["!lamentations2:7 ","!lam2:7 ","!la2:7 "]
+  replace: "Jehovah has rejected his altar; He has spurned his sanctuary. He has surrendered the walls of her fortified towers into the hand of the enemy. They have raised their voice in the house of Jehovah, as on the day of a festival. ח [Heth]"
+
+- triggers: ["!lamentations2:8 ","!lam2:8 ","!la2:8 "]
+  replace: "Jehovah has resolved to destroy the wall of the daughter of Zion. He has stretched out the measuring line. He has not held back his hand from bringing destruction. And he causes rampart and wall to mourn. Together they have been made weak. ט [Teth]"
+
+- triggers: ["!lamentations2:9 ","!lam2:9 ","!la2:9 "]
+  replace: "Her gates have sunk down into the earth. He has destroyed and broken her bars. Her king and her princes are among the nations. There is no law; even her prophets find no vision from Jehovah. י [Yod]"
+
+- triggers: ["!lamentations2:10 ","!lam2:10 ","!la2:10 "]
+  replace: "The elders of the daughter of Zion sit on the ground in silence. They throw dust on their heads and wear sackcloth. The virgins of Jerusalem have bowed their heads down to the ground. כ [Kaph]"
+
+- triggers: ["!lamentations2:11 ","!lam2:11 ","!la2:11 "]
+  replace: "My eyes are worn out from shedding tears. My insides are churning. My liver has been poured out on the ground, because of the downfall of the daughter of my people, Because of the children and infants fainting away in the public squares of the town. ל [Lamed]"
+
+- triggers: ["!lamentations2:12 ","!lam2:12 ","!la2:12 "]
+  replace: "They keep asking their mothers, “Where are grain and wine?” As they faint away like someone wounded in the public squares of the city, As their life ebbs away in their mothers’ arms. מ [Mem]"
+
+- triggers: ["!lamentations2:13 ","!lam2:13 ","!la2:13 "]
+  replace: "What can I use as a witness, Or to what can I liken you, O daughter of Jerusalem? To what can I compare you, to comfort you, O virgin daughter of Zion? For your breakdown is as vast as the sea. Who can heal you? נ [Nun]"
+
+- triggers: ["!lamentations2:14 ","!lam2:14 ","!la2:14 "]
+  replace: "The visions your prophets saw for you were false and empty, And they did not expose your error in order to turn away your captivity, But they kept visioning for you false and misleading pronouncements. ס [Samekh]"
+
+- triggers: ["!lamentations2:15 ","!lam2:15 ","!la2:15 "]
+  replace: "At you all those passing by on the road scornfully clap their hands. They whistle in amazement and shake their heads at the daughter of Jerusalem, saying: “Is this the city about which they said, ‘It is perfect in beauty, the joy of all the earth’?” פ [Pe]"
+
+- triggers: ["!lamentations2:16 ","!lam2:16 ","!la2:16 "]
+  replace: "At you all your enemies have opened their mouth. They whistle and grind their teeth and say: “We have swallowed her down. This is the day we were waiting for! It has arrived, and we have seen it!” ע [Ayin]"
+
+- triggers: ["!lamentations2:17 ","!lam2:17 ","!la2:17 "]
+  replace: "Jehovah has done what he intended; he has carried out his saying, What he commanded long ago. He has torn down without compassion. He has let the enemy rejoice over you; he has exalted the strength of your adversaries. צ [Tsade]"
+
+- triggers: ["!lamentations2:18 ","!lam2:18 ","!la2:18 "]
+  replace: "Their heart cries out to Jehovah, O wall of the daughter of Zion. Let tears stream down like a torrent day and night. Give yourself no respite, give your eye no rest. ק [Qoph]"
+
+- triggers: ["!lamentations2:19 ","!lam2:19 ","!la2:19 "]
+  replace: "Rise up! Cry out during the night, at the start of the watches. Pour out your heart like water before the face of Jehovah. Raise your hands to him for the lives of your children, Who are fainting away at every street corner because of famine. ר [Resh]"
+
+- triggers: ["!lamentations2:20 ","!lam2:20 ","!la2:20 "]
+  replace: "See, O Jehovah, and look upon the one with whom you have dealt so harshly. Should women keep eating their own offspring, their own fully formed children, Or should priests and prophets be killed in the sanctuary of Jehovah? ש [Shin]"
+
+- triggers: ["!lamentations2:21 ","!lam2:21 ","!la2:21 "]
+  replace: "Young boy and old man are lying dead on the ground in the streets. My virgins and my young men have fallen by the sword. You have killed in the day of your anger; you have slaughtered without compassion. ת [Taw]"
+
+- triggers: ["!lamentations2:22 ","!lam2:22 ","!la2:22 "]
+  replace: "As if for a festival day, you summon terrors from every direction. In the day of the wrath of Jehovah, no one escaped or survived; Those whom I gave birth to and reared, my enemy exterminated."
+
+- triggers: ["!lamentations3:1 ","!lam3:1 ","!la3:1 "]
+  replace: "I am the man who has seen affliction because of the rod of his fury."
+
+- triggers: ["!lamentations3:2 ","!lam3:2 ","!la3:2 "]
+  replace: "He has driven me out and makes me walk in darkness, not in light."
+
+- triggers: ["!lamentations3:3 ","!lam3:3 ","!la3:3 "]
+  replace: "Indeed, he repeatedly brings his hand against me all day long. ב [Beth]"
+
+- triggers: ["!lamentations3:4 ","!lam3:4 ","!la3:4 "]
+  replace: "He has worn away my flesh and my skin; He has broken my bones."
+
+- triggers: ["!lamentations3:5 ","!lam3:5 ","!la3:5 "]
+  replace: "He has besieged me; he has surrounded me with bitter poison and hardship."
+
+- triggers: ["!lamentations3:6 ","!lam3:6 ","!la3:6 "]
+  replace: "He has forced me to sit in dark places, like men who died long ago. ג [Gimel]"
+
+- triggers: ["!lamentations3:7 ","!lam3:7 ","!la3:7 "]
+  replace: "He has walled me in, so that I cannot escape; He has bound me with heavy copper fetters."
+
+- triggers: ["!lamentations3:8 ","!lam3:8 ","!la3:8 "]
+  replace: "And when I cry out desperately for help, he rejects my prayer."
+
+- triggers: ["!lamentations3:9 ","!lam3:9 ","!la3:9 "]
+  replace: "He has blocked up my paths with hewn stones; He has made my roadways crooked. ד [Daleth]"
+
+- triggers: ["!lamentations3:10 ","!lam3:10 ","!la3:10 "]
+  replace: "He waits to ambush me like a bear, like a lion in hiding."
+
+- triggers: ["!lamentations3:11 ","!lam3:11 ","!la3:11 "]
+  replace: "He has forced me off the paths and torn me to pieces; He has made me desolate."
+
+- triggers: ["!lamentations3:12 ","!lam3:12 ","!la3:12 "]
+  replace: "He has bent his bow, and he sets me up as the target for the arrow. ה [He]"
+
+- triggers: ["!lamentations3:13 ","!lam3:13 ","!la3:13 "]
+  replace: "He has pierced my kidneys with the arrows of his quiver."
+
+- triggers: ["!lamentations3:14 ","!lam3:14 ","!la3:14 "]
+  replace: "I have become a laughingstock to all the peoples, the theme of their song all day long."
+
+- triggers: ["!lamentations3:15 ","!lam3:15 ","!la3:15 "]
+  replace: "He has filled me with bitter things and saturated me with wormwood. ו [Waw]"
+
+- triggers: ["!lamentations3:16 ","!lam3:16 ","!la3:16 "]
+  replace: "He breaks my teeth with gravel; He makes me cower in the ashes."
+
+- triggers: ["!lamentations3:17 ","!lam3:17 ","!la3:17 "]
+  replace: "You deprive me of peace; I have forgotten what is good."
+
+- triggers: ["!lamentations3:18 ","!lam3:18 ","!la3:18 "]
+  replace: "So I say: “My splendor has perished, as well as my expectation in Jehovah.” ז [Zayin]"
+
+- triggers: ["!lamentations3:19 ","!lam3:19 ","!la3:19 "]
+  replace: "Remember my affliction and my homeless state, the wormwood and the bitter poison."
+
+- triggers: ["!lamentations3:20 ","!lam3:20 ","!la3:20 "]
+  replace: "You will surely remember and bow low over me."
+
+- triggers: ["!lamentations3:21 ","!lam3:21 ","!la3:21 "]
+  replace: "I recall this in my heart; that is why I will show a waiting attitude. ח [Heth]"
+
+- triggers: ["!lamentations3:22 ","!lam3:22 ","!la3:22 "]
+  replace: "It is because of Jehovah’s loyal love that we have not come to our finish, For his mercies never end."
+
+- triggers: ["!lamentations3:23 ","!lam3:23 ","!la3:23 "]
+  replace: "They are new each morning; your faithfulness is abundant."
+
+- triggers: ["!lamentations3:24 ","!lam3:24 ","!la3:24 "]
+  replace: "“Jehovah is my share,” I have said, “that is why I will show a waiting attitude for him.” ט [Teth]"
+
+- triggers: ["!lamentations3:25 ","!lam3:25 ","!la3:25 "]
+  replace: "Good is Jehovah to the one hoping in him, to the person who keeps seeking him."
+
+- triggers: ["!lamentations3:26 ","!lam3:26 ","!la3:26 "]
+  replace: "Good it is to wait in silence for the salvation of Jehovah."
+
+- triggers: ["!lamentations3:27 ","!lam3:27 ","!la3:27 "]
+  replace: "Good it is for a man to carry the yoke during his youth. י [Yod]"
+
+- triggers: ["!lamentations3:28 ","!lam3:28 ","!la3:28 "]
+  replace: "Let him sit alone and keep silent when He lays it upon him."
+
+- triggers: ["!lamentations3:29 ","!lam3:29 ","!la3:29 "]
+  replace: "Let him put his mouth in the very dust; there may yet be hope."
+
+- triggers: ["!lamentations3:30 ","!lam3:30 ","!la3:30 "]
+  replace: "Let him give his cheek to the one striking him; let him have his fill of insults. כ [Kaph]"
+
+- triggers: ["!lamentations3:31 ","!lam3:31 ","!la3:31 "]
+  replace: "For Jehovah will not cast us off forever."
+
+- triggers: ["!lamentations3:32 ","!lam3:32 ","!la3:32 "]
+  replace: "Although he has caused grief, he will also show mercy according to his abundant loyal love."
+
+- triggers: ["!lamentations3:33 ","!lam3:33 ","!la3:33 "]
+  replace: "For it is not in his heart to afflict or grieve the sons of men. ל [Lamed]"
+
+- triggers: ["!lamentations3:34 ","!lam3:34 ","!la3:34 "]
+  replace: "To crush beneath one’s feet all the prisoners of the earth,"
+
+- triggers: ["!lamentations3:35 ","!lam3:35 ","!la3:35 "]
+  replace: "To deprive a man of justice in the presence of the Most High,"
+
+- triggers: ["!lamentations3:36 ","!lam3:36 ","!la3:36 "]
+  replace: "To defraud a man in his legal case —Jehovah does not tolerate such things. מ [Mem]"
+
+- triggers: ["!lamentations3:37 ","!lam3:37 ","!la3:37 "]
+  replace: "Who, then, can speak and have it happen unless Jehovah commands it?"
+
+- triggers: ["!lamentations3:38 ","!lam3:38 ","!la3:38 "]
+  replace: "From the mouth of the Most High, Bad things and good things do not go out together."
+
+- triggers: ["!lamentations3:39 ","!lam3:39 ","!la3:39 "]
+  replace: "Why should a living person complain about the consequences of his sin? נ [Nun]"
+
+- triggers: ["!lamentations3:40 ","!lam3:40 ","!la3:40 "]
+  replace: "Let us examine and scrutinize our ways, and let us return to Jehovah."
+
+- triggers: ["!lamentations3:41 ","!lam3:41 ","!la3:41 "]
+  replace: "Let us lift up our hearts along with our hands to God in the heavens:"
+
+- triggers: ["!lamentations3:42 ","!lam3:42 ","!la3:42 "]
+  replace: "“We have transgressed and rebelled, and you have not forgiven. ס [Samekh]"
+
+- triggers: ["!lamentations3:43 ","!lam3:43 ","!la3:43 "]
+  replace: "With anger you have blocked our approach; You have pursued and killed us without compassion."
+
+- triggers: ["!lamentations3:44 ","!lam3:44 ","!la3:44 "]
+  replace: "You have blocked approach to yourself with a cloud, so that our prayer may not pass through."
+
+- triggers: ["!lamentations3:45 ","!lam3:45 ","!la3:45 "]
+  replace: "You make us offscouring and refuse among the peoples.” פ [Pe]"
+
+- triggers: ["!lamentations3:46 ","!lam3:46 ","!la3:46 "]
+  replace: "All our enemies open their mouths against us."
+
+- triggers: ["!lamentations3:47 ","!lam3:47 ","!la3:47 "]
+  replace: "Dread and pitfalls have become our lot, desolation and breakdown."
+
+- triggers: ["!lamentations3:48 ","!lam3:48 ","!la3:48 "]
+  replace: "Streams of water flow from my eyes over the breakdown of the daughter of my people. ע [Ayin]"
+
+- triggers: ["!lamentations3:49 ","!lam3:49 ","!la3:49 "]
+  replace: "My eyes weep without ceasing, without pausing,"
+
+- triggers: ["!lamentations3:50 ","!lam3:50 ","!la3:50 "]
+  replace: "Until Jehovah looks down and sees from heaven."
+
+- triggers: ["!lamentations3:51 ","!lam3:51 ","!la3:51 "]
+  replace: "My eyes have brought me grief because of all the daughters of my city. צ [Tsade]"
+
+- triggers: ["!lamentations3:52 ","!lam3:52 ","!la3:52 "]
+  replace: "Without cause my enemies have hunted me down like a bird."
+
+- triggers: ["!lamentations3:53 ","!lam3:53 ","!la3:53 "]
+  replace: "They have silenced my life in the pit; they kept hurling stones at me."
+
+- triggers: ["!lamentations3:54 ","!lam3:54 ","!la3:54 "]
+  replace: "Waters flowed over my head, and I said: “I am finished!” ק [Qoph]"
+
+- triggers: ["!lamentations3:55 ","!lam3:55 ","!la3:55 "]
+  replace: "I called out your name, O Jehovah, from the depths of the pit."
+
+- triggers: ["!lamentations3:56 ","!lam3:56 ","!la3:56 "]
+  replace: "Hear my voice; do not shut your ear to my cry for help, for relief."
+
+- triggers: ["!lamentations3:57 ","!lam3:57 ","!la3:57 "]
+  replace: "You drew near in the day that I called you. You said: “Do not be afraid.” ר [Resh]"
+
+- triggers: ["!lamentations3:58 ","!lam3:58 ","!la3:58 "]
+  replace: "You have defended my cause, O Jehovah, you have redeemed my life."
+
+- triggers: ["!lamentations3:59 ","!lam3:59 ","!la3:59 "]
+  replace: "You have seen, O Jehovah, the wrong done to me; please grant me justice."
+
+- triggers: ["!lamentations3:60 ","!lam3:60 ","!la3:60 "]
+  replace: "You have seen all their vengeance, all their schemes against me. ש [Sin] or [Shin]"
+
+- triggers: ["!lamentations3:61 ","!lam3:61 ","!la3:61 "]
+  replace: "You have heard their taunts, O Jehovah, all their schemes against me,"
+
+- triggers: ["!lamentations3:62 ","!lam3:62 ","!la3:62 "]
+  replace: "The lips of my opposers and their whispering against me all day long."
+
+- triggers: ["!lamentations3:63 ","!lam3:63 ","!la3:63 "]
+  replace: "Look at them; whether they sit or stand, they mock me in their songs! ת [Taw]"
+
+- triggers: ["!lamentations3:64 ","!lam3:64 ","!la3:64 "]
+  replace: "You will repay them, O Jehovah, according to their deeds."
+
+- triggers: ["!lamentations3:65 ","!lam3:65 ","!la3:65 "]
+  replace: "You will make them hardhearted, as your curse to them."
+
+- triggers: ["!lamentations3:66 ","!lam3:66 ","!la3:66 "]
+  replace: "You will pursue them in your anger and annihilate them from under the heavens of Jehovah."
+
+- triggers: ["!lamentations4:1 ","!lam4:1 ","!la4:1 "]
+  replace: "How the shining gold has grown dim, the fine gold! How the holy stones lie scattered at every street corner! ב [Beth]"
+
+- triggers: ["!lamentations4:2 ","!lam4:2 ","!la4:2 "]
+  replace: "As for the precious sons of Zion, who were weighed against refined gold, How they have been regarded as earthenware jars, The work of a potter’s hands! ג [Gimel]"
+
+- triggers: ["!lamentations4:3 ","!lam4:3 ","!la4:3 "]
+  replace: "Even jackals offer the udder to nurse their young, But the daughter of my people has become cruel, like ostriches in the wilderness. ד [Daleth]"
+
+- triggers: ["!lamentations4:4 ","!lam4:4 ","!la4:4 "]
+  replace: "The tongue of the nursing infant sticks to its palate because of thirst. Children beg for bread, but no one gives them any. ה [He]"
+
+- triggers: ["!lamentations4:5 ","!lam4:5 ","!la4:5 "]
+  replace: "Those who used to eat delicacies lie famished in the streets. Those who were brought up wearing scarlet have embraced ash heaps. ו [Waw]"
+
+- triggers: ["!lamentations4:6 ","!lam4:6 ","!la4:6 "]
+  replace: "The punishment of the daughter of my people is greater than the punishment for the sin of Sodʹom, Which was overthrown in a moment, with no hand to help her. ז [Zayin]"
+
+- triggers: ["!lamentations4:7 ","!lam4:7 ","!la4:7 "]
+  replace: "Her Nazʹirites were purer than snow, whiter than milk. They were more ruddy than corals; they were like polished sapphires. ח [Heth]"
+
+- triggers: ["!lamentations4:8 ","!lam4:8 ","!la4:8 "]
+  replace: "Their appearance has become darker than soot; They are not recognized in the streets. Their skin has shriveled over their bones; it has become like dry wood. ט [Teth]"
+
+- triggers: ["!lamentations4:9 ","!lam4:9 ","!la4:9 "]
+  replace: "Those slain with the sword are better off than those slain by famine, Those who waste away, who are pierced through for lack of food from the field. י [Yod]"
+
+- triggers: ["!lamentations4:10 ","!lam4:10 ","!la4:10 "]
+  replace: "The hands of compassionate women have boiled their own children. They have become their food of mourning during the breakdown of the daughter of my people. כ [Kaph]"
+
+- triggers: ["!lamentations4:11 ","!lam4:11 ","!la4:11 "]
+  replace: "Jehovah has expressed his wrath; He has poured out his burning anger. And he starts a fire in Zion that consumes her foundations. ל [Lamed]"
+
+- triggers: ["!lamentations4:12 ","!lam4:12 ","!la4:12 "]
+  replace: "The kings of the earth and all the inhabitants of the productive land did not believe That the adversary and the enemy would enter the gates of Jerusalem. מ [Mem]"
+
+- triggers: ["!lamentations4:13 ","!lam4:13 ","!la4:13 "]
+  replace: "It was because of the sins of her prophets, the errors of her priests, Who shed the blood of righteous ones in her midst. נ [Nun]"
+
+- triggers: ["!lamentations4:14 ","!lam4:14 ","!la4:14 "]
+  replace: "They have wandered blindly in the streets. They are polluted with blood, So that none are able to touch their garments. ס [Samekh]"
+
+- triggers: ["!lamentations4:15 ","!lam4:15 ","!la4:15 "]
+  replace: "“Go away! Unclean!” they call out to them. “Go away! Go away! Do not touch us!” For they have gone homeless and wander about. People have said among the nations: “They cannot stay here with us. פ [Pe]"
+
+- triggers: ["!lamentations4:16 ","!lam4:16 ","!la4:16 "]
+  replace: "The face of Jehovah has scattered them; He will no longer look favorably on them. Men will show no respect for the priests, no favor to the elders.” ע [Ayin]"
+
+- triggers: ["!lamentations4:17 ","!lam4:17 ","!la4:17 "]
+  replace: "Even now our eyes are worn out from looking in vain for help. We looked and looked for help from a nation that could not save us. צ [Tsade]"
+
+- triggers: ["!lamentations4:18 ","!lam4:18 ","!la4:18 "]
+  replace: "They have hunted us down at every step so that we could not walk in our public squares. Our end has drawn near; our days have finished, for our end has come. ק [Qoph]"
+
+- triggers: ["!lamentations4:19 ","!lam4:19 ","!la4:19 "]
+  replace: "Our pursuers were swifter than the eagles of the sky. They chased us on the mountains; they ambushed us in the wilderness. ר [Resh]"
+
+- triggers: ["!lamentations4:20 ","!lam4:20 ","!la4:20 "]
+  replace: "The breath of our nostrils, the anointed one of Jehovah, has been captured in their large pit, The one of whom we said: “In his shade we will live among the nations.” ש [Sin]"
+
+- triggers: ["!lamentations4:21 ","!lam4:21 ","!la4:21 "]
+  replace: "Exult and rejoice, O daughter of Eʹdom, living as you do in the land of Uz. But to you also the cup will be passed, and you will become drunk and expose your nakedness. ת [Taw]"
+
+- triggers: ["!lamentations4:22 ","!lam4:22 ","!la4:22 "]
+  replace: "The punishment for your error, O daughter of Zion, has come to its finish. He will not carry you off into exile again. But he will turn his attention to your error, O daughter of Eʹdom. He will uncover your sins."
+
+- triggers: ["!lamentations5:1 ","!lam5:1 ","!la5:1 "]
+  replace: "Remember, O Jehovah, what has befallen us. Look and see our disgrace."
+
+- triggers: ["!lamentations5:2 ","!lam5:2 ","!la5:2 "]
+  replace: "Our inheritance has been turned over to strangers, our houses to foreigners."
+
+- triggers: ["!lamentations5:3 ","!lam5:3 ","!la5:3 "]
+  replace: "We have become orphans without a father; our mothers are like widows."
+
+- triggers: ["!lamentations5:4 ","!lam5:4 ","!la5:4 "]
+  replace: "We must pay to drink our own water, and our own wood comes at a price."
+
+- triggers: ["!lamentations5:5 ","!lam5:5 ","!la5:5 "]
+  replace: "Those pursuing us are at our neck; We are weary, but we are given no rest."
+
+- triggers: ["!lamentations5:6 ","!lam5:6 ","!la5:6 "]
+  replace: "We hold out our hand to Egypt and to Assyrʹia, to get enough bread to eat."
+
+- triggers: ["!lamentations5:7 ","!lam5:7 ","!la5:7 "]
+  replace: "Our forefathers who sinned are no more, but we must bear their errors."
+
+- triggers: ["!lamentations5:8 ","!lam5:8 ","!la5:8 "]
+  replace: "Servants now rule over us; there is no one to snatch us from their hand."
+
+- triggers: ["!lamentations5:9 ","!lam5:9 ","!la5:9 "]
+  replace: "We bring in our bread at the risk of our life, because of the sword of the wilderness."
+
+- triggers: ["!lamentations5:10 ","!lam5:10 ","!la5:10 "]
+  replace: "Our skin has become as hot as a furnace, because of the pangs of hunger."
+
+- triggers: ["!lamentations5:11 ","!lam5:11 ","!la5:11 "]
+  replace: "The wives in Zion they have humiliated, the virgins in the cities of Judah."
+
+- triggers: ["!lamentations5:12 ","!lam5:12 ","!la5:12 "]
+  replace: "Princes were hanged by their hand, and elders were shown no respect."
+
+- triggers: ["!lamentations5:13 ","!lam5:13 ","!la5:13 "]
+  replace: "Young men carry the hand mill, and boys stumble under loads of wood."
+
+- triggers: ["!lamentations5:14 ","!lam5:14 ","!la5:14 "]
+  replace: "The elders are gone from the city gate; young men do not play their music."
+
+- triggers: ["!lamentations5:15 ","!lam5:15 ","!la5:15 "]
+  replace: "The joy is gone from our heart; our dancing has turned into mourning."
+
+- triggers: ["!lamentations5:16 ","!lam5:16 ","!la5:16 "]
+  replace: "The crown has fallen from our head. Woe to us, because we have sinned!"
+
+- triggers: ["!lamentations5:17 ","!lam5:17 ","!la5:17 "]
+  replace: "Because of this our heart is sick, And because of these things our eyes have grown dim,"
+
+- triggers: ["!lamentations5:18 ","!lam5:18 ","!la5:18 "]
+  replace: "Because of Mount Zion, which is desolate; foxes now roam on it."
+
+- triggers: ["!lamentations5:19 ","!lam5:19 ","!la5:19 "]
+  replace: "As for you, O Jehovah, you sit enthroned forever. Your throne is for generation after generation."
+
+- triggers: ["!lamentations5:20 ","!lam5:20 ","!la5:20 "]
+  replace: "Why do you forget us forever and abandon us for so long a time?"
+
+- triggers: ["!lamentations5:21 ","!lam5:21 ","!la5:21 "]
+  replace: "Bring us back to yourself, O Jehovah, and we will readily return to you. Renew our days as in those of old."
+
+- triggers: ["!lamentations5:22 ","!lam5:22 ","!la5:22 "]
+  replace: "However, you have utterly rejected us. You remain intensely angry with us."
+

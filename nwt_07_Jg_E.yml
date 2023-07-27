@@ -1,0 +1,1855 @@
+matches:
+- triggers: ["!judges1:1 ","!judg1:1 ","!jg1:1 "]
+  replace: "After the death of Joshua, the Israelites inquired of Jehovah: “Who of us will go up first to fight against the Caʹnaanites?”"
+
+- triggers: ["!judges1:2 ","!judg1:2 ","!jg1:2 "]
+  replace: "Jehovah replied: “Judah will go up. Look! I am giving the land into his hand.”"
+
+- triggers: ["!judges1:3 ","!judg1:3 ","!jg1:3 "]
+  replace: "Then Judah said to his brother Simʹeon: “Come up with me into my assigned territory to fight against the Caʹnaanites. Then I will go with you into your assigned territory.” So Simʹeon went with him."
+
+- triggers: ["!judges1:4 ","!judg1:4 ","!jg1:4 "]
+  replace: "When Judah went up, Jehovah gave the Caʹnaanites and the Perʹizzites into their hands, and they defeated 10,000 men in Beʹzek."
+
+- triggers: ["!judges1:5 ","!judg1:5 ","!jg1:5 "]
+  replace: "They found Adoʹni-beʹzek in Beʹzek, and there they fought against him and defeated the Caʹnaanites and the Perʹizzites."
+
+- triggers: ["!judges1:6 ","!judg1:6 ","!jg1:6 "]
+  replace: "When Adoʹni-beʹzek fled, they chased him and caught him and cut off his thumbs and his big toes."
+
+- triggers: ["!judges1:7 ","!judg1:7 ","!jg1:7 "]
+  replace: "Then Adoʹni-beʹzek said: “There are 70 kings whose thumbs and big toes were cut off and who are picking up food under my table. Just as I have done, so God has repaid me.” After that they brought him to Jerusalem, and he died there."
+
+- triggers: ["!judges1:8 ","!judg1:8 ","!jg1:8 "]
+  replace: "Furthermore, the men of Judah fought against Jerusalem and captured it; they struck it with the sword and set the city on fire."
+
+- triggers: ["!judges1:9 ","!judg1:9 ","!jg1:9 "]
+  replace: "Afterward, the men of Judah went down to fight against the Caʹnaanites inhabiting the mountainous region and the Negʹeb and the Shepheʹlah."
+
+- triggers: ["!judges1:10 ","!judg1:10 ","!jg1:10 "]
+  replace: "So Judah marched against the Caʹnaanites who were dwelling in Hebʹron (the name of Hebʹron was previously Kirʹiath-arʹba), and they struck down Sheʹshai, Ahiʹman, and Talʹmai."
+
+- triggers: ["!judges1:11 ","!judg1:11 ","!jg1:11 "]
+  replace: "They marched from there against the inhabitants of Deʹbir. (The name of Deʹbir was previously Kirʹiath-seʹpher.)"
+
+- triggers: ["!judges1:12 ","!judg1:12 ","!jg1:12 "]
+  replace: "Then Caʹleb said: “To the man who strikes Kirʹiath-seʹpher and captures it, I will give my daughter Achʹsah as a wife.”"
+
+- triggers: ["!judges1:13 ","!judg1:13 ","!jg1:13 "]
+  replace: "And Othʹniel the son of Keʹnaz, Caʹleb’s younger brother, captured it. So he gave him his daughter Achʹsah as a wife."
+
+- triggers: ["!judges1:14 ","!judg1:14 ","!jg1:14 "]
+  replace: "While she was going home, she urged him to ask her father for a field. Then she dismounted from her donkey. Caʹleb asked her: “What do you want?”"
+
+- triggers: ["!judges1:15 ","!judg1:15 ","!jg1:15 "]
+  replace: "She said to him: “Please grant me a blessing, for you have given me a piece of land in the south; give me also Gulʹloth-maʹim.” So Caʹleb gave her Upper Gulʹloth and Lower Gulʹloth."
+
+- triggers: ["!judges1:16 ","!judg1:16 ","!jg1:16 "]
+  replace: "And the descendants of the Kenʹite, Moses’ father-in-law, came up from the city of palm trees with the people of Judah to the wilderness of Judah south of Aʹrad. They went there and settled among the people."
+
+- triggers: ["!judges1:17 ","!judg1:17 ","!jg1:17 "]
+  replace: "But Judah marched on with his brother Simʹeon, and they attacked the Caʹnaanites inhabiting Zeʹphath and devoted it to destruction. So they named the city Horʹmah."
+
+- triggers: ["!judges1:18 ","!judg1:18 ","!jg1:18 "]
+  replace: "Then Judah captured Gazʹa and its territory, Ashʹkelon and its territory, and Ekʹron and its territory."
+
+- triggers: ["!judges1:19 ","!judg1:19 ","!jg1:19 "]
+  replace: "Jehovah was with Judah, and they took possession of the mountainous region, but they could not drive out the inhabitants of the plain, because they had war chariots with iron scythes."
+
+- triggers: ["!judges1:20 ","!judg1:20 ","!jg1:20 "]
+  replace: "They gave Hebʹron to Caʹleb, just as Moses had promised, and he drove out from there the three sons of Aʹnak."
+
+- triggers: ["!judges1:21 ","!judg1:21 ","!jg1:21 "]
+  replace: "But the Benʹjaminites did not drive out the Jebʹusites inhabiting Jerusalem, so the Jebʹusites continue dwelling with the Benʹjaminites in Jerusalem down to this day."
+
+- triggers: ["!judges1:22 ","!judg1:22 ","!jg1:22 "]
+  replace: "Meantime, the house of Joseph went up against Bethʹel, and Jehovah was with them."
+
+- triggers: ["!judges1:23 ","!judg1:23 ","!jg1:23 "]
+  replace: "The house of Joseph was spying on Bethʹel (incidentally, the name of the city was previously Luz),"
+
+- triggers: ["!judges1:24 ","!judg1:24 ","!jg1:24 "]
+  replace: "and the spies saw a man going out of the city. So they said to him: “Show us, please, the way into the city, and we will treat you kindly.”"
+
+- triggers: ["!judges1:25 ","!judg1:25 ","!jg1:25 "]
+  replace: "So the man showed them the way into the city, and they struck the city with the sword, but they let the man and all his family go free."
+
+- triggers: ["!judges1:26 ","!judg1:26 ","!jg1:26 "]
+  replace: "The man went to the land of the Hitʹtites and built a city and named it Luz, which is its name to this day."
+
+- triggers: ["!judges1:27 ","!judg1:27 ","!jg1:27 "]
+  replace: "Manasʹseh did not take possession of Beth-sheʹan and its dependent towns, Taʹanach and its dependent towns, the inhabitants of Dor and its dependent towns, the inhabitants of Ibʹleam and its dependent towns, and the inhabitants of Megidʹdo and its dependent towns. The Caʹnaanites persisted in dwelling in this land."
+
+- triggers: ["!judges1:28 ","!judg1:28 ","!jg1:28 "]
+  replace: "When Israel grew stronger, they subjected the Caʹnaanites to forced labor, but they did not drive them out completely."
+
+- triggers: ["!judges1:29 ","!judg1:29 ","!jg1:29 "]
+  replace: "Nor did Eʹphraim drive out the Caʹnaanites who were dwelling in Geʹzer. The Caʹnaanites continued to dwell among them in Geʹzer."
+
+- triggers: ["!judges1:30 ","!judg1:30 ","!jg1:30 "]
+  replace: "Zebʹulun did not drive out the inhabitants of Kitʹron and the inhabitants of Naʹhalol. The Caʹnaanites continued to dwell among them and were subjected to forced labor."
+
+- triggers: ["!judges1:31 ","!judg1:31 ","!jg1:31 "]
+  replace: "Ashʹer did not drive out the inhabitants of Acʹco and the inhabitants of Siʹdon, Ahʹlab, Achʹzib, Helʹbah, Aʹphik, and Reʹhob."
+
+- triggers: ["!judges1:32 ","!judg1:32 ","!jg1:32 "]
+  replace: "So the Ashʹerites continued to dwell among the Caʹnaanites inhabiting the land, because they did not drive them out."
+
+- triggers: ["!judges1:33 ","!judg1:33 ","!jg1:33 "]
+  replace: "Naphʹtali did not drive out the inhabitants of Beth-sheʹmesh and the inhabitants of Beth-aʹnath, but they continued to dwell among the Caʹnaanites inhabiting the land. The inhabitants of Beth-sheʹmesh and Beth-aʹnath became forced laborers for them."
+
+- triggers: ["!judges1:34 ","!judg1:34 ","!jg1:34 "]
+  replace: "The Amʹorites confined the Danʹites to the mountainous region, for they would not let them come down into the plain."
+
+- triggers: ["!judges1:35 ","!judg1:35 ","!jg1:35 "]
+  replace: "So the Amʹorites persisted in dwelling in Mount Heʹres, Aiʹjalon, and Shaalʹbim. But when the power of the house of Joseph increased, they were forced into hard labor."
+
+- triggers: ["!judges1:36 ","!judg1:36 ","!jg1:36 "]
+  replace: "The territory of the Amʹorites was from the ascent of Akrabʹbim, from Seʹla upward."
+
+- triggers: ["!judges2:1 ","!judg2:1 ","!jg2:1 "]
+  replace: "Then Jehovah’s angel went up from Gilʹgal to Boʹchim and said: “I brought you up out of Egypt into the land about which I swore to your forefathers. Furthermore, I said, ‘I will never break my covenant with you."
+
+- triggers: ["!judges2:2 ","!judg2:2 ","!jg2:2 "]
+  replace: "For your part, you must not make a covenant with the inhabitants of this land and you should pull down their altars.’ But you have not obeyed my voice. Why have you done this?"
+
+- triggers: ["!judges2:3 ","!judg2:3 ","!jg2:3 "]
+  replace: "That is why I also said, ‘I will not drive them away from before you, and they will ensnare you, and their gods will lure you away.’”"
+
+- triggers: ["!judges2:4 ","!judg2:4 ","!jg2:4 "]
+  replace: "When Jehovah’s angel spoke these words to all the Israelites, the people began to weep loudly."
+
+- triggers: ["!judges2:5 ","!judg2:5 ","!jg2:5 "]
+  replace: "So they named that place Boʹchim, and they sacrificed there to Jehovah."
+
+- triggers: ["!judges2:6 ","!judg2:6 ","!jg2:6 "]
+  replace: "When Joshua sent the people away, each of the Israelites went to his inheritance to take possession of the land."
+
+- triggers: ["!judges2:7 ","!judg2:7 ","!jg2:7 "]
+  replace: "The people continued to serve Jehovah all the days of Joshua and all the days of the elders who outlived Joshua and who had seen all of Jehovah’s great deeds in behalf of Israel."
+
+- triggers: ["!judges2:8 ","!judg2:8 ","!jg2:8 "]
+  replace: "Then Joshua the son of Nun, the servant of Jehovah, died at the age of 110."
+
+- triggers: ["!judges2:9 ","!judg2:9 ","!jg2:9 "]
+  replace: "So they buried him in the territory of his inheritance in Timʹnath-heʹres, in the mountainous region of Eʹphraim, north of Mount Gaʹash."
+
+- triggers: ["!judges2:10 ","!judg2:10 ","!jg2:10 "]
+  replace: "All that generation were gathered to their ancestors, and another generation arose after them that did not know Jehovah or what he had done for Israel."
+
+- triggers: ["!judges2:11 ","!judg2:11 ","!jg2:11 "]
+  replace: "So the Israelites did what was bad in the eyes of Jehovah and served the Baʹals."
+
+- triggers: ["!judges2:12 ","!judg2:12 ","!jg2:12 "]
+  replace: "Thus they abandoned Jehovah, the God of their fathers, who brought them out of the land of Egypt. And they followed other gods, the gods of the peoples who were all around them, and they bowed down to them and offended Jehovah."
+
+- triggers: ["!judges2:13 ","!judg2:13 ","!jg2:13 "]
+  replace: "They abandoned Jehovah and served Baʹal and the Ashʹtoreth images."
+
+- triggers: ["!judges2:14 ","!judg2:14 ","!jg2:14 "]
+  replace: "At this Jehovah’s anger blazed against Israel, so he handed them over to plunderers who pillaged them. He sold them into the hand of the enemies around them, and they were no longer able to hold their own against their enemies."
+
+- triggers: ["!judges2:15 ","!judg2:15 ","!jg2:15 "]
+  replace: "Wherever they went, the hand of Jehovah was against them, bringing disaster on them, just as Jehovah had said and just as Jehovah had sworn to them, and they were in great distress."
+
+- triggers: ["!judges2:16 ","!judg2:16 ","!jg2:16 "]
+  replace: "So Jehovah would raise up judges who would save them from the hand of their plunderers."
+
+- triggers: ["!judges2:17 ","!judg2:17 ","!jg2:17 "]
+  replace: "But they refused to listen even to the judges and would prostitute themselves to other gods and bow down to them. They quickly turned aside from the way in which their forefathers had walked, those who had obeyed the commandments of Jehovah. They failed to do that."
+
+- triggers: ["!judges2:18 ","!judg2:18 ","!jg2:18 "]
+  replace: "Whenever Jehovah did raise up judges for them, Jehovah would be with the judge and save them from the hand of their enemies all the days of the judge; for Jehovah was moved to pity over their groaning caused by those who oppressed them and those who were treating them abusively."
+
+- triggers: ["!judges2:19 ","!judg2:19 ","!jg2:19 "]
+  replace: "But when the judge died, they would again act more corruptly than their fathers by following other gods, serving them and bowing down to them. They did not abandon their practices and their stubborn behavior."
+
+- triggers: ["!judges2:20 ","!judg2:20 ","!jg2:20 "]
+  replace: "Finally Jehovah’s anger blazed against Israel, and he said: “Because this nation has violated my covenant that I commanded their forefathers and they have disobeyed me,"
+
+- triggers: ["!judges2:21 ","!judg2:21 ","!jg2:21 "]
+  replace: "I for my part will not drive out from before them even one of the nations that Joshua left behind when he died."
+
+- triggers: ["!judges2:22 ","!judg2:22 ","!jg2:22 "]
+  replace: "This is to test whether Israel will keep Jehovah’s way by walking in it as their fathers did.”"
+
+- triggers: ["!judges2:23 ","!judg2:23 ","!jg2:23 "]
+  replace: "So Jehovah allowed these nations to remain. He did not drive them out quickly, and he did not give them into Joshua’s hand."
+
+- triggers: ["!judges3:1 ","!judg3:1 ","!jg3:1 "]
+  replace: "These are the nations that Jehovah allowed to remain so that they could test all those of Israel who had not experienced any of the wars of Caʹnaan"
+
+- triggers: ["!judges3:2 ","!judg3:2 ","!jg3:2 "]
+  replace: "(this was so that succeeding generations of Israelites would experience war, those who had not experienced such things before):"
+
+- triggers: ["!judges3:3 ","!judg3:3 ","!jg3:3 "]
+  replace: "the five lords of the Philisʹtines, and all the Caʹnaanites, the Sidoʹnians, and the Hiʹvites inhabiting Mount Lebʹanon from Mount Baʹal-herʹmon as far as Leʹbo-haʹmath."
+
+- triggers: ["!judges3:4 ","!judg3:4 ","!jg3:4 "]
+  replace: "They served as a means of testing Israel to determine whether Israel would obey Jehovah’s commandments that he had given their fathers through Moses."
+
+- triggers: ["!judges3:5 ","!judg3:5 ","!jg3:5 "]
+  replace: "So the Israelites lived among the Caʹnaanites, the Hitʹtites, the Amʹorites, the Perʹizzites, the Hiʹvites, and the Jebʹusites."
+
+- triggers: ["!judges3:6 ","!judg3:6 ","!jg3:6 "]
+  replace: "They would take their daughters as wives, and their own daughters they gave to their sons, and they began serving their gods."
+
+- triggers: ["!judges3:7 ","!judg3:7 ","!jg3:7 "]
+  replace: "So the Israelites did what was bad in Jehovah’s eyes, and they forgot Jehovah their God and were serving the Baʹals and the sacred poles."
+
+- triggers: ["!judges3:8 ","!judg3:8 ","!jg3:8 "]
+  replace: "At this Jehovah’s anger blazed against Israel, and he sold them into the hand of Cuʹshan-rishathaʹim the king of Mesopotaʹmia. The Israelites served Cuʹshan-rishathaʹim for eight years."
+
+- triggers: ["!judges3:9 ","!judg3:9 ","!jg3:9 "]
+  replace: "When the Israelites called to Jehovah for help, Jehovah raised up a savior to rescue the Israelites, Othʹniel the son of Keʹnaz, the younger brother of Caʹleb."
+
+- triggers: ["!judges3:10 ","!judg3:10 ","!jg3:10 "]
+  replace: "The spirit of Jehovah came upon him, and he became the judge of Israel. When he went out to battle, Jehovah gave Cuʹshan-rishathaʹim the king of Mesopotaʹmia into his hand so that he prevailed over Cuʹshan-rishathaʹim."
+
+- triggers: ["!judges3:11 ","!judg3:11 ","!jg3:11 "]
+  replace: "After that the land had rest for 40 years. Then Othʹniel the son of Keʹnaz died."
+
+- triggers: ["!judges3:12 ","!judg3:12 ","!jg3:12 "]
+  replace: "And once again the Israelites began doing what was bad in Jehovah’s eyes. So Jehovah let Egʹlon the king of Moʹab prevail over Israel, because they did what was bad in Jehovah’s eyes."
+
+- triggers: ["!judges3:13 ","!judg3:13 ","!jg3:13 "]
+  replace: "Furthermore, he brought against them the Amʹmonites and the Amalʹekites. They attacked Israel and captured the city of palm trees."
+
+- triggers: ["!judges3:14 ","!judg3:14 ","!jg3:14 "]
+  replace: "The Israelites served Egʹlon the king of Moʹab for 18 years."
+
+- triggers: ["!judges3:15 ","!judg3:15 ","!jg3:15 "]
+  replace: "Then the Israelites called to Jehovah for help, so Jehovah raised up for them a savior, Eʹhud the son of Geʹra, a Benʹjaminite who was left-handed. In time the Israelites sent tribute through him to Egʹlon the king of Moʹab."
+
+- triggers: ["!judges3:16 ","!judg3:16 ","!jg3:16 "]
+  replace: "Meanwhile, Eʹhud made for himself a two-edged sword, a cubit long, and he strapped it underneath his garment on his right thigh."
+
+- triggers: ["!judges3:17 ","!judg3:17 ","!jg3:17 "]
+  replace: "He then presented the tribute to Egʹlon the king of Moʹab. Now Egʹlon was a very fat man."
+
+- triggers: ["!judges3:18 ","!judg3:18 ","!jg3:18 "]
+  replace: "When Eʹhud finished presenting the tribute, he sent away the people who had carried the tribute."
+
+- triggers: ["!judges3:19 ","!judg3:19 ","!jg3:19 "]
+  replace: "But after reaching the carved images at Gilʹgal, he himself went back and said: “I have a secret message for you, O king.” So the king said: “Silence!” With that all his attendants left him."
+
+- triggers: ["!judges3:20 ","!judg3:20 ","!jg3:20 "]
+  replace: "So Eʹhud came to him as he was sitting alone in his cool roof chamber. Then Eʹhud said: “I have a message from God for you.” So he rose up from his throne."
+
+- triggers: ["!judges3:21 ","!judg3:21 ","!jg3:21 "]
+  replace: "Then Eʹhud drew the sword from his right thigh with his left hand and plunged it into his belly."
+
+- triggers: ["!judges3:22 ","!judg3:22 ","!jg3:22 "]
+  replace: "The handle went in after the blade, and the fat closed in over the blade, for he did not draw the sword out of his belly, and the fecal matter came out."
+
+- triggers: ["!judges3:23 ","!judg3:23 ","!jg3:23 "]
+  replace: "Eʹhud went out through the porch, closing the doors of the roof chamber behind him and locking them."
+
+- triggers: ["!judges3:24 ","!judg3:24 ","!jg3:24 "]
+  replace: "After he left, the servants returned and saw that the doors of the roof chamber were locked. So they said: “He must be relieving himself in the cool interior room.”"
+
+- triggers: ["!judges3:25 ","!judg3:25 ","!jg3:25 "]
+  replace: "They kept waiting until they were embarrassed, but when they saw that he was still not opening the doors of the roof chamber, they took the key and opened them and saw their lord fallen to the floor dead!"
+
+- triggers: ["!judges3:26 ","!judg3:26 ","!jg3:26 "]
+  replace: "Eʹhud escaped while they were lingering, and he passed by the carved images and made it safely to Seiʹrah."
+
+- triggers: ["!judges3:27 ","!judg3:27 ","!jg3:27 "]
+  replace: "When he arrived, he sounded the horn in the mountainous region of Eʹphraim; and the Israelites went down out of the mountainous region, with him at their head."
+
+- triggers: ["!judges3:28 ","!judg3:28 ","!jg3:28 "]
+  replace: "Then he said to them: “Follow me, because Jehovah has given your enemies, the Moʹabites, into your hand.” So they followed him and captured the fords of the Jordan against the Moʹabites, and they did not allow anyone to cross."
+
+- triggers: ["!judges3:29 ","!judg3:29 ","!jg3:29 "]
+  replace: "At that time they struck down about 10,000 Moʹabites, all strong and valiant men; not a single one escaped."
+
+- triggers: ["!judges3:30 ","!judg3:30 ","!jg3:30 "]
+  replace: "So Moʹab was subdued on that day under Israel’s hand; and the land had rest for 80 years."
+
+- triggers: ["!judges3:31 ","!judg3:31 ","!jg3:31 "]
+  replace: "After him was Shamʹgar the son of Aʹnath, who struck down 600 Philisʹtine men with a cattle goad; he too saved Israel."
+
+- triggers: ["!judges4:1 ","!judg4:1 ","!jg4:1 "]
+  replace: "But after Eʹhud died, the Israelites again did what was bad in Jehovah’s eyes."
+
+- triggers: ["!judges4:2 ","!judg4:2 ","!jg4:2 "]
+  replace: "So Jehovah sold them into the hand of Jaʹbin the king of Caʹnaan, who reigned in Haʹzor. The chief of his army was Sisʹera, who lived in Haroʹsheth of the nations."
+
+- triggers: ["!judges4:3 ","!judg4:3 ","!jg4:3 "]
+  replace: "The Israelites cried out to Jehovah, because Jaʹbin had 900 war chariots with iron scythes, and he harshly oppressed the Israelites for 20 years."
+
+- triggers: ["!judges4:4 ","!judg4:4 ","!jg4:4 "]
+  replace: "Now Debʹorah, a prophetess, the wife of Lapʹpidoth, was judging Israel at that time."
+
+- triggers: ["!judges4:5 ","!judg4:5 ","!jg4:5 "]
+  replace: "She used to sit under Debʹorah’s palm tree between Raʹmah and Bethʹel in the mountainous region of Eʹphraim; the Israelites would go up to her for judgment."
+
+- triggers: ["!judges4:6 ","!judg4:6 ","!jg4:6 "]
+  replace: "She sent for Baʹrak the son of Abinʹoam out of Keʹdesh-naphʹtali and said to him: “Has not Jehovah the God of Israel given the command? ‘Go and march to Mount Taʹbor, and take 10,000 men of Naphʹtali and Zebʹulun with you."
+
+- triggers: ["!judges4:7 ","!judg4:7 ","!jg4:7 "]
+  replace: "I will bring to you Sisʹera, the chief of Jaʹbin’s army, along with his war chariots and his troops to the stream of Kiʹshon, and I will give him into your hand.’”"
+
+- triggers: ["!judges4:8 ","!judg4:8 ","!jg4:8 "]
+  replace: "At this Baʹrak said to her: “If you go with me, I will go, but if you do not go with me, I will not go.”"
+
+- triggers: ["!judges4:9 ","!judg4:9 ","!jg4:9 "]
+  replace: "To this she said: “I will certainly go with you. However, the campaign you are going on will not bring you glory, for it will be into the hand of a woman that Jehovah will give Sisʹera.” Then Debʹorah got up and went with Baʹrak to Keʹdesh."
+
+- triggers: ["!judges4:10 ","!judg4:10 ","!jg4:10 "]
+  replace: "Baʹrak summoned Zebʹulun and Naphʹtali to Keʹdesh, and 10,000 men followed his steps. Debʹorah also went up with him."
+
+- triggers: ["!judges4:11 ","!judg4:11 ","!jg4:11 "]
+  replace: "Incidentally, Heʹber the Kenʹite had separated from the Kenʹites, the descendants of Hoʹbab, Moses’ father-in-law, and his tent was pitched near the big tree in Zaananʹnim, which is at Keʹdesh."
+
+- triggers: ["!judges4:12 ","!judg4:12 ","!jg4:12 "]
+  replace: "They reported to Sisʹera that Baʹrak the son of Abinʹoam had gone up to Mount Taʹbor."
+
+- triggers: ["!judges4:13 ","!judg4:13 ","!jg4:13 "]
+  replace: "At once Sisʹera assembled all his war chariots—900 chariots with iron scythes—and all the troops that were with him from Haroʹsheth of the nations to go to the stream of Kiʹshon."
+
+- triggers: ["!judges4:14 ","!judg4:14 ","!jg4:14 "]
+  replace: "Debʹorah now said to Baʹrak: “Rise up, for this is the day that Jehovah will give Sisʹera into your hand. Is Jehovah not going out before you?” And Baʹrak descended from Mount Taʹbor with 10,000 men following him."
+
+- triggers: ["!judges4:15 ","!judg4:15 ","!jg4:15 "]
+  replace: "Then Jehovah threw Sisʹera and all his war chariots and all the army into confusion before the sword of Baʹrak. Finally Sisʹera got down from his chariot and fled on foot."
+
+- triggers: ["!judges4:16 ","!judg4:16 ","!jg4:16 "]
+  replace: "Baʹrak chased after the war chariots and the army as far as Haroʹsheth of the nations. So Sisʹera’s whole army fell by the sword; not even one remained."
+
+- triggers: ["!judges4:17 ","!judg4:17 ","!jg4:17 "]
+  replace: "But Sisʹera fled on foot to the tent of Jaʹel the wife of Heʹber the Kenʹite, for there was peace between Jaʹbin the king of Haʹzor and the house of Heʹber the Kenʹite."
+
+- triggers: ["!judges4:18 ","!judg4:18 ","!jg4:18 "]
+  replace: "Then Jaʹel came out to meet Sisʹera and said to him: “Come in, my lord, come in here. Do not be afraid.” So he went into her tent, and she covered him with a blanket."
+
+- triggers: ["!judges4:19 ","!judg4:19 ","!jg4:19 "]
+  replace: "Then he said to her: “Give me, please, a little water to drink, for I am thirsty.” So she opened a skin bottle of milk and gave him a drink, after which she again covered him."
+
+- triggers: ["!judges4:20 ","!judg4:20 ","!jg4:20 "]
+  replace: "He told her: “Stand at the entrance of the tent, and if anybody comes and asks you, ‘Is there a man here?’ say, ‘No!’”"
+
+- triggers: ["!judges4:21 ","!judg4:21 ","!jg4:21 "]
+  replace: "But Jaʹel the wife of Heʹber took a tent pin and a hammer in her hand. Then while he was fast asleep and exhausted, she stealthily approached him and drove the pin through his temples and beat it into the ground, and he died."
+
+- triggers: ["!judges4:22 ","!judg4:22 ","!jg4:22 "]
+  replace: "Baʹrak went there in pursuit of Sisʹera, and Jaʹel now came out to meet him and said: “Come and I will show you the man you are looking for.” He went in with her and saw Sisʹera lying dead, with the tent pin through his temples."
+
+- triggers: ["!judges4:23 ","!judg4:23 ","!jg4:23 "]
+  replace: "So on that day, God subdued Jaʹbin the king of Caʹnaan before the Israelites."
+
+- triggers: ["!judges4:24 ","!judg4:24 ","!jg4:24 "]
+  replace: "The hand of the Israelites came down harder and harder against Jaʹbin the king of Caʹnaan, until they destroyed Jaʹbin the king of Caʹnaan."
+
+- triggers: ["!judges5:1 ","!judg5:1 ","!jg5:1 "]
+  replace: "On that day Debʹorah along with Baʹrak the son of Abinʹoam sang this song:"
+
+- triggers: ["!judges5:2 ","!judg5:2 ","!jg5:2 "]
+  replace: "“Because of the unbound hair in Israel, Because of the people’s volunteering, Praise Jehovah!"
+
+- triggers: ["!judges5:3 ","!judg5:3 ","!jg5:3 "]
+  replace: "Listen, you kings! Give ear, you rulers! To Jehovah I will sing. I will sing praises to Jehovah, Israel’s God."
+
+- triggers: ["!judges5:4 ","!judg5:4 ","!jg5:4 "]
+  replace: "Jehovah, when you went out from Seʹir, When you marched out of the territory of Eʹdom, The earth shook, and the heavens poured, The clouds poured down water."
+
+- triggers: ["!judges5:5 ","!judg5:5 ","!jg5:5 "]
+  replace: "Mountains melted before the face of Jehovah, Even Siʹnai before the face of Jehovah, Israel’s God."
+
+- triggers: ["!judges5:6 ","!judg5:6 ","!jg5:6 "]
+  replace: "In the days of Shamʹgar the son of Aʹnath, In the days of Jaʹel, the roads were deserted; Travelers kept to the back roads."
+
+- triggers: ["!judges5:7 ","!judg5:7 ","!jg5:7 "]
+  replace: "The villagers in Israel were no more; They were no more until I, Debʹorah, rose up, Until I arose as a mother in Israel."
+
+- triggers: ["!judges5:8 ","!judg5:8 ","!jg5:8 "]
+  replace: "They chose new gods; Then there was war in the gates. A shield could not be seen, nor a lance, Among 40,000 in Israel."
+
+- triggers: ["!judges5:9 ","!judg5:9 ","!jg5:9 "]
+  replace: "My heart is with the commanders of Israel, Who went as volunteers with the people. Praise Jehovah!"
+
+- triggers: ["!judges5:10 ","!judg5:10 ","!jg5:10 "]
+  replace: "You riders on tawny donkeys, You who sit on fine carpets, And you who walk on the road, Consider!"
+
+- triggers: ["!judges5:11 ","!judg5:11 ","!jg5:11 "]
+  replace: "The voices of the water distributors were heard at the watering places; There they were recounting the righteous acts of Jehovah, The righteous acts of his villagers in Israel. Then Jehovah’s people went down to the gates."
+
+- triggers: ["!judges5:12 ","!judg5:12 ","!jg5:12 "]
+  replace: "Awake, awake, O Debʹorah! Awake, awake, sing a song! Rise up, Baʹrak! Lead your captives away, you son of Abinʹoam!"
+
+- triggers: ["!judges5:13 ","!judg5:13 ","!jg5:13 "]
+  replace: "Then those who were left came down to the nobles; Jehovah’s people came down to me against the mighty."
+
+- triggers: ["!judges5:14 ","!judg5:14 ","!jg5:14 "]
+  replace: "Out of Eʹphraim was their origin, those in the valley; They are following you, O Benjamin, among your peoples. From Maʹchir the commanders went down, And from Zebʹulun those who bear the recruiter’s staff."
+
+- triggers: ["!judges5:15 ","!judg5:15 ","!jg5:15 "]
+  replace: "The princes in Isʹsachar were with Debʹorah, As was Isʹsachar, so was Baʹrak. Into the valley plain he was sent on foot. Among the divisions of Reuʹben there was intense heart-searching."
+
+- triggers: ["!judges5:16 ","!judg5:16 ","!jg5:16 "]
+  replace: "Why did you sit down between the two saddlebags, Listening to them playing their pipes for the flocks? For the divisions of Reuʹben, there was intense heart-searching."
+
+- triggers: ["!judges5:17 ","!judg5:17 ","!jg5:17 "]
+  replace: "Gilʹead remained beyond the Jordan; And Dan, why did he stay with the ships? Ashʹer sat idle at the seashore, And by his harbors he remained."
+
+- triggers: ["!judges5:18 ","!judg5:18 ","!jg5:18 "]
+  replace: "Zebʹulun was a people who risked their lives to the point of death; Naphʹtali also, on the open heights."
+
+- triggers: ["!judges5:19 ","!judg5:19 ","!jg5:19 "]
+  replace: "Kings came, they fought; The kings of Caʹnaan then fought In Taʹanach, by the waters of Megidʹdo. No spoil of silver did they take."
+
+- triggers: ["!judges5:20 ","!judg5:20 ","!jg5:20 "]
+  replace: "From heaven the stars fought; From their orbits they fought against Sisʹera."
+
+- triggers: ["!judges5:21 ","!judg5:21 ","!jg5:21 "]
+  replace: "The torrent of Kiʹshon washed them away, The ancient torrent, the torrent of Kiʹshon. You trampled down the powerful, O my soul."
+
+- triggers: ["!judges5:22 ","!judg5:22 ","!jg5:22 "]
+  replace: "Then the hooves of horses pounded As his stallions galloped furiously."
+
+- triggers: ["!judges5:23 ","!judg5:23 ","!jg5:23 "]
+  replace: "‘Curse Meʹroz,’ said the angel of Jehovah, ‘Yes, curse its inhabitants, For they did not come to the assistance of Jehovah, To the assistance of Jehovah with the mighty ones.’"
+
+- triggers: ["!judges5:24 ","!judg5:24 ","!jg5:24 "]
+  replace: "Most blessed of women is Jaʹel The wife of Heʹber the Kenʹite; She is most blessed of women living in tents."
+
+- triggers: ["!judges5:25 ","!judg5:25 ","!jg5:25 "]
+  replace: "He asked for water; she gave him milk. In a majestic banquet bowl she offered curdled milk."
+
+- triggers: ["!judges5:26 ","!judg5:26 ","!jg5:26 "]
+  replace: "With her hand she reached for the tent pin, Her right hand for the workman’s mallet. And she hammered Sisʹera, she crushed his head, And she smashed and pierced his temples."
+
+- triggers: ["!judges5:27 ","!judg5:27 ","!jg5:27 "]
+  replace: "Between her feet he collapsed; he fell and lay still; Between her feet he collapsed and fell; Where he collapsed, there he fell defeated."
+
+- triggers: ["!judges5:28 ","!judg5:28 ","!jg5:28 "]
+  replace: "From the window a woman looked out, Sisʹera’s mother peered out from the lattice, ‘Why is his chariot delayed in coming? Why are the hoofbeats of his chariots so late?’"
+
+- triggers: ["!judges5:29 ","!judg5:29 ","!jg5:29 "]
+  replace: "The wisest of her noble ladies would answer her; Yes, she too would repeat to herself,"
+
+- triggers: ["!judges5:30 ","!judg5:30 ","!jg5:30 "]
+  replace: "‘They must be dividing the spoil they found, A girl, two girls, to every warrior, Spoil of dyed cloth for Sisʹera, spoil of dyed cloth, An embroidered garment, dyed cloth, two embroidered garments For the necks of the plunderers.’"
+
+- triggers: ["!judges5:31 ","!judg5:31 ","!jg5:31 "]
+  replace: "So let all your enemies perish, O Jehovah, But let those who love you be like the sun rising in its glory.” And the land had rest for 40 years."
+
+- triggers: ["!judges6:1 ","!judg6:1 ","!jg6:1 "]
+  replace: "But the Israelites again did what was bad in the eyes of Jehovah, so Jehovah gave them into the hand of Midʹian for seven years."
+
+- triggers: ["!judges6:2 ","!judg6:2 ","!jg6:2 "]
+  replace: "The hand of Midʹian dominated over Israel. Because of Midʹian, the Israelites made hiding places for themselves in the mountains, in the caves, and in the places difficult to approach."
+
+- triggers: ["!judges6:3 ","!judg6:3 ","!jg6:3 "]
+  replace: "If Israel sowed seed, Midʹian and Amʹalek and the Easterners would attack them."
+
+- triggers: ["!judges6:4 ","!judg6:4 ","!jg6:4 "]
+  replace: "They would camp against them and ruin the produce of the land all the way to Gazʹa, and they left nothing for Israel to eat and no sheep or bull or donkey."
+
+- triggers: ["!judges6:5 ","!judg6:5 ","!jg6:5 "]
+  replace: "For they would come up with their livestock and tents as numerous as the locusts, and they and their camels could not be numbered, and they would come into the land to destroy it."
+
+- triggers: ["!judges6:6 ","!judg6:6 ","!jg6:6 "]
+  replace: "So Israel became greatly impoverished on account of Midʹian; and the Israelites called to Jehovah for help."
+
+- triggers: ["!judges6:7 ","!judg6:7 ","!jg6:7 "]
+  replace: "When the Israelites called to Jehovah for help because of Midʹian,"
+
+- triggers: ["!judges6:8 ","!judg6:8 ","!jg6:8 "]
+  replace: "Jehovah sent to the Israelites a prophet who said to them: “This is what Jehovah the God of Israel says, ‘I brought you up from Egypt and thus brought you out of the house of slavery."
+
+- triggers: ["!judges6:9 ","!judg6:9 ","!jg6:9 "]
+  replace: "So I rescued you from the hand of Egypt and from all your oppressors and drove them out from before you and gave you their land."
+
+- triggers: ["!judges6:10 ","!judg6:10 ","!jg6:10 "]
+  replace: "And I said to you: “I am Jehovah your God. You must not fear the gods of the Amʹorites in whose land you are dwelling.” But you did not obey me.’”"
+
+- triggers: ["!judges6:11 ","!judg6:11 ","!jg6:11 "]
+  replace: "Later Jehovah’s angel came and sat under the big tree that was in Ophʹrah, which belonged to Joʹash the Abi-ezʹrite. His son Gidʹeon was beating out wheat in the winepress in order to hide it from Midʹian."
+
+- triggers: ["!judges6:12 ","!judg6:12 ","!jg6:12 "]
+  replace: "Jehovah’s angel appeared to him and said: “Jehovah is with you, you mighty warrior.”"
+
+- triggers: ["!judges6:13 ","!judg6:13 ","!jg6:13 "]
+  replace: "At this Gidʹeon said to him: “Pardon me, my lord, but if Jehovah is with us, why has all of this come upon us? Where are all his wonderful acts that our fathers related to us, saying, ‘Did Jehovah not bring us up out of Egypt?’ Now Jehovah has deserted us and given us into Midʹian’s hand.”"
+
+- triggers: ["!judges6:14 ","!judg6:14 ","!jg6:14 "]
+  replace: "Jehovah faced him and said: “Go with the strength you have, and you will save Israel out of Midʹian’s hand. Is it not I who send you?”"
+
+- triggers: ["!judges6:15 ","!judg6:15 ","!jg6:15 "]
+  replace: "Gidʹeon answered him: “Pardon me, Jehovah. How can I save Israel? Look! My clan is the least in Manasʹseh, and I am the most insignificant in my father’s house.”"
+
+- triggers: ["!judges6:16 ","!judg6:16 ","!jg6:16 "]
+  replace: "But Jehovah said to him: “Because I will be with you, you will strike down Midʹian as if they were one man.”"
+
+- triggers: ["!judges6:17 ","!judg6:17 ","!jg6:17 "]
+  replace: "Then he said to him: “If, now, I have found favor in your eyes, show me a sign that you are the one speaking with me."
+
+- triggers: ["!judges6:18 ","!judg6:18 ","!jg6:18 "]
+  replace: "Please do not depart from here until I return with my gift and set it before you.” So he said: “I will stay here until you return.”"
+
+- triggers: ["!judges6:19 ","!judg6:19 ","!jg6:19 "]
+  replace: "And Gidʹeon went in and prepared a young goat and made unleavened bread from an eʹphah of flour. He put the meat in the basket and the broth in the cooking pot; then he brought them out to him and served them under the big tree."
+
+- triggers: ["!judges6:20 ","!judg6:20 ","!jg6:20 "]
+  replace: "The angel of the true God now said to him: “Take the meat and the unleavened bread and place them on the big rock there, and pour out the broth.” And he did so."
+
+- triggers: ["!judges6:21 ","!judg6:21 ","!jg6:21 "]
+  replace: "Then Jehovah’s angel stretched out the tip of the staff that was in his hand and touched the meat and the unleavened bread, and fire flared up from the rock and consumed the meat and the unleavened bread. Jehovah’s angel then vanished from his sight."
+
+- triggers: ["!judges6:22 ","!judg6:22 ","!jg6:22 "]
+  replace: "Gidʹeon now realized that it was Jehovah’s angel. At once Gidʹeon said: “Alas, Sovereign Lord Jehovah, for I have seen Jehovah’s angel face-to-face!”"
+
+- triggers: ["!judges6:23 ","!judg6:23 ","!jg6:23 "]
+  replace: "But Jehovah said to him: “Peace be with you. Have no fear; you will not die.”"
+
+- triggers: ["!judges6:24 ","!judg6:24 ","!jg6:24 "]
+  replace: "So Gidʹeon built an altar there to Jehovah, and it is called Jehoʹvah-shaʹlom down to this day. It is still in Ophʹrah of the Abi-ezʹrites."
+
+- triggers: ["!judges6:25 ","!judg6:25 ","!jg6:25 "]
+  replace: "That night Jehovah said to him: “Take the young bull that belongs to your father, the second young bull that is seven years old, and tear down the altar of Baʹal that belongs to your father, and cut down the sacred pole next to it."
+
+- triggers: ["!judges6:26 ","!judg6:26 ","!jg6:26 "]
+  replace: "After you build an altar to Jehovah your God on top of this stronghold with the row of stones, take the second young bull and offer it as a burnt offering on the pieces of wood from the sacred pole that you cut down.”"
+
+- triggers: ["!judges6:27 ","!judg6:27 ","!jg6:27 "]
+  replace: "So Gidʹeon took ten men of his servants and did just as Jehovah told him. But he feared the household of his father and the men of the city too much to do it by day, so he did it at night."
+
+- triggers: ["!judges6:28 ","!judg6:28 ","!jg6:28 "]
+  replace: "When the men of the city got up early the next morning, they saw that the altar of Baʹal had been pulled down and the sacred pole beside it had been cut down and the second young bull had been offered up on the altar that had been built."
+
+- triggers: ["!judges6:29 ","!judg6:29 ","!jg6:29 "]
+  replace: "They asked one another: “Who did this?” After they investigated, they said: “Gidʹeon the son of Joʹash did this.”"
+
+- triggers: ["!judges6:30 ","!judg6:30 ","!jg6:30 "]
+  replace: "So the men of the city said to Joʹash: “Bring your son out that he may die, because he pulled down the altar of Baʹal and cut down the sacred pole next to it.”"
+
+- triggers: ["!judges6:31 ","!judg6:31 ","!jg6:31 "]
+  replace: "Joʹash then said to all those who confronted him: “Do you have to defend Baʹal? Do you have to save him? Whoever defends him should be put to death this morning. If he is a god, let him defend himself, since someone pulled down his altar.”"
+
+- triggers: ["!judges6:32 ","!judg6:32 ","!jg6:32 "]
+  replace: "And he called Gidʹeon Jerubbaʹal on that day, saying: “Let Baʹal defend himself, for someone has pulled down his altar.”"
+
+- triggers: ["!judges6:33 ","!judg6:33 ","!jg6:33 "]
+  replace: "All Midʹian and Amʹalek and the Easterners joined forces; and they crossed over into the Valley of Jezʹreel and camped."
+
+- triggers: ["!judges6:34 ","!judg6:34 ","!jg6:34 "]
+  replace: "Then Jehovah’s spirit came upon Gidʹeon and he sounded the horn, and the Abi-ezʹrites rallied behind him."
+
+- triggers: ["!judges6:35 ","!judg6:35 ","!jg6:35 "]
+  replace: "He sent out messengers through all of Manasʹseh, and they too rallied behind him. He also sent out messengers through Ashʹer, Zebʹulun, and Naphʹtali, and they came up to meet him."
+
+- triggers: ["!judges6:36 ","!judg6:36 ","!jg6:36 "]
+  replace: "Then Gidʹeon said to the true God: “If you are saving Israel by means of me, just as you have promised,"
+
+- triggers: ["!judges6:37 ","!judg6:37 ","!jg6:37 "]
+  replace: "here I am laying a fleece of wool on the threshing floor. If there is dew on the fleece only but all the ground around it is dry, then I will know that you will save Israel by means of me, just as you have promised.”"
+
+- triggers: ["!judges6:38 ","!judg6:38 ","!jg6:38 "]
+  replace: "And that is how it happened. When he rose up early the next day and wrung the fleece, he squeezed off enough dew from the fleece to fill a large banquet bowl with water."
+
+- triggers: ["!judges6:39 ","!judg6:39 ","!jg6:39 "]
+  replace: "However, Gidʹeon said to the true God: “Do not let your anger burn against me, but let me ask just once more. Let me, please, make just one more test with the fleece. Please let the fleece alone be dry while there is dew all over the ground.”"
+
+- triggers: ["!judges6:40 ","!judg6:40 ","!jg6:40 "]
+  replace: "So that is what God did that night; only the fleece was dry, and there was dew all over the ground."
+
+- triggers: ["!judges7:1 ","!judg7:1 ","!jg7:1 "]
+  replace: "Then Jerubbaʹal, that is, Gidʹeon, and all the people with him rose early and encamped at the Spring of Haʹrod, while the camp of Midʹian was north of him at the hill of Moʹreh in the valley plain."
+
+- triggers: ["!judges7:2 ","!judg7:2 ","!jg7:2 "]
+  replace: "Jehovah now said to Gidʹeon: “There are too many people with you for me to give Midʹian into their hand. Otherwise, Israel might brag about itself against me and say, ‘My own hand saved me.’"
+
+- triggers: ["!judges7:3 ","!judg7:3 ","!jg7:3 "]
+  replace: "Now, please, announce in the presence of the people: ‘Whoever is afraid and trembling, let him return home.’” So Gidʹeon put them to the test. With that, 22,000 of the people returned home, and 10,000 remained."
+
+- triggers: ["!judges7:4 ","!judg7:4 ","!jg7:4 "]
+  replace: "Still Jehovah said to Gidʹeon: “There are yet too many people. Have them go down to the water so that I may test them for you there. When I say to you, ‘This one will go with you,’ he will go with you, but when I say to you, ‘This one will not go along with you,’ he will not go along.”"
+
+- triggers: ["!judges7:5 ","!judg7:5 ","!jg7:5 "]
+  replace: "So he took the people down to the water. Then Jehovah said to Gidʹeon: “Separate everyone who laps up the water with his tongue just as a dog laps, from those who bend down on their knees to drink.”"
+
+- triggers: ["!judges7:6 ","!judg7:6 ","!jg7:6 "]
+  replace: "The number of those lapping up the water, putting their hand to their mouth, was 300 men. The rest of the people bent down on their knees to drink."
+
+- triggers: ["!judges7:7 ","!judg7:7 ","!jg7:7 "]
+  replace: "Jehovah now said to Gidʹeon: “I will save you with the 300 men who lapped the water, and I will give Midʹian into your hand. But let all the other people go back home.”"
+
+- triggers: ["!judges7:8 ","!judg7:8 ","!jg7:8 "]
+  replace: "So after they took the provisions and the horns from the people, he sent all the other men of Israel back home, and he kept only the 300 men. The camp of Midʹian was below him in the valley plain."
+
+- triggers: ["!judges7:9 ","!judg7:9 ","!jg7:9 "]
+  replace: "During that night, Jehovah said to him: “Get up, attack the camp, for I have given it into your hand."
+
+- triggers: ["!judges7:10 ","!judg7:10 ","!jg7:10 "]
+  replace: "But if you are afraid to attack, go down to the camp with Puʹrah your attendant."
+
+- triggers: ["!judges7:11 ","!judg7:11 ","!jg7:11 "]
+  replace: "Listen to what they say, and afterward you will have the courage to attack the camp.” At that he and Puʹrah his attendant went down to the edge of the encamped army."
+
+- triggers: ["!judges7:12 ","!judg7:12 ","!jg7:12 "]
+  replace: "Now Midʹian and Amʹalek and all the Easterners covered the valley plain like a swarm of locusts, and their camels were without number, as many as the grains of sand on the seashore."
+
+- triggers: ["!judges7:13 ","!judg7:13 ","!jg7:13 "]
+  replace: "Gidʹeon now came, and there was a man relating a dream to his companion, and he said: “This is the dream I had. There was a round loaf of barley bread rolling into the camp of Midʹian. It came to a tent and struck it so hard that it collapsed. Yes, it turned the tent upside down, and the tent fell flat.”"
+
+- triggers: ["!judges7:14 ","!judg7:14 ","!jg7:14 "]
+  replace: "At this his companion said: “This can only be the sword of Gidʹeon the son of Joʹash, a man of Israel. God has given Midʹian and all the camp into his hand.”"
+
+- triggers: ["!judges7:15 ","!judg7:15 ","!jg7:15 "]
+  replace: "As soon as Gidʹeon heard him relate the dream and its interpretation, he bowed down to worship. After that he returned to the camp of Israel and said: “Get up, for Jehovah has given the camp of Midʹian into your hand.”"
+
+- triggers: ["!judges7:16 ","!judg7:16 ","!jg7:16 "]
+  replace: "Then he divided the 300 men into three bands and gave all of them horns and large empty jars with torches inside the jars."
+
+- triggers: ["!judges7:17 ","!judg7:17 ","!jg7:17 "]
+  replace: "Then he said to them: “Watch me and do exactly what I do. When I come to the edge of the camp, you should do just as I do."
+
+- triggers: ["!judges7:18 ","!judg7:18 ","!jg7:18 "]
+  replace: "When I blow the horn, I and all who are with me, you also must blow the horns all around the camp and shout, ‘For Jehovah and for Gidʹeon!’”"
+
+- triggers: ["!judges7:19 ","!judg7:19 ","!jg7:19 "]
+  replace: "Gidʹeon and the 100 men who were with him came to the edge of the camp at the start of the middle night watch, just after the sentries were posted. They blew the horns and smashed the large water jars that were in their hands."
+
+- triggers: ["!judges7:20 ","!judg7:20 ","!jg7:20 "]
+  replace: "So the three bands blew the horns and shattered the large jars. They held the torches in their left hands and blew the horns in their right hands and they called out: “The sword of Jehovah and of Gidʹeon!”"
+
+- triggers: ["!judges7:21 ","!judg7:21 ","!jg7:21 "]
+  replace: "All the while each man stood in his place all around the camp, and the whole army ran away, shouting as they fled."
+
+- triggers: ["!judges7:22 ","!judg7:22 ","!jg7:22 "]
+  replace: "The 300 continued to blow the horns, and Jehovah turned the sword of each one against the other throughout the camp; and the army fled as far as Beth-shitʹtah, on to Zerʹerah, as far as the outskirts of Aʹbel-mehoʹlah by Tabʹbath."
+
+- triggers: ["!judges7:23 ","!judg7:23 ","!jg7:23 "]
+  replace: "And the men of Israel were called together from Naphʹtali, Ashʹer, and all of Manasʹseh, and they chased after Midʹian."
+
+- triggers: ["!judges7:24 ","!judg7:24 ","!jg7:24 "]
+  replace: "Gidʹeon sent messengers into all the mountainous region of Eʹphraim, saying: “Go down to attack Midʹian, and capture the access to the waters as far as Beth-barʹah and the Jordan.” So all the men of Eʹphraim were gathered together, and they captured the waters as far as Beth-barʹah and the Jordan."
+
+- triggers: ["!judges7:25 ","!judg7:25 ","!jg7:25 "]
+  replace: "They also captured the two princes of Midʹian, Oʹreb and Zeʹeb; they killed Oʹreb on the rock of Oʹreb, and they killed Zeʹeb at the winepress of Zeʹeb. They kept on pursuing Midʹian, and they brought the heads of Oʹreb and Zeʹeb to Gidʹeon in the region of the Jordan."
+
+- triggers: ["!judges8:1 ","!judg8:1 ","!jg8:1 "]
+  replace: "Then the men of Eʹphraim said to him: “What have you done to us? Why did you not call us when you went to fight against Midʹian?” And they quarreled bitterly with him."
+
+- triggers: ["!judges8:2 ","!judg8:2 ","!jg8:2 "]
+  replace: "But he said to them: “What have I done compared with you? Are not the gleanings of Eʹphraim better than the grape harvest of Abi-eʹzer?"
+
+- triggers: ["!judges8:3 ","!judg8:3 ","!jg8:3 "]
+  replace: "It was into your hand that God gave Midʹian’s princes Oʹreb and Zeʹeb, and what have I done compared with you?” When he spoke this way, they calmed down."
+
+- triggers: ["!judges8:4 ","!judg8:4 ","!jg8:4 "]
+  replace: "Gidʹeon then came to the Jordan and crossed it. He and the 300 men with him were tired, but they kept up the pursuit."
+
+- triggers: ["!judges8:5 ","!judg8:5 ","!jg8:5 "]
+  replace: "So he said to the men of Sucʹcoth: “Please give loaves of bread to the people following me, for they are tired and I am chasing after Zeʹbah and Zalmunʹna, the kings of Midʹian.”"
+
+- triggers: ["!judges8:6 ","!judg8:6 ","!jg8:6 "]
+  replace: "But the princes of Sucʹcoth said: “Are the palms of Zeʹbah and Zalmunʹna already in your hand so that we should give bread to your army?”"
+
+- triggers: ["!judges8:7 ","!judg8:7 ","!jg8:7 "]
+  replace: "At this Gidʹeon said: “Just for that, when Jehovah gives Zeʹbah and Zalmunʹna into my hand, I will give you a thrashing with the thorns and the briars of the wilderness.”"
+
+- triggers: ["!judges8:8 ","!judg8:8 ","!jg8:8 "]
+  replace: "And he went up from there to Penuʹel and made the same request, but the men of Penuʹel gave him the same answer as the men of Sucʹcoth."
+
+- triggers: ["!judges8:9 ","!judg8:9 ","!jg8:9 "]
+  replace: "So he said also to the men of Penuʹel: “When I return in peace, I will pull down this tower.”"
+
+- triggers: ["!judges8:10 ","!judg8:10 ","!jg8:10 "]
+  replace: "Now Zeʹbah and Zalmunʹna were in Karʹkor with their armies, about 15,000 men. These were all who remained of the entire army of the Easterners, for 120,000 men armed with swords had fallen."
+
+- triggers: ["!judges8:11 ","!judg8:11 ","!jg8:11 "]
+  replace: "Gidʹeon continued up by the way of the tent dwellers east of Noʹbah and Jogʹbehah and attacked the camp, which was off guard."
+
+- triggers: ["!judges8:12 ","!judg8:12 ","!jg8:12 "]
+  replace: "When Zeʹbah and Zalmunʹna fled, he pursued and captured the two Midʹianite kings, Zeʹbah and Zalmunʹna, throwing the whole camp into a panic."
+
+- triggers: ["!judges8:13 ","!judg8:13 ","!jg8:13 "]
+  replace: "Gidʹeon the son of Joʹash then returned from the war by way of the pass that goes up to Heʹres."
+
+- triggers: ["!judges8:14 ","!judg8:14 ","!jg8:14 "]
+  replace: "En route he captured and interrogated a young man from Sucʹcoth. So the young man wrote out for him the names of the princes and elders of Sucʹcoth, 77 men."
+
+- triggers: ["!judges8:15 ","!judg8:15 ","!jg8:15 "]
+  replace: "With that he went to the men of Sucʹcoth and said: “Here are Zeʹbah and Zalmunʹna about whom you taunted me, saying, ‘Are the palms of Zeʹbah and Zalmunʹna already in your hand so that we should give bread to your exhausted men?’”"
+
+- triggers: ["!judges8:16 ","!judg8:16 ","!jg8:16 "]
+  replace: "Then he took the elders of the city and with thorns and briars of the wilderness, he taught the men of Sucʹcoth a lesson."
+
+- triggers: ["!judges8:17 ","!judg8:17 ","!jg8:17 "]
+  replace: "And he pulled down the tower of Penuʹel and killed the men of the city."
+
+- triggers: ["!judges8:18 ","!judg8:18 ","!jg8:18 "]
+  replace: "He asked Zeʹbah and Zalmunʹna: “What sort of men did you kill in Taʹbor?” To this they said: “They were like you, each one looked like the son of a king.”"
+
+- triggers: ["!judges8:19 ","!judg8:19 ","!jg8:19 "]
+  replace: "At that he said: “They were my brothers, the sons of my mother. As surely as Jehovah lives, if you had spared their lives, I would not have to kill you.”"
+
+- triggers: ["!judges8:20 ","!judg8:20 ","!jg8:20 "]
+  replace: "Then he said to Jeʹther his firstborn: “Get up, kill them.” But the young man did not draw his sword; he was afraid, for he was still a young man."
+
+- triggers: ["!judges8:21 ","!judg8:21 ","!jg8:21 "]
+  replace: "So Zeʹbah and Zalmunʹna said: “Get up yourself and slay us, for a man is judged by his mightiness.” So Gidʹeon got up and killed Zeʹbah and Zalmunʹna and took the crescent-shaped ornaments that were on the necks of their camels."
+
+- triggers: ["!judges8:22 ","!judg8:22 ","!jg8:22 "]
+  replace: "Later the men of Israel said to Gidʹeon: “Rule over us, you and your son and your grandson as well, for you saved us out of the hand of Midʹian.”"
+
+- triggers: ["!judges8:23 ","!judg8:23 ","!jg8:23 "]
+  replace: "But Gidʹeon said to them: “I will not rule over you, nor will my son rule over you. Jehovah is the one who will rule over you.”"
+
+- triggers: ["!judges8:24 ","!judg8:24 ","!jg8:24 "]
+  replace: "Gidʹeon continued: “Let me make one request of you: that each of you give me a nose ring from his spoil.” (For they had gold nose rings because they were Ishʹmaelites.)"
+
+- triggers: ["!judges8:25 ","!judg8:25 ","!jg8:25 "]
+  replace: "They replied: “We will surely give them.” With that they spread out a robe and each man threw a nose ring from his spoil on it."
+
+- triggers: ["!judges8:26 ","!judg8:26 ","!jg8:26 "]
+  replace: "The weight of the gold nose rings that he had requested amounted to 1,700 gold shekels, besides the crescent-shaped ornaments, the pendants, the purple wool garments worn by the kings of Midʹian, and the necklaces from the camels."
+
+- triggers: ["!judges8:27 ","!judg8:27 ","!jg8:27 "]
+  replace: "Gidʹeon made it into an ephʹod and exhibited it in his city Ophʹrah; and all Israel committed spiritual prostitution with it there, and it served as a snare to Gidʹeon and to his household."
+
+- triggers: ["!judges8:28 ","!judg8:28 ","!jg8:28 "]
+  replace: "Thus Midʹian was subdued before the Israelites, and they did not challenge them again; and the land had rest for 40 years in the days of Gidʹeon."
+
+- triggers: ["!judges8:29 ","!judg8:29 ","!jg8:29 "]
+  replace: "So Jerubbaʹal the son of Joʹash returned to his home and stayed there."
+
+- triggers: ["!judges8:30 ","!judg8:30 ","!jg8:30 "]
+  replace: "Gidʹeon became father to 70 sons, for he had many wives."
+
+- triggers: ["!judges8:31 ","!judg8:31 ","!jg8:31 "]
+  replace: "His concubine in Sheʹchem also bore him a son, and he named him Abimʹelech."
+
+- triggers: ["!judges8:32 ","!judg8:32 ","!jg8:32 "]
+  replace: "And Gidʹeon the son of Joʹash died at a good old age and was buried in the tomb of Joʹash his father in Ophʹrah of the Abi-ezʹrites."
+
+- triggers: ["!judges8:33 ","!judg8:33 ","!jg8:33 "]
+  replace: "As soon as Gidʹeon died, the Israelites again committed spiritual prostitution with the Baʹals, and they appointed Baʹal-beʹrith as their god."
+
+- triggers: ["!judges8:34 ","!judg8:34 ","!jg8:34 "]
+  replace: "The Israelites did not remember Jehovah their God, who had rescued them from the hand of all their enemies around them;"
+
+- triggers: ["!judges8:35 ","!judg8:35 ","!jg8:35 "]
+  replace: "nor did they show loyal love toward the household of Jerubbaʹal, that is Gidʹeon, in return for all the good that he had done for Israel."
+
+- triggers: ["!judges9:1 ","!judg9:1 ","!jg9:1 "]
+  replace: "In time Abimʹelech the son of Jerubbaʹal went to his mother’s brothers in Sheʹchem, and he said to them and to all the family of his grandfather:"
+
+- triggers: ["!judges9:2 ","!judg9:2 ","!jg9:2 "]
+  replace: "“Please ask all the leaders of Sheʹchem, ‘Which is better for you, for all 70 sons of Jerubbaʹal to rule over you or for one man to rule over you? And remember that I am your own bone and flesh.’”"
+
+- triggers: ["!judges9:3 ","!judg9:3 ","!jg9:3 "]
+  replace: "So his mother’s brothers said this in his behalf to all the leaders of Sheʹchem, and their hearts were inclined to follow Abimʹelech, for they said: “He is our own brother.”"
+
+- triggers: ["!judges9:4 ","!judg9:4 ","!jg9:4 "]
+  replace: "Then they gave him 70 pieces of silver from the house of Baʹal-beʹrith, and Abimʹelech used it to hire idle and insolent men to accompany him."
+
+- triggers: ["!judges9:5 ","!judg9:5 ","!jg9:5 "]
+  replace: "After that he went to his father’s house at Ophʹrah and killed his brothers, the sons of Jerubbaʹal, 70 men, on one stone. The only survivor was Joʹtham, the youngest son of Jerubbaʹal, because he hid."
+
+- triggers: ["!judges9:6 ","!judg9:6 ","!jg9:6 "]
+  replace: "Then all the leaders of Sheʹchem and all Beth-milʹlo gathered together and made Abimʹelech king, close by the big tree, by the pillar that was in Sheʹchem."
+
+- triggers: ["!judges9:7 ","!judg9:7 ","!jg9:7 "]
+  replace: "When they reported it to Joʹtham, he at once went and stood on the top of Mount Gerʹizim and called out in a loud voice to them: “Listen to me, you leaders of Sheʹchem, and then God will listen to you."
+
+- triggers: ["!judges9:8 ","!judg9:8 ","!jg9:8 "]
+  replace: "“Once there were trees that went to anoint a king over them. So they said to the olive tree, ‘Rule over us.’"
+
+- triggers: ["!judges9:9 ","!judg9:9 ","!jg9:9 "]
+  replace: "But the olive tree said to them, ‘Must I give up my oil, which they use to glorify God and men, to go and wave over the other trees?’"
+
+- triggers: ["!judges9:10 ","!judg9:10 ","!jg9:10 "]
+  replace: "Then the trees said to the fig tree, ‘Come and rule over us.’"
+
+- triggers: ["!judges9:11 ","!judg9:11 ","!jg9:11 "]
+  replace: "But the fig tree said to them, ‘Must I give up my sweetness and my good fruitage to go and wave over the other trees?’"
+
+- triggers: ["!judges9:12 ","!judg9:12 ","!jg9:12 "]
+  replace: "Next the trees said to the vine, ‘Come and rule over us.’"
+
+- triggers: ["!judges9:13 ","!judg9:13 ","!jg9:13 "]
+  replace: "The vine replied to them, ‘Must I give up my new wine that makes God and men rejoice to go and wave over the trees?’"
+
+- triggers: ["!judges9:14 ","!judg9:14 ","!jg9:14 "]
+  replace: "Finally all the other trees said to the bramble, ‘Come and rule over us.’"
+
+- triggers: ["!judges9:15 ","!judg9:15 ","!jg9:15 "]
+  replace: "At this the bramble said to the trees, ‘If you are really anointing me as king over you, come and seek refuge under my shadow. But if not, let fire come out of the bramble and consume the cedars of Lebʹanon.’"
+
+- triggers: ["!judges9:16 ","!judg9:16 ","!jg9:16 "]
+  replace: "“Now have you acted sincerely and honorably in making Abimʹelech king, and have you shown goodness toward Jerubbaʹal and his household, and have you treated him as he deserves?"
+
+- triggers: ["!judges9:17 ","!judg9:17 ","!jg9:17 "]
+  replace: "When my father fought for you, he risked his life to save you from Midʹian’s hand."
+
+- triggers: ["!judges9:18 ","!judg9:18 ","!jg9:18 "]
+  replace: "But today you have risen up against my father’s household and killed his sons, 70 men, on one stone. Then you made Abimʹelech, the son of his slave girl, king over the leaders of Sheʹchem just because he is your brother."
+
+- triggers: ["!judges9:19 ","!judg9:19 ","!jg9:19 "]
+  replace: "Yes, if you are acting sincerely and honorably toward Jerubbaʹal and his household this day, rejoice over Abimʹelech and let him also rejoice over you."
+
+- triggers: ["!judges9:20 ","!judg9:20 ","!jg9:20 "]
+  replace: "But if not, may fire come out of Abimʹelech and consume the leaders of Sheʹchem and Beth-milʹlo, and may fire come out of the leaders of Sheʹchem and Beth-milʹlo and consume Abimʹelech.”"
+
+- triggers: ["!judges9:21 ","!judg9:21 ","!jg9:21 "]
+  replace: "Then Joʹtham fled and escaped to Beʹer, and he lived there because of his brother Abimʹelech."
+
+- triggers: ["!judges9:22 ","!judg9:22 ","!jg9:22 "]
+  replace: "Abimʹelech ruled over Israel for three years."
+
+- triggers: ["!judges9:23 ","!judg9:23 ","!jg9:23 "]
+  replace: "Then God let hostility develop between Abimʹelech and the leaders of Sheʹchem, and they dealt treacherously with Abimʹelech."
+
+- triggers: ["!judges9:24 ","!judg9:24 ","!jg9:24 "]
+  replace: "This was so that the violence done to the 70 sons of Jerubbaʹal might be avenged, so as to place responsibility for their blood on their brother Abimʹelech for killing them and on the leaders of Sheʹchem for helping him to kill his brothers."
+
+- triggers: ["!judges9:25 ","!judg9:25 ","!jg9:25 "]
+  replace: "So the leaders of Sheʹchem set men to ambush him on the mountaintops, and they would rob everyone who passed by them on the road. In time it was reported to Abimʹelech."
+
+- triggers: ["!judges9:26 ","!judg9:26 ","!jg9:26 "]
+  replace: "Then Gaʹal son of Eʹbed and his brothers crossed over into Sheʹchem, and the leaders of Sheʹchem put their trust in him."
+
+- triggers: ["!judges9:27 ","!judg9:27 ","!jg9:27 "]
+  replace: "They went out into the field and gathered the grapes of their vineyards, trod them out, and held a festival, after which they went into the house of their god and ate and drank and cursed Abimʹelech."
+
+- triggers: ["!judges9:28 ","!judg9:28 ","!jg9:28 "]
+  replace: "Then Gaʹal the son of Eʹbed said: “Who is Abimʹelech, and who is Sheʹchem that we should serve him? Is he not the son of Jerubbaʹal, and is not Zeʹbul his commissioner? Serve the men of Haʹmor, Sheʹchem’s father! But why should we serve him?"
+
+- triggers: ["!judges9:29 ","!judg9:29 ","!jg9:29 "]
+  replace: "If only this people were under my command, I would depose Abimʹelech.” Then he said to Abimʹelech: “Increase your army and come out.”"
+
+- triggers: ["!judges9:30 ","!judg9:30 ","!jg9:30 "]
+  replace: "When Zeʹbul the prince of the city heard the words of Gaʹal the son of Eʹbed, his anger blazed."
+
+- triggers: ["!judges9:31 ","!judg9:31 ","!jg9:31 "]
+  replace: "So he secretly sent messengers to Abimʹelech, saying: “Look! Gaʹal the son of Eʹbed and his brothers are now in Sheʹchem, and here they are inciting the city against you."
+
+- triggers: ["!judges9:32 ","!judg9:32 ","!jg9:32 "]
+  replace: "Now come up by night, you and your men, and lie in wait in the field."
+
+- triggers: ["!judges9:33 ","!judg9:33 ","!jg9:33 "]
+  replace: "As soon as the sun rises in the morning, you should get up early and attack the city; and when he and his men come out against you, do whatever you can to defeat him.”"
+
+- triggers: ["!judges9:34 ","!judg9:34 ","!jg9:34 "]
+  replace: "So Abimʹelech and all the people with him rose up by night, and in four bands they lay in wait against Sheʹchem."
+
+- triggers: ["!judges9:35 ","!judg9:35 ","!jg9:35 "]
+  replace: "When Gaʹal the son of Eʹbed went out and stood at the entrance of the city gate, Abimʹelech and the people with him rose up from the ambush."
+
+- triggers: ["!judges9:36 ","!judg9:36 ","!jg9:36 "]
+  replace: "When Gaʹal saw the people, he said to Zeʹbul: “Look! There are people coming down from the mountaintops.” But Zeʹbul said to him: “You are seeing the shadows of the mountains as if they were men.”"
+
+- triggers: ["!judges9:37 ","!judg9:37 ","!jg9:37 "]
+  replace: "Gaʹal later said: “Look! People are coming down from the center of the land, and one band is coming by the way of the big tree of Meonʹenim.”"
+
+- triggers: ["!judges9:38 ","!judg9:38 ","!jg9:38 "]
+  replace: "Zeʹbul replied to him: “Where now is your boast, ‘Who is Abimʹelech that we should serve him?’ Are these not the people you rejected? Go out now and fight against them.”"
+
+- triggers: ["!judges9:39 ","!judg9:39 ","!jg9:39 "]
+  replace: "So Gaʹal went out at the head of the leaders of Sheʹchem and fought against Abimʹelech."
+
+- triggers: ["!judges9:40 ","!judg9:40 ","!jg9:40 "]
+  replace: "Abimʹelech pursued him, and Gaʹal fled from him, and many fell slain as far as the entrance of the city gate."
+
+- triggers: ["!judges9:41 ","!judg9:41 ","!jg9:41 "]
+  replace: "And Abimʹelech continued to dwell in Aruʹmah, and Zeʹbul drove Gaʹal and his brothers out of Sheʹchem."
+
+- triggers: ["!judges9:42 ","!judg9:42 ","!jg9:42 "]
+  replace: "The next day the people went out into the field, and Abimʹelech was told about it."
+
+- triggers: ["!judges9:43 ","!judg9:43 ","!jg9:43 "]
+  replace: "So he took the people and divided them into three bands and lay in wait in the field. When he saw the people going out of the city, he attacked them and struck them down."
+
+- triggers: ["!judges9:44 ","!judg9:44 ","!jg9:44 "]
+  replace: "Abimʹelech and the bands with him charged forward and took a position at the entrance of the city gate, while two bands attacked all who were in the field, and they struck them down."
+
+- triggers: ["!judges9:45 ","!judg9:45 ","!jg9:45 "]
+  replace: "Abimʹelech fought against the city all that day and captured it. He killed the people in it, and then he pulled the city down and sowed it with salt."
+
+- triggers: ["!judges9:46 ","!judg9:46 ","!jg9:46 "]
+  replace: "When all the leaders of the tower of Sheʹchem heard about this, they immediately went to the vault of the house of El-beʹrith."
+
+- triggers: ["!judges9:47 ","!judg9:47 ","!jg9:47 "]
+  replace: "As soon as it was reported to Abimʹelech that all the leaders of the tower of Sheʹchem had gathered together,"
+
+- triggers: ["!judges9:48 ","!judg9:48 ","!jg9:48 "]
+  replace: "Abimʹelech and all the men with him went up Mount Zalʹmon. Abimʹelech took an ax in his hand and cut off a tree branch and lifted it on his shoulder and said to the people with him: “What you saw me do, hurry and do the same!”"
+
+- triggers: ["!judges9:49 ","!judg9:49 ","!jg9:49 "]
+  replace: "So all the people also cut off branches and followed Abimʹelech. Then they put the branches against the vault and set the vault on fire. So all the people of the tower of Sheʹchem also died, about 1,000 men and women."
+
+- triggers: ["!judges9:50 ","!judg9:50 ","!jg9:50 "]
+  replace: "Abimʹelech then went to Theʹbez; he camped against Theʹbez and captured it."
+
+- triggers: ["!judges9:51 ","!judg9:51 ","!jg9:51 "]
+  replace: "There was a strong tower in the middle of the city, and all the men and women and all the city leaders fled there. They shut themselves in and climbed onto the roof of the tower."
+
+- triggers: ["!judges9:52 ","!judg9:52 ","!jg9:52 "]
+  replace: "Abimʹelech made his way to the tower and attacked it. He approached the entrance of the tower to set it on fire."
+
+- triggers: ["!judges9:53 ","!judg9:53 ","!jg9:53 "]
+  replace: "Then one of the women dropped an upper millstone on Abimʹelech’s head and crushed his skull."
+
+- triggers: ["!judges9:54 ","!judg9:54 ","!jg9:54 "]
+  replace: "He quickly called the attendant bearing his weapons and said to him: “Draw your sword and put me to death, so that they may not say about me, ‘A woman killed him.’” So his attendant ran him through, and he died."
+
+- triggers: ["!judges9:55 ","!judg9:55 ","!jg9:55 "]
+  replace: "When the men of Israel saw that Abimʹelech was dead, they all went back home."
+
+- triggers: ["!judges9:56 ","!judg9:56 ","!jg9:56 "]
+  replace: "Thus God repaid Abimʹelech for the evil that he had done to his father by killing his 70 brothers."
+
+- triggers: ["!judges9:57 ","!judg9:57 ","!jg9:57 "]
+  replace: "God also made all the evil of the men of Sheʹchem come back on their own heads. So the curse of Joʹtham the son of Jerubbaʹal came upon them."
+
+- triggers: ["!judges10:1 ","!judg10:1 ","!jg10:1 "]
+  replace: "After Abimʹelech, Toʹla the son of Puʹah, the son of Doʹdo, a man of Isʹsachar, rose up to save Israel. He lived in Shaʹmir in the mountainous region of Eʹphraim."
+
+- triggers: ["!judges10:2 ","!judg10:2 ","!jg10:2 "]
+  replace: "He judged Israel for 2"
+
+- triggers: ["!judges10:3 ","!judg10:3 ","!jg10:3 "]
+  replace: "years. Then he died and was buried in Shaʹmir. 3 After him Jaʹir the Gilʹeadite rose up and judged Israel for 22 years."
+
+- triggers: ["!judges10:4 ","!judg10:4 ","!jg10:4 "]
+  replace: "He had 30 sons who rode on 30 donkeys, and they had 30 cities, which to this day are called Havʹvoth-jaʹir; they are in the land of Gilʹead."
+
+- triggers: ["!judges10:5 ","!judg10:5 ","!jg10:5 "]
+  replace: "After that Jaʹir died and was buried in Kaʹmon."
+
+- triggers: ["!judges10:6 ","!judg10:6 ","!jg10:6 "]
+  replace: "Again the Israelites did what was bad in the eyes of Jehovah, and they began to serve the Baʹals, the Ashʹtoreth images, the gods of Aʹram, the gods of Siʹdon, the gods of Moʹab, the gods of the Amʹmonites, and the gods of the Philisʹtines. They abandoned Jehovah and did not serve him."
+
+- triggers: ["!judges10:7 ","!judg10:7 ","!jg10:7 "]
+  replace: "Then Jehovah’s anger blazed against Israel, and he sold them into the hands of the Philisʹtines and the Amʹmonites."
+
+- triggers: ["!judges10:8 ","!judg10:8 ","!jg10:8 "]
+  replace: "So they crushed and greatly oppressed the Israelites in that year—for 18 years they oppressed all the Israelites on the side of the Jordan that had been the land of the Amʹorites in Gilʹead."
+
+- triggers: ["!judges10:9 ","!judg10:9 ","!jg10:9 "]
+  replace: "The Amʹmonites would also cross the Jordan to fight against Judah and Benjamin and the house of Eʹphraim; and Israel was greatly distressed."
+
+- triggers: ["!judges10:10 ","!judg10:10 ","!jg10:10 "]
+  replace: "Then the Israelites called to Jehovah for help, saying: “We have sinned against you, for we abandoned our God and served the Baʹals.”"
+
+- triggers: ["!judges10:11 ","!judg10:11 ","!jg10:11 "]
+  replace: "But Jehovah said to the Israelites: “Did I not save you from Egypt and from the Amʹorites, the Amʹmonites, the Philisʹtines,"
+
+- triggers: ["!judges10:12 ","!judg10:12 ","!jg10:12 "]
+  replace: "the Sidoʹnians, Amʹalek, and Midʹian when they oppressed you? When you cried out to me, I saved you out of their hand."
+
+- triggers: ["!judges10:13 ","!judg10:13 ","!jg10:13 "]
+  replace: "But you abandoned me and served other gods. That is why I will not save you again."
+
+- triggers: ["!judges10:14 ","!judg10:14 ","!jg10:14 "]
+  replace: "Go to the gods whom you have chosen and call for help. Let them save you in your time of distress.”"
+
+- triggers: ["!judges10:15 ","!judg10:15 ","!jg10:15 "]
+  replace: "But the Israelites said to Jehovah: “We have sinned. Do to us whatever is good in your eyes. Only save us, please, this day.”"
+
+- triggers: ["!judges10:16 ","!judg10:16 ","!jg10:16 "]
+  replace: "And they removed the foreign gods from their midst and served Jehovah, so that he could no longer tolerate Israel’s suffering."
+
+- triggers: ["!judges10:17 ","!judg10:17 ","!jg10:17 "]
+  replace: "In time the Amʹmonites were called together, and they pitched camp in Gilʹead. So the Israelites gathered together and pitched camp in Mizʹpah."
+
+- triggers: ["!judges10:18 ","!judg10:18 ","!jg10:18 "]
+  replace: "The people and the princes of Gilʹead said to one another: “Who will take the lead in fighting against the Amʹmonites? Let him become the chief over all the inhabitants of Gilʹead.”"
+
+- triggers: ["!judges11:1 ","!judg11:1 ","!jg11:1 "]
+  replace: "Now Jephʹthah the Gilʹeadite was a mighty warrior; he was the son of a prostitute, and Gilʹead was Jephʹthah’s father."
+
+- triggers: ["!judges11:2 ","!judg11:2 ","!jg11:2 "]
+  replace: "But Gilʹead’s wife also bore him sons. When the sons of his wife grew up, they drove Jephʹthah out and said to him: “You will have no inheritance in our father’s household, for you are the son of another woman.”"
+
+- triggers: ["!judges11:3 ","!judg11:3 ","!jg11:3 "]
+  replace: "So Jephʹthah fled from his brothers and settled in the land of Tob. And idle men joined company with Jephʹthah, and they followed him."
+
+- triggers: ["!judges11:4 ","!judg11:4 ","!jg11:4 "]
+  replace: "After a while, the Amʹmonites fought against Israel."
+
+- triggers: ["!judges11:5 ","!judg11:5 ","!jg11:5 "]
+  replace: "And when the Amʹmonites fought against Israel, the elders of Gilʹead immediately went to bring Jephʹthah back from the land of Tob."
+
+- triggers: ["!judges11:6 ","!judg11:6 ","!jg11:6 "]
+  replace: "They said to Jephʹthah: “Come and serve as our commander, so that we can fight against the Amʹmonites.”"
+
+- triggers: ["!judges11:7 ","!judg11:7 ","!jg11:7 "]
+  replace: "But Jephʹthah said to the elders of Gilʹead: “Was it not you who hated me so much that you drove me out of my father’s house? Why have you come to me now when you are in distress?”"
+
+- triggers: ["!judges11:8 ","!judg11:8 ","!jg11:8 "]
+  replace: "At this the elders of Gilʹead said to Jephʹthah: “That is why now we have returned to you. If you go with us and fight against the Amʹmonites, you will become our leader over all the inhabitants of Gilʹead.”"
+
+- triggers: ["!judges11:9 ","!judg11:9 ","!jg11:9 "]
+  replace: "So Jephʹthah said to the elders of Gilʹead: “If you bring me back to fight against the Amʹmonites and Jehovah defeats them for me, then I will indeed become your leader!”"
+
+- triggers: ["!judges11:10 ","!judg11:10 ","!jg11:10 "]
+  replace: "The elders of Gilʹead said to Jephʹthah: “Let Jehovah be the witness between us if we do not do as you say.”"
+
+- triggers: ["!judges11:11 ","!judg11:11 ","!jg11:11 "]
+  replace: "So Jephʹthah went with the elders of Gilʹead, and the people made him their leader and commander. And Jephʹthah repeated all his words before Jehovah in Mizʹpah."
+
+- triggers: ["!judges11:12 ","!judg11:12 ","!jg11:12 "]
+  replace: "Jephʹthah then sent messengers to the king of the Amʹmonites, saying: “What do you have against me that you have come to attack my land?”"
+
+- triggers: ["!judges11:13 ","!judg11:13 ","!jg11:13 "]
+  replace: "So the king of the Amʹmonites said to the messengers of Jephʹthah: “It is because Israel took my land when they came up out of Egypt, from the Arʹnon to the Jabʹbok and as far as the Jordan. Now return it peaceably.”"
+
+- triggers: ["!judges11:14 ","!judg11:14 ","!jg11:14 "]
+  replace: "But Jephʹthah sent messengers back to the king of the Amʹmonites"
+
+- triggers: ["!judges11:15 ","!judg11:15 ","!jg11:15 "]
+  replace: "to say to him: “This is what Jephʹthah says: ‘Israel did not take the land of the Moʹabites and the land of the Amʹmonites,"
+
+- triggers: ["!judges11:16 ","!judg11:16 ","!jg11:16 "]
+  replace: "for when they came up out of Egypt, Israel walked through the wilderness as far as the Red Sea and came to Kaʹdesh."
+
+- triggers: ["!judges11:17 ","!judg11:17 ","!jg11:17 "]
+  replace: "Then Israel sent messengers to the king of Eʹdom, saying: “Please let us pass through your land,” but the king of Eʹdom did not listen. Also to the king of Moʹab they sent word, but he did not consent. So Israel kept dwelling in Kaʹdesh."
+
+- triggers: ["!judges11:18 ","!judg11:18 ","!jg11:18 "]
+  replace: "When they walked through the wilderness, they bypassed the land of Eʹdom and the land of Moʹab. They traveled east of the land of Moʹab and camped in the region of the Arʹnon; they did not come within the boundary of Moʹab, for the Arʹnon was the boundary of Moʹab."
+
+- triggers: ["!judges11:19 ","!judg11:19 ","!jg11:19 "]
+  replace: "“‘After that Israel sent messengers to Siʹhon king of the Amʹorites, king of Heshʹbon, and Israel said to him: “Please let us pass through your land to our own place.”"
+
+- triggers: ["!judges11:20 ","!judg11:20 ","!jg11:20 "]
+  replace: "But Siʹhon did not trust Israel to cross through his territory, so Siʹhon gathered all his people together and encamped in Jaʹhaz and fought against Israel."
+
+- triggers: ["!judges11:21 ","!judg11:21 ","!jg11:21 "]
+  replace: "At this Jehovah the God of Israel gave Siʹhon and all his people into Israel’s hand, so that they defeated them and Israel took possession of all the land of the Amʹorites, the inhabitants of that land."
+
+- triggers: ["!judges11:22 ","!judg11:22 ","!jg11:22 "]
+  replace: "Thus they took possession of all the territory of the Amʹorites from the Arʹnon to the Jabʹbok and from the wilderness to the Jordan."
+
+- triggers: ["!judges11:23 ","!judg11:23 ","!jg11:23 "]
+  replace: "“‘It was Jehovah the God of Israel who drove out the Amʹorites from before his people Israel, and now would you drive them out?"
+
+- triggers: ["!judges11:24 ","!judg11:24 ","!jg11:24 "]
+  replace: "Do you not possess whatever your god Cheʹmosh gives you to possess? So everyone whom Jehovah our God has driven out from before us is the one we will drive out."
+
+- triggers: ["!judges11:25 ","!judg11:25 ","!jg11:25 "]
+  replace: "Now are you any better than Baʹlak the son of Zipʹpor, the king of Moʹab? Did he ever contend with Israel, or did he ever fight against them?"
+
+- triggers: ["!judges11:26 ","!judg11:26 ","!jg11:26 "]
+  replace: "While Israel was dwelling in Heshʹbon and its dependent towns and in Aroʹer and its dependent towns and in all the cities that are by the banks of the Arʹnon for 300 years, why did you never try to take them back during that time?"
+
+- triggers: ["!judges11:27 ","!judg11:27 ","!jg11:27 "]
+  replace: "I have not sinned against you, but you are wrong to attack me. Let Jehovah the Judge be judge today between the people of Israel and the people of Amʹmon.’”"
+
+- triggers: ["!judges11:28 ","!judg11:28 ","!jg11:28 "]
+  replace: "But the king of the Amʹmonites would not listen to the message that Jephʹthah sent to him."
+
+- triggers: ["!judges11:29 ","!judg11:29 ","!jg11:29 "]
+  replace: "Jehovah’s spirit came upon Jephʹthah, and he passed through Gilʹead and Manasʹseh to go to Mizʹpeh of Gilʹead, and from Mizʹpeh of Gilʹead he continued on to the Amʹmonites."
+
+- triggers: ["!judges11:30 ","!judg11:30 ","!jg11:30 "]
+  replace: "Then Jephʹthah made a vow to Jehovah and said: “If you give the Amʹmonites into my hand,"
+
+- triggers: ["!judges11:31 ","!judg11:31 ","!jg11:31 "]
+  replace: "then whoever comes out of the door of my house to meet me when I return in peace from the Amʹmonites will become Jehovah’s, and I will offer that one up as a burnt offering.”"
+
+- triggers: ["!judges11:32 ","!judg11:32 ","!jg11:32 "]
+  replace: "So Jephʹthah went to fight against the Amʹmonites, and Jehovah gave them into his hand."
+
+- triggers: ["!judges11:33 ","!judg11:33 ","!jg11:33 "]
+  replace: "He struck them down with a very great slaughter from Aroʹer all the way to Minʹnith—20 cities—and as far as Aʹbel-kerʹamim. Thus the Amʹmonites were subdued before the Israelites."
+
+- triggers: ["!judges11:34 ","!judg11:34 ","!jg11:34 "]
+  replace: "Finally Jephʹthah came to his home in Mizʹpah, and look! his daughter was coming out to meet him, playing the tambourine and dancing! Now she was his one and only child. Besides her, he had neither son nor daughter."
+
+- triggers: ["!judges11:35 ","!judg11:35 ","!jg11:35 "]
+  replace: "When he saw her, he ripped his garments and said: “Oh no, my daughter! You have broken my heart, for you have become the one I have banished. Now I have opened my mouth to Jehovah, and I am unable to turn back.”"
+
+- triggers: ["!judges11:36 ","!judg11:36 ","!jg11:36 "]
+  replace: "But she said to him: “My father, if you have opened your mouth to Jehovah, do to me as you have promised, since Jehovah has executed vengeance for you upon your enemies, the Amʹmonites.”"
+
+- triggers: ["!judges11:37 ","!judg11:37 ","!jg11:37 "]
+  replace: "She then said to her father: “Let this be done for me: Let me be alone for two months, and let me go away into the mountains, and let me weep over my virginity with my female companions.”"
+
+- triggers: ["!judges11:38 ","!judg11:38 ","!jg11:38 "]
+  replace: "At this he said: “Go!” So he sent her away for two months, and she went to the mountains with her companions to weep over her virginity."
+
+- triggers: ["!judges11:39 ","!judg11:39 ","!jg11:39 "]
+  replace: "At the end of two months, she returned to her father, after which he carried out the vow he had made regarding her. She never had relations with a man. And it became a custom in Israel:"
+
+- triggers: ["!judges11:40 ","!judg11:40 ","!jg11:40 "]
+  replace: "From year to year, the young women of Israel would go to give commendation to the daughter of Jephʹthah the Gilʹeadite four days in the year."
+
+- triggers: ["!judges12:1 ","!judg12:1 ","!jg12:1 "]
+  replace: "Then the men of Eʹphraim were summoned, and they crossed over to Zaʹphon and said to Jephʹthah: “Why did you not call us to go with you when you crossed over to fight against the Amʹmonites? We will burn your house down with you in it.”"
+
+- triggers: ["!judges12:2 ","!judg12:2 ","!jg12:2 "]
+  replace: "But Jephʹthah said to them: “Along with my people, I was engaged in a great conflict with the Amʹmonites. I did call to you for help, but you did not save me from their hand."
+
+- triggers: ["!judges12:3 ","!judg12:3 ","!jg12:3 "]
+  replace: "When I saw that you would not save me, then I decided to risk my life and go against the Amʹmonites, and Jehovah handed them over to me. So why have you come today to fight against me?”"
+
+- triggers: ["!judges12:4 ","!judg12:4 ","!jg12:4 "]
+  replace: "Jephʹthah then gathered all the men of Gilʹead, and they fought Eʹphraim; the men of Gilʹead defeated Eʹphraim, who had said: “You are only fugitives from Eʹphraim, you Gilʹeadites in Eʹphraim and Manasʹseh.”"
+
+- triggers: ["!judges12:5 ","!judg12:5 ","!jg12:5 "]
+  replace: "Gilʹead captured the fords of the Jordan ahead of Eʹphraim; and when the men of Eʹphraim were trying to escape, they would say, “Let me cross over”; then the men of Gilʹead would ask each one, “Are you an Eʹphraimite?” When he would reply, “No!”"
+
+- triggers: ["!judges12:6 ","!judg12:6 ","!jg12:6 "]
+  replace: "they would say to him, “Please say Shibʹboleth.” But he would say, “Sibʹboleth,” as he was unable to say the word correctly. Then they would seize him and slay him at the fords of the Jordan. So 42,000 Eʹphraimites fell at that time."
+
+- triggers: ["!judges12:7 ","!judg12:7 ","!jg12:7 "]
+  replace: "Jephʹthah judged Israel for six years, after which Jephʹthah the Gilʹeadite died and was buried in his city in Gilʹead."
+
+- triggers: ["!judges12:8 ","!judg12:8 ","!jg12:8 "]
+  replace: "Ibʹzan from Bethʹlehem judged Israel after him."
+
+- triggers: ["!judges12:9 ","!judg12:9 ","!jg12:9 "]
+  replace: "He had 30 sons and 30 daughters. He sent his daughters to marry men outside his clan, and he brought in 30 women to marry his sons. He judged Israel for seven years."
+
+- triggers: ["!judges12:10 ","!judg12:10 ","!jg12:10 "]
+  replace: "Then Ibʹzan died and was buried in Bethʹlehem."
+
+- triggers: ["!judges12:11 ","!judg12:11 ","!jg12:11 "]
+  replace: "After him Eʹlon the Zebʹulunite judged Israel; he judged Israel for ten years."
+
+- triggers: ["!judges12:12 ","!judg12:12 ","!jg12:12 "]
+  replace: "Then Eʹlon the Zebʹulunite died and was buried in Aiʹjalon in the land of Zebʹulun."
+
+- triggers: ["!judges12:13 ","!judg12:13 ","!jg12:13 "]
+  replace: "After him Abʹdon the son of Hilʹlel the Pirʹathonite judged Israel."
+
+- triggers: ["!judges12:14 ","!judg12:14 ","!jg12:14 "]
+  replace: "He had 40 sons and 30 grandsons who rode on 70 donkeys. He judged Israel for eight years."
+
+- triggers: ["!judges12:15 ","!judg12:15 ","!jg12:15 "]
+  replace: "Then Abʹdon the son of Hilʹlel the Pirʹathonite died and was buried in Pirʹathon in the land of Eʹphraim in the mountain of the Amalʹekite."
+
+- triggers: ["!judges13:1 ","!judg13:1 ","!jg13:1 "]
+  replace: "Again the Israelites did what was bad in Jehovah’s eyes, and Jehovah gave them into the hand of the Philisʹtines for 40 years."
+
+- triggers: ["!judges13:2 ","!judg13:2 ","!jg13:2 "]
+  replace: "Meanwhile, there was a man of Zoʹrah of the family of the Danʹites, whose name was Manoʹah. His wife was barren and childless."
+
+- triggers: ["!judges13:3 ","!judg13:3 ","!jg13:3 "]
+  replace: "In time Jehovah’s angel appeared to the woman and said to her: “Look, you are barren and childless. But you will conceive and give birth to a son."
+
+- triggers: ["!judges13:4 ","!judg13:4 ","!jg13:4 "]
+  replace: "Now be careful not to drink wine or anything alcoholic, and do not eat anything unclean."
+
+- triggers: ["!judges13:5 ","!judg13:5 ","!jg13:5 "]
+  replace: "Look! You will conceive and give birth to a son, and no razor should touch his head, because the child will be a Nazʹirite of God from birth, and he will take the lead in saving Israel out of the hand of the Philisʹtines.”"
+
+- triggers: ["!judges13:6 ","!judg13:6 ","!jg13:6 "]
+  replace: "Then the woman went and told her husband: “A man of the true God came to me, and his appearance was like an angel of the true God, very awe-inspiring. I did not ask him where he was from, nor did he tell me his name."
+
+- triggers: ["!judges13:7 ","!judg13:7 ","!jg13:7 "]
+  replace: "But he said to me, ‘Look! You will conceive and give birth to a son. Now do not drink wine or anything alcoholic, and do not eat anything unclean, because the child will be a Nazʹirite of God from birth until the day of his death.’”"
+
+- triggers: ["!judges13:8 ","!judg13:8 ","!jg13:8 "]
+  replace: "Manoʹah pleaded with Jehovah and said: “Pardon me, Jehovah. Please let the man of the true God whom you just sent come again to instruct us about what we should do with the child who will be born.”"
+
+- triggers: ["!judges13:9 ","!judg13:9 ","!jg13:9 "]
+  replace: "So the true God listened to Manoʹah, and the angel of the true God came again to the woman while she was sitting in the field; her husband Manoʹah was not with her."
+
+- triggers: ["!judges13:10 ","!judg13:10 ","!jg13:10 "]
+  replace: "The woman quickly ran and told her husband: “Look! The man who came to me the other day has appeared to me.”"
+
+- triggers: ["!judges13:11 ","!judg13:11 ","!jg13:11 "]
+  replace: "Then Manoʹah got up and went with his wife. He came to the man and said to him: “Are you the man who spoke to my wife?” He said: “I am.”"
+
+- triggers: ["!judges13:12 ","!judg13:12 ","!jg13:12 "]
+  replace: "Then Manoʹah said: “May your words come true! What will be the child’s manner of life, and what will be his work?”"
+
+- triggers: ["!judges13:13 ","!judg13:13 ","!jg13:13 "]
+  replace: "So Jehovah’s angel said to Manoʹah: “Your wife should keep herself from everything that I mentioned to her."
+
+- triggers: ["!judges13:14 ","!judg13:14 ","!jg13:14 "]
+  replace: "She should not eat anything that the grapevine produces, she should not drink wine or anything alcoholic, and she should not eat anything unclean. Everything that I commanded her, let her observe.”"
+
+- triggers: ["!judges13:15 ","!judg13:15 ","!jg13:15 "]
+  replace: "Manoʹah now said to Jehovah’s angel: “Please stay, and let us prepare a young goat for you.”"
+
+- triggers: ["!judges13:16 ","!judg13:16 ","!jg13:16 "]
+  replace: "But Jehovah’s angel said to Manoʹah: “If I stay, I will not eat your food; but if you wish to present a burnt offering to Jehovah, you may offer it up.” Manoʹah did not know that he was Jehovah’s angel."
+
+- triggers: ["!judges13:17 ","!judg13:17 ","!jg13:17 "]
+  replace: "Then Manoʹah said to Jehovah’s angel: “What is your name, so that we may honor you when your word comes true?”"
+
+- triggers: ["!judges13:18 ","!judg13:18 ","!jg13:18 "]
+  replace: "However, Jehovah’s angel said to him: “Why are you asking about my name, seeing that it is a wonderful one?”"
+
+- triggers: ["!judges13:19 ","!judg13:19 ","!jg13:19 "]
+  replace: "Then Manoʹah took the young goat and the grain offering and offered them on the rock to Jehovah. And He was doing something amazing while Manoʹah and his wife were looking on."
+
+- triggers: ["!judges13:20 ","!judg13:20 ","!jg13:20 "]
+  replace: "As the flame ascended from the altar heavenward, Jehovah’s angel ascended in the flame from the altar while Manoʹah and his wife were looking on. At once they fell with their faces to the ground."
+
+- triggers: ["!judges13:21 ","!judg13:21 ","!jg13:21 "]
+  replace: "Jehovah’s angel did not appear again to Manoʹah and his wife. Then Manoʹah realized that he was Jehovah’s angel."
+
+- triggers: ["!judges13:22 ","!judg13:22 ","!jg13:22 "]
+  replace: "Manoʹah then said to his wife: “We are sure to die, because it is God whom we have seen.”"
+
+- triggers: ["!judges13:23 ","!judg13:23 ","!jg13:23 "]
+  replace: "But his wife said to him: “If Jehovah wanted to put us to death, he would not have accepted a burnt offering and a grain offering from our hand, he would not have shown us all these things, and he would not have told us any of these things.”"
+
+- triggers: ["!judges13:24 ","!judg13:24 ","!jg13:24 "]
+  replace: "The woman later gave birth to a son and named him Samson; and as the boy grew, Jehovah continued to bless him."
+
+- triggers: ["!judges13:25 ","!judg13:25 ","!jg13:25 "]
+  replace: "In time Jehovah’s spirit started to impel him in Maʹhaneh-dan, between Zoʹrah and Eshʹtaol."
+
+- triggers: ["!judges14:1 ","!judg14:1 ","!jg14:1 "]
+  replace: "Then Samson went down to Timʹnah, and in Timʹnah he saw a Philisʹtine woman."
+
+- triggers: ["!judges14:2 ","!judg14:2 ","!jg14:2 "]
+  replace: "So he went up and told his father and mother: “In Timʹnah a Philisʹtine woman caught my eye, and I want you to get her for me as a wife.”"
+
+- triggers: ["!judges14:3 ","!judg14:3 ","!jg14:3 "]
+  replace: "But his father and mother said to him: “Can you not find a woman among your relatives and among all our people? Must you go and take a wife from among the uncircumcised Philisʹtines?” But Samson said to his father: “Get her for me, because she is the right one for me.”"
+
+- triggers: ["!judges14:4 ","!judg14:4 ","!jg14:4 "]
+  replace: "His father and mother did not realize that this was from Jehovah, for He was looking for an opportunity against the Philisʹtines, as the Philisʹtines were ruling over Israel at that time."
+
+- triggers: ["!judges14:5 ","!judg14:5 ","!jg14:5 "]
+  replace: "So Samson went down with his father and mother to Timʹnah. When he reached the vineyards of Timʹnah, why look! a lion came roaring at him."
+
+- triggers: ["!judges14:6 ","!judg14:6 ","!jg14:6 "]
+  replace: "Then Jehovah’s spirit empowered him, and he tore it in two, just as someone tears a young goat in two with his bare hands. But he did not tell his father or mother what he had done."
+
+- triggers: ["!judges14:7 ","!judg14:7 ","!jg14:7 "]
+  replace: "Then he went down and spoke to the woman, and she was still the right one in Samson’s eyes."
+
+- triggers: ["!judges14:8 ","!judg14:8 ","!jg14:8 "]
+  replace: "Later when he was going back to take her home, he turned aside to look at the dead body of the lion, and there in the lion’s carcass was a swarm of bees and honey."
+
+- triggers: ["!judges14:9 ","!judg14:9 ","!jg14:9 "]
+  replace: "So he scraped the honey out into his hands and ate it as he walked along. When he rejoined his father and mother, he gave them some to eat. But he did not tell them that he had scraped the honey out of the carcass of a lion."
+
+- triggers: ["!judges14:10 ","!judg14:10 ","!jg14:10 "]
+  replace: "His father went down to the woman, and Samson held a banquet there, for that was what the young men used to do."
+
+- triggers: ["!judges14:11 ","!judg14:11 ","!jg14:11 "]
+  replace: "When they saw him, they brought 30 groomsmen to accompany him."
+
+- triggers: ["!judges14:12 ","!judg14:12 ","!jg14:12 "]
+  replace: "Then Samson said to them: “Please let me tell you a riddle. If during the seven days of the banquet you solve it and tell me the answer, I will have to give you 30 linen garments and 30 outfits of clothing."
+
+- triggers: ["!judges14:13 ","!judg14:13 ","!jg14:13 "]
+  replace: "But if you are unable to tell me the answer, you must give me 30 linen garments and 30 outfits of clothing.” They said: “Tell us your riddle; we want to hear it.”"
+
+- triggers: ["!judges14:14 ","!judg14:14 ","!jg14:14 "]
+  replace: "So he said to them: “Out of the eater came something to eat, And out of the strong came something sweet.” They were unable to solve the riddle for three days."
+
+- triggers: ["!judges14:15 ","!judg14:15 ","!jg14:15 "]
+  replace: "On the fourth day, they said to Samson’s wife: “Trick your husband so that he will tell us the answer to the riddle. Otherwise, we will burn you and your father’s house with fire. Did you invite us here to take our possessions?”"
+
+- triggers: ["!judges14:16 ","!judg14:16 ","!jg14:16 "]
+  replace: "So Samson’s wife wept over him and said: “You must hate me; you do not love me. You told a riddle to my people, but you have not told the answer to me.” At this he said to her: “Why, I have not told it even to my own father and mother! Should I tell it to you?”"
+
+- triggers: ["!judges14:17 ","!judg14:17 ","!jg14:17 "]
+  replace: "But she kept weeping over him the rest of the seven-day banquet. He finally told her on the seventh day, because she had pressured him. Then she told her people the answer to the riddle."
+
+- triggers: ["!judges14:18 ","!judg14:18 ","!jg14:18 "]
+  replace: "So on the seventh day before the sun set, the men of the city said to him: “What is sweeter than honey, And what is stronger than a lion?” He replied to them: “If you had not plowed with my young cow, You would not have solved my riddle.”"
+
+- triggers: ["!judges14:19 ","!judg14:19 ","!jg14:19 "]
+  replace: "Then Jehovah’s spirit empowered him, and he went down to Ashʹkelon and struck down 30 of their men and took their clothing and gave the outfits to those who had answered the riddle. He was furious as he went back up to his father’s house."
+
+- triggers: ["!judges14:20 ","!judg14:20 ","!jg14:20 "]
+  replace: "Samson’s wife was then given to one of his groomsmen who had accompanied him."
+
+- triggers: ["!judges15:1 ","!judg15:1 ","!jg15:1 "]
+  replace: "After a while, in the days of the wheat harvest, Samson went to visit his wife, bringing a young goat. He said: “I wish to go in to my wife in the bedroom.” But her father did not allow him to go in."
+
+- triggers: ["!judges15:2 ","!judg15:2 ","!jg15:2 "]
+  replace: "Her father said: “I thought, ‘You must surely hate her.’ So I gave her to your groomsman. Is not her younger sister more attractive than she is? Please, take her instead.”"
+
+- triggers: ["!judges15:3 ","!judg15:3 ","!jg15:3 "]
+  replace: "However, Samson said to them: “This time I cannot be blamed by the Philisʹtines for harming them.”"
+
+- triggers: ["!judges15:4 ","!judg15:4 ","!jg15:4 "]
+  replace: "So Samson went and caught 300 foxes. Then he took torches, turned the foxes tail to tail, and put one torch between each pair of tails."
+
+- triggers: ["!judges15:5 ","!judg15:5 ","!jg15:5 "]
+  replace: "Then he set fire to the torches and sent the foxes out into the fields of standing grain of the Philisʹtines. He set on fire everything from sheaf to standing grain, as well as the vineyards and the olive groves."
+
+- triggers: ["!judges15:6 ","!judg15:6 ","!jg15:6 "]
+  replace: "The Philisʹtines asked: “Who did this?” They were told: “It was Samson, the son-in-law of the Timʹnite, because he took his wife and gave her to his groomsman.” At that the Philisʹtines went up and burned her and her father with fire."
+
+- triggers: ["!judges15:7 ","!judg15:7 ","!jg15:7 "]
+  replace: "Then Samson said to them: “If this is how you act, I will not quit until I take revenge on you.”"
+
+- triggers: ["!judges15:8 ","!judg15:8 ","!jg15:8 "]
+  replace: "Then he struck them down one after the other with a great slaughter, after which he went down and stayed in a cave of the crag Eʹtam."
+
+- triggers: ["!judges15:9 ","!judg15:9 ","!jg15:9 "]
+  replace: "Later the Philisʹtines came up and camped in Judah and were tramping about in Leʹhi."
+
+- triggers: ["!judges15:10 ","!judg15:10 ","!jg15:10 "]
+  replace: "Then the men of Judah said: “Why have you come up against us?” to which they answered: “We have come up to capture Samson, to do to him just as he did to us.”"
+
+- triggers: ["!judges15:11 ","!judg15:11 ","!jg15:11 "]
+  replace: "So 3,000 men of Judah went down to the cave of the crag Eʹtam and said to Samson: “Do you not know that the Philisʹtines are ruling over us? So why have you done this to us?” He said to them: “As they did to me, so I did to them.”"
+
+- triggers: ["!judges15:12 ","!judg15:12 ","!jg15:12 "]
+  replace: "But they said to him: “We have come to capture you and to hand you over to the Philisʹtines.” Then Samson said: “Swear to me that you yourselves will not assault me.”"
+
+- triggers: ["!judges15:13 ","!judg15:13 ","!jg15:13 "]
+  replace: "They said to him: “No, we will only tie you and hand you over to them, but we will not put you to death.” So they bound him with two new ropes and brought him up from the crag."
+
+- triggers: ["!judges15:14 ","!judg15:14 ","!jg15:14 "]
+  replace: "When he came to Leʹhi, the Philisʹtines shouted triumphantly at meeting him. Then Jehovah’s spirit empowered him, and the ropes on his arms became like linen threads that were scorched with fire, and his fetters melted off his hands."
+
+- triggers: ["!judges15:15 ","!judg15:15 ","!jg15:15 "]
+  replace: "He now found a fresh jawbone of a male donkey; he reached out and grabbed it and struck down 1,000 men with it."
+
+- triggers: ["!judges15:16 ","!judg15:16 ","!jg15:16 "]
+  replace: "Then Samson said: “With the jawbone of a donkey—one heap, two heaps! With the jawbone of a donkey I struck down 1,000 men.”"
+
+- triggers: ["!judges15:17 ","!judg15:17 ","!jg15:17 "]
+  replace: "When he finished speaking, he threw the jawbone away and called that place Raʹmath-leʹhi."
+
+- triggers: ["!judges15:18 ","!judg15:18 ","!jg15:18 "]
+  replace: "Then he became very thirsty, and he called on Jehovah and said: “It was you who gave this great salvation into the hand of your servant. But now am I to die of thirst and fall into the hands of the uncircumcised?”"
+
+- triggers: ["!judges15:19 ","!judg15:19 ","!jg15:19 "]
+  replace: "So God split open a hollow that was in Leʹhi, and water flowed from it. When he drank, his spirit returned and he revived. That is why he named the place En-hakkorʹe, which is in Leʹhi to this day."
+
+- triggers: ["!judges15:20 ","!judg15:20 ","!jg15:20 "]
+  replace: "And he judged Israel in the days of the Philisʹtines for 20 years."
+
+- triggers: ["!judges16:1 ","!judg16:1 ","!jg16:1 "]
+  replace: "One time Samson went to Gazʹa and saw a prostitute there, and he went in to her."
+
+- triggers: ["!judges16:2 ","!judg16:2 ","!jg16:2 "]
+  replace: "The Gazʹites were told: “Samson has come here.” So they surrounded him and lay in ambush for him all night long in the city gate. They stayed quiet the whole night, saying to themselves: “When daylight comes, we will kill him.”"
+
+- triggers: ["!judges16:3 ","!judg16:3 ","!jg16:3 "]
+  replace: "However, Samson kept lying there until midnight. Then he got up at midnight and grabbed the doors of the city gate and the two side posts and pulled them out along with the bar. He put them on his shoulders and carried them up to the top of the mountain that faces Hebʹron."
+
+- triggers: ["!judges16:4 ","!judg16:4 ","!jg16:4 "]
+  replace: "After that he fell in love with a woman in the Valley of Soʹrek whose name was Deliʹlah."
+
+- triggers: ["!judges16:5 ","!judg16:5 ","!jg16:5 "]
+  replace: "So the lords of the Philisʹtines approached her and said: “Trick him and find out what gives him such great strength and how we can overpower him and tie him and subdue him. For this we will each give you 1,100 silver pieces.”"
+
+- triggers: ["!judges16:6 ","!judg16:6 ","!jg16:6 "]
+  replace: "Deliʹlah later said to Samson: “Please tell me where your great power comes from and what can be used to tie you and subdue you.”"
+
+- triggers: ["!judges16:7 ","!judg16:7 ","!jg16:7 "]
+  replace: "Samson said to her: “If they tie me with seven fresh bowstrings that have not been dried out, I will grow as weak as an ordinary man.”"
+
+- triggers: ["!judges16:8 ","!judg16:8 ","!jg16:8 "]
+  replace: "So the lords of the Philisʹtines brought up to her seven fresh bowstrings that had not been dried out, and she tied him with them."
+
+- triggers: ["!judges16:9 ","!judg16:9 ","!jg16:9 "]
+  replace: "Now they set an ambush in the inner room, and she called out to him: “The Philisʹtines are upon you, Samson!” At that he tore apart the bowstrings, just as easily as a thread of flax comes apart when it touches fire. The secret of his power did not become known."
+
+- triggers: ["!judges16:10 ","!judg16:10 ","!jg16:10 "]
+  replace: "Then Deliʹlah said to Samson: “Look! You have fooled me and told me lies. Now tell me, please, what can be used to tie you.”"
+
+- triggers: ["!judges16:11 ","!judg16:11 ","!jg16:11 "]
+  replace: "So he said to her: “If they tie me up with new ropes that have not been used for work, I will grow as weak as an ordinary man.”"
+
+- triggers: ["!judges16:12 ","!judg16:12 ","!jg16:12 "]
+  replace: "So Deliʹlah took new ropes and tied him with them and called out: “The Philisʹtines are upon you, Samson!” (All the while the ambush was set in the inner room.) At that he tore them off his arms like threads."
+
+- triggers: ["!judges16:13 ","!judg16:13 ","!jg16:13 "]
+  replace: "After that Deliʹlah said to Samson: “Up until now you have fooled me and told me lies. Tell me what can be used to tie you.” Then he said to her: “If you weave the seven braids of my head with the warp thread.”"
+
+- triggers: ["!judges16:14 ","!judg16:14 ","!jg16:14 "]
+  replace: "So she fixed them with a pin and called out to him: “The Philisʹtines are upon you, Samson!” So he woke up from his sleep and pulled out the loom pin and the warp thread."
+
+- triggers: ["!judges16:15 ","!judg16:15 ","!jg16:15 "]
+  replace: "She now said to him: “How can you say, ‘I love you,’ when your heart is not with me? These three times you have fooled me and have not told me the source of your great power.”"
+
+- triggers: ["!judges16:16 ","!judg16:16 ","!jg16:16 "]
+  replace: "Because day after day she kept nagging him and pressuring him, he was weary to the point of dying."
+
+- triggers: ["!judges16:17 ","!judg16:17 ","!jg16:17 "]
+  replace: "So he finally opened his heart to her, saying: “A razor has never touched my head, because I am a Nazʹirite of God from birth. If I am shaved, my power will leave me and I will grow weak and become like all other men.”"
+
+- triggers: ["!judges16:18 ","!judg16:18 ","!jg16:18 "]
+  replace: "When Deliʹlah saw that he had opened his heart to her, she immediately summoned the Philisʹtine lords, saying: “Come up this time, for he has opened his heart to me.” So the Philisʹtine lords came up to her, bringing the money with them."
+
+- triggers: ["!judges16:19 ","!judg16:19 ","!jg16:19 "]
+  replace: "She made him fall asleep on her knees; then she called the man and had him shave off the seven braids of his head. After that she began to have control over him, for his power was leaving him."
+
+- triggers: ["!judges16:20 ","!judg16:20 ","!jg16:20 "]
+  replace: "Now she called out: “The Philisʹtines are upon you, Samson!” He woke up from his sleep and said: “I will go out as at other times and shake myself free.” But he did not know that Jehovah had left him."
+
+- triggers: ["!judges16:21 ","!judg16:21 ","!jg16:21 "]
+  replace: "So the Philisʹtines seized him and bored his eyes out. Then they brought him down to Gazʹa and bound him with two copper fetters, and he became a grinder of grain in the prison."
+
+- triggers: ["!judges16:22 ","!judg16:22 ","!jg16:22 "]
+  replace: "But the hair of his head started to grow back again after he had been shaved."
+
+- triggers: ["!judges16:23 ","!judg16:23 ","!jg16:23 "]
+  replace: "The Philisʹtine lords gathered together to offer a great sacrifice to Daʹgon their god and to celebrate, for they were saying: “Our god has given Samson our enemy into our hand!”"
+
+- triggers: ["!judges16:24 ","!judg16:24 ","!jg16:24 "]
+  replace: "When the people saw him, they praised their god and said: “Our god has given into our hand our enemy, the one who devastated our land and killed so many of us.”"
+
+- triggers: ["!judges16:25 ","!judg16:25 ","!jg16:25 "]
+  replace: "Because their heart was cheerful, they said: “Call Samson to provide us some amusement.” So they called Samson out of the prison to entertain them; they made him stand between the pillars."
+
+- triggers: ["!judges16:26 ","!judg16:26 ","!jg16:26 "]
+  replace: "Then Samson said to the boy holding him by the hand: “Let me feel the pillars that support the house, so that I can lean against them.”"
+
+- triggers: ["!judges16:27 ","!judg16:27 ","!jg16:27 "]
+  replace: "(Incidentally, the house was full of men and women. All the Philisʹtine lords were there, and on the roof there were about 3,000 men and women who were looking on while Samson provided amusement.)"
+
+- triggers: ["!judges16:28 ","!judg16:28 ","!jg16:28 "]
+  replace: "Samson now called out to Jehovah: “Sovereign Lord Jehovah, remember me, please, and strengthen me, please, just this once, O God, and let me take revenge on the Philisʹtines for one of my two eyes.”"
+
+- triggers: ["!judges16:29 ","!judg16:29 ","!jg16:29 "]
+  replace: "Then Samson braced himself against the two middle pillars that supported the house, and he leaned on them with his right hand on one and his left hand on the other."
+
+- triggers: ["!judges16:30 ","!judg16:30 ","!jg16:30 "]
+  replace: "Samson called out: “Let me die with the Philisʹtines!” Then he pushed with all his might, and the house fell on the lords and all the people in it. So he killed more at his death than he had killed during his life."
+
+- triggers: ["!judges16:31 ","!judg16:31 ","!jg16:31 "]
+  replace: "Later his brothers and all his father’s family came down to take him back. They brought him up and buried him between Zoʹrah and Eshʹtaol in the tomb of Manoʹah his father. He had judged Israel for 20 years."
+
+- triggers: ["!judges17:1 ","!judg17:1 ","!jg17:1 "]
+  replace: "There was a man of the mountainous region of Eʹphraim named Miʹcah."
+
+- triggers: ["!judges17:2 ","!judg17:2 ","!jg17:2 "]
+  replace: "He said to his mother: “The 1,100 silver pieces that were taken from you about which you pronounced a curse, which I heard—look! the silver is with me. I was the one who took it.” At that his mother said: “May Jehovah bless my son.”"
+
+- triggers: ["!judges17:3 ","!judg17:3 ","!jg17:3 "]
+  replace: "So he gave the 1,100 pieces of silver back to his mother, but his mother said: “I will without fail sanctify the silver to Jehovah from my hand for my son to use in making a carved image and a metal statue. Now I give it back to you.”"
+
+- triggers: ["!judges17:4 ","!judg17:4 ","!jg17:4 "]
+  replace: "After he returned the silver to his mother, his mother took 200 silver pieces and gave them to the silversmith. He made a carved image and a metal statue; and they were put in Miʹcah’s house."
+
+- triggers: ["!judges17:5 ","!judg17:5 ","!jg17:5 "]
+  replace: "This man Miʹcah had a house of gods, and he made an ephʹod and teraphim statues and installed one of his sons to serve as priest for him."
+
+- triggers: ["!judges17:6 ","!judg17:6 ","!jg17:6 "]
+  replace: "In those days, there was no king in Israel. Each one was doing what was right in his own eyes."
+
+- triggers: ["!judges17:7 ","!judg17:7 ","!jg17:7 "]
+  replace: "Now there was a young man of Bethʹlehem in Judah who was of the family of Judah. He was a Levite who had been living there for a time."
+
+- triggers: ["!judges17:8 ","!judg17:8 ","!jg17:8 "]
+  replace: "The man left the city of Bethʹlehem in Judah to find a place to live. While on his journey, he came to the mountainous region of Eʹphraim, to the house of Miʹcah."
+
+- triggers: ["!judges17:9 ","!judg17:9 ","!jg17:9 "]
+  replace: "Then Miʹcah said to him: “Where do you come from?” He replied: “I am a Levite from Bethʹlehem in Judah, and I am on my way to find a place to live.”"
+
+- triggers: ["!judges17:10 ","!judg17:10 ","!jg17:10 "]
+  replace: "So Miʹcah said to him: “Stay with me and serve as a father and a priest for me. I will give you ten silver pieces a year and a set of garments and your food.” So the Levite went in."
+
+- triggers: ["!judges17:11 ","!judg17:11 ","!jg17:11 "]
+  replace: "Thus the Levite agreed to stay with the man, and the young man became like one of his sons."
+
+- triggers: ["!judges17:12 ","!judg17:12 ","!jg17:12 "]
+  replace: "Furthermore, Miʹcah installed the Levite to serve as a priest for him, and he lived in the house of Miʹcah."
+
+- triggers: ["!judges17:13 ","!judg17:13 ","!jg17:13 "]
+  replace: "Then Miʹcah said: “Now I know that Jehovah will be good to me, for the Levite has become my priest.”"
+
+- triggers: ["!judges18:1 ","!judg18:1 ","!jg18:1 "]
+  replace: "In those days there was no king in Israel. And in those days the tribe of the Danʹites was looking for an inheritance to dwell in, because until then they had not received an inheritance among the tribes of Israel."
+
+- triggers: ["!judges18:2 ","!judg18:2 ","!jg18:2 "]
+  replace: "The Danʹites sent five men from among their family, capable men from Zoʹrah and Eshʹtaol, to spy out the land and to explore it. They said to them: “Go, explore the land.” When they came to the mountainous region of Eʹphraim, to the house of Miʹcah, they spent the night there."
+
+- triggers: ["!judges18:3 ","!judg18:3 ","!jg18:3 "]
+  replace: "While they were near the house of Miʹcah, they recognized the voice of the young Levite man, so they went over to him and asked: “Who brought you here? What are you doing in this place? What is keeping you here?”"
+
+- triggers: ["!judges18:4 ","!judg18:4 ","!jg18:4 "]
+  replace: "He replied to them: “Thus and so Miʹcah did for me, and he hired me to serve as priest for him.”"
+
+- triggers: ["!judges18:5 ","!judg18:5 ","!jg18:5 "]
+  replace: "Then they said to him: “Please ask God whether our journey will be successful.”"
+
+- triggers: ["!judges18:6 ","!judg18:6 ","!jg18:6 "]
+  replace: "The priest said to them: “Go in peace. Jehovah is with you on your journey.”"
+
+- triggers: ["!judges18:7 ","!judg18:7 ","!jg18:7 "]
+  replace: "So the five men went on and came to Laʹish. They saw how the people in it were dwelling in self-reliance in the manner of the Sidoʹnians. They were quiet and unsuspecting, and no oppressive conqueror was in the land to disturb them. They were far away from the Sidoʹnians, and they had no dealings with anyone else."
+
+- triggers: ["!judges18:8 ","!judg18:8 ","!jg18:8 "]
+  replace: "When they returned to their brothers at Zoʹrah and Eshʹtaol, their brothers said to them: “How did it go?”"
+
+- triggers: ["!judges18:9 ","!judg18:9 ","!jg18:9 "]
+  replace: "They replied: “Let us go up against them, for we have seen that the land is very good. Why are you hesitant? Do not delay to go in to take possession of the land."
+
+- triggers: ["!judges18:10 ","!judg18:10 ","!jg18:10 "]
+  replace: "When you arrive, you will find an unsuspecting people, and the land is spacious. God has given it into your hand, a place where there is no lack of anything on the earth.”"
+
+- triggers: ["!judges18:11 ","!judg18:11 ","!jg18:11 "]
+  replace: "Then 600 men armed for battle from the family of the Danʹites departed from Zoʹrah and Eshʹtaol."
+
+- triggers: ["!judges18:12 ","!judg18:12 ","!jg18:12 "]
+  replace: "They went up and camped at Kirʹiath-jeʹarim in Judah. That is why that place, which is west of Kirʹiath-jeʹarim, is called Maʹhaneh-dan to this day."
+
+- triggers: ["!judges18:13 ","!judg18:13 ","!jg18:13 "]
+  replace: "They went from there to the mountainous region of Eʹphraim and came to the house of Miʹcah."
+
+- triggers: ["!judges18:14 ","!judg18:14 ","!jg18:14 "]
+  replace: "Then the five men who had gone to spy out the land of Laʹish said to their brothers: “Did you know that there are in these houses an ephʹod, teraphim statues, a carved image, and a metal statue? Think about what you should do.”"
+
+- triggers: ["!judges18:15 ","!judg18:15 ","!jg18:15 "]
+  replace: "So they stopped there and came to the house of the young Levite man at the house of Miʹcah and asked how he was."
+
+- triggers: ["!judges18:16 ","!judg18:16 ","!jg18:16 "]
+  replace: "All the while the 600 men of Dan, armed for battle, stood at the entrance of the gate."
+
+- triggers: ["!judges18:17 ","!judg18:17 ","!jg18:17 "]
+  replace: "The five men who had gone to spy out the land went inside to take the carved image, the ephʹod, the teraphim statues, and the metal image. (The priest was standing at the entrance of the gate with the 600 men armed for battle.)"
+
+- triggers: ["!judges18:18 ","!judg18:18 ","!jg18:18 "]
+  replace: "They went into the house of Miʹcah and took the carved image, the ephʹod, the teraphim statues, and the metal image. The priest said to them: “What are you doing?”"
+
+- triggers: ["!judges18:19 ","!judg18:19 ","!jg18:19 "]
+  replace: "But they said to him: “Be quiet. Put your hand over your mouth, and come with us to be a father and a priest for us. Which is better—for you to be a priest to the house of one man or to become a priest to a tribe and family in Israel?”"
+
+- triggers: ["!judges18:20 ","!judg18:20 ","!jg18:20 "]
+  replace: "So the priest was satisfied, and he took the ephʹod, the teraphim statues, and the carved image and went off with the people."
+
+- triggers: ["!judges18:21 ","!judg18:21 ","!jg18:21 "]
+  replace: "Then they turned to go on their way, putting the children, the livestock, and the valuable things ahead of them."
+
+- triggers: ["!judges18:22 ","!judg18:22 ","!jg18:22 "]
+  replace: "They had gone some distance away from the house of Miʹcah when the men who lived in the houses near the house of Miʹcah gathered together and caught up with the Danʹites."
+
+- triggers: ["!judges18:23 ","!judg18:23 ","!jg18:23 "]
+  replace: "When they cried out to the Danʹites, they turned to face them and said to Miʹcah: “What is the matter? Why have you been gathered together?”"
+
+- triggers: ["!judges18:24 ","!judg18:24 ","!jg18:24 "]
+  replace: "So he said: “You have taken my gods that I made, and you have gone off with the priest too. What do I have left? How, then, can you ask me, ‘What is the matter with you?’”"
+
+- triggers: ["!judges18:25 ","!judg18:25 ","!jg18:25 "]
+  replace: "The Danʹites replied: “Do not raise your voice against us; otherwise, angry men may assault you, and that would cost you your life and the lives of your household.”"
+
+- triggers: ["!judges18:26 ","!judg18:26 ","!jg18:26 "]
+  replace: "So the Danʹites went on their way; and Miʹcah, seeing that they were stronger than he was, turned and went back to his house."
+
+- triggers: ["!judges18:27 ","!judg18:27 ","!jg18:27 "]
+  replace: "After they took what Miʹcah had made, as well as his priest, they went to Laʹish, to a people quiet and unsuspecting. They struck them down with the sword and burned the city with fire."
+
+- triggers: ["!judges18:28 ","!judg18:28 ","!jg18:28 "]
+  replace: "There was no one to rescue it, for it was far from Siʹdon and they had no dealings with anyone else and it was in the valley plain that belonged to Beth-reʹhob. Then they rebuilt the city and settled in it."
+
+- triggers: ["!judges18:29 ","!judg18:29 ","!jg18:29 "]
+  replace: "Furthermore, they named the city Dan after the name of their father, Dan, who was born to Israel. But Laʹish was the city’s former name."
+
+- triggers: ["!judges18:30 ","!judg18:30 ","!jg18:30 "]
+  replace: "After that the Danʹites set up the carved image for themselves, and Jonʹathan the son of Gerʹshom, the son of Moses, and his sons became priests to the tribe of the Danʹites until the day that the inhabitants of the land went into exile."
+
+- triggers: ["!judges18:31 ","!judg18:31 ","!jg18:31 "]
+  replace: "And they set up the carved image that Miʹcah had made, and it remained there all the days that the house of the true God was in Shiʹloh."
+
+- triggers: ["!judges19:1 ","!judg19:1 ","!jg19:1 "]
+  replace: "In those days, when there was no king in Israel, a Levite who was then living in a remote part of the mountainous region of Eʹphraim took a concubine from Bethʹlehem in Judah as his wife."
+
+- triggers: ["!judges19:2 ","!judg19:2 ","!jg19:2 "]
+  replace: "But his concubine was unfaithful to him, and she left him to go to her father’s house at Bethʹlehem in Judah. She remained there for four months."
+
+- triggers: ["!judges19:3 ","!judg19:3 ","!jg19:3 "]
+  replace: "Then her husband went after her to persuade her to come back; he had his male attendant and a couple of donkeys with him. So she brought him into her father’s house. When her father saw him, he was glad to meet him."
+
+- triggers: ["!judges19:4 ","!judg19:4 ","!jg19:4 "]
+  replace: "So his father-in-law, the young woman’s father, convinced him to stay with him three days; and they would eat and drink, and he would spend the night there."
+
+- triggers: ["!judges19:5 ","!judg19:5 ","!jg19:5 "]
+  replace: "On the fourth day, when they got up early in the morning to go, the father of the young woman said to his son-in-law: “Eat something to give you strength, and then you may go.”"
+
+- triggers: ["!judges19:6 ","!judg19:6 ","!jg19:6 "]
+  replace: "So they sat down, and they both ate and drank together; after that the father of the young woman said to the man: “Please, stay overnight and enjoy yourself.”"
+
+- triggers: ["!judges19:7 ","!judg19:7 ","!jg19:7 "]
+  replace: "When the man rose to go, his father-in-law kept begging him, so he stayed overnight again."
+
+- triggers: ["!judges19:8 ","!judg19:8 ","!jg19:8 "]
+  replace: "When he got up early in the morning on the fifth day to go, the father of the young woman said: “Please, eat something to give you strength.” And they lingered until it was late in the day, and they both kept eating."
+
+- triggers: ["!judges19:9 ","!judg19:9 ","!jg19:9 "]
+  replace: "When the man rose to go with his concubine and his attendant, his father-in-law, the young woman’s father, said to him: “Look, now! It is almost evening. Please, stay overnight. Here the day is coming to an end. Stay here overnight and enjoy yourself. Tomorrow you can get up early for your journey and go to your home.”"
+
+- triggers: ["!judges19:10 ","!judg19:10 ","!jg19:10 "]
+  replace: "However, the man did not want to stay another night, so he got up and traveled as far as Jeʹbus, that is, Jerusalem. He had with him the two saddled donkeys, his concubine, and his attendant."
+
+- triggers: ["!judges19:11 ","!judg19:11 ","!jg19:11 "]
+  replace: "When they were close to Jeʹbus, the daylight was nearly gone. So the attendant said to his master: “Should we stop at this city of the Jebʹusites and stay overnight here?”"
+
+- triggers: ["!judges19:12 ","!judg19:12 ","!jg19:12 "]
+  replace: "But his master said to him: “We should not stop at a city of foreigners who are not Israelites. We will go on as far as Gibʹeah.”"
+
+- triggers: ["!judges19:13 ","!judg19:13 ","!jg19:13 "]
+  replace: "Then he said to his attendant: “Come and let us try to reach one of those places; we will stay overnight either in Gibʹeah or in Raʹmah.”"
+
+- triggers: ["!judges19:14 ","!judg19:14 ","!jg19:14 "]
+  replace: "So they went on their way, and the sun began to set when they were near Gibʹeah, which belongs to Benjamin."
+
+- triggers: ["!judges19:15 ","!judg19:15 ","!jg19:15 "]
+  replace: "So they stopped there and went in to stay overnight in Gibʹeah. Once inside, they sat down in the public square of the city, but nobody took them into his house to stay overnight."
+
+- triggers: ["!judges19:16 ","!judg19:16 ","!jg19:16 "]
+  replace: "Eventually that evening, an old man came in from his work in the field. He was from the mountainous region of Eʹphraim, and he was living for a time in Gibʹeah; but the residents of the city were Benʹjaminites."
+
+- triggers: ["!judges19:17 ","!judg19:17 ","!jg19:17 "]
+  replace: "When he looked up and saw the traveler in the public square of the city, the old man said: “Where are you going, and where do you come from?”"
+
+- triggers: ["!judges19:18 ","!judg19:18 ","!jg19:18 "]
+  replace: "He replied: “We are traveling from Bethʹlehem in Judah to a remote area of the mountainous region of Eʹphraim, where I am from. I went to Bethʹlehem in Judah, and I am going to the house of Jehovah, but nobody is taking me into his house."
+
+- triggers: ["!judges19:19 ","!judg19:19 ","!jg19:19 "]
+  replace: "We have enough straw and fodder for our donkeys, and bread and wine for me, the woman, and our attendant. There is nothing lacking.”"
+
+- triggers: ["!judges19:20 ","!judg19:20 ","!jg19:20 "]
+  replace: "However, the old man said: “May you have peace! Let me take care of anything you need. Just do not stay overnight in the public square.”"
+
+- triggers: ["!judges19:21 ","!judg19:21 ","!jg19:21 "]
+  replace: "So he brought him into his house and gave feed to the donkeys. Then they washed their feet and ate and drank."
+
+- triggers: ["!judges19:22 ","!judg19:22 ","!jg19:22 "]
+  replace: "While they were enjoying themselves, some worthless men of the city surrounded the house and were pounding on the door, and they kept saying to the old man who owned the house: “Bring out the man who came into your house, so that we may have sex with him.”"
+
+- triggers: ["!judges19:23 ","!judg19:23 ","!jg19:23 "]
+  replace: "At that the owner of the house went out and said to them: “No, my brothers, do not act wickedly. Please, this man is a guest in my house. Do not commit this disgraceful act."
+
+- triggers: ["!judges19:24 ","!judg19:24 ","!jg19:24 "]
+  replace: "Here are my virgin daughter and this man’s concubine. Let me bring them out, and you can humiliate them if you must. But you must not commit this disgraceful act toward this man.”"
+
+- triggers: ["!judges19:25 ","!judg19:25 ","!jg19:25 "]
+  replace: "But the men refused to listen to him, so the man grabbed hold of his concubine and brought her outside to them. They raped her and abused her all night long until the morning. Then they sent her away at the break of dawn."
+
+- triggers: ["!judges19:26 ","!judg19:26 ","!jg19:26 "]
+  replace: "Early in the morning, the woman came and fell down at the entrance of the man’s house where her master was and lay there until it was light."
+
+- triggers: ["!judges19:27 ","!judg19:27 ","!jg19:27 "]
+  replace: "When her master got up in the morning and opened the doors of the house to go out to resume his journey, he saw the woman, his concubine, lying at the entrance of the house with her hands on the threshold."
+
+- triggers: ["!judges19:28 ","!judg19:28 ","!jg19:28 "]
+  replace: "So he said to her: “Get up; let us go.” But there was no answer. The man then put her on the donkey and set out for his home."
+
+- triggers: ["!judges19:29 ","!judg19:29 ","!jg19:29 "]
+  replace: "When he reached his house, he took the slaughtering knife and took hold of his concubine and cut her up limb by limb into 12 pieces and sent one piece into each territory of Israel."
+
+- triggers: ["!judges19:30 ","!judg19:30 ","!jg19:30 "]
+  replace: "All who saw it said: “Such a thing has never happened or been seen from the day that the Israelites went up out of the land of Egypt down to this day. Consider it, take counsel, and tell us what to do.”"
+
+- triggers: ["!judges20:1 ","!judg20:1 ","!jg20:1 "]
+  replace: "Consequently, all the Israelites came out from Dan down to Beʹer-sheʹba and from the land of Gilʹead, and the entire assembly gathered unitedly before Jehovah at Mizʹpah."
+
+- triggers: ["!judges20:2 ","!judg20:2 ","!jg20:2 "]
+  replace: "So the chiefs of the people and all the tribes of Israel took their places in the congregation of God’s people—400,000 foot soldiers armed with swords."
+
+- triggers: ["!judges20:3 ","!judg20:3 ","!jg20:3 "]
+  replace: "The Benʹjaminites heard that the men of Israel had gone up to Mizʹpah. Then the men of Israel said: “Tell us, how did this terrible thing happen?”"
+
+- triggers: ["!judges20:4 ","!judg20:4 ","!jg20:4 "]
+  replace: "At this the Levite man, the husband of the murdered woman, said in answer: “I came to Gibʹeah of Benjamin with my concubine to stay overnight."
+
+- triggers: ["!judges20:5 ","!judg20:5 ","!jg20:5 "]
+  replace: "And the inhabitants of Gibʹeah rose up against me and surrounded the house by night. They meant to kill me, but they raped my concubine instead, and she died."
+
+- triggers: ["!judges20:6 ","!judg20:6 ","!jg20:6 "]
+  replace: "So I took my concubine’s body and cut it up and sent the pieces into every part of Israel’s inheritance, because they had committed a shameful and disgraceful act in Israel."
+
+- triggers: ["!judges20:7 ","!judg20:7 ","!jg20:7 "]
+  replace: "Now all you people of Israel, give your advice and counsel here.”"
+
+- triggers: ["!judges20:8 ","!judg20:8 ","!jg20:8 "]
+  replace: "Then all the people rose up in unison and said: “Not one of us will go to his tent or return to his house."
+
+- triggers: ["!judges20:9 ","!judg20:9 ","!jg20:9 "]
+  replace: "Now this is what we will do to Gibʹeah: We will go up against it by lot."
+
+- triggers: ["!judges20:10 ","!judg20:10 ","!jg20:10 "]
+  replace: "We will take 10 men out of 100 from all the tribes of Israel, and 100 out of 1,000 and 1,000 out of 10,000 to collect provisions for the army, so that they may take action against Gibʹeah of Benjamin, in view of the disgraceful act that they committed in Israel.”"
+
+- triggers: ["!judges20:11 ","!judg20:11 ","!jg20:11 "]
+  replace: "Thus all the men of Israel were gathered against the city united as allies."
+
+- triggers: ["!judges20:12 ","!judg20:12 ","!jg20:12 "]
+  replace: "Then the tribes of Israel sent men to all the tribesmen of Benjamin, saying: “What is this terrible thing that has happened among you?"
+
+- triggers: ["!judges20:13 ","!judg20:13 ","!jg20:13 "]
+  replace: "Now hand over the worthless men from Gibʹeah, so that we may put them to death and clear out what is bad from Israel.” But the Benʹjaminites refused to listen to their Israelite brothers."
+
+- triggers: ["!judges20:14 ","!judg20:14 ","!jg20:14 "]
+  replace: "Then the Benʹjaminites gathered together out of the cities to Gibʹeah to go out to battle against the men of Israel."
+
+- triggers: ["!judges20:15 ","!judg20:15 ","!jg20:15 "]
+  replace: "That day the Benʹjaminites mustered from their cities 26,000 men armed with swords, apart from the 700 chosen men of Gibʹeah."
+
+- triggers: ["!judges20:16 ","!judg20:16 ","!jg20:16 "]
+  replace: "In this army were 700 chosen men who were left-handed. Every one of these men could sling a stone to within a hairbreadth and would not miss."
+
+- triggers: ["!judges20:17 ","!judg20:17 ","!jg20:17 "]
+  replace: "The men of Israel apart from Benjamin mustered 400,000 men armed with swords, and each one was an experienced warrior."
+
+- triggers: ["!judges20:18 ","!judg20:18 ","!jg20:18 "]
+  replace: "They rose up and went up to Bethʹel to inquire of God. Then the people of Israel said: “Who of us should go up in the lead to the battle against the Benʹjaminites?” Jehovah replied: “Judah is to take the lead.”"
+
+- triggers: ["!judges20:19 ","!judg20:19 ","!jg20:19 "]
+  replace: "After that the Israelites rose up in the morning and camped against Gibʹeah."
+
+- triggers: ["!judges20:20 ","!judg20:20 ","!jg20:20 "]
+  replace: "The men of Israel now went out to battle against Benjamin; they drew up in battle formation against them at Gibʹeah."
+
+- triggers: ["!judges20:21 ","!judg20:21 ","!jg20:21 "]
+  replace: "So the Benʹjaminites came out from Gibʹeah and struck down 22,000 men of Israel on that day."
+
+- triggers: ["!judges20:22 ","!judg20:22 ","!jg20:22 "]
+  replace: "However, the army of the men of Israel showed themselves courageous and again drew up in battle formation in the same place as on the first day."
+
+- triggers: ["!judges20:23 ","!judg20:23 ","!jg20:23 "]
+  replace: "Then the Israelites went up and wept before Jehovah until the evening and inquired of Jehovah: “Should we again go into battle against our brothers, the people of Benjamin?” To this Jehovah said: “Go up against them.”"
+
+- triggers: ["!judges20:24 ","!judg20:24 ","!jg20:24 "]
+  replace: "So the Israelites drew near to the Benʹjaminites on the second day."
+
+- triggers: ["!judges20:25 ","!judg20:25 ","!jg20:25 "]
+  replace: "In turn Benjamin came out from Gibʹeah to meet them on the second day and struck down another 18,000 Israelites, all of them armed with swords."
+
+- triggers: ["!judges20:26 ","!judg20:26 ","!jg20:26 "]
+  replace: "At that all the men of Israel went up to Bethʹel. They wept and sat there before Jehovah, and they fasted on that day until the evening and offered up burnt offerings and communion offerings before Jehovah."
+
+- triggers: ["!judges20:27 ","!judg20:27 ","!jg20:27 "]
+  replace: "After that the men of Israel inquired of Jehovah, for the ark of the covenant of the true God was there in those days."
+
+- triggers: ["!judges20:28 ","!judg20:28 ","!jg20:28 "]
+  replace: "Now Phinʹehas the son of Eleaʹzar, the son of Aaron, was ministering before it in those days. They asked: “Should we go out yet again to battle against our brothers, the men of Benjamin, or should we stop?” Jehovah replied: “Go up, because tomorrow I will give them into your hand.”"
+
+- triggers: ["!judges20:29 ","!judg20:29 ","!jg20:29 "]
+  replace: "Then Israel set men in ambush all around Gibʹeah."
+
+- triggers: ["!judges20:30 ","!judg20:30 ","!jg20:30 "]
+  replace: "The Israelites went up against the Benʹjaminites on the third day, and they drew up in formation against Gibʹeah the same as at the other times."
+
+- triggers: ["!judges20:31 ","!judg20:31 ","!jg20:31 "]
+  replace: "When the Benʹjaminites went out to meet the army, they were drawn away from the city. Then, as at the other times, they started to attack and kill some of the men on the highways, one of which goes up to Bethʹel and the other to Gibʹeah, leaving about 30 men of Israel dead in the open field."
+
+- triggers: ["!judges20:32 ","!judg20:32 ","!jg20:32 "]
+  replace: "So the Benʹjaminites said: “They are suffering defeat before us the same as before.” But the Israelites said: “We will retreat and draw them away from the city onto the highways.”"
+
+- triggers: ["!judges20:33 ","!judg20:33 ","!jg20:33 "]
+  replace: "So all the men of Israel rose up from their places and drew up in formation at Baʹal-taʹmar while the Israelite ambush charged out of their places in the vicinity of Gibʹeah."
+
+- triggers: ["!judges20:34 ","!judg20:34 ","!jg20:34 "]
+  replace: "Thus 10,000 chosen men out of all Israel came in front of Gibʹeah, and the fighting was heavy. But the Benʹjaminites did not know that disaster was near at hand."
+
+- triggers: ["!judges20:35 ","!judg20:35 ","!jg20:35 "]
+  replace: "Jehovah defeated Benjamin before Israel, and on that day the Israelites struck down 25,100 men in Benjamin, all of them armed with swords."
+
+- triggers: ["!judges20:36 ","!judg20:36 ","!jg20:36 "]
+  replace: "However, the Benʹjaminites imagined that the men of Israel would be defeated when they retreated from Benjamin, but they retreated because they trusted in the ambush that was set against Gibʹeah."
+
+- triggers: ["!judges20:37 ","!judg20:37 ","!jg20:37 "]
+  replace: "The ambush acted quickly and charged toward Gibʹeah. Then the ambush spread out and struck down the whole city with the sword."
+
+- triggers: ["!judges20:38 ","!judg20:38 ","!jg20:38 "]
+  replace: "Now the men of Israel had arranged that the men who ambushed the city would make a smoke signal go up from there."
+
+- triggers: ["!judges20:39 ","!judg20:39 ","!jg20:39 "]
+  replace: "When the Israelites turned around in the battle, the men of Benjamin started by attacking and killing about 30 men of Israel, and they said: “They are clearly suffering another defeat before us, just as in the previous battle.”"
+
+- triggers: ["!judges20:40 ","!judg20:40 ","!jg20:40 "]
+  replace: "But the signal started to go up from the city as a pillar of smoke. When the men of Benjamin turned to look, they saw the whole city going up in flames to the sky."
+
+- triggers: ["!judges20:41 ","!judg20:41 ","!jg20:41 "]
+  replace: "Then the men of Israel made an about-face, and the men of Benjamin were dismayed, for they saw that disaster had overtaken them."
+
+- triggers: ["!judges20:42 ","!judg20:42 ","!jg20:42 "]
+  replace: "So they retreated from the men of Israel toward the wilderness, but the battle followed them; the men coming out of the cities joined in striking them down."
+
+- triggers: ["!judges20:43 ","!judg20:43 ","!jg20:43 "]
+  replace: "They surrounded the Benʹjaminites and pursued them relentlessly. They trampled them down directly in front of Gibʹeah toward the east."
+
+- triggers: ["!judges20:44 ","!judg20:44 ","!jg20:44 "]
+  replace: "Finally 18,000 men of Benjamin fell, all mighty warriors."
+
+- triggers: ["!judges20:45 ","!judg20:45 ","!jg20:45 "]
+  replace: "The men of Benjamin turned and fled into the wilderness to the crag of Rimʹmon, and the Israelites killed 5,000 of them on the highways, and they kept pursuing them as far as Giʹdom; so they struck down 2,000 more men."
+
+- triggers: ["!judges20:46 ","!judg20:46 ","!jg20:46 "]
+  replace: "All those of Benjamin who fell on that day amounted to 25,000 men armed with swords, all mighty warriors."
+
+- triggers: ["!judges20:47 ","!judg20:47 ","!jg20:47 "]
+  replace: "But 600 retreated into the wilderness to the crag of Rimʹmon, and they stayed on the crag of Rimʹmon for four months."
+
+- triggers: ["!judges20:48 ","!judg20:48 ","!jg20:48 "]
+  replace: "And the men of Israel turned back against the Benʹjaminites and struck those of the city with the sword, from men to livestock, all that remained. Also, they set all the cities in their path on fire."
+
+- triggers: ["!judges21:1 ","!judg21:1 ","!jg21:1 "]
+  replace: "Now the men of Israel had sworn this oath in Mizʹpah: “Not one of us will give his daughter to a man from Benjamin as a wife.”"
+
+- triggers: ["!judges21:2 ","!judg21:2 ","!jg21:2 "]
+  replace: "Consequently, the people came to Bethʹel and sat there before the true God until evening, crying out and weeping bitterly."
+
+- triggers: ["!judges21:3 ","!judg21:3 ","!jg21:3 "]
+  replace: "And they were saying: “Why, O Jehovah the God of Israel, has this happened in Israel? Why should one tribe be missing today from Israel?”"
+
+- triggers: ["!judges21:4 ","!judg21:4 ","!jg21:4 "]
+  replace: "And the next day the people got up early and built an altar there to offer up burnt offerings and communion offerings."
+
+- triggers: ["!judges21:5 ","!judg21:5 ","!jg21:5 "]
+  replace: "Then the people of Israel said: “Who of all the tribes of Israel did not come up to assemble before Jehovah?” for they had taken a great oath that anyone who did not come up to Jehovah at Mizʹpah would be put to death without fail."
+
+- triggers: ["!judges21:6 ","!judg21:6 ","!jg21:6 "]
+  replace: "So the people of Israel felt sorrow over what had happened to Benjamin their brother. They said: “Today one tribe has been chopped off from Israel."
+
+- triggers: ["!judges21:7 ","!judg21:7 ","!jg21:7 "]
+  replace: "What should we do to provide wives for those who are left, now that we have sworn by Jehovah not to give them any of our daughters as wives?”"
+
+- triggers: ["!judges21:8 ","!judg21:8 ","!jg21:8 "]
+  replace: "They asked: “Who among the tribes of Israel did not come up to Jehovah at Mizʹpah?” It so happened that no one had come from Jaʹbesh-gilʹead into the camp where the congregation was."
+
+- triggers: ["!judges21:9 ","!judg21:9 ","!jg21:9 "]
+  replace: "When the people were counted, they saw that none of the inhabitants of Jaʹbesh-gilʹead were there."
+
+- triggers: ["!judges21:10 ","!judg21:10 ","!jg21:10 "]
+  replace: "So the assembly sent there 12,000 of the mightiest men. They commanded them: “Go and strike down the inhabitants of Jaʹbesh-gilʹead with the sword, even the women and the children."
+
+- triggers: ["!judges21:11 ","!judg21:11 ","!jg21:11 "]
+  replace: "This is what you should do: Every male, as well as every woman who has had sexual relations with a male, you should devote to destruction.”"
+
+- triggers: ["!judges21:12 ","!judg21:12 ","!jg21:12 "]
+  replace: "Among the inhabitants of Jaʹbesh-gilʹead, they found 400 girls who were virgins, who had never had sexual relations with a man. So they brought them to the camp at Shiʹloh, which is in the land of Caʹnaan."
+
+- triggers: ["!judges21:13 ","!judg21:13 ","!jg21:13 "]
+  replace: "Then all the assembly sent a message to the Benʹjaminites on the crag of Rimʹmon and offered them peace."
+
+- triggers: ["!judges21:14 ","!judg21:14 ","!jg21:14 "]
+  replace: "So Benjamin came back at that time. They gave them the women whom they had kept alive from the women of Jaʹbesh-gilʹead, but they did not find enough for them."
+
+- triggers: ["!judges21:15 ","!judg21:15 ","!jg21:15 "]
+  replace: "And the people felt sorrow over what had happened to Benjamin because Jehovah had made a division among the tribes of Israel."
+
+- triggers: ["!judges21:16 ","!judg21:16 ","!jg21:16 "]
+  replace: "The elders of the assembly said: “What should we do to provide wives for the remaining men, since all the women were annihilated out of Benjamin?”"
+
+- triggers: ["!judges21:17 ","!judg21:17 ","!jg21:17 "]
+  replace: "They replied: “There should be an inheritance for the survivors of Benjamin, so that a tribe may not be wiped out of Israel."
+
+- triggers: ["!judges21:18 ","!judg21:18 ","!jg21:18 "]
+  replace: "But we are not allowed to give them wives from our daughters, because the people of Israel have sworn: ‘Cursed is the one who gives a wife to Benjamin.’”"
+
+- triggers: ["!judges21:19 ","!judg21:19 ","!jg21:19 "]
+  replace: "Then they said: “Look! There is a festival of Jehovah from year to year in Shiʹloh, which is north of Bethʹel and east of the highway that goes up from Bethʹel to Sheʹchem and south of Leboʹnah.”"
+
+- triggers: ["!judges21:20 ","!judg21:20 ","!jg21:20 "]
+  replace: "So they commanded the men of Benjamin: “Go and set an ambush in the vineyards."
+
+- triggers: ["!judges21:21 ","!judg21:21 ","!jg21:21 "]
+  replace: "And when you see the young women of Shiʹloh come out to join in their circle dances, each of you should come out from the vineyards and seize a wife from the young women of Shiʹloh, and you should return to the land of Benjamin."
+
+- triggers: ["!judges21:22 ","!judg21:22 ","!jg21:22 "]
+  replace: "And should their fathers or their brothers come to make a complaint against us, we will then tell them, ‘Show us favor for their sakes, because we could not provide each one a wife by war and you could not give a wife to them without becoming guilty.’”"
+
+- triggers: ["!judges21:23 ","!judg21:23 ","!jg21:23 "]
+  replace: "So the men of Benjamin did just that, and they each carried off a wife from the women who were dancing. After that they went back to their inheritance and rebuilt their cities and settled in them."
+
+- triggers: ["!judges21:24 ","!judg21:24 ","!jg21:24 "]
+  replace: "And the Israelites dispersed from there at that time, each one to his tribe and his family, and they departed from there, each one to his inheritance."
+
+- triggers: ["!judges21:25 ","!judg21:25 ","!jg21:25 "]
+  replace: "In those days there was no king in Israel. Each one was doing what was right in his own eyes."
+

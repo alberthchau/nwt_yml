@@ -1,0 +1,667 @@
+matches:
+- triggers: ["!ecclesiastes1:1 ","!eccl1:1 ","!ec1:1 "]
+  replace: "The words of the congregator, the son of David, the king in Jerusalem."
+
+- triggers: ["!ecclesiastes1:2 ","!eccl1:2 ","!ec1:2 "]
+  replace: "“The greatest futility!” says the congregator, “The greatest futility! Everything is futile!”"
+
+- triggers: ["!ecclesiastes1:3 ","!eccl1:3 ","!ec1:3 "]
+  replace: "What does a person gain from all his hard work At which he toils under the sun?"
+
+- triggers: ["!ecclesiastes1:4 ","!eccl1:4 ","!ec1:4 "]
+  replace: "A generation is going, and a generation is coming, But the earth remains forever."
+
+- triggers: ["!ecclesiastes1:5 ","!eccl1:5 ","!ec1:5 "]
+  replace: "The sun rises, and the sun sets; Then it hurries back to the place where it rises again."
+
+- triggers: ["!ecclesiastes1:6 ","!eccl1:6 ","!ec1:6 "]
+  replace: "The wind goes south and circles around to the north; Round and round it continuously circles; the wind keeps making its rounds."
+
+- triggers: ["!ecclesiastes1:7 ","!eccl1:7 ","!ec1:7 "]
+  replace: "All the streams flow into the sea, yet the sea is not full. To the place from which the streams flow, there they return so as to flow again."
+
+- triggers: ["!ecclesiastes1:8 ","!eccl1:8 ","!ec1:8 "]
+  replace: "All things are wearisome; No one can even speak of it. The eye is not satisfied at seeing; Nor is the ear filled from hearing."
+
+- triggers: ["!ecclesiastes1:9 ","!eccl1:9 ","!ec1:9 "]
+  replace: "What has been is what will be, And what has been done will be done again; There is nothing new under the sun."
+
+- triggers: ["!ecclesiastes1:10 ","!eccl1:10 ","!ec1:10 "]
+  replace: "Is there anything of which one may say, “Look at this—it is new”? It already existed from long ago; It already existed before our time."
+
+- triggers: ["!ecclesiastes1:11 ","!eccl1:11 ","!ec1:11 "]
+  replace: "No one remembers people of former times; Nor will anyone remember those who come later; Nor will they be remembered by those who come still later."
+
+- triggers: ["!ecclesiastes1:12 ","!eccl1:12 ","!ec1:12 "]
+  replace: "I, the congregator, have been king over Israel in Jerusalem."
+
+- triggers: ["!ecclesiastes1:13 ","!eccl1:13 ","!ec1:13 "]
+  replace: "I set my heart to study and explore with wisdom everything that has been done under the heavens—the miserable occupation that God has given to the sons of men that keeps them occupied."
+
+- triggers: ["!ecclesiastes1:14 ","!eccl1:14 ","!ec1:14 "]
+  replace: "I saw all the works that were done under the sun, And look! everything was futile, a chasing after the wind."
+
+- triggers: ["!ecclesiastes1:15 ","!eccl1:15 ","!ec1:15 "]
+  replace: "What is crooked cannot be made straight, And what is lacking cannot possibly be counted."
+
+- triggers: ["!ecclesiastes1:16 ","!eccl1:16 ","!ec1:16 "]
+  replace: "Then I said in my heart: “Look! I have acquired great wisdom, more than anyone who was before me in Jerusalem, and my heart gained a great deal of wisdom and knowledge.”"
+
+- triggers: ["!ecclesiastes1:17 ","!eccl1:17 ","!ec1:17 "]
+  replace: "I applied my heart to knowing wisdom and to knowing madness and to knowing folly, and this too is a chasing after the wind."
+
+- triggers: ["!ecclesiastes1:18 ","!eccl1:18 ","!ec1:18 "]
+  replace: "For an abundance of wisdom brings an abundance of frustration, So that whoever increases knowledge increases pain."
+
+- triggers: ["!ecclesiastes2:1 ","!eccl2:1 ","!ec2:1 "]
+  replace: "Then I said in my heart: “Come and let me try out pleasure and see what good comes.” But look! that too was futility."
+
+- triggers: ["!ecclesiastes2:2 ","!eccl2:2 ","!ec2:2 "]
+  replace: "I said about laughter, “It is madness!” And about pleasure, “What use is it?”"
+
+- triggers: ["!ecclesiastes2:3 ","!eccl2:3 ","!ec2:3 "]
+  replace: "I explored with my heart by indulging myself with wine, all the while maintaining my own wisdom; I even embraced foolishness to find out what was the best thing for humans to do during their few days of life under the heavens."
+
+- triggers: ["!ecclesiastes2:4 ","!eccl2:4 ","!ec2:4 "]
+  replace: "I undertook great works. I built houses for myself; I planted vineyards for myself."
+
+- triggers: ["!ecclesiastes2:5 ","!eccl2:5 ","!ec2:5 "]
+  replace: "I made gardens and parks for myself, and I planted in them all sorts of fruit trees."
+
+- triggers: ["!ecclesiastes2:6 ","!eccl2:6 ","!ec2:6 "]
+  replace: "I made pools of water for myself, to irrigate a grove of flourishing trees."
+
+- triggers: ["!ecclesiastes2:7 ","!eccl2:7 ","!ec2:7 "]
+  replace: "I acquired male and female servants, and I had servants born in my household. I also acquired much livestock—cattle and flocks—more than any of my predecessors in Jerusalem."
+
+- triggers: ["!ecclesiastes2:8 ","!eccl2:8 ","!ec2:8 "]
+  replace: "I accumulated silver and gold for myself, the treasures of kings and of provinces. I gathered male and female singers for myself, as well as what brings great pleasure to the sons of men—a woman, yes, many women."
+
+- triggers: ["!ecclesiastes2:9 ","!eccl2:9 ","!ec2:9 "]
+  replace: "So I grew great and surpassed anyone prior to me in Jerusalem. And my wisdom remained with me."
+
+- triggers: ["!ecclesiastes2:10 ","!eccl2:10 ","!ec2:10 "]
+  replace: "I did not deny myself anything that I desired. I did not withhold from my heart any sort of pleasure, for my heart was joyful because of all my hard work, and this was my reward for all my hard work."
+
+- triggers: ["!ecclesiastes2:11 ","!eccl2:11 ","!ec2:11 "]
+  replace: "But when I reflected on all the works that my own hands had done and on all the hard work that I had toiled to accomplish, I saw that everything was futile, a chasing after the wind; there was nothing of real value under the sun."
+
+- triggers: ["!ecclesiastes2:12 ","!eccl2:12 ","!ec2:12 "]
+  replace: "Then I turned my attention to wisdom and madness and folly. (For what can the man do who comes after the king? Only what has already been done.)"
+
+- triggers: ["!ecclesiastes2:13 ","!eccl2:13 ","!ec2:13 "]
+  replace: "And I saw that there is an advantage to wisdom over folly, just as there is an advantage to light over darkness."
+
+- triggers: ["!ecclesiastes2:14 ","!eccl2:14 ","!ec2:14 "]
+  replace: "The wise one has his eyes in his head; but the stupid one is walking in darkness. I have also come to realize that there is one outcome that befalls all of them."
+
+- triggers: ["!ecclesiastes2:15 ","!eccl2:15 ","!ec2:15 "]
+  replace: "Then I said in my heart: “What happens to the stupid one will also happen to me.” What, then, did I gain by becoming excessively wise? So I said in my heart: “This too is futility.”"
+
+- triggers: ["!ecclesiastes2:16 ","!eccl2:16 ","!ec2:16 "]
+  replace: "For there is no lasting memory either of the wise one or of the stupid one. In the days to come, everyone will be forgotten. And how will the wise one die? Along with the stupid one."
+
+- triggers: ["!ecclesiastes2:17 ","!eccl2:17 ","!ec2:17 "]
+  replace: "So I came to hate life, because everything being done under the sun seemed distressing to me, for everything was futile, a chasing after the wind."
+
+- triggers: ["!ecclesiastes2:18 ","!eccl2:18 ","!ec2:18 "]
+  replace: "I came to hate all that I had worked so hard for under the sun, because I must leave it behind for the man coming after me."
+
+- triggers: ["!ecclesiastes2:19 ","!eccl2:19 ","!ec2:19 "]
+  replace: "And who knows whether he will be wise or foolish? Yet he will take control over all the things I spent great effort and wisdom to acquire under the sun. This too is futility."
+
+- triggers: ["!ecclesiastes2:20 ","!eccl2:20 ","!ec2:20 "]
+  replace: "So I began to despair in my heart over all the hard work at which I had toiled under the sun."
+
+- triggers: ["!ecclesiastes2:21 ","!eccl2:21 ","!ec2:21 "]
+  replace: "For a man may work hard, guided by wisdom and knowledge and skill, but he must hand over his portion to a man who did not work for it. This too is futility and a great tragedy."
+
+- triggers: ["!ecclesiastes2:22 ","!eccl2:22 ","!ec2:22 "]
+  replace: "What does a man really gain from all his hard work and ambition that drives him to work hard under the sun?"
+
+- triggers: ["!ecclesiastes2:23 ","!eccl2:23 ","!ec2:23 "]
+  replace: "For during all his days, his occupation brings pain and frustration, and even at night his heart does not rest. This too is futility."
+
+- triggers: ["!ecclesiastes2:24 ","!eccl2:24 ","!ec2:24 "]
+  replace: "There is nothing better for a man than to eat and drink and find enjoyment in his hard work. This too, I have realized, is from the hand of the true God,"
+
+- triggers: ["!ecclesiastes2:25 ","!eccl2:25 ","!ec2:25 "]
+  replace: "for who eats and who drinks better than I do?"
+
+- triggers: ["!ecclesiastes2:26 ","!eccl2:26 ","!ec2:26 "]
+  replace: "To the man who pleases him he gives wisdom and knowledge and rejoicing, but to the sinner he gives the occupation of gathering and merely collecting to give to the one who pleases the true God. This too is futility, a chasing after the wind."
+
+- triggers: ["!ecclesiastes3:1 ","!eccl3:1 ","!ec3:1 "]
+  replace: "There is an appointed time for everything, A time for every activity under the heavens:"
+
+- triggers: ["!ecclesiastes3:2 ","!eccl3:2 ","!ec3:2 "]
+  replace: "A time for birth and a time to die; A time to plant and a time to uproot what was planted;"
+
+- triggers: ["!ecclesiastes3:3 ","!eccl3:3 ","!ec3:3 "]
+  replace: "A time to kill and a time to heal; A time to tear down and a time to build up;"
+
+- triggers: ["!ecclesiastes3:4 ","!eccl3:4 ","!ec3:4 "]
+  replace: "A time to weep and a time to laugh; A time to wail and a time to dance;"
+
+- triggers: ["!ecclesiastes3:5 ","!eccl3:5 ","!ec3:5 "]
+  replace: "A time to throw stones away and a time to gather stones together; A time to embrace and a time to refrain from embracing;"
+
+- triggers: ["!ecclesiastes3:6 ","!eccl3:6 ","!ec3:6 "]
+  replace: "A time to search and a time to give up as lost; A time to keep and a time to throw away;"
+
+- triggers: ["!ecclesiastes3:7 ","!eccl3:7 ","!ec3:7 "]
+  replace: "A time to rip apart and a time to sew together; A time to be silent and a time to speak;"
+
+- triggers: ["!ecclesiastes3:8 ","!eccl3:8 ","!ec3:8 "]
+  replace: "A time to love and a time to hate; A time for war and a time for peace."
+
+- triggers: ["!ecclesiastes3:9 ","!eccl3:9 ","!ec3:9 "]
+  replace: "What does the worker gain from all his efforts?"
+
+- triggers: ["!ecclesiastes3:10 ","!eccl3:10 ","!ec3:10 "]
+  replace: "I have seen the occupation that God has given to the sons of men to keep them occupied."
+
+- triggers: ["!ecclesiastes3:11 ","!eccl3:11 ","!ec3:11 "]
+  replace: "He has made everything beautiful in its time. He has even put eternity in their heart; yet mankind will never find out the work that the true God has made from start to finish."
+
+- triggers: ["!ecclesiastes3:12 ","!eccl3:12 ","!ec3:12 "]
+  replace: "I have concluded that there is nothing better for them than to rejoice and to do good during their life,"
+
+- triggers: ["!ecclesiastes3:13 ","!eccl3:13 ","!ec3:13 "]
+  replace: "also that everyone should eat and drink and find enjoyment for all his hard work. It is the gift of God."
+
+- triggers: ["!ecclesiastes3:14 ","!eccl3:14 ","!ec3:14 "]
+  replace: "I have come to know that everything the true God makes will endure forever. There is nothing to add to it and nothing to subtract from it. The true God has made it this way, so that people will fear him."
+
+- triggers: ["!ecclesiastes3:15 ","!eccl3:15 ","!ec3:15 "]
+  replace: "Whatever happens has already happened, and what is to come has already been; but the true God seeks what has been pursued."
+
+- triggers: ["!ecclesiastes3:16 ","!eccl3:16 ","!ec3:16 "]
+  replace: "I have also seen this under the sun: In the place of justice there was wickedness, and in the place of righteousness there was wickedness."
+
+- triggers: ["!ecclesiastes3:17 ","!eccl3:17 ","!ec3:17 "]
+  replace: "So I said in my heart: “The true God will judge both the righteous and the wicked, for there is a time for every activity and every action.”"
+
+- triggers: ["!ecclesiastes3:18 ","!eccl3:18 ","!ec3:18 "]
+  replace: "I also said in my heart about the sons of men that the true God will test them and show them that they are like animals,"
+
+- triggers: ["!ecclesiastes3:19 ","!eccl3:19 ","!ec3:19 "]
+  replace: "for there is an outcome for humans and an outcome for animals; they all have the same outcome. As the one dies, so the other dies; and they all have but one spirit. So man has no superiority over animals, for everything is futile."
+
+- triggers: ["!ecclesiastes3:20 ","!eccl3:20 ","!ec3:20 "]
+  replace: "All are going to the same place. They all come from the dust, and they all are returning to the dust."
+
+- triggers: ["!ecclesiastes3:21 ","!eccl3:21 ","!ec3:21 "]
+  replace: "Who really knows whether the spirit of humans ascends upward, and whether the spirit of animals descends down to the earth?"
+
+- triggers: ["!ecclesiastes3:22 ","!eccl3:22 ","!ec3:22 "]
+  replace: "And I saw that there is nothing better than for a man to find enjoyment in his work, because that is his reward; for who can enable him to see what will happen after he is gone?"
+
+- triggers: ["!ecclesiastes4:1 ","!eccl4:1 ","!ec4:1 "]
+  replace: "Again I turned my attention to all the acts of oppression that go on under the sun. I saw the tears of the oppressed, and there was no one to comfort them. And their oppressors had the power, and there was no one to comfort them."
+
+- triggers: ["!ecclesiastes4:2 ","!eccl4:2 ","!ec4:2 "]
+  replace: "And I congratulated the dead who had already died rather than the living who were still alive."
+
+- triggers: ["!ecclesiastes4:3 ","!eccl4:3 ","!ec4:3 "]
+  replace: "And better off than both of them is the one who has not yet been born, who has not seen the distressing deeds that are done under the sun."
+
+- triggers: ["!ecclesiastes4:4 ","!eccl4:4 ","!ec4:4 "]
+  replace: "And I have seen how much effort and skillful work spring from rivalry between people; this too is futility, a chasing after the wind."
+
+- triggers: ["!ecclesiastes4:5 ","!eccl4:5 ","!ec4:5 "]
+  replace: "The stupid one folds his hands while his flesh wastes away."
+
+- triggers: ["!ecclesiastes4:6 ","!eccl4:6 ","!ec4:6 "]
+  replace: "Better is a handful of rest than two handfuls of hard work and chasing after the wind."
+
+- triggers: ["!ecclesiastes4:7 ","!eccl4:7 ","!ec4:7 "]
+  replace: "I turned my attention to another example of futility under the sun:"
+
+- triggers: ["!ecclesiastes4:8 ","!eccl4:8 ","!ec4:8 "]
+  replace: "There is a man who is all alone, without any companion; he has no son or brother, but there is no end to all his hard work. His eyes are never satisfied with riches. But does he ask himself, ‘For whom am I working hard and depriving myself of good things’? This too is futility and a miserable occupation."
+
+- triggers: ["!ecclesiastes4:9 ","!eccl4:9 ","!ec4:9 "]
+  replace: "Two are better than one because they have a good reward for their hard work."
+
+- triggers: ["!ecclesiastes4:10 ","!eccl4:10 ","!ec4:10 "]
+  replace: "For if one of them falls, the other can help his partner up. But what will happen to the one who falls with no one to help him up?"
+
+- triggers: ["!ecclesiastes4:11 ","!eccl4:11 ","!ec4:11 "]
+  replace: "Moreover, if two lie down together, they will stay warm, but how can just one keep warm?"
+
+- triggers: ["!ecclesiastes4:12 ","!eccl4:12 ","!ec4:12 "]
+  replace: "And someone may overpower one alone, but two together can take a stand against him. And a threefold cord cannot quickly be torn apart."
+
+- triggers: ["!ecclesiastes4:13 ","!eccl4:13 ","!ec4:13 "]
+  replace: "Better is a poor but wise child than an old but stupid king, who no longer has enough sense to heed a warning."
+
+- triggers: ["!ecclesiastes4:14 ","!eccl4:14 ","!ec4:14 "]
+  replace: "For he went out from prison to become king, although in that one’s kingship he was born poor."
+
+- triggers: ["!ecclesiastes4:15 ","!eccl4:15 ","!ec4:15 "]
+  replace: "I considered all those alive who walk about under the sun, as well as how it goes with the young successor who stands up in the other’s place."
+
+- triggers: ["!ecclesiastes4:16 ","!eccl4:16 ","!ec4:16 "]
+  replace: "Although there is no end to all his supporters, those who come later will not be happy with him. This too is futility, a chasing after the wind."
+
+- triggers: ["!ecclesiastes5:1 ","!eccl5:1 ","!ec5:1 "]
+  replace: "Watch your step whenever you go to the house of the true God; it is better to draw near to listen than to give a sacrifice as the stupid ones do, for they are not aware that what they are doing is bad."
+
+- triggers: ["!ecclesiastes5:2 ","!eccl5:2 ","!ec5:2 "]
+  replace: "Do not be quick with your mouth, nor let your heart speak rashly before the true God, for the true God is in the heavens but you are on the earth. That is why your words should be few."
+
+- triggers: ["!ecclesiastes5:3 ","!eccl5:3 ","!ec5:3 "]
+  replace: "For a dream comes from too many preoccupations, and the chatter of the stupid one comes from too many words."
+
+- triggers: ["!ecclesiastes5:4 ","!eccl5:4 ","!ec5:4 "]
+  replace: "Whenever you make a vow to God, do not delay to pay it, for he finds no pleasure in the stupid ones. What you vow, pay."
+
+- triggers: ["!ecclesiastes5:5 ","!eccl5:5 ","!ec5:5 "]
+  replace: "Better for you not to vow than to vow and not pay."
+
+- triggers: ["!ecclesiastes5:6 ","!eccl5:6 ","!ec5:6 "]
+  replace: "Do not allow your mouth to cause you to sin, and do not say before the angel that it was a mistake. Why make the true God indignant over what you say so that he has to destroy the work of your hands?"
+
+- triggers: ["!ecclesiastes5:7 ","!eccl5:7 ","!ec5:7 "]
+  replace: "For just as many preoccupations lead to dreams, so, too, many words lead to futility. But fear the true God."
+
+- triggers: ["!ecclesiastes5:8 ","!eccl5:8 ","!ec5:8 "]
+  replace: "If you see any oppression of the poor and a violation of justice and righteousness in your district, do not be surprised about the matter. For that high official is being watched by one who is higher than he is, and there are others who are still higher than they are."
+
+- triggers: ["!ecclesiastes5:9 ","!eccl5:9 ","!ec5:9 "]
+  replace: "Also, the profit of the land is divided among them all; even the king is served by the field."
+
+- triggers: ["!ecclesiastes5:10 ","!eccl5:10 ","!ec5:10 "]
+  replace: "A lover of silver will never be satisfied with silver, nor a lover of wealth with income. This too is futility."
+
+- triggers: ["!ecclesiastes5:11 ","!eccl5:11 ","!ec5:11 "]
+  replace: "When good things increase, those consuming them increase. And what advantage is it to the owner, except to look at them with his eyes?"
+
+- triggers: ["!ecclesiastes5:12 ","!eccl5:12 ","!ec5:12 "]
+  replace: "Sweet is the sleep of the one serving, whether he eats little or much, but the plenty belonging to the rich one does not permit him to sleep."
+
+- triggers: ["!ecclesiastes5:13 ","!eccl5:13 ","!ec5:13 "]
+  replace: "There is a great tragedy that I have seen under the sun: riches that were hoarded by their owner to his own harm."
+
+- triggers: ["!ecclesiastes5:14 ","!eccl5:14 ","!ec5:14 "]
+  replace: "Those riches were lost because of a disastrous venture, and when he becomes a father to a son, he has nothing left in his possession."
+
+- triggers: ["!ecclesiastes5:15 ","!eccl5:15 ","!ec5:15 "]
+  replace: "Just as one came from his mother’s womb, naked he will go away, just as he came. And he cannot carry away anything for all his hard work."
+
+- triggers: ["!ecclesiastes5:16 ","!eccl5:16 ","!ec5:16 "]
+  replace: "This too is a great tragedy: Exactly as he came, so he will go away; and what profit is there to the one who keeps working hard for the wind?"
+
+- triggers: ["!ecclesiastes5:17 ","!eccl5:17 ","!ec5:17 "]
+  replace: "Also, every day he eats in darkness, with a great deal of frustration and sickness and anger."
+
+- triggers: ["!ecclesiastes5:18 ","!eccl5:18 ","!ec5:18 "]
+  replace: "This is what I have seen to be good and proper: that one should eat and drink and find enjoyment for all the hard work at which he toils under the sun during the few days of life that the true God has given him, for that is his reward."
+
+- triggers: ["!ecclesiastes5:19 ","!eccl5:19 ","!ec5:19 "]
+  replace: "Also, when the true God gives a man riches and material possessions along with the ability to enjoy them, he should take his reward and rejoice in his hard work. This is the gift of God."
+
+- triggers: ["!ecclesiastes5:20 ","!eccl5:20 ","!ec5:20 "]
+  replace: "For he will hardly notice the passing days of his life, because the true God keeps him preoccupied with the rejoicing of his heart."
+
+- triggers: ["!ecclesiastes6:1 ","!eccl6:1 ","!ec6:1 "]
+  replace: "There is another tragedy that I have seen under the sun, and it is common among men:"
+
+- triggers: ["!ecclesiastes6:2 ","!eccl6:2 ","!ec6:2 "]
+  replace: "The true God gives a man riches and material possessions and glory, so that he lacks nothing that he desires; yet the true God does not enable him to enjoy them, although a stranger may enjoy them. This is futility and a severe affliction."
+
+- triggers: ["!ecclesiastes6:3 ","!eccl6:3 ","!ec6:3 "]
+  replace: "If a man should become a father a hundred times and live for many years and reach old age, yet he does not enjoy his good things before he reaches the grave, I must say that a stillborn child is better off than he is."
+
+- triggers: ["!ecclesiastes6:4 ","!eccl6:4 ","!ec6:4 "]
+  replace: "For this one came in vain and went away in darkness, and his name is shrouded in darkness."
+
+- triggers: ["!ecclesiastes6:5 ","!eccl6:5 ","!ec6:5 "]
+  replace: "Even though he never saw the sun or knew anything, he is still better off than the former one."
+
+- triggers: ["!ecclesiastes6:6 ","!eccl6:6 ","!ec6:6 "]
+  replace: "What is the benefit of living a thousand years twice over but not experiencing enjoyment? Do not all go to the same place?"
+
+- triggers: ["!ecclesiastes6:7 ","!eccl6:7 ","!ec6:7 "]
+  replace: "All the hard work of a man is to fill his mouth; yet his appetite is never satisfied."
+
+- triggers: ["!ecclesiastes6:8 ","!eccl6:8 ","!ec6:8 "]
+  replace: "For what advantage does the wise one have over the stupid one, or of what benefit is it that the poor man knows how to survive?"
+
+- triggers: ["!ecclesiastes6:9 ","!eccl6:9 ","!ec6:9 "]
+  replace: "Better to enjoy what the eyes see than to wander after one’s desires. This too is futility, a chasing after the wind."
+
+- triggers: ["!ecclesiastes6:10 ","!eccl6:10 ","!ec6:10 "]
+  replace: "Whatever has come to be has already been named, and it is known what man is; and he is not able to dispute with the one more powerful than he."
+
+- triggers: ["!ecclesiastes6:11 ","!eccl6:11 ","!ec6:11 "]
+  replace: "The more words, the more futility; and what advantage do they bring to man?"
+
+- triggers: ["!ecclesiastes6:12 ","!eccl6:12 ","!ec6:12 "]
+  replace: "Who knows what is best for a man to do in life during the few days of his futile life, which he spends like a shadow? For who can tell man what will happen under the sun after he is gone?"
+
+- triggers: ["!ecclesiastes7:1 ","!eccl7:1 ","!ec7:1 "]
+  replace: "A good name is better than good oil, and the day of death is better than the day of birth."
+
+- triggers: ["!ecclesiastes7:2 ","!eccl7:2 ","!ec7:2 "]
+  replace: "Better to go to the house of mourning than to the house of feasting, for that is the end of every man, and the living should take it to heart."
+
+- triggers: ["!ecclesiastes7:3 ","!eccl7:3 ","!ec7:3 "]
+  replace: "Better is distress than laughter, for the sadness of the face makes the heart better."
+
+- triggers: ["!ecclesiastes7:4 ","!eccl7:4 ","!ec7:4 "]
+  replace: "The heart of the wise is in the house of mourning, but the heart of the stupid is in the house of rejoicing."
+
+- triggers: ["!ecclesiastes7:5 ","!eccl7:5 ","!ec7:5 "]
+  replace: "Better to listen to a wise man’s rebuke than to listen to the song of fools."
+
+- triggers: ["!ecclesiastes7:6 ","!eccl7:6 ","!ec7:6 "]
+  replace: "For as the crackling of thorns burning under the pot, so is the laughter of the fool; and this too is futility."
+
+- triggers: ["!ecclesiastes7:7 ","!eccl7:7 ","!ec7:7 "]
+  replace: "But oppression can drive the wise one into madness, and a bribe corrupts the heart."
+
+- triggers: ["!ecclesiastes7:8 ","!eccl7:8 ","!ec7:8 "]
+  replace: "Better is the end of a matter than its beginning. Better to be patient than to be haughty in spirit."
+
+- triggers: ["!ecclesiastes7:9 ","!eccl7:9 ","!ec7:9 "]
+  replace: "Do not be quick to take offense, for the taking of offense lodges in the bosom of fools."
+
+- triggers: ["!ecclesiastes7:10 ","!eccl7:10 ","!ec7:10 "]
+  replace: "Do not say, “Why were the former days better than these?” for it is not out of wisdom that you ask this."
+
+- triggers: ["!ecclesiastes7:11 ","!eccl7:11 ","!ec7:11 "]
+  replace: "Wisdom together with an inheritance is a good thing and an advantage to those who see the light of day."
+
+- triggers: ["!ecclesiastes7:12 ","!eccl7:12 ","!ec7:12 "]
+  replace: "For wisdom is a protection just as money is a protection, but the advantage of knowledge is this: Wisdom preserves the life of its owner."
+
+- triggers: ["!ecclesiastes7:13 ","!eccl7:13 ","!ec7:13 "]
+  replace: "Consider the work of the true God, for who can straighten out what he has made crooked?"
+
+- triggers: ["!ecclesiastes7:14 ","!eccl7:14 ","!ec7:14 "]
+  replace: "On a good day, reflect this goodness, but on the day of adversity, consider that God made the one as well as the other, so that men cannot be certain of anything that will happen to them in the future."
+
+- triggers: ["!ecclesiastes7:15 ","!eccl7:15 ","!ec7:15 "]
+  replace: "During my futile life I have seen everything—from the righteous one who perishes in his righteousness to the wicked one who lives long despite his badness."
+
+- triggers: ["!ecclesiastes7:16 ","!eccl7:16 ","!ec7:16 "]
+  replace: "Do not be overly righteous, nor show yourself excessively wise. Why should you bring ruin to yourself?"
+
+- triggers: ["!ecclesiastes7:17 ","!eccl7:17 ","!ec7:17 "]
+  replace: "Do not be excessively wicked, nor be foolish. Why should you die before your time?"
+
+- triggers: ["!ecclesiastes7:18 ","!eccl7:18 ","!ec7:18 "]
+  replace: "It is best to grasp one warning without letting go of the other; for the one who fears God will heed them both."
+
+- triggers: ["!ecclesiastes7:19 ","!eccl7:19 ","!ec7:19 "]
+  replace: "Wisdom makes a wise man more powerful than ten strong men in a city."
+
+- triggers: ["!ecclesiastes7:20 ","!eccl7:20 ","!ec7:20 "]
+  replace: "For there is no righteous man on earth who always does good and never sins."
+
+- triggers: ["!ecclesiastes7:21 ","!eccl7:21 ","!ec7:21 "]
+  replace: "Also, do not take to heart every word that people say; otherwise, you may hear your servant calling down evil on you;"
+
+- triggers: ["!ecclesiastes7:22 ","!eccl7:22 ","!ec7:22 "]
+  replace: "for you well know in your heart that many times you yourself have called down evil on others."
+
+- triggers: ["!ecclesiastes7:23 ","!eccl7:23 ","!ec7:23 "]
+  replace: "All of this I tested with wisdom, and I said: “I will become wise.” But it was beyond me."
+
+- triggers: ["!ecclesiastes7:24 ","!eccl7:24 ","!ec7:24 "]
+  replace: "What has come to be is out of reach and exceedingly deep. Who can understand it?"
+
+- triggers: ["!ecclesiastes7:25 ","!eccl7:25 ","!ec7:25 "]
+  replace: "I directed my heart to know and to explore and to search for wisdom and the reason behind things, and to understand the wickedness of stupidity and the folly of madness."
+
+- triggers: ["!ecclesiastes7:26 ","!eccl7:26 ","!ec7:26 "]
+  replace: "Then I discovered this: More bitter than death is the woman who is like a hunter’s net, whose heart is like dragnets, and whose hands are like prison chains. The one who pleases the true God will escape her, but the sinner is captured by her."
+
+- triggers: ["!ecclesiastes7:27 ","!eccl7:27 ","!ec7:27 "]
+  replace: "“See, this is what I found,” says the congregator. “I investigated one thing after another to reach my conclusion,"
+
+- triggers: ["!ecclesiastes7:28 ","!eccl7:28 ","!ec7:28 "]
+  replace: "but what I continually sought, I have not found. One man out of a thousand I found, but a woman among them I have not found."
+
+- triggers: ["!ecclesiastes7:29 ","!eccl7:29 ","!ec7:29 "]
+  replace: "This alone I have found: The true God made mankind upright, but they have sought out many schemes.”"
+
+- triggers: ["!ecclesiastes8:1 ","!eccl8:1 ","!ec8:1 "]
+  replace: "Who is like the wise man? Who knows the solution to a problem? A man’s wisdom lights up his face and softens his stern appearance."
+
+- triggers: ["!ecclesiastes8:2 ","!eccl8:2 ","!ec8:2 "]
+  replace: "I say: “Obey the king’s orders out of regard for the oath to God."
+
+- triggers: ["!ecclesiastes8:3 ","!eccl8:3 ","!ec8:3 "]
+  replace: "Do not rush to depart from his presence. Do not take a stand for anything bad; for he can do whatever he pleases,"
+
+- triggers: ["!ecclesiastes8:4 ","!eccl8:4 ","!ec8:4 "]
+  replace: "because the word of the king is absolute; who can say to him, ‘What are you doing?’”"
+
+- triggers: ["!ecclesiastes8:5 ","!eccl8:5 ","!ec8:5 "]
+  replace: "The one who observes the commandment will not experience harm, and the wise heart will know the right time and procedure."
+
+- triggers: ["!ecclesiastes8:6 ","!eccl8:6 ","!ec8:6 "]
+  replace: "For every matter there is a time and procedure, because the troubles of mankind are so abundant."
+
+- triggers: ["!ecclesiastes8:7 ","!eccl8:7 ","!ec8:7 "]
+  replace: "Since no one knows what will happen, who can tell him how it will happen?"
+
+- triggers: ["!ecclesiastes8:8 ","!eccl8:8 ","!ec8:8 "]
+  replace: "Just as no man has power over the spirit or can restrain the spirit, so no one has power over the day of death. Just as no one is discharged during a war, so wickedness will not allow those who practice it to escape."
+
+- triggers: ["!ecclesiastes8:9 ","!eccl8:9 ","!ec8:9 "]
+  replace: "All of this I have seen, and I applied my heart to every work that has been done under the sun, during the time that man has dominated man to his harm."
+
+- triggers: ["!ecclesiastes8:10 ","!eccl8:10 ","!ec8:10 "]
+  replace: "And I saw the wicked being buried, those who used to go in and out of the holy place, but they were soon forgotten in the city where they acted that way. This too is futility."
+
+- triggers: ["!ecclesiastes8:11 ","!eccl8:11 ","!ec8:11 "]
+  replace: "Because sentence against a bad deed has not been executed speedily, the heart of men becomes emboldened to do bad."
+
+- triggers: ["!ecclesiastes8:12 ","!eccl8:12 ","!ec8:12 "]
+  replace: "Although a sinner may do bad a hundred times and still live a long time, yet I am aware that it will turn out well for those who fear the true God, because they fear him."
+
+- triggers: ["!ecclesiastes8:13 ","!eccl8:13 ","!ec8:13 "]
+  replace: "But it will not turn out well for the wicked one, nor will he prolong his days that are like a shadow, because he does not fear God."
+
+- triggers: ["!ecclesiastes8:14 ","!eccl8:14 ","!ec8:14 "]
+  replace: "There is something futile that takes place on the earth: There are righteous people who are treated as if they had acted wickedly, and there are wicked people who are treated as if they had acted righteously. I say that this too is futility."
+
+- triggers: ["!ecclesiastes8:15 ","!eccl8:15 ","!ec8:15 "]
+  replace: "So I recommended rejoicing, because there is nothing better for man under the sun than to eat and drink and rejoice; this should accompany him as he works hard during the days of his life, which the true God gives him under the sun."
+
+- triggers: ["!ecclesiastes8:16 ","!eccl8:16 ","!ec8:16 "]
+  replace: "I applied my heart to acquire wisdom and to see all the activity happening on the earth, even going without sleep day and night."
+
+- triggers: ["!ecclesiastes8:17 ","!eccl8:17 ","!ec8:17 "]
+  replace: "Then I considered all the work of the true God, and I realized that mankind cannot comprehend what happens under the sun. No matter how hard men try, they cannot comprehend it. Even if they claim that they are wise enough to know, they cannot really comprehend it."
+
+- triggers: ["!ecclesiastes9:1 ","!eccl9:1 ","!ec9:1 "]
+  replace: "So I took all of this to heart and concluded that the righteous and the wise, as well as their works, are in the hands of the true God. Men are not aware of the love and the hate that took place prior to them."
+
+- triggers: ["!ecclesiastes9:2 ","!eccl9:2 ","!ec9:2 "]
+  replace: "All have the very same outcome, the righteous and the wicked, the good and the clean and the unclean, those sacrificing and those not sacrificing. The good one is the same as the sinner; the one who swears an oath is the same as the one who is cautious about swearing an oath."
+
+- triggers: ["!ecclesiastes9:3 ","!eccl9:3 ","!ec9:3 "]
+  replace: "This is a distressing thing that happens under the sun: Because all have the same outcome, the heart of humans is also full of bad; and there is madness in their heart during their life, and then they die!"
+
+- triggers: ["!ecclesiastes9:4 ","!eccl9:4 ","!ec9:4 "]
+  replace: "There is hope for whoever is among the living, because a live dog is better off than a dead lion."
+
+- triggers: ["!ecclesiastes9:5 ","!eccl9:5 ","!ec9:5 "]
+  replace: "For the living know that they will die, but the dead know nothing at all, nor do they have any more reward, because all memory of them is forgotten."
+
+- triggers: ["!ecclesiastes9:6 ","!eccl9:6 ","!ec9:6 "]
+  replace: "Also, their love and their hate and their jealousy have already perished, and they no longer have any share in what is done under the sun."
+
+- triggers: ["!ecclesiastes9:7 ","!eccl9:7 ","!ec9:7 "]
+  replace: "Go, eat your food with rejoicing, and drink your wine with a cheerful heart, for already the true God has found pleasure in your works."
+
+- triggers: ["!ecclesiastes9:8 ","!eccl9:8 ","!ec9:8 "]
+  replace: "May your clothing always be white, and do not fail to put oil on your head."
+
+- triggers: ["!ecclesiastes9:9 ","!eccl9:9 ","!ec9:9 "]
+  replace: "Enjoy life with your beloved wife all the days of your futile life, which He has given you under the sun, all the days of your futility, for that is your lot in life and in your hard work at which you toil under the sun."
+
+- triggers: ["!ecclesiastes9:10 ","!eccl9:10 ","!ec9:10 "]
+  replace: "Whatever your hand finds to do, do with all your might, for there is no work nor planning nor knowledge nor wisdom in the Grave, where you are going."
+
+- triggers: ["!ecclesiastes9:11 ","!eccl9:11 ","!ec9:11 "]
+  replace: "I have seen something further under the sun, that the swift do not always win the race, nor do the mighty win the battle, nor do the wise always have the food, nor do the intelligent always have the riches, nor do those with knowledge always have success, because time and unexpected events overtake them all."
+
+- triggers: ["!ecclesiastes9:12 ","!eccl9:12 ","!ec9:12 "]
+  replace: "For man does not know his time. Just as fish are caught in an evil net and birds are caught in a trap, so the sons of men are ensnared in a time of disaster, when it suddenly overtakes them."
+
+- triggers: ["!ecclesiastes9:13 ","!eccl9:13 ","!ec9:13 "]
+  replace: "I also observed this about wisdom under the sun—and it impressed me:"
+
+- triggers: ["!ecclesiastes9:14 ","!eccl9:14 ","!ec9:14 "]
+  replace: "There was a small city with a few men in it; and a mighty king came against it and surrounded it and built great siegeworks against it."
+
+- triggers: ["!ecclesiastes9:15 ","!eccl9:15 ","!ec9:15 "]
+  replace: "In it was found a poor but wise man, and he saved the city by his wisdom. But no one remembered that poor man."
+
+- triggers: ["!ecclesiastes9:16 ","!eccl9:16 ","!ec9:16 "]
+  replace: "And I said to myself: ‘Wisdom is better than mightiness; yet a poor man’s wisdom is despised, and his words are not heeded.’"
+
+- triggers: ["!ecclesiastes9:17 ","!eccl9:17 ","!ec9:17 "]
+  replace: "Better to heed the calm words of the wise than the shouts of the one ruling among fools."
+
+- triggers: ["!ecclesiastes9:18 ","!eccl9:18 ","!ec9:18 "]
+  replace: "Wisdom is better than weapons of war, but just one sinner can destroy much good."
+
+- triggers: ["!ecclesiastes10:1 ","!eccl10:1 ","!ec10:1 "]
+  replace: "As dead flies cause the perfumer’s oil to stink and bubble, so a little foolishness outweighs wisdom and glory."
+
+- triggers: ["!ecclesiastes10:2 ","!eccl10:2 ","!ec10:2 "]
+  replace: "The heart of the wise one leads him in the right way, but the heart of the stupid one leads him in the wrong way."
+
+- triggers: ["!ecclesiastes10:3 ","!eccl10:3 ","!ec10:3 "]
+  replace: "In whatever way the fool walks, he is lacking good sense, and he lets everyone know that he is a fool."
+
+- triggers: ["!ecclesiastes10:4 ","!eccl10:4 ","!ec10:4 "]
+  replace: "If the anger of a ruler should flare up against you, do not leave your place, for calmness allays great sins."
+
+- triggers: ["!ecclesiastes10:5 ","!eccl10:5 ","!ec10:5 "]
+  replace: "There is something distressing that I have seen under the sun, the sort of mistake made by those in power:"
+
+- triggers: ["!ecclesiastes10:6 ","!eccl10:6 ","!ec10:6 "]
+  replace: "Foolishness is put in many high positions, but the rich remain in low positions."
+
+- triggers: ["!ecclesiastes10:7 ","!eccl10:7 ","!ec10:7 "]
+  replace: "I have seen servants on horseback but princes walking on foot just like servants."
+
+- triggers: ["!ecclesiastes10:8 ","!eccl10:8 ","!ec10:8 "]
+  replace: "The one who digs a pit may fall into it; and the one who breaks through a stone wall may be bitten by a snake."
+
+- triggers: ["!ecclesiastes10:9 ","!eccl10:9 ","!ec10:9 "]
+  replace: "The one who quarries stones may be hurt by them, and the one who splits logs may be endangered by them."
+
+- triggers: ["!ecclesiastes10:10 ","!eccl10:10 ","!ec10:10 "]
+  replace: "If an iron tool is dull and one does not sharpen its edge, he will need to exert much effort. But wisdom helps to achieve success."
+
+- triggers: ["!ecclesiastes10:11 ","!eccl10:11 ","!ec10:11 "]
+  replace: "If the snake bites before it is charmed, there is no advantage to the skilled charmer."
+
+- triggers: ["!ecclesiastes10:12 ","!eccl10:12 ","!ec10:12 "]
+  replace: "The words from the mouth of the wise one bring favor, but the lips of the stupid one are his ruin."
+
+- triggers: ["!ecclesiastes10:13 ","!eccl10:13 ","!ec10:13 "]
+  replace: "The first words out of his mouth are foolishness, and his last words are disastrous madness."
+
+- triggers: ["!ecclesiastes10:14 ","!eccl10:14 ","!ec10:14 "]
+  replace: "But the fool keeps on speaking. A man does not know what will happen; who can tell him what will come after him?"
+
+- triggers: ["!ecclesiastes10:15 ","!eccl10:15 ","!ec10:15 "]
+  replace: "The hard work of the stupid one wears him out, for he does not even know how to find his way to the city."
+
+- triggers: ["!ecclesiastes10:16 ","!eccl10:16 ","!ec10:16 "]
+  replace: "How terrible for a land when the king is a boy and the princes start their feasting in the morning!"
+
+- triggers: ["!ecclesiastes10:17 ","!eccl10:17 ","!ec10:17 "]
+  replace: "How happy for the land when the king is the son of nobles and the princes eat at the proper time for strength, not for drunkenness!"
+
+- triggers: ["!ecclesiastes10:18 ","!eccl10:18 ","!ec10:18 "]
+  replace: "Because of extreme laziness the roof beams sag, and because of idle hands the house leaks."
+
+- triggers: ["!ecclesiastes10:19 ","!eccl10:19 ","!ec10:19 "]
+  replace: "Bread is made for laughter, and wine makes life enjoyable; but money answers every need."
+
+- triggers: ["!ecclesiastes10:20 ","!eccl10:20 ","!ec10:20 "]
+  replace: "Even in your thoughts, do not curse the king, and do not curse the rich in your bedroom; for a bird may convey the sound, or a creature with wings may repeat what was said."
+
+- triggers: ["!ecclesiastes11:1 ","!eccl11:1 ","!ec11:1 "]
+  replace: "Cast your bread on the waters, for after many days you will find it again."
+
+- triggers: ["!ecclesiastes11:2 ","!eccl11:2 ","!ec11:2 "]
+  replace: "Give a share to seven or even to eight, for you do not know what disaster will occur on the earth."
+
+- triggers: ["!ecclesiastes11:3 ","!eccl11:3 ","!ec11:3 "]
+  replace: "If the clouds are filled with water, they will pour down rain on the earth; and if a tree falls to the south or to the north, the place where the tree falls is where it will lie."
+
+- triggers: ["!ecclesiastes11:4 ","!eccl11:4 ","!ec11:4 "]
+  replace: "The one who watches the wind will not sow seed, and the one who looks at the clouds will not reap."
+
+- triggers: ["!ecclesiastes11:5 ","!eccl11:5 ","!ec11:5 "]
+  replace: "Just as you do not know how the spirit operates in the bones of the child inside a pregnant woman, so you do not know the work of the true God, who does all things."
+
+- triggers: ["!ecclesiastes11:6 ","!eccl11:6 ","!ec11:6 "]
+  replace: "Sow your seed in the morning and do not let your hand rest until the evening; for you do not know which will have success, whether this one or that one, or whether they will both do well."
+
+- triggers: ["!ecclesiastes11:7 ","!eccl11:7 ","!ec11:7 "]
+  replace: "Light is sweet, and it is good for the eyes to see the sun."
+
+- triggers: ["!ecclesiastes11:8 ","!eccl11:8 ","!ec11:8 "]
+  replace: "For if a man should live many years, let him enjoy them all. But he should remember that the days of darkness may be many; all that is to come is futility."
+
+- triggers: ["!ecclesiastes11:9 ","!eccl11:9 ","!ec11:9 "]
+  replace: "Rejoice, young man, while you are young, and let your heart be glad in the days of your youth. Follow the ways of your heart and go where your eyes lead you; but know that the true God will bring you into judgment for all these things."
+
+- triggers: ["!ecclesiastes11:10 ","!eccl11:10 ","!ec11:10 "]
+  replace: "So remove troublesome things from your heart, and ward off harmful things from your body, for youth and the prime of life are futility."
+
+- triggers: ["!ecclesiastes12:1 ","!eccl12:1 ","!ec12:1 "]
+  replace: "Remember, then, your Grand Creator in the days of your youth, before the days of distress come and the years arrive when you will say: “I have no pleasure in them”;"
+
+- triggers: ["!ecclesiastes12:2 ","!eccl12:2 ","!ec12:2 "]
+  replace: "before the sun and the light and the moon and the stars grow dark, and the clouds return after the downpour;"
+
+- triggers: ["!ecclesiastes12:3 ","!eccl12:3 ","!ec12:3 "]
+  replace: "in the day when the guards of the house become shaky, and the strong men stoop over, and the women quit grinding because they have become few, and the ladies looking out the windows find it dark;"
+
+- triggers: ["!ecclesiastes12:4 ","!eccl12:4 ","!ec12:4 "]
+  replace: "when the doors to the street have been closed, when the sound of the grinding mill becomes low, when one gets up at the sound of a bird, and all the daughters of song grow faint."
+
+- triggers: ["!ecclesiastes12:5 ","!eccl12:5 ","!ec12:5 "]
+  replace: "Also, one is afraid of heights, and there are terrors in the street. And the almond tree blossoms, and the grasshopper drags itself along, and the caper berry bursts, because man is walking to his lasting house and the mourners walk about in the street;"
+
+- triggers: ["!ecclesiastes12:6 ","!eccl12:6 ","!ec12:6 "]
+  replace: "before the silver cord is removed, and the golden bowl is crushed, and the jar at the spring is broken, and the waterwheel for the cistern is crushed."
+
+- triggers: ["!ecclesiastes12:7 ","!eccl12:7 ","!ec12:7 "]
+  replace: "Then the dust returns to the earth, just as it was, and the spirit returns to the true God who gave it."
+
+- triggers: ["!ecclesiastes12:8 ","!eccl12:8 ","!ec12:8 "]
+  replace: "“The greatest futility!” says the congregator. “Everything is futile.”"
+
+- triggers: ["!ecclesiastes12:9 ","!eccl12:9 ","!ec12:9 "]
+  replace: "Not only had the congregator become wise but he continually taught the people what he knew, and he pondered and made a thorough search in order to compile many proverbs."
+
+- triggers: ["!ecclesiastes12:10 ","!eccl12:10 ","!ec12:10 "]
+  replace: "The congregator sought to find delightful words and to record accurate words of truth."
+
+- triggers: ["!ecclesiastes12:11 ","!eccl12:11 ","!ec12:11 "]
+  replace: "The words of the wise are like oxgoads, and their collected sayings are like firmly embedded nails; they have been given from one shepherd."
+
+- triggers: ["!ecclesiastes12:12 ","!eccl12:12 ","!ec12:12 "]
+  replace: "As for anything besides these, my son, be warned: To the making of many books there is no end, and much devotion to them is wearisome to the flesh."
+
+- triggers: ["!ecclesiastes12:13 ","!eccl12:13 ","!ec12:13 "]
+  replace: "The conclusion of the matter, everything having been heard, is: Fear the true God and keep his commandments, for this is the whole obligation of man."
+
+- triggers: ["!ecclesiastes12:14 ","!eccl12:14 ","!ec12:14 "]
+  replace: "For the true God will judge every deed, including every hidden thing, as to whether it is good or bad."
+

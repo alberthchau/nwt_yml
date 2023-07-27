@@ -1,0 +1,256 @@
+matches:
+- triggers: ["!ruth1:1 ","!ru1:1 "]
+  replace: "Now in the days when the judges administered justice, a famine occurred in the land; and a man went from Bethʹlehem in Judah to reside as a foreigner in the fields of Moʹab, he along with his wife and his two sons."
+
+- triggers: ["!ruth1:2 ","!ru1:2 "]
+  replace: "The man’s name was Elimʹelech, his wife’s name was Naoʹmi, and the names of his two sons were Mahʹlon and Chilʹion. They were Ephʹrathites from Bethʹlehem in Judah. And they came to the fields of Moʹab and remained there."
+
+- triggers: ["!ruth1:3 ","!ru1:3 "]
+  replace: "After some time Elimʹelech, Naoʹmi’s husband, died, and she was left with her two sons."
+
+- triggers: ["!ruth1:4 ","!ru1:4 "]
+  replace: "The men later married Moʹabite women; one was named Orʹpah, and the other was named Ruth. They remained there for about ten years."
+
+- triggers: ["!ruth1:5 ","!ru1:5 "]
+  replace: "Then the two sons, Mahʹlon and Chilʹion, also died, and the woman was left without her two children and her husband."
+
+- triggers: ["!ruth1:6 ","!ru1:6 "]
+  replace: "So she started out with her daughters-in-law to return from the fields of Moʹab, for she had heard in Moʹab that Jehovah had turned his attention to his people by giving them food."
+
+- triggers: ["!ruth1:7 ","!ru1:7 "]
+  replace: "She left the place where she had been living with both of her daughters-in-law. As they were walking on the road to return to the land of Judah,"
+
+- triggers: ["!ruth1:8 ","!ru1:8 "]
+  replace: "Naoʹmi said to both of her daughters-in-law: “Go, return, each of you to your mother’s home. May Jehovah show loyal love to you, just as you have shown it to the men who have died and to me."
+
+- triggers: ["!ruth1:9 ","!ru1:9 "]
+  replace: "May Jehovah grant that each of you finds security in the home of your husband.” Then she kissed them, and they wept loudly."
+
+- triggers: ["!ruth1:10 ","!ru1:10 "]
+  replace: "They kept saying to her: “No, but we will go with you to your people.”"
+
+- triggers: ["!ruth1:11 ","!ru1:11 "]
+  replace: "But Naoʹmi said: “Return, my daughters. Why should you go with me? Can I still give birth to sons who could become your husbands?"
+
+- triggers: ["!ruth1:12 ","!ru1:12 "]
+  replace: "Return, my daughters. Go, for I have grown too old to marry. Even if I could hope to find a husband tonight and could also bear sons,"
+
+- triggers: ["!ruth1:13 ","!ru1:13 "]
+  replace: "would you keep waiting for them until they could grow up? Would you refrain from getting remarried for their sakes? No, my daughters, I feel very bitter for you, because the hand of Jehovah has turned against me.”"
+
+- triggers: ["!ruth1:14 ","!ru1:14 "]
+  replace: "Again they wept loudly, after which Orʹpah kissed her mother-in-law and departed. But Ruth stuck with her."
+
+- triggers: ["!ruth1:15 ","!ru1:15 "]
+  replace: "So Naoʹmi said: “Look! Your widowed sister-in-law has returned to her people and her gods. Return with your sister-in-law.”"
+
+- triggers: ["!ruth1:16 ","!ru1:16 "]
+  replace: "But Ruth said: “Do not plead with me to abandon you, to turn back from accompanying you; for where you go I will go, and where you spend the night, I will spend the night. Your people will be my people, and your God my God."
+
+- triggers: ["!ruth1:17 ","!ru1:17 "]
+  replace: "Where you die I will die, and there I will be buried. May Jehovah do so to me and add to it if anything but death should separate me from you.”"
+
+- triggers: ["!ruth1:18 ","!ru1:18 "]
+  replace: "When Naoʹmi saw that Ruth insisted on going with her, she stopped trying to convince her."
+
+- triggers: ["!ruth1:19 ","!ru1:19 "]
+  replace: "And they both continued on their way until they came to Bethʹlehem. As soon as they arrived in Bethʹlehem, the whole city became stirred up over them, and women were saying: “Is this Naoʹmi?”"
+
+- triggers: ["!ruth1:20 ","!ru1:20 "]
+  replace: "She would say to the women: “Do not call me Naoʹmi. Call me Maʹra, for the Almighty has made life very bitter for me."
+
+- triggers: ["!ruth1:21 ","!ru1:21 "]
+  replace: "I was full when I went, but Jehovah made me return empty-handed. Why should you call me Naoʹmi, when it is Jehovah who opposed me and the Almighty who caused me calamity?”"
+
+- triggers: ["!ruth1:22 ","!ru1:22 "]
+  replace: "This is how Naoʹmi returned from the fields of Moʹab, along with her Moʹabite daughter-in-law Ruth. They came to Bethʹlehem at the beginning of the barley harvest."
+
+- triggers: ["!ruth2:1 ","!ru2:1 "]
+  replace: "Now Naoʹmi had a relative on her husband’s side who was very wealthy; his name was Boʹaz, and he was of the family of Elimʹelech."
+
+- triggers: ["!ruth2:2 ","!ru2:2 "]
+  replace: "Ruth the Moʹabitess said to Naoʹmi: “Let me go out, please, to the fields and glean among the ears of grain behind whoever looks on me with favor.” So Naoʹmi said to her: “Go, my daughter.”"
+
+- triggers: ["!ruth2:3 ","!ru2:3 "]
+  replace: "At that she went out and began to glean in the field behind the harvesters. By chance she came upon a plot of land belonging to Boʹaz, who was of the family of Elimʹelech."
+
+- triggers: ["!ruth2:4 ","!ru2:4 "]
+  replace: "Just then Boʹaz arrived from Bethʹlehem and said to the harvesters: “Jehovah be with you.” And they replied: “Jehovah bless you.”"
+
+- triggers: ["!ruth2:5 ","!ru2:5 "]
+  replace: "Boʹaz then asked the young man in charge of the harvesters: “To whom does this young woman belong?”"
+
+- triggers: ["!ruth2:6 ","!ru2:6 "]
+  replace: "The young man in charge of the harvesters answered: “The young woman is a Moʹabitess who returned with Naoʹmi from the fields of Moʹab."
+
+- triggers: ["!ruth2:7 ","!ru2:7 "]
+  replace: "She asked, ‘Please, may I glean and gather among the cut-off ears of grain left behind by the harvesters?’ And she has been on her feet since she came this morning until just now, when she sat in the shelter for a short rest.”"
+
+- triggers: ["!ruth2:8 ","!ru2:8 "]
+  replace: "Then Boʹaz said to Ruth: “Listen, my daughter. Do not go away to glean in another field, and do not go anywhere else; stay close by my young women."
+
+- triggers: ["!ruth2:9 ","!ru2:9 "]
+  replace: "Keep your eyes on the field that they harvest, and go with them. I have commanded the young men not to touch you. When you are thirsty, go to the water jars and drink from what the young men have drawn.”"
+
+- triggers: ["!ruth2:10 ","!ru2:10 "]
+  replace: "At that she fell facedown and bowed down to the ground and said to him: “How have I found favor in your eyes, and why have you taken notice of me, when I am a foreigner?”"
+
+- triggers: ["!ruth2:11 ","!ru2:11 "]
+  replace: "Boʹaz answered her: “A full report was made to me of all you have done for your mother-in-law after the death of your husband and how you left your father and your mother and the land of your relatives to go to a people whom you had not known before."
+
+- triggers: ["!ruth2:12 ","!ru2:12 "]
+  replace: "May Jehovah reward you for what you have done, and may there be a perfect wage for you from Jehovah the God of Israel, under whose wings you have come to seek refuge.”"
+
+- triggers: ["!ruth2:13 ","!ru2:13 "]
+  replace: "To this she said: “Let me find favor in your eyes, my lord, because you have comforted me and spoken reassuringly to your servant, although I am not even one of your servants.”"
+
+- triggers: ["!ruth2:14 ","!ru2:14 "]
+  replace: "Boʹaz said to her at mealtime: “Come here, eat some of the bread, and dip your piece in the vinegar.” So she sat down beside the harvesters. He then handed her some roasted grain, and she ate and was satisfied, and she had something left over."
+
+- triggers: ["!ruth2:15 ","!ru2:15 "]
+  replace: "When she got up to glean, Boʹaz commanded his young men: “Let her glean even among the cut-off ears of grain, and do not mistreat her."
+
+- triggers: ["!ruth2:16 ","!ru2:16 "]
+  replace: "You should also be sure to pull out some ears of grain from the bundles for her and leave them behind for her to glean, and do not say anything to stop her.”"
+
+- triggers: ["!ruth2:17 ","!ru2:17 "]
+  replace: "So she continued to glean in the field until evening. When she beat out what she had gleaned, it came to about an eʹphah of barley."
+
+- triggers: ["!ruth2:18 ","!ru2:18 "]
+  replace: "Then she took it and went into the city, and her mother-in-law saw what she had gleaned. Ruth also took out and gave to her the food that was left over after she had eaten her fill."
+
+- triggers: ["!ruth2:19 ","!ru2:19 "]
+  replace: "Her mother-in-law then said to her: “Where did you glean today? Where did you work? May the one who took notice of you be blessed.” So she told her mother-in-law about whom she had worked with, saying: “The name of the man I worked with today is Boʹaz.”"
+
+- triggers: ["!ruth2:20 ","!ru2:20 "]
+  replace: "At that Naoʹmi said to her daughter-in-law: “May he be blessed by Jehovah, who has not failed in his loyal love toward the living and the dead.” Naoʹmi continued: “The man is related to us. He is one of our repurchasers.”"
+
+- triggers: ["!ruth2:21 ","!ru2:21 "]
+  replace: "Then Ruth the Moʹabitess said: “He also told me, ‘Stay close by my young people until they have finished my entire harvest.’”"
+
+- triggers: ["!ruth2:22 ","!ru2:22 "]
+  replace: "Naoʹmi said to her daughter-in-law Ruth: “It is better, my daughter, for you to go out with his young women than to be harassed in another field.”"
+
+- triggers: ["!ruth2:23 ","!ru2:23 "]
+  replace: "So she stayed close to the young women of Boʹaz and gleaned until the barley harvest and the wheat harvest came to an end. And she kept dwelling with her mother-in-law."
+
+- triggers: ["!ruth3:1 ","!ru3:1 "]
+  replace: "Naoʹmi, her mother-in-law, now said to her: “My daughter, should I not look for a home for you, so that it may go well with you?"
+
+- triggers: ["!ruth3:2 ","!ru3:2 "]
+  replace: "Is not Boʹaz our relative? He is the one whose young women you were with. Tonight he is winnowing barley at the threshing floor."
+
+- triggers: ["!ruth3:3 ","!ru3:3 "]
+  replace: "So wash yourself and rub on some perfumed oil; then dress up and go down to the threshing floor. Do not make your presence known to the man until he has finished eating and drinking."
+
+- triggers: ["!ruth3:4 ","!ru3:4 "]
+  replace: "When he lies down, take note of the place where he lies down; then go and uncover his feet and lie down. He will tell you what you should do.”"
+
+- triggers: ["!ruth3:5 ","!ru3:5 "]
+  replace: "At that she replied: “All that you say to me I will do.”"
+
+- triggers: ["!ruth3:6 ","!ru3:6 "]
+  replace: "So she went down to the threshing floor and did all that her mother-in-law had instructed her to do."
+
+- triggers: ["!ruth3:7 ","!ru3:7 "]
+  replace: "Meanwhile, Boʹaz ate and drank and was feeling good at heart. Then he went to lie down at the end of the grain heap. After that she quietly came and uncovered his feet and lay down."
+
+- triggers: ["!ruth3:8 ","!ru3:8 "]
+  replace: "At midnight the man began to shiver, and he leaned forward and saw a woman lying at his feet."
+
+- triggers: ["!ruth3:9 ","!ru3:9 "]
+  replace: "He said: “Who are you?” She replied: “I am Ruth, your servant. Spread out your garment over your servant, for you are a repurchaser.”"
+
+- triggers: ["!ruth3:10 ","!ru3:10 "]
+  replace: "At that he said: “May Jehovah bless you, my daughter. You have shown your loyal love more in this last instance than in the first instance, by not going after the young men, whether poor or rich."
+
+- triggers: ["!ruth3:11 ","!ru3:11 "]
+  replace: "And now, my daughter, have no fear. I will do for you everything that you say, for everyone in the city knows that you are an excellent woman."
+
+- triggers: ["!ruth3:12 ","!ru3:12 "]
+  replace: "While it is true that I am a repurchaser, there is a repurchaser more closely related than I am."
+
+- triggers: ["!ruth3:13 ","!ru3:13 "]
+  replace: "Stay here tonight, and if he will repurchase you in the morning, fine! Let him repurchase you. But if he does not want to repurchase you, I will then repurchase you myself, as surely as Jehovah lives. Lie down here until the morning.”"
+
+- triggers: ["!ruth3:14 ","!ru3:14 "]
+  replace: "So she lay at his feet until the morning and then got up before it was light enough for anyone to be recognized. He then said: “Do not let it be known that a woman came to the threshing floor.”"
+
+- triggers: ["!ruth3:15 ","!ru3:15 "]
+  replace: "He also said: “Bring the cloak that you are wearing, and hold it out.” So she held it out, and he put six measures of barley in it and put it on her, after which he went into the city."
+
+- triggers: ["!ruth3:16 ","!ru3:16 "]
+  replace: "She went her way to her mother-in-law, who now said: “How did it go for you, my daughter?” She told her everything that the man had done for her."
+
+- triggers: ["!ruth3:17 ","!ru3:17 "]
+  replace: "She added: “He gave me these six measures of barley and said to me, ‘Do not go empty-handed to your mother-in-law.’”"
+
+- triggers: ["!ruth3:18 ","!ru3:18 "]
+  replace: "At that she said: “Sit here, my daughter, until you learn how the matter will turn out, for the man will not rest until he settles the matter today.”"
+
+- triggers: ["!ruth4:1 ","!ru4:1 "]
+  replace: "Now Boʹaz went up to the city gate and sat there. And look! the repurchaser whom Boʹaz had mentioned passed by. At that Boʹaz said: “Come here and sit down, So-and-so.” And he went over and sat down."
+
+- triggers: ["!ruth4:2 ","!ru4:2 "]
+  replace: "Then Boʹaz took ten of the city elders and said: “Sit down here.” So they sat down."
+
+- triggers: ["!ruth4:3 ","!ru4:3 "]
+  replace: "Boʹaz now said to the repurchaser: “Naoʹmi, who has returned from the fields of Moʹab, must sell the plot of land that belonged to our brother Elimʹelech."
+
+- triggers: ["!ruth4:4 ","!ru4:4 "]
+  replace: "So I thought I should disclose it to you and say, ‘Buy it in front of the inhabitants and the elders of my people. If you will repurchase it, repurchase it. But if you will not repurchase it, tell me so that I will know, for you have the claim to repurchase it, and I am next in line after you.’” He replied: “I am willing to repurchase it.”"
+
+- triggers: ["!ruth4:5 ","!ru4:5 "]
+  replace: "Then Boʹaz said: “On the day you buy the field from Naoʹmi, you must also buy it from Ruth the Moʹabitess, the wife of the dead man, in order to restore the name of the dead man to his inheritance.”"
+
+- triggers: ["!ruth4:6 ","!ru4:6 "]
+  replace: "To this the repurchaser said: “I am unable to repurchase it, for I may ruin my own inheritance. Repurchase it for yourself with my right of repurchase, because I am not able to repurchase it.”"
+
+- triggers: ["!ruth4:7 ","!ru4:7 "]
+  replace: "Now this was the custom of former times in Israel concerning the right of repurchase and exchange to validate every sort of transaction: A man had to remove his sandal and give it to the other party, and this was the manner of confirming an agreement in Israel."
+
+- triggers: ["!ruth4:8 ","!ru4:8 "]
+  replace: "So when the repurchaser said to Boʹaz, “Buy it for yourself,” he removed his sandal."
+
+- triggers: ["!ruth4:9 ","!ru4:9 "]
+  replace: "Then Boʹaz said to the elders and all the people: “You are witnesses today that I am buying from Naoʹmi all that belonged to Elimʹelech and all that belonged to Chilʹion and Mahʹlon."
+
+- triggers: ["!ruth4:10 ","!ru4:10 "]
+  replace: "I am also acquiring Ruth the Moʹabitess, the wife of Mahʹlon, as a wife to restore the name of the dead man to his inheritance, so that the name of the dead man will not be cut off from among his brothers and from the city gate of his home. You are witnesses today.”"
+
+- triggers: ["!ruth4:11 ","!ru4:11 "]
+  replace: "At this all the people who were in the city gate and the elders said: “We are witnesses! May Jehovah grant the wife who is entering your house to be like Rachel and like Leʹah, both of whom built the house of Israel. May you prosper in Ephʹrathah and make a good name in Bethʹlehem."
+
+- triggers: ["!ruth4:12 ","!ru4:12 "]
+  replace: "May your house become like the house of Peʹrez, whom Taʹmar bore to Judah, through the offspring that Jehovah will give you by this young woman.”"
+
+- triggers: ["!ruth4:13 ","!ru4:13 "]
+  replace: "So Boʹaz took Ruth and she became his wife. He had relations with her, and Jehovah let her conceive and she gave birth to a son."
+
+- triggers: ["!ruth4:14 ","!ru4:14 "]
+  replace: "Then the women said to Naoʹmi: “Praised be Jehovah, who has not left you without a repurchaser today. May his name be proclaimed in Israel!"
+
+- triggers: ["!ruth4:15 ","!ru4:15 "]
+  replace: "He has restored your life and will sustain you in your old age, because he has been born to your daughter-in-law, who loves you and is better to you than seven sons.”"
+
+- triggers: ["!ruth4:16 ","!ru4:16 "]
+  replace: "Naoʹmi took the child and held him to her bosom, and she cared for him."
+
+- triggers: ["!ruth4:17 ","!ru4:17 "]
+  replace: "Then the neighbor women gave him a name. They said, “A son has been born to Naoʹmi,” and they named him Oʹbed. He is the father of Jesʹse, David’s father."
+
+- triggers: ["!ruth4:18 ","!ru4:18 "]
+  replace: "Now this is the family line of Peʹrez: Peʹrez became father to Hezʹron;"
+
+- triggers: ["!ruth4:19 ","!ru4:19 "]
+  replace: "Hezʹron became father to Ram; Ram became father to Amminʹadab;"
+
+- triggers: ["!ruth4:20 ","!ru4:20 "]
+  replace: "Amminʹadab became father to Nahʹshon; Nahʹshon became father to Salʹmon;"
+
+- triggers: ["!ruth4:21 ","!ru4:21 "]
+  replace: "Salʹmon became father to Boʹaz; Boʹaz became father to Oʹbed;"
+
+- triggers: ["!ruth4:22 ","!ru4:22 "]
+  replace: "Oʹbed became father to Jesʹse; and Jesʹse became father to David."
+

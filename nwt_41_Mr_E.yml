@@ -1,0 +1,1999 @@
+matches:
+- triggers: ["!mark1:1 ","!mr1:1 "]
+  replace: "The beginning of the good news about Jesus Christ, the Son of God:"
+
+- triggers: ["!mark1:2 ","!mr1:2 "]
+  replace: "Just as it is written in Isaiah the prophet: '(Look! I am sending my messenger ahead of you, who will prepare your way.)"
+
+- triggers: ["!mark1:3 ","!mr1:3 "]
+  replace: "A voice of one crying out in the wilderness: 'Prepare the way of Jehovah! Make his roads straight.''"
+
+- triggers: ["!mark1:4 ","!mr1:4 "]
+  replace: "John the Baptizer was in the wilderness, preaching baptism in symbol of repentance for forgiveness of sins."
+
+- triggers: ["!mark1:5 ","!mr1:5 "]
+  replace: "And all the territory of Judeʹa and all the inhabitants of Jerusalem were going out to him, and they were baptized by him in the Jordan River, openly confessing their sins."
+
+- triggers: ["!mark1:6 ","!mr1:6 "]
+  replace: "Now John wore clothing of camel's hair and a leather belt around his waist, and he ate locusts and wild honey."
+
+- triggers: ["!mark1:7 ","!mr1:7 "]
+  replace: "And he was preaching: 'Someone stronger than I am is coming after me, the lace of whose sandals I am not worthy to stoop down and untie."
+
+- triggers: ["!mark1:8 ","!mr1:8 "]
+  replace: "I baptized you with water, but he will baptize you with holy spirit.'"
+
+- triggers: ["!mark1:9 ","!mr1:9 "]
+  replace: "In the course of those days, Jesus came from Nazʹareth of Galʹilee and was baptized in the Jordan by John."
+
+- triggers: ["!mark1:10 ","!mr1:10 "]
+  replace: "And immediately on coming up out of the water, he saw the heavens being parted and, like a dove, the spirit coming down upon him."
+
+- triggers: ["!mark1:11 ","!mr1:11 "]
+  replace: "And a voice came out of the heavens: 'You are my Son, the beloved; I have approved you.'"
+
+- triggers: ["!mark1:12 ","!mr1:12 "]
+  replace: "And immediately the spirit impelled him to go into the wilderness."
+
+- triggers: ["!mark1:13 ","!mr1:13 "]
+  replace: "So he continued in the wilderness for 40 days, being tempted by Satan. He was with the wild beasts, but the angels were ministering to him."
+
+- triggers: ["!mark1:14 ","!mr1:14 "]
+  replace: "Now after John was arrested, Jesus went into Galʹilee, preaching the good news of God"
+
+- triggers: ["!mark1:15 ","!mr1:15 "]
+  replace: "and saying: 'The appointed time has been fulfilled, and the Kingdom of God has drawn near. Repent, and have faith in the good news.'"
+
+- triggers: ["!mark1:16 ","!mr1:16 "]
+  replace: "While walking alongside the Sea of Galʹilee, he saw Simon and Simon's brother Andrew casting their nets into the sea, for they were fishermen."
+
+- triggers: ["!mark1:17 ","!mr1:17 "]
+  replace: "So Jesus said to them: 'Come after me, and I will make you fishers of men.'"
+
+- triggers: ["!mark1:18 ","!mr1:18 "]
+  replace: "And at once they abandoned their nets and followed him."
+
+- triggers: ["!mark1:19 ","!mr1:19 "]
+  replace: "After going a little farther, he saw James the son of Zebʹedee and his brother John, while they were in their boat mending their nets,"
+
+- triggers: ["!mark1:20 ","!mr1:20 "]
+  replace: "and without delay he called them. So they left their father Zebʹedee in the boat with the hired men and went off after him."
+
+- triggers: ["!mark1:21 ","!mr1:21 "]
+  replace: "And they went into Caperʹnaum. As soon as the Sabbath began, he went into the synagogue and started to teach."
+
+- triggers: ["!mark1:22 ","!mr1:22 "]
+  replace: "And they were astounded at his way of teaching, for he was teaching them as one having authority, and not as the scribes."
+
+- triggers: ["!mark1:23 ","!mr1:23 "]
+  replace: "Just then there was a man in their synagogue who was under the power of an unclean spirit, and he shouted:"
+
+- triggers: ["!mark1:24 ","!mr1:24 "]
+  replace: "'What have we to do with you, Jesus the Nazareneʹ? Did you come to destroy us? I know exactly who you are, the Holy One of God!'"
+
+- triggers: ["!mark1:25 ","!mr1:25 "]
+  replace: "But Jesus rebuked it, saying: 'Be silent, and come out of him!'"
+
+- triggers: ["!mark1:26 ","!mr1:26 "]
+  replace: "And the unclean spirit, after throwing the man into a convulsion and yelling at the top of its voice, came out of him."
+
+- triggers: ["!mark1:27 ","!mr1:27 "]
+  replace: "Well, the people were all so astonished that they began to discuss it among themselves, saying: 'What is this? A new teaching! He authoritatively orders even the unclean spirits, and they obey him.'"
+
+- triggers: ["!mark1:28 ","!mr1:28 "]
+  replace: "So the report about him spread quickly in all directions throughout the entire region of Galʹilee."
+
+- triggers: ["!mark1:29 ","!mr1:29 "]
+  replace: "At that they left the synagogue and went to the home of Simon and Andrew with James and John."
+
+- triggers: ["!mark1:30 ","!mr1:30 "]
+  replace: "Now Simon's mother-in-law was lying down sick with a fever, and they at once told him about her."
+
+- triggers: ["!mark1:31 ","!mr1:31 "]
+  replace: "Going to her, he took her by the hand and raised her up. The fever left her, and she began ministering to them."
+
+- triggers: ["!mark1:32 ","!mr1:32 "]
+  replace: "After evening had fallen, when the sun had set, the people began bringing to him all who were ill and demon possessed;"
+
+- triggers: ["!mark1:33 ","!mr1:33 "]
+  replace: "and the whole city was gathered right at the door."
+
+- triggers: ["!mark1:34 ","!mr1:34 "]
+  replace: "So he cured many who were ill with various sicknesses, and he expelled many demons, but he would not let the demons speak, for they knew him to be Christ."
+
+- triggers: ["!mark1:35 ","!mr1:35 "]
+  replace: "Early in the morning, while it was still dark, he got up and went outside and left for an isolated place, and there he began praying."
+
+- triggers: ["!mark1:36 ","!mr1:36 "]
+  replace: "However, Simon and those with him hunted him down"
+
+- triggers: ["!mark1:37 ","!mr1:37 "]
+  replace: "and found him, and they said to him: 'Everyone is looking for you.'"
+
+- triggers: ["!mark1:38 ","!mr1:38 "]
+  replace: "But he said to them: 'Let us go somewhere else, into the towns nearby, so that I may preach there also, for this is why I have come.'"
+
+- triggers: ["!mark1:39 ","!mr1:39 "]
+  replace: "And he went, preaching in their synagogues throughout the whole of Galʹilee and expelling the demons."
+
+- triggers: ["!mark1:40 ","!mr1:40 "]
+  replace: "There also came to him a leper, pleading with him even on bended knee, saying to him: 'If you just want to, you can make me clean.'"
+
+- triggers: ["!mark1:41 ","!mr1:41 "]
+  replace: "At that he was moved with pity, and he stretched out his hand and touched him, and said to him: 'I want to! Be made clean.'"
+
+- triggers: ["!mark1:42 ","!mr1:42 "]
+  replace: "Immediately the leprosy vanished from him, and he became clean."
+
+- triggers: ["!mark1:43 ","!mr1:43 "]
+  replace: "Then he gave him strict orders and at once sent him away,"
+
+- triggers: ["!mark1:44 ","!mr1:44 "]
+  replace: "saying to him: 'See that you say nothing to anyone, but go show yourself to the priest and offer for your cleansing the things Moses directed, for a witness to them.'"
+
+- triggers: ["!mark1:45 ","!mr1:45 "]
+  replace: "But after going away, the man started to proclaim it a great deal and to spread the account widely, so that Jesus was no longer able to enter openly into a city, but he stayed outside in isolated places. Yet they kept coming to him from all sides."
+
+- triggers: ["!mark2:1 ","!mr2:1 "]
+  replace: "However, after some days he again entered into Caperʹnaum, and the word spread that he was at home."
+
+- triggers: ["!mark2:2 ","!mr2:2 "]
+  replace: "And so many gathered that there was no more room, not even around the door, and he began to speak the word to them."
+
+- triggers: ["!mark2:3 ","!mr2:3 "]
+  replace: "And they brought him a paralytic carried by four men."
+
+- triggers: ["!mark2:4 ","!mr2:4 "]
+  replace: "But they could not bring him right to Jesus because of the crowd, so they removed the roof above Jesus, and after digging an opening, they lowered the stretcher on which the paralytic was lying."
+
+- triggers: ["!mark2:5 ","!mr2:5 "]
+  replace: "When Jesus saw their faith, he said to the paralytic: 'Child, your sins are forgiven.'"
+
+- triggers: ["!mark2:6 ","!mr2:6 "]
+  replace: "Now some of the scribes were there, sitting and reasoning in their hearts:"
+
+- triggers: ["!mark2:7 ","!mr2:7 "]
+  replace: "'Why is this man talking this way? He is blaspheming. Who can forgive sins except one, God?'"
+
+- triggers: ["!mark2:8 ","!mr2:8 "]
+  replace: "But immediately Jesus discerned by his spirit that they were reasoning that way among themselves, so he said to them: 'Why are you reasoning these things in your hearts?"
+
+- triggers: ["!mark2:9 ","!mr2:9 "]
+  replace: "Which is easier, to say to the paralytic, 'Your sins are forgiven,' or to say, 'Get up and pick up your stretcher and walk'?"
+
+- triggers: ["!mark2:10 ","!mr2:10 "]
+  replace: "But in order for you to know that the Son of man has authority to forgive sins on earth-' he said to the paralytic:"
+
+- triggers: ["!mark2:11 ","!mr2:11 "]
+  replace: "'I say to you, Get up, pick up your stretcher, and go to your home.'"
+
+- triggers: ["!mark2:12 ","!mr2:12 "]
+  replace: "At that he got up and immediately picked up his stretcher and walked out in front of them all. So they were all astonished, and they glorified God, saying: 'We have never seen anything like this.'"
+
+- triggers: ["!mark2:13 ","!mr2:13 "]
+  replace: "Again he went out alongside the sea, and all the crowd kept coming to him, and he began to teach them."
+
+- triggers: ["!mark2:14 ","!mr2:14 "]
+  replace: "And as he was passing by, he caught sight of Leʹvi the son of Alphaeʹus sitting at the tax office, and he said to him: 'Be my follower.' At that he rose up and followed him."
+
+- triggers: ["!mark2:15 ","!mr2:15 "]
+  replace: "Later he was dining in his house, and many tax collectors and sinners were dining with Jesus and his disciples, for there were many of them who were following him."
+
+- triggers: ["!mark2:16 ","!mr2:16 "]
+  replace: "But when the scribes of the Pharisees saw that he was eating with the sinners and tax collectors, they began saying to his disciples: 'Does he eat with tax collectors and sinners?'"
+
+- triggers: ["!mark2:17 ","!mr2:17 "]
+  replace: "On hearing this, Jesus said to them: 'Those who are strong do not need a physician, but those who are ill do. I came to call, not righteous people, but sinners.'"
+
+- triggers: ["!mark2:18 ","!mr2:18 "]
+  replace: "Now John's disciples and the Pharisees practiced fasting. So they came and said to him: 'Why do John's disciples and the disciples of the Pharisees practice fasting, but your disciples do not practice fasting?'"
+
+- triggers: ["!mark2:19 ","!mr2:19 "]
+  replace: "So Jesus said to them: 'While the bridegroom is with them, the friends of the bridegroom have no reason to fast, do they? As long as they have the bridegroom with them, they cannot fast."
+
+- triggers: ["!mark2:20 ","!mr2:20 "]
+  replace: "But days will come when the bridegroom will be taken away from them, and then they will fast on that day."
+
+- triggers: ["!mark2:21 ","!mr2:21 "]
+  replace: "Nobody sews a patch of unshrunk cloth on an old outer garment. If he does, the new piece pulls away from the old, and the tear becomes worse."
+
+- triggers: ["!mark2:22 ","!mr2:22 "]
+  replace: "Also, no one puts new wine into old wineskins. If he does, the wine will burst the skins, and the wine is lost as well as the skins. But new wine is put into new wineskins.'"
+
+- triggers: ["!mark2:23 ","!mr2:23 "]
+  replace: "Now as he was passing through the grainfields on the Sabbath, his disciples started to pluck the heads of grain as they went."
+
+- triggers: ["!mark2:24 ","!mr2:24 "]
+  replace: "So the Pharisees said to him: 'Look here! Why are they doing what is not lawful on the Sabbath?'"
+
+- triggers: ["!mark2:25 ","!mr2:25 "]
+  replace: "But he said to them: 'Have you never read what David did when he was in need and he and the men with him were hungry?"
+
+- triggers: ["!mark2:26 ","!mr2:26 "]
+  replace: "How, in the account about Abiʹathar the chief priest, he entered into the house of God and ate the loaves of presentation, which it is not lawful for anybody to eat except the priests, and he also gave some to the men who were with him?'"
+
+- triggers: ["!mark2:27 ","!mr2:27 "]
+  replace: "Then he said to them: 'The Sabbath came into existence for the sake of man, and not man for the sake of the Sabbath."
+
+- triggers: ["!mark2:28 ","!mr2:28 "]
+  replace: "So the Son of man is Lord even of the Sabbath.'"
+
+- triggers: ["!mark3:1 ","!mr3:1 "]
+  replace: "Once again he entered into a synagogue, and a man with a withered hand was there."
+
+- triggers: ["!mark3:2 ","!mr3:2 "]
+  replace: "So they were watching him closely to see whether he would cure the man on the Sabbath, in order to accuse him."
+
+- triggers: ["!mark3:3 ","!mr3:3 "]
+  replace: "He said to the man with the withered hand: 'Get up and come to the center.'"
+
+- triggers: ["!mark3:4 ","!mr3:4 "]
+  replace: "Next he said to them: 'Is it lawful on the Sabbath to do good or to do harm, to save a life or to kill?' But they kept silent."
+
+- triggers: ["!mark3:5 ","!mr3:5 "]
+  replace: "After looking around at them with indignation, being thoroughly grieved at the insensibility of their hearts, he said to the man: 'Stretch out your hand.' And he stretched it out, and his hand was restored."
+
+- triggers: ["!mark3:6 ","!mr3:6 "]
+  replace: "At that the Pharisees went out and immediately began holding council with the party followers of Herod against him, in order to kill him."
+
+- triggers: ["!mark3:7 ","!mr3:7 "]
+  replace: "But Jesus departed for the sea along with his disciples, and a great multitude from Galʹilee and from Judeʹa followed him."
+
+- triggers: ["!mark3:8 ","!mr3:8 "]
+  replace: "Even from Jerusalem and from Idumeʹa and from across the Jordan and from around Tyre and Siʹdon, a great multitude came to him when they heard about the many things he was doing."
+
+- triggers: ["!mark3:9 ","!mr3:9 "]
+  replace: "And he told his disciples to have a small boat ready for him so that the crowd would not press in on him."
+
+- triggers: ["!mark3:10 ","!mr3:10 "]
+  replace: "Because he cured many, all those who had serious diseases were crowding around him to touch him."
+
+- triggers: ["!mark3:11 ","!mr3:11 "]
+  replace: "Even the unclean spirits, whenever they saw him, would fall down before him and cry out and say: 'You are the Son of God.'"
+
+- triggers: ["!mark3:12 ","!mr3:12 "]
+  replace: "But many times he sternly ordered them not to make him known."
+
+- triggers: ["!mark3:13 ","!mr3:13 "]
+  replace: "He ascended a mountain and summoned those whom he wanted, and they came to him."
+
+- triggers: ["!mark3:14 ","!mr3:14 "]
+  replace: "And he formed a group of 12, whom he also named apostles, those who were to accompany him and whom he would send out to preach"
+
+- triggers: ["!mark3:15 ","!mr3:15 "]
+  replace: "and to have authority to expel demons."
+
+- triggers: ["!mark3:16 ","!mr3:16 "]
+  replace: "And the group of 12 that he formed were Simon, to whom he also gave the name Peter,"
+
+- triggers: ["!mark3:17 ","!mr3:17 "]
+  replace: "James the son of Zebʹedee and John the brother of James (he also gave these the name Boanerʹges, which means 'Sons of Thunder'),"
+
+- triggers: ["!mark3:18 ","!mr3:18 "]
+  replace: "Andrew, Philip, Bartholʹomew, Matthew, Thomas, James the son of Alphaeʹus, Thaddaeʹus, Simon the Cananaeʹan,"
+
+- triggers: ["!mark3:19 ","!mr3:19 "]
+  replace: "and Judas Iscarʹiot, who later betrayed him. Then he went into a house,"
+
+- triggers: ["!mark3:20 ","!mr3:20 "]
+  replace: "and again the crowd gathered, so that they were not able even to eat a meal."
+
+- triggers: ["!mark3:21 ","!mr3:21 "]
+  replace: "But when his relatives heard about it, they went out to seize him, for they were saying: 'He has gone out of his mind.'"
+
+- triggers: ["!mark3:22 ","!mr3:22 "]
+  replace: "Also, the scribes who came down from Jerusalem were saying: 'He has Beelʹzebub, and he expels the demons by means of the ruler of the demons.'"
+
+- triggers: ["!mark3:23 ","!mr3:23 "]
+  replace: "So after calling them to him, he spoke to them with illustrations: 'How can Satan expel Satan?"
+
+- triggers: ["!mark3:24 ","!mr3:24 "]
+  replace: "If a kingdom becomes divided against itself, that kingdom cannot stand;"
+
+- triggers: ["!mark3:25 ","!mr3:25 "]
+  replace: "and if a house becomes divided against itself, that house will not be able to stand."
+
+- triggers: ["!mark3:26 ","!mr3:26 "]
+  replace: "Also, if Satan has risen up against himself and has become divided, he cannot stand but is coming to an end."
+
+- triggers: ["!mark3:27 ","!mr3:27 "]
+  replace: "In fact, no one who enters the house of a strong man is able to steal his possessions unless he first ties up the strong man. Only then can he plunder his house."
+
+- triggers: ["!mark3:28 ","!mr3:28 "]
+  replace: "Truly I say to you that all things will be forgiven the sons of men, no matter what sins they commit and what blasphemies they speak."
+
+- triggers: ["!mark3:29 ","!mr3:29 "]
+  replace: "But whoever blasphemes against the holy spirit has no forgiveness forever but is guilty of everlasting sin.'"
+
+- triggers: ["!mark3:30 ","!mr3:30 "]
+  replace: "He said this because they were saying: 'He has an unclean spirit.'"
+
+- triggers: ["!mark3:31 ","!mr3:31 "]
+  replace: "Now his mother and his brothers came, and standing outside, they sent someone in to call him."
+
+- triggers: ["!mark3:32 ","!mr3:32 "]
+  replace: "As there was a crowd sitting around him, they said to him: 'Look! Your mother and your brothers are outside asking for you.'"
+
+- triggers: ["!mark3:33 ","!mr3:33 "]
+  replace: "But he replied to them: 'Who are my mother and my brothers?'"
+
+- triggers: ["!mark3:34 ","!mr3:34 "]
+  replace: "Then he looked at those sitting around him in a circle and said: 'See, my mother and my brothers!"
+
+- triggers: ["!mark3:35 ","!mr3:35 "]
+  replace: "Whoever does the will of God, this one is my brother and sister and mother.'"
+
+- triggers: ["!mark4:1 ","!mr4:1 "]
+  replace: "Again he began teaching beside the sea, and a very large crowd gathered near him. So he went aboard a boat and sat in it away from the shore, but the whole crowd was next to the sea, along the shore."
+
+- triggers: ["!mark4:2 ","!mr4:2 "]
+  replace: "And he began to teach them many things with illustrations, and while he was teaching, he said to them:"
+
+- triggers: ["!mark4:3 ","!mr4:3 "]
+  replace: "'Listen. Look! The sower went out to sow."
+
+- triggers: ["!mark4:4 ","!mr4:4 "]
+  replace: "As he was sowing, some seeds fell alongside the road, and the birds came and ate them up."
+
+- triggers: ["!mark4:5 ","!mr4:5 "]
+  replace: "Others fell on rocky ground where there was not much soil, and they immediately sprang up because the soil was not deep."
+
+- triggers: ["!mark4:6 ","!mr4:6 "]
+  replace: "But when the sun rose, they were scorched, and they withered because they had no root."
+
+- triggers: ["!mark4:7 ","!mr4:7 "]
+  replace: "Other seeds fell among the thorns, and the thorns came up and choked them, and they yielded no fruit."
+
+- triggers: ["!mark4:8 ","!mr4:8 "]
+  replace: "But others fell on the fine soil, and growing up and increasing, they began to yield fruit, and they were bearing 30, 60, and 100 times more.'"
+
+- triggers: ["!mark4:9 ","!mr4:9 "]
+  replace: "Then he added: 'Let the one who has ears to listen, listen.'"
+
+- triggers: ["!mark4:10 ","!mr4:10 "]
+  replace: "Now when he was alone, those around him with the Twelve began questioning him about the illustrations."
+
+- triggers: ["!mark4:11 ","!mr4:11 "]
+  replace: "He said to them: 'To you the sacred secret of the Kingdom of God has been given, but to those outside all things are in illustrations,"
+
+- triggers: ["!mark4:12 ","!mr4:12 "]
+  replace: "so that, though looking, they may look and still not see, and though hearing, they may hear and still not get the sense of it; nor will they ever turn back and receive forgiveness.'"
+
+- triggers: ["!mark4:13 ","!mr4:13 "]
+  replace: "Further, he said to them: 'You do not know this illustration, so how will you understand all the other illustrations?"
+
+- triggers: ["!mark4:14 ","!mr4:14 "]
+  replace: "'The sower sows the word."
+
+- triggers: ["!mark4:15 ","!mr4:15 "]
+  replace: "These, then, are the ones alongside the road where the word is sown; but as soon as they have heard it, Satan comes and takes away the word that was sown in them."
+
+- triggers: ["!mark4:16 ","!mr4:16 "]
+  replace: "Likewise, these are the ones sown on rocky ground; as soon as they have heard the word, they accept it with joy."
+
+- triggers: ["!mark4:17 ","!mr4:17 "]
+  replace: "Yet they have no root in themselves, but they continue for a time; then as soon as tribulation or persecution arises because of the word, they are stumbled."
+
+- triggers: ["!mark4:18 ","!mr4:18 "]
+  replace: "There are still others that are sown among the thorns. These are the ones who have heard the word,"
+
+- triggers: ["!mark4:19 ","!mr4:19 "]
+  replace: "but the anxieties of this system of things and the deceptive power of riches and the desires for everything else make inroads and choke the word, and it becomes unfruitful."
+
+- triggers: ["!mark4:20 ","!mr4:20 "]
+  replace: "Finally, the ones that were sown on the fine soil are those who listen to the word and favorably receive it and bear fruit-30, 60, and 100 times more.'"
+
+- triggers: ["!mark4:21 ","!mr4:21 "]
+  replace: "He also said to them: 'A lamp is not brought out to be put under a basket or under a bed, is it? Is it not brought out to be put on a lampstand?"
+
+- triggers: ["!mark4:22 ","!mr4:22 "]
+  replace: "For there is nothing hidden that will not be exposed; nothing is carefully concealed that will not come out in the open."
+
+- triggers: ["!mark4:23 ","!mr4:23 "]
+  replace: "Whoever has ears to listen, let him listen.'"
+
+- triggers: ["!mark4:24 ","!mr4:24 "]
+  replace: "He further said to them: 'Pay attention to what you are hearing. With the measure that you are measuring out, you will have it measured out to you, yes, you will have more added to you."
+
+- triggers: ["!mark4:25 ","!mr4:25 "]
+  replace: "For whoever has will have more given to him, but whoever does not have, even what he has will be taken away from him.'"
+
+- triggers: ["!mark4:26 ","!mr4:26 "]
+  replace: "So he went on to say: 'In this way the Kingdom of God is just as when a man casts seeds on the ground."
+
+- triggers: ["!mark4:27 ","!mr4:27 "]
+  replace: "He sleeps at night and rises up by day, and the seeds sprout and grow tall-just how, he does not know."
+
+- triggers: ["!mark4:28 ","!mr4:28 "]
+  replace: "On its own the ground bears fruit gradually, first the stalk, then the head, finally the full grain in the head."
+
+- triggers: ["!mark4:29 ","!mr4:29 "]
+  replace: "But as soon as the crop permits it, he thrusts in the sickle, because the harvesttime has come.'"
+
+- triggers: ["!mark4:30 ","!mr4:30 "]
+  replace: "And he went on to say: 'With what can we compare the Kingdom of God, or with what illustration can we explain it?"
+
+- triggers: ["!mark4:31 ","!mr4:31 "]
+  replace: "It is like a mustard grain, which at the time it was sown in the ground was the tiniest of all the seeds on the earth."
+
+- triggers: ["!mark4:32 ","!mr4:32 "]
+  replace: "But when it has been sown, it grows and becomes greater than all other vegetable plants and produces great branches, so that the birds of heaven are able to find lodging under its shadow.'"
+
+- triggers: ["!mark4:33 ","!mr4:33 "]
+  replace: "With many illustrations of that sort he spoke the word to them, to the extent that they were able to listen."
+
+- triggers: ["!mark4:34 ","!mr4:34 "]
+  replace: "Indeed, without an illustration he would not speak to them, but he would explain all things privately to his disciples."
+
+- triggers: ["!mark4:35 ","!mr4:35 "]
+  replace: "And on that day, when evening had fallen, he said to them: 'Let us cross to the other shore.'"
+
+- triggers: ["!mark4:36 ","!mr4:36 "]
+  replace: "So after they had dismissed the crowd, they took him in the boat, just as he was, and there were other boats with him."
+
+- triggers: ["!mark4:37 ","!mr4:37 "]
+  replace: "Now a great violent windstorm broke out, and the waves kept crashing into the boat, so that the boat was close to being swamped."
+
+- triggers: ["!mark4:38 ","!mr4:38 "]
+  replace: "But he was in the stern, sleeping on the pillow. So they woke him up and said to him: 'Teacher, do you not care that we are about to perish?'"
+
+- triggers: ["!mark4:39 ","!mr4:39 "]
+  replace: "With that he got up and rebuked the wind and said to the sea: 'Hush! Be quiet!' And the wind abated, and a great calm set in."
+
+- triggers: ["!mark4:40 ","!mr4:40 "]
+  replace: "So he said to them: 'Why are you so afraid? Do you not yet have any faith?'"
+
+- triggers: ["!mark4:41 ","!mr4:41 "]
+  replace: "But they felt an unusual fear, and they said to one another: 'Who really is this? Even the wind and the sea obey him.'"
+
+- triggers: ["!mark5:1 ","!mr5:1 "]
+  replace: "Then they came to the other side of the sea into the region of the Gerʹasenes."
+
+- triggers: ["!mark5:2 ","!mr5:2 "]
+  replace: "And immediately after Jesus got out of the boat, a man under the power of an unclean spirit met him from among the tombs."
+
+- triggers: ["!mark5:3 ","!mr5:3 "]
+  replace: "His haunt was among the tombs, and up to that time, absolutely no one was able to bind him securely, even with a chain."
+
+- triggers: ["!mark5:4 ","!mr5:4 "]
+  replace: "He had often been bound with fetters and chains, but he snapped the chains apart and smashed the fetters; and nobody had the strength to subdue him."
+
+- triggers: ["!mark5:5 ","!mr5:5 "]
+  replace: "And continually, night and day, he was crying out in the tombs and in the mountains and slashing himself with stones."
+
+- triggers: ["!mark5:6 ","!mr5:6 "]
+  replace: "But on catching sight of Jesus from a distance, he ran and bowed down to him."
+
+- triggers: ["!mark5:7 ","!mr5:7 "]
+  replace: "Then he cried out with a loud voice: 'What have I to do with you, Jesus, Son of the Most High God? I put you under oath by God not to torment me.'"
+
+- triggers: ["!mark5:8 ","!mr5:8 "]
+  replace: "For Jesus had been saying to it: 'Come out of the man, you unclean spirit.'"
+
+- triggers: ["!mark5:9 ","!mr5:9 "]
+  replace: "But Jesus asked him: 'What is your name?' And he replied: 'My name is Legion, because there are many of us.'"
+
+- triggers: ["!mark5:10 ","!mr5:10 "]
+  replace: "And he kept pleading with Jesus not to send the spirits out of the country."
+
+- triggers: ["!mark5:11 ","!mr5:11 "]
+  replace: "Now a great herd of swine was feeding there at the mountain."
+
+- triggers: ["!mark5:12 ","!mr5:12 "]
+  replace: "So the spirits pleaded with him: 'Send us into the swine, so that we may enter into them.'"
+
+- triggers: ["!mark5:13 ","!mr5:13 "]
+  replace: "And he gave them permission. With that the unclean spirits came out and went into the swine, and the herd rushed over the precipice into the sea, about 2,000 of them, and were drowned in the sea."
+
+- triggers: ["!mark5:14 ","!mr5:14 "]
+  replace: "But their herders fled and reported it in the city and in the countryside, and people came to see what had happened."
+
+- triggers: ["!mark5:15 ","!mr5:15 "]
+  replace: "So they came to Jesus and saw the demon-possessed man, the one who previously had the legion, sitting clothed and in his right mind, and they grew fearful."
+
+- triggers: ["!mark5:16 ","!mr5:16 "]
+  replace: "Also, those who had seen it related to them how this had happened to the demon-possessed man and the swine."
+
+- triggers: ["!mark5:17 ","!mr5:17 "]
+  replace: "So they began to plead with Jesus to go away from their region."
+
+- triggers: ["!mark5:18 ","!mr5:18 "]
+  replace: "Now as he was boarding the boat, the man who had been demon-possessed pleaded to go with him."
+
+- triggers: ["!mark5:19 ","!mr5:19 "]
+  replace: "However, he did not let him but said to him: 'Go home to your relatives, and report to them all the things Jehovah has done for you and the mercy he has shown you.'"
+
+- triggers: ["!mark5:20 ","!mr5:20 "]
+  replace: "This man went away and started to proclaim in the Decapʹolis all the things Jesus had done for him, and all the people were amazed."
+
+- triggers: ["!mark5:21 ","!mr5:21 "]
+  replace: "After Jesus had crossed again by boat to the opposite shore, a large crowd gathered together to him, and he was by the sea."
+
+- triggers: ["!mark5:22 ","!mr5:22 "]
+  replace: "One of the presiding officers of the synagogue, named Jaʹirus, now came, and on catching sight of him, he fell at his feet."
+
+- triggers: ["!mark5:23 ","!mr5:23 "]
+  replace: "He pleaded with him many times, saying: 'My little daughter is extremely ill. Please come and put your hands on her so that she may get well and live.'"
+
+- triggers: ["!mark5:24 ","!mr5:24 "]
+  replace: "At that Jesus went with him, and a large crowd was following him and pressing against him."
+
+- triggers: ["!mark5:25 ","!mr5:25 "]
+  replace: "Now there was a woman who had had a flow of blood for 12 years."
+
+- triggers: ["!mark5:26 ","!mr5:26 "]
+  replace: "She had suffered much at the hands of many physicians and had spent all her resources, and she was no better but, rather, had become worse."
+
+- triggers: ["!mark5:27 ","!mr5:27 "]
+  replace: "When she heard the reports about Jesus, she came up behind him in the crowd and touched his outer garment,"
+
+- triggers: ["!mark5:28 ","!mr5:28 "]
+  replace: "for she kept saying: 'If I touch just his outer garments, I will get well.'"
+
+- triggers: ["!mark5:29 ","!mr5:29 "]
+  replace: "And immediately her flow of blood dried up, and she sensed in her body that she had been healed of the grievous sickness."
+
+- triggers: ["!mark5:30 ","!mr5:30 "]
+  replace: "Immediately Jesus realized in himself that power had gone out of him, and he turned around in the crowd and asked: 'Who touched my outer garments?'"
+
+- triggers: ["!mark5:31 ","!mr5:31 "]
+  replace: "But his disciples said to him: 'You see the crowd pressing in on you, and you ask, 'Who touched me?''"
+
+- triggers: ["!mark5:32 ","!mr5:32 "]
+  replace: "However, he was looking around to see who had done this."
+
+- triggers: ["!mark5:33 ","!mr5:33 "]
+  replace: "The woman, frightened and trembling, knowing what had happened to her, came and fell down before him and told him the whole truth."
+
+- triggers: ["!mark5:34 ","!mr5:34 "]
+  replace: "He said to her: 'Daughter, your faith has made you well. Go in peace, and be healed from your grievous sickness.'"
+
+- triggers: ["!mark5:35 ","!mr5:35 "]
+  replace: "While he was yet speaking, some men from the home of the presiding officer of the synagogue came and said: 'Your daughter died! Why bother the Teacher any longer?'"
+
+- triggers: ["!mark5:36 ","!mr5:36 "]
+  replace: "But Jesus overheard their words and said to the presiding officer of the synagogue: 'Have no fear, only exercise faith.'"
+
+- triggers: ["!mark5:37 ","!mr5:37 "]
+  replace: "Now he did not let anyone follow him except Peter, James, and John the brother of James."
+
+- triggers: ["!mark5:38 ","!mr5:38 "]
+  replace: "So they came to the house of the presiding officer of the synagogue, and he saw the commotion and those weeping and wailing loudly."
+
+- triggers: ["!mark5:39 ","!mr5:39 "]
+  replace: "After stepping in, he said to them: 'Why are you weeping and causing this commotion? The child has not died but is sleeping.'"
+
+- triggers: ["!mark5:40 ","!mr5:40 "]
+  replace: "At this they began to laugh at him scornfully. But after sending them all outside, he took the child's father and mother and those with him, and he went in where the child was."
+
+- triggers: ["!mark5:41 ","!mr5:41 "]
+  replace: "Then, taking the hand of the child, he said to her: 'Talʹitha cuʹmi,' which, when translated, means: 'Little girl, I say to you, get up!'"
+
+- triggers: ["!mark5:42 ","!mr5:42 "]
+  replace: "And immediately the girl rose and began walking. (She was 12 years old.) And at once they were beside themselves with great ecstasy."
+
+- triggers: ["!mark5:43 ","!mr5:43 "]
+  replace: "But he ordered them again and again to let no one learn of this, and he said that something should be given her to eat."
+
+- triggers: ["!mark6:1 ","!mr6:1 "]
+  replace: "He departed from there and came into his home territory, and his disciples followed him."
+
+- triggers: ["!mark6:2 ","!mr6:2 "]
+  replace: "When it was the Sabbath, he started teaching in the synagogue, and most who heard him were astounded and said: 'Where did this man get these things? And why should this wisdom have been given to him, and such powerful works be performed through his hands?"
+
+- triggers: ["!mark6:3 ","!mr6:3 "]
+  replace: "This is the carpenter, the son of Mary and the brother of James, Joseph, Judas, and Simon, is it not? And his sisters are here with us, are they not?' So they began to stumble because of him."
+
+- triggers: ["!mark6:4 ","!mr6:4 "]
+  replace: "But Jesus said to them: 'A prophet is not without honor except in his home territory and among his relatives and in his own house.'"
+
+- triggers: ["!mark6:5 ","!mr6:5 "]
+  replace: "So he was not able to do any powerful work there except to lay his hands on a few sick people and cure them."
+
+- triggers: ["!mark6:6 ","!mr6:6 "]
+  replace: "Indeed, he was amazed at their lack of faith. And he went around in a circuit to the villages, teaching."
+
+- triggers: ["!mark6:7 ","!mr6:7 "]
+  replace: "He now summoned the Twelve and started sending them out two by two, and he gave them authority over the unclean spirits."
+
+- triggers: ["!mark6:8 ","!mr6:8 "]
+  replace: "Also, he gave them orders to carry nothing for the trip except a staff-no bread, no food pouch, no money in their belts-"
+
+- triggers: ["!mark6:9 ","!mr6:9 "]
+  replace: "but to put on sandals and not to wear two garments."
+
+- triggers: ["!mark6:10 ","!mr6:10 "]
+  replace: "Further, he said to them: 'Wherever you enter into a home, stay there until you leave that place."
+
+- triggers: ["!mark6:11 ","!mr6:11 "]
+  replace: "And wherever a place will not receive you or listen to you, on going out from there, shake off the dirt that is on your feet for a witness to them.'"
+
+- triggers: ["!mark6:12 ","!mr6:12 "]
+  replace: "Then they set out and preached that people should repent,"
+
+- triggers: ["!mark6:13 ","!mr6:13 "]
+  replace: "and they expelled many demons and greased many sick people with oil and cured them."
+
+- triggers: ["!mark6:14 ","!mr6:14 "]
+  replace: "Now King Herod heard of this, for the name of Jesus became well-known, and people were saying: 'John the Baptizer has been raised up from the dead, and that is why the powerful works are operating in him.'"
+
+- triggers: ["!mark6:15 ","!mr6:15 "]
+  replace: "But others were saying: 'It is Eliʹjah.' Still others were saying: 'It is a prophet like one of the prophets of old.'"
+
+- triggers: ["!mark6:16 ","!mr6:16 "]
+  replace: "But when Herod heard it, he said: 'The John whom I beheaded, this one has been raised up.'"
+
+- triggers: ["!mark6:17 ","!mr6:17 "]
+  replace: "For Herod himself had sent out and arrested John and had bound him in prison on account of Heroʹdias, the wife of Philip his brother, because he had married her."
+
+- triggers: ["!mark6:18 ","!mr6:18 "]
+  replace: "For John had been saying to Herod: 'It is not lawful for you to have your brother's wife.'"
+
+- triggers: ["!mark6:19 ","!mr6:19 "]
+  replace: "So Heroʹdias was nursing a grudge against him and wanted to kill him, but she could not."
+
+- triggers: ["!mark6:20 ","!mr6:20 "]
+  replace: "For Herod was in fear of John, knowing him to be a righteous and holy man, and he was keeping him safe. After hearing him, he was at a great loss as to what to do, yet he continued to hear him gladly."
+
+- triggers: ["!mark6:21 ","!mr6:21 "]
+  replace: "But a convenient day arrived when Herod spread an evening meal on his birthday for his high officials and the military commanders and the most prominent men of Galʹilee."
+
+- triggers: ["!mark6:22 ","!mr6:22 "]
+  replace: "And the daughter of Heroʹdias came in and danced and pleased Herod and those dining with him. The king said to the girl: 'Ask me for whatever you want, and I will give it to you.'"
+
+- triggers: ["!mark6:23 ","!mr6:23 "]
+  replace: "Yes, he swore to her: 'Whatever you ask me for, I will give it to you, up to half my kingdom.'"
+
+- triggers: ["!mark6:24 ","!mr6:24 "]
+  replace: "So she went out and said to her mother: 'What should I ask for?' She said: 'The head of John the Baptizer.'"
+
+- triggers: ["!mark6:25 ","!mr6:25 "]
+  replace: "She immediately rushed in to the king and made her request, saying: 'I want you to give me right away on a platter the head of John the Baptist.'"
+
+- triggers: ["!mark6:26 ","!mr6:26 "]
+  replace: "Although this deeply grieved him, the king did not want to disregard her request, because of his oaths and his guests."
+
+- triggers: ["!mark6:27 ","!mr6:27 "]
+  replace: "So the king immediately sent a bodyguard and commanded him to bring John's head. So he went off and beheaded him in the prison"
+
+- triggers: ["!mark6:28 ","!mr6:28 "]
+  replace: "and brought his head on a platter. He gave it to the girl, and the girl gave it to her mother."
+
+- triggers: ["!mark6:29 ","!mr6:29 "]
+  replace: "When his disciples heard of it, they came and took his body and laid it in a tomb."
+
+- triggers: ["!mark6:30 ","!mr6:30 "]
+  replace: "The apostles gathered around Jesus and reported to him all the things they had done and taught."
+
+- triggers: ["!mark6:31 ","!mr6:31 "]
+  replace: "And he said to them: 'Come, you yourselves, privately into an isolated place and rest up a little.' For there were many coming and going, and they had no leisure time even to eat a meal."
+
+- triggers: ["!mark6:32 ","!mr6:32 "]
+  replace: "So they set off in the boat for an isolated place to be by themselves."
+
+- triggers: ["!mark6:33 ","!mr6:33 "]
+  replace: "But people saw them going and many got to know it, and from all the cities they ran together on foot and got there ahead of them."
+
+- triggers: ["!mark6:34 ","!mr6:34 "]
+  replace: "Well, on getting out, he saw a large crowd, and he was moved with pity for them, because they were as sheep without a shepherd. And he started to teach them many things."
+
+- triggers: ["!mark6:35 ","!mr6:35 "]
+  replace: "By now the hour had grown late, and his disciples came up to him and said: 'This place is isolated, and the hour is already late."
+
+- triggers: ["!mark6:36 ","!mr6:36 "]
+  replace: "Send them away, so that they may go off into the surrounding countryside and villages and buy themselves something to eat.'"
+
+- triggers: ["!mark6:37 ","!mr6:37 "]
+  replace: "He replied to them: 'You give them something to eat.' At this they said to him: 'Should we go off and buy 200 denarʹii worth of bread and give it to the people to eat?'"
+
+- triggers: ["!mark6:38 ","!mr6:38 "]
+  replace: "He said to them: 'How many loaves do you have? Go see!' After finding out, they said: 'Five, besides two fish.'"
+
+- triggers: ["!mark6:39 ","!mr6:39 "]
+  replace: "And he instructed all the people to recline in groups on the green grass."
+
+- triggers: ["!mark6:40 ","!mr6:40 "]
+  replace: "So they reclined in groups of 100 and of 50."
+
+- triggers: ["!mark6:41 ","!mr6:41 "]
+  replace: "Taking now the five loaves and the two fish, he looked up to heaven and said a blessing. Then he broke the loaves up and began giving them to the disciples to place them before the people, and he divided up the two fish for all."
+
+- triggers: ["!mark6:42 ","!mr6:42 "]
+  replace: "So they all ate and were satisfied,"
+
+- triggers: ["!mark6:43 ","!mr6:43 "]
+  replace: "and they took up 12 baskets full of fragments, aside from the fish."
+
+- triggers: ["!mark6:44 ","!mr6:44 "]
+  replace: "Those who ate the loaves were 5,000 men."
+
+- triggers: ["!mark6:45 ","!mr6:45 "]
+  replace: "Then, without delay, he made his disciples board the boat and go on ahead to the opposite shore toward Bethsaʹida, while he himself sent the crowd away."
+
+- triggers: ["!mark6:46 ","!mr6:46 "]
+  replace: "But after saying good-bye to them, he went to a mountain to pray."
+
+- triggers: ["!mark6:47 ","!mr6:47 "]
+  replace: "When evening had fallen, the boat was in the middle of the sea, but he was alone on the land."
+
+- triggers: ["!mark6:48 ","!mr6:48 "]
+  replace: "So when he saw them struggling to row, for the wind was against them, about the fourth watch of the night he came toward them, walking on the sea; but he was inclined to pass them by."
+
+- triggers: ["!mark6:49 ","!mr6:49 "]
+  replace: "On catching sight of him walking on the sea, they thought: 'It is an apparition!' And they cried out."
+
+- triggers: ["!mark6:50 ","!mr6:50 "]
+  replace: "For they all saw him and were troubled. But immediately he spoke to them and said: 'Take courage! It is I; do not be afraid.'"
+
+- triggers: ["!mark6:51 ","!mr6:51 "]
+  replace: "Then he got up into the boat with them, and the wind abated. At this they were utterly amazed,"
+
+- triggers: ["!mark6:52 ","!mr6:52 "]
+  replace: "for they had not grasped the meaning of the loaves, but their hearts continued dull in understanding."
+
+- triggers: ["!mark6:53 ","!mr6:53 "]
+  replace: "When they got across to land, they came to Gennesʹaret and anchored the boat nearby."
+
+- triggers: ["!mark6:54 ","!mr6:54 "]
+  replace: "But as soon as they got out of the boat, people recognized him."
+
+- triggers: ["!mark6:55 ","!mr6:55 "]
+  replace: "They ran around all that region and started to bring on stretchers those who were ailing to where they heard he was."
+
+- triggers: ["!mark6:56 ","!mr6:56 "]
+  replace: "And wherever he would enter into villages or cities or the countryside, they would place the sick ones in the marketplaces, and they would plead with him that they might touch just the fringe of his outer garment. And all those who touched it were made well."
+
+- triggers: ["!mark7:1 ","!mr7:1 "]
+  replace: "Now the Pharisees and some of the scribes who had come from Jerusalem gathered around him."
+
+- triggers: ["!mark7:2 ","!mr7:2 "]
+  replace: "And they saw some of his disciples eat their meal with defiled hands, that is, unwashed ones."
+
+- triggers: ["!mark7:3 ","!mr7:3 "]
+  replace: "(For the Pharisees and all the Jews do not eat unless they wash their hands up to the elbow, clinging to the tradition of the men of former times,"
+
+- triggers: ["!mark7:4 ","!mr7:4 "]
+  replace: "and when they come from the market, they do not eat unless they wash themselves. There are many other traditions that they have received and cling to, such as baptisms of cups, pitchers, and copper vessels.)"
+
+- triggers: ["!mark7:5 ","!mr7:5 "]
+  replace: "So these Pharisees and scribes asked him: 'Why do your disciples not observe the tradition of the men of former times, but they eat their meal with defiled hands?'"
+
+- triggers: ["!mark7:6 ","!mr7:6 "]
+  replace: "He said to them: 'Isaiah aptly prophesied about you hypocrites, as it is written, 'This people honor me with their lips, but their hearts are far removed from me."
+
+- triggers: ["!mark7:7 ","!mr7:7 "]
+  replace: "It is in vain that they keep worshipping me, for they teach commands of men as doctrines.'"
+
+- triggers: ["!mark7:8 ","!mr7:8 "]
+  replace: "You let go of the commandment of God and cling to the tradition of men.'"
+
+- triggers: ["!mark7:9 ","!mr7:9 "]
+  replace: "Further, he said to them: 'You skillfully disregard the commandment of God in order to keep your tradition."
+
+- triggers: ["!mark7:10 ","!mr7:10 "]
+  replace: "For example, Moses said, 'Honor your father and your mother,' and, 'Let the one who speaks abusively of his father or mother be put to death.'"
+
+- triggers: ["!mark7:11 ","!mr7:11 "]
+  replace: "But you say, 'If a man says to his father or his mother: 'Whatever I have that could benefit you is corban (that is, a gift dedicated to God),''"
+
+- triggers: ["!mark7:12 ","!mr7:12 "]
+  replace: "you no longer let him do a single thing for his father or his mother."
+
+- triggers: ["!mark7:13 ","!mr7:13 "]
+  replace: "Thus you make the word of God invalid by your tradition that you have handed down. And you do many things like this.'"
+
+- triggers: ["!mark7:14 ","!mr7:14 "]
+  replace: "So calling the crowd to him again, he said to them: 'Listen to me, all of you, and understand the meaning."
+
+- triggers: ["!mark7:15 ","!mr7:15 "]
+  replace: "Nothing from outside a man that enters into him can defile him; but the things that come out of a man are the things that defile him.'"
+
+- triggers: ["!mark7:16 ","!mr7:16 "]
+  replace: "--"
+
+- triggers: ["!mark7:17 ","!mr7:17 "]
+  replace: "Now when he had entered a house away from the crowd, his disciples began to question him about the illustration."
+
+- triggers: ["!mark7:18 ","!mr7:18 "]
+  replace: "So he said to them: 'Are you also without understanding like them? Are you not aware that nothing from outside that enters into a man can defile him,"
+
+- triggers: ["!mark7:19 ","!mr7:19 "]
+  replace: "since it enters, not into his heart, but into his stomach, and it passes out into the sewer?' Thus he declared all foods clean."
+
+- triggers: ["!mark7:20 ","!mr7:20 "]
+  replace: "Further, he said: 'That which comes out of a man is what defiles him."
+
+- triggers: ["!mark7:21 ","!mr7:21 "]
+  replace: "For from inside, out of the heart of men, come injurious reasonings: sexual immorality, thefts, murders,"
+
+- triggers: ["!mark7:22 ","!mr7:22 "]
+  replace: "acts of adultery, greed, acts of wickedness, deceit, brazen conduct, an envious eye, blasphemy, haughtiness, and unreasonableness."
+
+- triggers: ["!mark7:23 ","!mr7:23 "]
+  replace: "All these wicked things come from within and defile a man.'"
+
+- triggers: ["!mark7:24 ","!mr7:24 "]
+  replace: "He rose up from there and went into the region of Tyre and Siʹdon. There he entered into a house and did not want anyone to know it, but he could not escape notice."
+
+- triggers: ["!mark7:25 ","!mr7:25 "]
+  replace: "Immediately, a woman whose little daughter had an unclean spirit heard about him and came and fell down at his feet."
+
+- triggers: ["!mark7:26 ","!mr7:26 "]
+  replace: "The woman was a Greek, a Syrophoeniʹcian by nationality; and she kept asking him to expel the demon from her daughter."
+
+- triggers: ["!mark7:27 ","!mr7:27 "]
+  replace: "But he said to her: 'First let the children be satisfied, for it is not right to take the bread of the children and throw it to the little dogs.'"
+
+- triggers: ["!mark7:28 ","!mr7:28 "]
+  replace: "But she replied to him: 'Yes, sir, and yet even the little dogs underneath the table eat of the crumbs of the little children.'"
+
+- triggers: ["!mark7:29 ","!mr7:29 "]
+  replace: "At that he said to her: 'Because you said this, go; the demon has gone out of your daughter.'"
+
+- triggers: ["!mark7:30 ","!mr7:30 "]
+  replace: "So she went away to her home and found the young child lying on the bed, and the demon was gone."
+
+- triggers: ["!mark7:31 ","!mr7:31 "]
+  replace: "When Jesus returned from the region of Tyre, he went through Siʹdon to the Sea of Galʹilee, through the region of Decapʹolis."
+
+- triggers: ["!mark7:32 ","!mr7:32 "]
+  replace: "Here they brought him a deaf man with a speech impediment, and they pleaded with him to lay his hand on him."
+
+- triggers: ["!mark7:33 ","!mr7:33 "]
+  replace: "And he took him aside privately, away from the crowd. Then he put his fingers into the man's ears, and after spitting, he touched his tongue."
+
+- triggers: ["!mark7:34 ","!mr7:34 "]
+  replace: "And looking up into heaven, he sighed deeply and said to him: 'Ephʹphatha,' that is, 'Be opened.'"
+
+- triggers: ["!mark7:35 ","!mr7:35 "]
+  replace: "At this his ears were opened, and his speech impediment was removed, and he began speaking normally."
+
+- triggers: ["!mark7:36 ","!mr7:36 "]
+  replace: "With that he ordered them not to tell anyone, but the more he would order them, the more they would proclaim it."
+
+- triggers: ["!mark7:37 ","!mr7:37 "]
+  replace: "Indeed, they were astounded beyond measure, and they said: 'He has done all things well. He even makes the deaf hear and the speechless speak.'"
+
+- triggers: ["!mark8:1 ","!mr8:1 "]
+  replace: "In those days, there was again a large crowd, and they had nothing to eat. So he summoned the disciples and said to them:"
+
+- triggers: ["!mark8:2 ","!mr8:2 "]
+  replace: "'I feel pity for the crowd, because they have already stayed with me for three days and they have nothing to eat."
+
+- triggers: ["!mark8:3 ","!mr8:3 "]
+  replace: "If I send them off to their homes hungry, they will give out on the road, and some of them are from far away.'"
+
+- triggers: ["!mark8:4 ","!mr8:4 "]
+  replace: "But his disciples answered him: 'From where will anyone get enough bread in this isolated place to satisfy these people?'"
+
+- triggers: ["!mark8:5 ","!mr8:5 "]
+  replace: "At this he asked them: 'How many loaves do you have?' They said: 'Seven.'"
+
+- triggers: ["!mark8:6 ","!mr8:6 "]
+  replace: "And he instructed the crowd to recline on the ground. Then he took the seven loaves, gave thanks, broke them, and began giving them to his disciples to serve, and they served them to the crowd."
+
+- triggers: ["!mark8:7 ","!mr8:7 "]
+  replace: "They also had a few small fish, and blessing these, he told them to serve these also."
+
+- triggers: ["!mark8:8 ","!mr8:8 "]
+  replace: "So they ate and were satisfied, and they took up seven large baskets full of leftover fragments."
+
+- triggers: ["!mark8:9 ","!mr8:9 "]
+  replace: "Now there were about 4,000 men. Then he sent them away."
+
+- triggers: ["!mark8:10 ","!mr8:10 "]
+  replace: "Immediately he boarded the boat with his disciples and came into the region of Dalmanuʹtha."
+
+- triggers: ["!mark8:11 ","!mr8:11 "]
+  replace: "Here the Pharisees came and started disputing with him, demanding from him a sign from heaven, to put him to the test."
+
+- triggers: ["!mark8:12 ","!mr8:12 "]
+  replace: "So he sighed deeply in his spirit and said: 'Why does this generation seek a sign? Truly I say, no sign will be given to this generation.'"
+
+- triggers: ["!mark8:13 ","!mr8:13 "]
+  replace: "With that he left them, got aboard again, and went to the opposite shore."
+
+- triggers: ["!mark8:14 ","!mr8:14 "]
+  replace: "However, they forgot to take bread along, and they had nothing with them in the boat except for one loaf."
+
+- triggers: ["!mark8:15 ","!mr8:15 "]
+  replace: "And he warned them in no uncertain terms: 'Keep your eyes open; look out for the leaven of the Pharisees and the leaven of Herod.'"
+
+- triggers: ["!mark8:16 ","!mr8:16 "]
+  replace: "So they began arguing with one another over the fact that they had no bread."
+
+- triggers: ["!mark8:17 ","!mr8:17 "]
+  replace: "Noting this, he said to them: 'Why do you argue over your having no bread? Do you not yet perceive and understand? Are your hearts still dull in understanding?"
+
+- triggers: ["!mark8:18 ","!mr8:18 "]
+  replace: "'Though having eyes, do you not see; and though having ears, do you not hear?' Do you not remember"
+
+- triggers: ["!mark8:19 ","!mr8:19 "]
+  replace: "when I broke the five loaves for the 5,000 men, how many baskets full of fragments you collected?' They said to him: 'Twelve.'"
+
+- triggers: ["!mark8:20 ","!mr8:20 "]
+  replace: "'When I broke the seven loaves for the 4,000 men, how many large baskets full of fragments did you take up?' And they said to him: 'Seven.'"
+
+- triggers: ["!mark8:21 ","!mr8:21 "]
+  replace: "With that he said to them: 'Do you not yet understand?'"
+
+- triggers: ["!mark8:22 ","!mr8:22 "]
+  replace: "Now they put in at Bethsaʹida. Here people brought him a blind man, and they pleaded with him to touch him."
+
+- triggers: ["!mark8:23 ","!mr8:23 "]
+  replace: "And he took the blind man by the hand and brought him outside the village. After spitting on his eyes, he laid his hands on him and asked him: 'Do you see anything?'"
+
+- triggers: ["!mark8:24 ","!mr8:24 "]
+  replace: "The man looked up and said: 'I see people, but they look like trees walking about.'"
+
+- triggers: ["!mark8:25 ","!mr8:25 "]
+  replace: "Again he laid his hands on the man's eyes, and the man saw clearly. His sight was restored, and he could see everything distinctly."
+
+- triggers: ["!mark8:26 ","!mr8:26 "]
+  replace: "So he sent him home, saying: 'Do not enter into the village.'"
+
+- triggers: ["!mark8:27 ","!mr8:27 "]
+  replace: "Jesus and his disciples now left for the villages of Caesareʹa Philipʹpi, and on the way he began to question his disciples, saying: 'Who are people saying that I am?'"
+
+- triggers: ["!mark8:28 ","!mr8:28 "]
+  replace: "They said to him: 'John the Baptist, but others say Eliʹjah, and still others, one of the prophets.'"
+
+- triggers: ["!mark8:29 ","!mr8:29 "]
+  replace: "And he put the question to them: 'You, though, who do you say I am?' Peter answered him: 'You are the Christ.'"
+
+- triggers: ["!mark8:30 ","!mr8:30 "]
+  replace: "At that he strictly ordered them not to tell anyone about him."
+
+- triggers: ["!mark8:31 ","!mr8:31 "]
+  replace: "Also, he began teaching them that the Son of man must undergo many sufferings and be rejected by the elders and the chief priests and the scribes and be killed, and rise three days later."
+
+- triggers: ["!mark8:32 ","!mr8:32 "]
+  replace: "Indeed, he was making that statement openly. But Peter took him aside and began to rebuke him."
+
+- triggers: ["!mark8:33 ","!mr8:33 "]
+  replace: "At this he turned, looked at his disciples, and rebuked Peter, saying: 'Get behind me, Satan! because you think, not God's thoughts, but those of men.'"
+
+- triggers: ["!mark8:34 ","!mr8:34 "]
+  replace: "He now called the crowd to him with his disciples and said to them: 'If anyone wants to come after me, let him disown himself and pick up his torture stake and keep following me."
+
+- triggers: ["!mark8:35 ","!mr8:35 "]
+  replace: "For whoever wants to save his life will lose it, but whoever loses his life for my sake and for the sake of the good news will save it."
+
+- triggers: ["!mark8:36 ","!mr8:36 "]
+  replace: "Really, what good will it do a man to gain the whole world and to lose his life?"
+
+- triggers: ["!mark8:37 ","!mr8:37 "]
+  replace: "What, really, would a man give in exchange for his life?"
+
+- triggers: ["!mark8:38 ","!mr8:38 "]
+  replace: "For whoever becomes ashamed of me and my words in this adulterous and sinful generation, the Son of man will also be ashamed of him when he comes in the glory of his Father with the holy angels.'"
+
+- triggers: ["!mark9:1 ","!mr9:1 "]
+  replace: "Furthermore, he said to them: 'Truly I say to you that there are some of those standing here who will not taste death at all until first they see the Kingdom of God already having come in power.'"
+
+- triggers: ["!mark9:2 ","!mr9:2 "]
+  replace: "Six days later Jesus took Peter and James and John along and led them up into a lofty mountain by themselves. And he was transfigured before them;"
+
+- triggers: ["!mark9:3 ","!mr9:3 "]
+  replace: "his outer garments began to glisten, becoming far whiter than any clothes cleaner on earth could whiten them."
+
+- triggers: ["!mark9:4 ","!mr9:4 "]
+  replace: "Also, Eliʹjah with Moses appeared to them, and they were conversing with Jesus."
+
+- triggers: ["!mark9:5 ","!mr9:5 "]
+  replace: "Then Peter said to Jesus: 'Rabbi, it is fine for us to be here. So let us erect three tents, one for you, one for Moses, and one for Eliʹjah.'"
+
+- triggers: ["!mark9:6 ","!mr9:6 "]
+  replace: "In fact, he did not know how to react, for they were quite fearful."
+
+- triggers: ["!mark9:7 ","!mr9:7 "]
+  replace: "And a cloud formed, overshadowing them, and a voice came out of the cloud: 'This is my Son, the beloved. Listen to him.'"
+
+- triggers: ["!mark9:8 ","!mr9:8 "]
+  replace: "Then suddenly they looked around and saw that no one was with them any longer except Jesus."
+
+- triggers: ["!mark9:9 ","!mr9:9 "]
+  replace: "As they were coming down from the mountain, he strictly ordered them not to relate to anybody what they had seen until after the Son of man had risen from the dead."
+
+- triggers: ["!mark9:10 ","!mr9:10 "]
+  replace: "They took the word to heart, but discussed among themselves what this rising from the dead meant."
+
+- triggers: ["!mark9:11 ","!mr9:11 "]
+  replace: "And they began to question him, saying: 'Why do the scribes say that Eliʹjah must come first?'"
+
+- triggers: ["!mark9:12 ","!mr9:12 "]
+  replace: "He said to them: 'Eliʹjah does come first and restore all things; but how is it that it is written about the Son of man that he must undergo many sufferings and be treated with contempt?"
+
+- triggers: ["!mark9:13 ","!mr9:13 "]
+  replace: "But I say to you that Eliʹjah, in fact, has come, and they did to him whatever they wanted, just as it is written about him.'"
+
+- triggers: ["!mark9:14 ","!mr9:14 "]
+  replace: "When they came to the other disciples, they noticed a large crowd around them, and there were scribes arguing with them."
+
+- triggers: ["!mark9:15 ","!mr9:15 "]
+  replace: "But as soon as all the crowd caught sight of him, they were astonished, and they ran up to him to greet him."
+
+- triggers: ["!mark9:16 ","!mr9:16 "]
+  replace: "So he asked them: 'What are you arguing about with them?'"
+
+- triggers: ["!mark9:17 ","!mr9:17 "]
+  replace: "And one of the crowd answered him: 'Teacher, I brought my son to you because he has a speechless spirit."
+
+- triggers: ["!mark9:18 ","!mr9:18 "]
+  replace: "Wherever it seizes him, it throws him to the ground, and he foams at the mouth and grinds his teeth and loses his strength. I asked your disciples to expel it, but they were not able to do so.'"
+
+- triggers: ["!mark9:19 ","!mr9:19 "]
+  replace: "In response he said to them: 'O faithless generation, how long must I continue with you? How long must I put up with you? Bring him to me.'"
+
+- triggers: ["!mark9:20 ","!mr9:20 "]
+  replace: "So they brought the boy to him, but at the sight of him, the spirit at once threw the child into convulsions. After falling on the ground, he kept rolling about, foaming at the mouth."
+
+- triggers: ["!mark9:21 ","!mr9:21 "]
+  replace: "Then Jesus asked the father: 'How long has this been happening to him?' He said: 'From childhood on,"
+
+- triggers: ["!mark9:22 ","!mr9:22 "]
+  replace: "and often it would throw him into the fire and also into the water to destroy him. But if you can do anything, have pity on us and help us.'"
+
+- triggers: ["!mark9:23 ","!mr9:23 "]
+  replace: "Jesus said to him: 'That expression, 'If you can'! Why, all things are possible for the one who has faith.'"
+
+- triggers: ["!mark9:24 ","!mr9:24 "]
+  replace: "Immediately the child's father cried out and said: 'I have faith! Help me out where I need faith!'"
+
+- triggers: ["!mark9:25 ","!mr9:25 "]
+  replace: "Jesus, now noticing that a crowd was rushing toward them, rebuked the unclean spirit, saying to it: 'You speechless and deaf spirit, I order you, get out of him and do not enter into him again!'"
+
+- triggers: ["!mark9:26 ","!mr9:26 "]
+  replace: "After crying out and going through many convulsions, it came out, and the child seemed to be dead, so that most of the people were saying: 'He is dead!'"
+
+- triggers: ["!mark9:27 ","!mr9:27 "]
+  replace: "But Jesus took him by the hand and raised him up, and he stood up."
+
+- triggers: ["!mark9:28 ","!mr9:28 "]
+  replace: "So after he entered into a house, his disciples asked him privately: 'Why could we not expel it?'"
+
+- triggers: ["!mark9:29 ","!mr9:29 "]
+  replace: "He said to them: 'This kind can come out only by prayer.'"
+
+- triggers: ["!mark9:30 ","!mr9:30 "]
+  replace: "They departed from there and went through Galʹilee, but he did not want anyone to get to know about it."
+
+- triggers: ["!mark9:31 ","!mr9:31 "]
+  replace: "For he was teaching his disciples and telling them: 'The Son of man is going to be betrayed into men's hands, and they will kill him, but despite being killed, he will rise three days later.'"
+
+- triggers: ["!mark9:32 ","!mr9:32 "]
+  replace: "However, they did not understand his statement, and they were afraid to question him."
+
+- triggers: ["!mark9:33 ","!mr9:33 "]
+  replace: "And they came into Caperʹnaum. Now when he was inside the house, he put the question to them: 'What were you arguing about on the road?'"
+
+- triggers: ["!mark9:34 ","!mr9:34 "]
+  replace: "They kept silent, for on the road they had been arguing among themselves about who is greater."
+
+- triggers: ["!mark9:35 ","!mr9:35 "]
+  replace: "So he sat down and called the Twelve and said to them: 'If anyone wants to be first, he must be last of all and minister of all.'"
+
+- triggers: ["!mark9:36 ","!mr9:36 "]
+  replace: "Then he took a young child and stood him in their midst; and putting his arms around him, he said to them:"
+
+- triggers: ["!mark9:37 ","!mr9:37 "]
+  replace: "'Whoever receives one of such young children on the basis of my name receives me also; and whoever receives me receives not me only but also Him who sent me.'"
+
+- triggers: ["!mark9:38 ","!mr9:38 "]
+  replace: "John said to him: 'Teacher, we saw someone expelling demons by using your name, and we tried to prevent him, because he was not following us.'"
+
+- triggers: ["!mark9:39 ","!mr9:39 "]
+  replace: "But Jesus said: 'Do not try to prevent him, for there is no one who will do a powerful work on the basis of my name who will quickly be able to say anything bad about me."
+
+- triggers: ["!mark9:40 ","!mr9:40 "]
+  replace: "For whoever is not against us is for us."
+
+- triggers: ["!mark9:41 ","!mr9:41 "]
+  replace: "And whoever gives you a cup of water to drink because you belong to Christ, I tell you truly, he will by no means lose his reward."
+
+- triggers: ["!mark9:42 ","!mr9:42 "]
+  replace: "But whoever stumbles one of these little ones who have faith, it would be better for him if a millstone that is turned by a donkey were put around his neck and he were pitched into the sea."
+
+- triggers: ["!mark9:43 ","!mr9:43 "]
+  replace: "'If ever your hand makes you stumble, cut it off. It is better for you to enter into life maimed than to go off with two hands into Gehenʹna, into the fire that cannot be put out."
+
+- triggers: ["!mark9:44 ","!mr9:44 "]
+  replace: "--"
+
+- triggers: ["!mark9:45 ","!mr9:45 "]
+  replace: "And if your foot makes you stumble, cut it off. It is better for you to enter into life lame than to be thrown with two feet into Gehenʹna."
+
+- triggers: ["!mark9:46 ","!mr9:46 "]
+  replace: "--"
+
+- triggers: ["!mark9:47 ","!mr9:47 "]
+  replace: "And if your eye makes you stumble, throw it away. It is better for you to enter one-eyed into the Kingdom of God than to be thrown with two eyes into Gehenʹna,"
+
+- triggers: ["!mark9:48 ","!mr9:48 "]
+  replace: "where the maggot does not die and the fire is not put out."
+
+- triggers: ["!mark9:49 ","!mr9:49 "]
+  replace: "'For everyone must be salted with fire."
+
+- triggers: ["!mark9:50 ","!mr9:50 "]
+  replace: "Salt is fine, but if the salt ever loses its saltiness, with what will you season it? Have salt in yourselves, and keep peace with one another.'"
+
+- triggers: ["!mark10:1 ","!mr10:1 "]
+  replace: "From there he got up and came to the borders of Judeʹa across the Jordan, and again crowds gathered to him. As he was accustomed to do, he again began teaching them."
+
+- triggers: ["!mark10:2 ","!mr10:2 "]
+  replace: "And Pharisees approached, intent on testing him, and they asked whether it was lawful for a man to divorce a wife."
+
+- triggers: ["!mark10:3 ","!mr10:3 "]
+  replace: "He answered them: 'What did Moses command you?'"
+
+- triggers: ["!mark10:4 ","!mr10:4 "]
+  replace: "They said: 'Moses allowed the writing of a certificate of dismissal and divorcing her.'"
+
+- triggers: ["!mark10:5 ","!mr10:5 "]
+  replace: "But Jesus said to them: 'Out of regard for your hard-heartedness, he wrote this commandment for you."
+
+- triggers: ["!mark10:6 ","!mr10:6 "]
+  replace: "However, from the beginning of creation, 'He made them male and female."
+
+- triggers: ["!mark10:7 ","!mr10:7 "]
+  replace: "For this reason a man will leave his father and his mother,"
+
+- triggers: ["!mark10:8 ","!mr10:8 "]
+  replace: "and the two will be one flesh,' so that they are no longer two, but one flesh."
+
+- triggers: ["!mark10:9 ","!mr10:9 "]
+  replace: "Therefore, what God has yoked together, let no man put apart.'"
+
+- triggers: ["!mark10:10 ","!mr10:10 "]
+  replace: "When they were again in the house, the disciples began to question him about this."
+
+- triggers: ["!mark10:11 ","!mr10:11 "]
+  replace: "He said to them: 'Whoever divorces his wife and marries another commits adultery against her,"
+
+- triggers: ["!mark10:12 ","!mr10:12 "]
+  replace: "and if ever a woman after divorcing her husband marries another, she commits adultery.'"
+
+- triggers: ["!mark10:13 ","!mr10:13 "]
+  replace: "People now began bringing him young children for him to touch them, but the disciples reprimanded them."
+
+- triggers: ["!mark10:14 ","!mr10:14 "]
+  replace: "At seeing this, Jesus was indignant and said to them: 'Let the young children come to me; do not try to stop them, for the Kingdom of God belongs to such ones."
+
+- triggers: ["!mark10:15 ","!mr10:15 "]
+  replace: "Truly I say to you, whoever does not receive the Kingdom of God like a young child will by no means enter into it.'"
+
+- triggers: ["!mark10:16 ","!mr10:16 "]
+  replace: "And he took the children into his arms and began blessing them, laying his hands on them."
+
+- triggers: ["!mark10:17 ","!mr10:17 "]
+  replace: "As he was going on his way, a man ran up and fell on his knees before him and put the question to him: 'Good Teacher, what must I do to inherit everlasting life?'"
+
+- triggers: ["!mark10:18 ","!mr10:18 "]
+  replace: "Jesus said to him: 'Why do you call me good? Nobody is good except one, God."
+
+- triggers: ["!mark10:19 ","!mr10:19 "]
+  replace: "You know the commandments: 'Do not murder, do not commit adultery, do not steal, do not bear false witness, do not defraud, honor your father and your mother.''"
+
+- triggers: ["!mark10:20 ","!mr10:20 "]
+  replace: "The man said to him: 'Teacher, all these things I have kept from my youth on.'"
+
+- triggers: ["!mark10:21 ","!mr10:21 "]
+  replace: "Jesus looked at him and felt love for him and said, 'One thing is missing about you: Go, sell what things you have and give to the poor, and you will have treasure in heaven; and come be my follower.'"
+
+- triggers: ["!mark10:22 ","!mr10:22 "]
+  replace: "But he grew sad at the answer and went away grieved, for he had many possessions."
+
+- triggers: ["!mark10:23 ","!mr10:23 "]
+  replace: "After looking around, Jesus said to his disciples: 'How difficult it will be for those with money to enter into the Kingdom of God!'"
+
+- triggers: ["!mark10:24 ","!mr10:24 "]
+  replace: "But the disciples were surprised at his words. Jesus then responded: 'Children, how difficult it is to enter into the Kingdom of God!"
+
+- triggers: ["!mark10:25 ","!mr10:25 "]
+  replace: "It is easier for a camel to go through a needle's eye than for a rich man to enter into the Kingdom of God.'"
+
+- triggers: ["!mark10:26 ","!mr10:26 "]
+  replace: "They became still more astounded and said to him: 'Who possibly can be saved?'"
+
+- triggers: ["!mark10:27 ","!mr10:27 "]
+  replace: "Looking straight at them, Jesus said: 'With men it is impossible but not so with God, for all things are possible with God.'"
+
+- triggers: ["!mark10:28 ","!mr10:28 "]
+  replace: "Peter began to say to him: 'Look! We have left all things and followed you.'"
+
+- triggers: ["!mark10:29 ","!mr10:29 "]
+  replace: "Jesus said: 'Truly I say to you, no one has left house or brothers or sisters or mother or father or children or fields for my sake and for the sake of the good news"
+
+- triggers: ["!mark10:30 ","!mr10:30 "]
+  replace: "who will not get 100 times more now in this period of time-houses, brothers, sisters, mothers, children, and fields, with persecutions-and in the coming system of things, everlasting life."
+
+- triggers: ["!mark10:31 ","!mr10:31 "]
+  replace: "But many who are first will be last, and the last first.'"
+
+- triggers: ["!mark10:32 ","!mr10:32 "]
+  replace: "Now they were going on the road up to Jerusalem, and Jesus was going ahead of them, and they were astonished, but those who followed began to fear. Once again he took the Twelve aside and started to tell them these things that were about to happen to him:"
+
+- triggers: ["!mark10:33 ","!mr10:33 "]
+  replace: "'Look! We are going up to Jerusalem, and the Son of man will be handed over to the chief priests and the scribes. They will condemn him to death and hand him over to men of the nations,"
+
+- triggers: ["!mark10:34 ","!mr10:34 "]
+  replace: "and these will mock him and spit on him and scourge him and kill him, but three days later he will rise.'"
+
+- triggers: ["!mark10:35 ","!mr10:35 "]
+  replace: "James and John, the sons of Zebʹedee, approached him and said to him: 'Teacher, we want you to do for us whatever we ask of you.'"
+
+- triggers: ["!mark10:36 ","!mr10:36 "]
+  replace: "He said to them: 'What do you want me to do for you?'"
+
+- triggers: ["!mark10:37 ","!mr10:37 "]
+  replace: "They replied: 'Grant us to sit down, one at your right hand and one at your left, in your glory.'"
+
+- triggers: ["!mark10:38 ","!mr10:38 "]
+  replace: "But Jesus said to them: 'You do not know what you are asking for. Can you drink the cup that I am drinking or be baptized with the baptism with which I am being baptized?'"
+
+- triggers: ["!mark10:39 ","!mr10:39 "]
+  replace: "They said to him: 'We can.' At that Jesus said to them: 'The cup I am drinking, you will drink, and with the baptism with which I am being baptized, you will be baptized."
+
+- triggers: ["!mark10:40 ","!mr10:40 "]
+  replace: "However, to sit down at my right hand or at my left is not mine to give, but it belongs to those for whom it has been prepared.'"
+
+- triggers: ["!mark10:41 ","!mr10:41 "]
+  replace: "When the ten others heard about it, they became indignant at James and John."
+
+- triggers: ["!mark10:42 ","!mr10:42 "]
+  replace: "But Jesus called them to him and said to them: 'You know that those who appear to be ruling the nations lord it over them and their great ones wield authority over them."
+
+- triggers: ["!mark10:43 ","!mr10:43 "]
+  replace: "This must not be the way among you; but whoever wants to become great among you must be your minister,"
+
+- triggers: ["!mark10:44 ","!mr10:44 "]
+  replace: "and whoever wants to be first among you must be the slave of all."
+
+- triggers: ["!mark10:45 ","!mr10:45 "]
+  replace: "For even the Son of man came, not to be ministered to, but to minister and to give his life as a ransom in exchange for many.'"
+
+- triggers: ["!mark10:46 ","!mr10:46 "]
+  replace: "They then came into Jerʹicho. But as he and his disciples and a considerable crowd were going out of Jerʹicho, Bartimaeʹus (the son of Timaeʹus), a blind beggar, was sitting beside the road."
+
+- triggers: ["!mark10:47 ","!mr10:47 "]
+  replace: "When he heard that it was Jesus the Nazareneʹ, he started shouting and saying: 'Son of David, Jesus, have mercy on me!'"
+
+- triggers: ["!mark10:48 ","!mr10:48 "]
+  replace: "At this many began rebuking him, telling him to be silent, but all the more he kept shouting: 'Son of David, have mercy on me!'"
+
+- triggers: ["!mark10:49 ","!mr10:49 "]
+  replace: "So Jesus stopped and said: 'Call him to me.' So they called the blind man, saying to him: 'Take courage! Get up; he is calling you.'"
+
+- triggers: ["!mark10:50 ","!mr10:50 "]
+  replace: "Throwing off his outer garment, he leaped to his feet and went to Jesus."
+
+- triggers: ["!mark10:51 ","!mr10:51 "]
+  replace: "Then Jesus said to him: 'What do you want me to do for you?' The blind man said to him: 'Rabboʹni, let me recover my sight.'"
+
+- triggers: ["!mark10:52 ","!mr10:52 "]
+  replace: "And Jesus said to him: 'Go. Your faith has made you well.' And immediately he recovered his sight, and he began to follow him on the road."
+
+- triggers: ["!mark11:1 ","!mr11:1 "]
+  replace: "Now when they were getting near to Jerusalem, to Bethʹphage and Bethʹany at the Mount of Olives, he sent two of his disciples"
+
+- triggers: ["!mark11:2 ","!mr11:2 "]
+  replace: "and told them: 'Go into the village that is within sight, and as soon as you enter it, you will find a colt tied on which no man has sat until now. Untie it and bring it here."
+
+- triggers: ["!mark11:3 ","!mr11:3 "]
+  replace: "And if anyone says to you, 'Why are you doing this?' say, 'The Lord needs it and will send it back here right away.''"
+
+- triggers: ["!mark11:4 ","!mr11:4 "]
+  replace: "So they went away and found the colt tied at a door, outside on the side street, and they untied it."
+
+- triggers: ["!mark11:5 ","!mr11:5 "]
+  replace: "But some of those standing there said to them: 'What are you doing untying the colt?'"
+
+- triggers: ["!mark11:6 ","!mr11:6 "]
+  replace: "They told them just what Jesus had said, and they let them go."
+
+- triggers: ["!mark11:7 ","!mr11:7 "]
+  replace: "And they brought the colt to Jesus, and they put their outer garments on it, and he sat on it."
+
+- triggers: ["!mark11:8 ","!mr11:8 "]
+  replace: "Also, many spread their outer garments on the road, but others cut down foliage from the fields."
+
+- triggers: ["!mark11:9 ","!mr11:9 "]
+  replace: "And those going in front and those coming behind kept shouting: 'Save, we pray! Blessed is the one who comes in Jehovah's name!"
+
+- triggers: ["!mark11:10 ","!mr11:10 "]
+  replace: "Blessed is the coming Kingdom of our father David! Save, we pray, in the heights above!'"
+
+- triggers: ["!mark11:11 ","!mr11:11 "]
+  replace: "And he entered Jerusalem and went into the temple, and he looked around at everything, but since the hour was already late, he went out to Bethʹany with the Twelve."
+
+- triggers: ["!mark11:12 ","!mr11:12 "]
+  replace: "The next day when they were leaving Bethʹany, he felt hungry."
+
+- triggers: ["!mark11:13 ","!mr11:13 "]
+  replace: "From a distance he caught sight of a fig tree that had leaves, and he went to see whether he could find something on it. But on coming to it, he found nothing but leaves, for it was not the season for figs."
+
+- triggers: ["!mark11:14 ","!mr11:14 "]
+  replace: "So he said to it: 'Let no one eat fruit from you ever again.' And his disciples were listening."
+
+- triggers: ["!mark11:15 ","!mr11:15 "]
+  replace: "They now came to Jerusalem. There he entered the temple and started to throw out those selling and buying in the temple, and he overturned the tables of the money changers and the benches of those selling doves,"
+
+- triggers: ["!mark11:16 ","!mr11:16 "]
+  replace: "and he would not let anyone carry a utensil through the temple."
+
+- triggers: ["!mark11:17 ","!mr11:17 "]
+  replace: "He was teaching and saying to them: 'Is it not written, 'My house will be called a house of prayer for all the nations'? But you have made it a cave of robbers.'"
+
+- triggers: ["!mark11:18 ","!mr11:18 "]
+  replace: "And the chief priests and the scribes heard it, and they began to seek how to kill him; for they were in fear of him, because all the crowd was astounded at his teaching."
+
+- triggers: ["!mark11:19 ","!mr11:19 "]
+  replace: "When it became late in the day, they went out of the city."
+
+- triggers: ["!mark11:20 ","!mr11:20 "]
+  replace: "But when they were passing by early in the morning, they saw the fig tree already withered from its roots."
+
+- triggers: ["!mark11:21 ","!mr11:21 "]
+  replace: "Peter, remembering it, said to him: 'Rabbi, see! the fig tree that you cursed has withered.'"
+
+- triggers: ["!mark11:22 ","!mr11:22 "]
+  replace: "In reply Jesus said to them: 'Have faith in God."
+
+- triggers: ["!mark11:23 ","!mr11:23 "]
+  replace: "Truly I say to you that whoever tells this mountain, 'Be lifted up and thrown into the sea,' and does not doubt in his heart but has faith that what he says is going to happen, he will have it happen."
+
+- triggers: ["!mark11:24 ","!mr11:24 "]
+  replace: "This is why I tell you, all the things you pray and ask for, have faith that you have received them, and you will have them."
+
+- triggers: ["!mark11:25 ","!mr11:25 "]
+  replace: "And when you stand praying, forgive whatever you have against anyone, so that your Father who is in the heavens may also forgive you your trespasses.'"
+
+- triggers: ["!mark11:26 ","!mr11:26 "]
+  replace: "--"
+
+- triggers: ["!mark11:27 ","!mr11:27 "]
+  replace: "They came again to Jerusalem. And as he was walking in the temple, the chief priests and the scribes and the elders came"
+
+- triggers: ["!mark11:28 ","!mr11:28 "]
+  replace: "and said to him: 'By what authority do you do these things? Or who gave you this authority to do these things?'"
+
+- triggers: ["!mark11:29 ","!mr11:29 "]
+  replace: "Jesus said to them: 'I will ask you one question. Answer me, and I will tell you by what authority I do these things."
+
+- triggers: ["!mark11:30 ","!mr11:30 "]
+  replace: "Was the baptism by John from heaven or from men? Answer me.'"
+
+- triggers: ["!mark11:31 ","!mr11:31 "]
+  replace: "So they began to reason among themselves, saying: 'If we say, 'From heaven,' he will say, 'Why, then, did you not believe him?'"
+
+- triggers: ["!mark11:32 ","!mr11:32 "]
+  replace: "But dare we say, 'From men'?' They were in fear of the crowd, for these all held that John had really been a prophet."
+
+- triggers: ["!mark11:33 ","!mr11:33 "]
+  replace: "So they answered Jesus: 'We do not know.' Jesus said to them: 'Neither am I telling you by what authority I do these things.'"
+
+- triggers: ["!mark12:1 ","!mr12:1 "]
+  replace: "Then he started to speak to them with illustrations: 'A man planted a vineyard and put a fence around it and dug a vat for the winepress and erected a tower; then he leased it to cultivators and traveled abroad."
+
+- triggers: ["!mark12:2 ","!mr12:2 "]
+  replace: "In due season he sent a slave to the cultivators to collect some of the fruits of the vineyard from them."
+
+- triggers: ["!mark12:3 ","!mr12:3 "]
+  replace: "But they took him, beat him, and sent him away empty-handed."
+
+- triggers: ["!mark12:4 ","!mr12:4 "]
+  replace: "Again he sent another slave to them, and that one they struck on the head and dishonored."
+
+- triggers: ["!mark12:5 ","!mr12:5 "]
+  replace: "And he sent another, and that one they killed, and many others, some of whom they beat and some of whom they killed."
+
+- triggers: ["!mark12:6 ","!mr12:6 "]
+  replace: "One more he had, a beloved son. He sent him to them last, saying, 'They will respect my son.'"
+
+- triggers: ["!mark12:7 ","!mr12:7 "]
+  replace: "But those cultivators said among themselves, 'This is the heir. Come, let us kill him, and the inheritance will be ours.'"
+
+- triggers: ["!mark12:8 ","!mr12:8 "]
+  replace: "So they took him and killed him and threw him out of the vineyard."
+
+- triggers: ["!mark12:9 ","!mr12:9 "]
+  replace: "What will the owner of the vineyard do? He will come and kill the cultivators and will give the vineyard to others."
+
+- triggers: ["!mark12:10 ","!mr12:10 "]
+  replace: "Did you never read this scripture: 'The stone that the builders rejected, this has become the chief cornerstone."
+
+- triggers: ["!mark12:11 ","!mr12:11 "]
+  replace: "This has come from Jehovah, and it is marvelous in our eyes'?'"
+
+- triggers: ["!mark12:12 ","!mr12:12 "]
+  replace: "At that they wanted to seize him, but they feared the crowd, for they knew that he spoke the illustration with them in mind. So they left him and went away."
+
+- triggers: ["!mark12:13 ","!mr12:13 "]
+  replace: "Next they sent to him some of the Pharisees and of the party followers of Herod in order to catch him in his speech."
+
+- triggers: ["!mark12:14 ","!mr12:14 "]
+  replace: "On arriving, these said to him: 'Teacher, we know you are truthful and you do not seek anyone's favor, for you do not look at the outward appearance of people, but you teach the way of God in line with truth. Is it lawful to pay head tax to Caesar or not?"
+
+- triggers: ["!mark12:15 ","!mr12:15 "]
+  replace: "Should we pay, or should we not pay?' Detecting their hypocrisy, he said to them: 'Why do you put me to the test? Bring me a denarʹius to look at.'"
+
+- triggers: ["!mark12:16 ","!mr12:16 "]
+  replace: "They brought one, and he said to them: 'Whose image and inscription is this?' They said to him: 'Caesar's.'"
+
+- triggers: ["!mark12:17 ","!mr12:17 "]
+  replace: "Jesus then said: 'Pay back Caesar's things to Caesar, but God's things to God.' And they were amazed at him."
+
+- triggers: ["!mark12:18 ","!mr12:18 "]
+  replace: "Now the Sadducees, who say there is no resurrection, came and asked him:"
+
+- triggers: ["!mark12:19 ","!mr12:19 "]
+  replace: "'Teacher, Moses wrote us that if someone's brother dies and leaves a wife behind but does not leave a child, his brother should take the wife and raise up offspring for his brother."
+
+- triggers: ["!mark12:20 ","!mr12:20 "]
+  replace: "There were seven brothers. The first took a wife, but when he died he left no offspring."
+
+- triggers: ["!mark12:21 ","!mr12:21 "]
+  replace: "And the second married her but died without leaving offspring, and the third the same way."
+
+- triggers: ["!mark12:22 ","!mr12:22 "]
+  replace: "And all seven left no offspring. Last of all, the woman also died."
+
+- triggers: ["!mark12:23 ","!mr12:23 "]
+  replace: "In the resurrection, whose wife will she be? For the seven had her as a wife.'"
+
+- triggers: ["!mark12:24 ","!mr12:24 "]
+  replace: "Jesus said to them: 'Is not this why you are mistaken, because you know neither the Scriptures nor the power of God?"
+
+- triggers: ["!mark12:25 ","!mr12:25 "]
+  replace: "For when they rise from the dead, neither do men marry nor are women given in marriage, but they are as angels in the heavens."
+
+- triggers: ["!mark12:26 ","!mr12:26 "]
+  replace: "But concerning the dead being raised up, have you not read in the book of Moses, in the account about the thornbush, that God said to him: 'I am the God of Abraham and God of Isaac and God of Jacob'?"
+
+- triggers: ["!mark12:27 ","!mr12:27 "]
+  replace: "He is a God, not of the dead, but of the living. You are very much mistaken.'"
+
+- triggers: ["!mark12:28 ","!mr12:28 "]
+  replace: "One of the scribes who had come up and heard them disputing, knowing that he had answered them in a fine way, asked him: 'Which commandment is first of all?'"
+
+- triggers: ["!mark12:29 ","!mr12:29 "]
+  replace: "Jesus answered: 'The first is, 'Hear, O Israel, Jehovah our God is one Jehovah,"
+
+- triggers: ["!mark12:30 ","!mr12:30 "]
+  replace: "and you must love Jehovah your God with your whole heart and with your whole soul and with your whole mind and with your whole strength.'"
+
+- triggers: ["!mark12:31 ","!mr12:31 "]
+  replace: "The second is this, 'You must love your neighbor as yourself.' There is no other commandment greater than these.'"
+
+- triggers: ["!mark12:32 ","!mr12:32 "]
+  replace: "The scribe said to him: 'Teacher, you spoke well, in line with truth, 'He is One, and there is no other besides him';"
+
+- triggers: ["!mark12:33 ","!mr12:33 "]
+  replace: "and to love him with one's whole heart, with one's whole understanding, and with one's whole strength and to love one's neighbor as oneself is worth far more than all the whole burnt offerings and sacrifices.'"
+
+- triggers: ["!mark12:34 ","!mr12:34 "]
+  replace: "At this Jesus, discerning that he had answered intelligently, said to him: 'You are not far from the Kingdom of God.' But no one had the courage to question him anymore."
+
+- triggers: ["!mark12:35 ","!mr12:35 "]
+  replace: "However, as Jesus continued teaching in the temple, he said: 'How is it that the scribes say that the Christ is David's son?"
+
+- triggers: ["!mark12:36 ","!mr12:36 "]
+  replace: "By the holy spirit, David himself said, 'Jehovah said to my Lord: 'Sit at my right hand until I put your enemies beneath your feet.''"
+
+- triggers: ["!mark12:37 ","!mr12:37 "]
+  replace: "David himself calls him Lord, so how can it be that he is his son?' And the large crowd was listening to him with pleasure."
+
+- triggers: ["!mark12:38 ","!mr12:38 "]
+  replace: "And in his teaching he went on to say: 'Beware of the scribes who want to walk around in robes and want greetings in the marketplaces"
+
+- triggers: ["!mark12:39 ","!mr12:39 "]
+  replace: "and front seats in the synagogues and the most prominent places at evening meals."
+
+- triggers: ["!mark12:40 ","!mr12:40 "]
+  replace: "They devour the houses of the widows, and for show they make long prayers. These will receive a more severe judgment.'"
+
+- triggers: ["!mark12:41 ","!mr12:41 "]
+  replace: "And he sat down with the treasury chests in view and began observing how the crowd was dropping money into the treasury chests, and many rich people were dropping in many coins."
+
+- triggers: ["!mark12:42 ","!mr12:42 "]
+  replace: "Now a poor widow came and dropped in two small coins of very little value."
+
+- triggers: ["!mark12:43 ","!mr12:43 "]
+  replace: "So he called his disciples to him and said to them: 'Truly I say to you that this poor widow put in more than all the others who put money into the treasury chests."
+
+- triggers: ["!mark12:44 ","!mr12:44 "]
+  replace: "For they all put in out of their surplus, but she, out of her want, put in everything she had, all she had to live on.'"
+
+- triggers: ["!mark13:1 ","!mr13:1 "]
+  replace: "As he was going out of the temple, one of his disciples said to him: 'Teacher, see! what wonderful stones and buildings!'"
+
+- triggers: ["!mark13:2 ","!mr13:2 "]
+  replace: "However, Jesus said to him: 'Do you see these great buildings? By no means will a stone be left here upon a stone and not be thrown down.'"
+
+- triggers: ["!mark13:3 ","!mr13:3 "]
+  replace: "As he was sitting on the Mount of Olives with the temple in view, Peter, James, John, and Andrew asked him privately:"
+
+- triggers: ["!mark13:4 ","!mr13:4 "]
+  replace: "'Tell us, when will these things be, and what will be the sign when all these things are to come to a conclusion?'"
+
+- triggers: ["!mark13:5 ","!mr13:5 "]
+  replace: "So Jesus began to tell them: 'Look out that nobody misleads you."
+
+- triggers: ["!mark13:6 ","!mr13:6 "]
+  replace: "Many will come on the basis of my name, saying, 'I am he,' and will mislead many."
+
+- triggers: ["!mark13:7 ","!mr13:7 "]
+  replace: "Moreover, when you hear of wars and reports of wars, do not be alarmed; these things must take place, but the end is not yet."
+
+- triggers: ["!mark13:8 ","!mr13:8 "]
+  replace: "'For nation will rise against nation and kingdom against kingdom; there will be earthquakes in one place after another; there will also be food shortages. These are a beginning of pangs of distress."
+
+- triggers: ["!mark13:9 ","!mr13:9 "]
+  replace: "'As for you, look out for yourselves. People will hand you over to local courts, and you will be beaten in synagogues and be put on the stand before governors and kings for my sake, for a witness to them."
+
+- triggers: ["!mark13:10 ","!mr13:10 "]
+  replace: "Also, in all the nations, the good news has to be preached first."
+
+- triggers: ["!mark13:11 ","!mr13:11 "]
+  replace: "And when they are taking you to hand you over, do not be anxious beforehand about what to say; but whatever is given you in that hour, say this, for you are not the ones speaking, but the holy spirit is."
+
+- triggers: ["!mark13:12 ","!mr13:12 "]
+  replace: "Furthermore, brother will deliver brother over to death, and a father a child, and children will rise up against parents and have them put to death."
+
+- triggers: ["!mark13:13 ","!mr13:13 "]
+  replace: "And you will be hated by all people on account of my name. But the one who has endured to the end will be saved."
+
+- triggers: ["!mark13:14 ","!mr13:14 "]
+  replace: "'However, when you catch sight of the disgusting thing that causes desolation standing where it should not be (let the reader use discernment), then let those in Judeʹa begin fleeing to the mountains."
+
+- triggers: ["!mark13:15 ","!mr13:15 "]
+  replace: "Let the man on the housetop not come down nor go inside to take anything out of his house;"
+
+- triggers: ["!mark13:16 ","!mr13:16 "]
+  replace: "and let the man in the field not return to the things behind to pick up his outer garment."
+
+- triggers: ["!mark13:17 ","!mr13:17 "]
+  replace: "Woe to the pregnant women and those nursing a baby in those days!"
+
+- triggers: ["!mark13:18 ","!mr13:18 "]
+  replace: "Keep praying that it may not occur in wintertime;"
+
+- triggers: ["!mark13:19 ","!mr13:19 "]
+  replace: "for those days will be days of a tribulation such as has not occurred from the beginning of the creation that God created until that time, and will not occur again."
+
+- triggers: ["!mark13:20 ","!mr13:20 "]
+  replace: "In fact, unless Jehovah had cut short the days, no flesh would be saved. But on account of the chosen ones whom he has chosen, he has cut short the days."
+
+- triggers: ["!mark13:21 ","!mr13:21 "]
+  replace: "'Then, too, if anyone says to you, 'See! Here is the Christ,' or, 'See! There he is,' do not believe it."
+
+- triggers: ["!mark13:22 ","!mr13:22 "]
+  replace: "For false Christs and false prophets will arise and will perform signs and wonders to lead astray, if possible, the chosen ones."
+
+- triggers: ["!mark13:23 ","!mr13:23 "]
+  replace: "You, then, watch out. I have told you all things beforehand."
+
+- triggers: ["!mark13:24 ","!mr13:24 "]
+  replace: "'But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light,"
+
+- triggers: ["!mark13:25 ","!mr13:25 "]
+  replace: "and the stars will be falling out of heaven, and the powers that are in the heavens will be shaken."
+
+- triggers: ["!mark13:26 ","!mr13:26 "]
+  replace: "And then they will see the Son of man coming in the clouds with great power and glory."
+
+- triggers: ["!mark13:27 ","!mr13:27 "]
+  replace: "And then he will send out the angels and will gather his chosen ones together from the four winds, from earth's extremity to heaven's extremity."
+
+- triggers: ["!mark13:28 ","!mr13:28 "]
+  replace: "'Now learn this illustration from the fig tree: Just as soon as its young branch grows tender and sprouts its leaves, you know that summer is near."
+
+- triggers: ["!mark13:29 ","!mr13:29 "]
+  replace: "Likewise also you, when you see these things happening, know that he is near at the doors."
+
+- triggers: ["!mark13:30 ","!mr13:30 "]
+  replace: "Truly I say to you that this generation will by no means pass away until all these things happen."
+
+- triggers: ["!mark13:31 ","!mr13:31 "]
+  replace: "Heaven and earth will pass away, but my words will by no means pass away."
+
+- triggers: ["!mark13:32 ","!mr13:32 "]
+  replace: "'Concerning that day or the hour nobody knows, neither the angels in heaven nor the Son, but the Father."
+
+- triggers: ["!mark13:33 ","!mr13:33 "]
+  replace: "Keep looking, keep awake, for you do not know when the appointed time is."
+
+- triggers: ["!mark13:34 ","!mr13:34 "]
+  replace: "It is like a man traveling abroad who left his house and gave the authority to his slaves, to each one his work, and commanded the doorkeeper to keep on the watch."
+
+- triggers: ["!mark13:35 ","!mr13:35 "]
+  replace: "Keep on the watch, therefore, for you do not know when the master of the house is coming, whether late in the day or at midnight or before dawn or early in the morning,"
+
+- triggers: ["!mark13:36 ","!mr13:36 "]
+  replace: "in order that when he comes suddenly, he does not find you sleeping."
+
+- triggers: ["!mark13:37 ","!mr13:37 "]
+  replace: "But what I say to you, I say to all: Keep on the watch.'"
+
+- triggers: ["!mark14:1 ","!mr14:1 "]
+  replace: "Now the Passover and the Festival of Unleavened Bread was two days later. And the chief priests and the scribes were looking for a way to seize him by cunning and kill him;"
+
+- triggers: ["!mark14:2 ","!mr14:2 "]
+  replace: "for they were saying: 'Not at the festival; perhaps there might be an uproar of the people.'"
+
+- triggers: ["!mark14:3 ","!mr14:3 "]
+  replace: "And while he was at Bethʹany dining in the house of Simon the leper, a woman came with an alabaster jar of perfumed oil, genuine nard, very expensive. She broke open the alabaster jar and began pouring it on his head."
+
+- triggers: ["!mark14:4 ","!mr14:4 "]
+  replace: "At this some said to one another indignantly: 'Why has this perfumed oil been wasted?"
+
+- triggers: ["!mark14:5 ","!mr14:5 "]
+  replace: "For this perfumed oil could have been sold for more than 300 denarʹii and the money given to the poor!' And they were greatly annoyed with her."
+
+- triggers: ["!mark14:6 ","!mr14:6 "]
+  replace: "But Jesus said: 'Let her alone. Why do you try to make trouble for her? She did a fine deed toward me."
+
+- triggers: ["!mark14:7 ","!mr14:7 "]
+  replace: "For you always have the poor with you, and you can do them good whenever you want to, but you will not always have me."
+
+- triggers: ["!mark14:8 ","!mr14:8 "]
+  replace: "She did what she could; she poured perfumed oil on my body beforehand, in view of the burial."
+
+- triggers: ["!mark14:9 ","!mr14:9 "]
+  replace: "Truly I say to you, wherever the good news is preached in all the world, what this woman did will also be told in memory of her.'"
+
+- triggers: ["!mark14:10 ","!mr14:10 "]
+  replace: "And Judas Iscarʹiot, one of the Twelve, went off to the chief priests in order to betray him to them."
+
+- triggers: ["!mark14:11 ","!mr14:11 "]
+  replace: "When they heard it, they were delighted and promised to give him silver money. So he began seeking an opportunity to betray him."
+
+- triggers: ["!mark14:12 ","!mr14:12 "]
+  replace: "Now on the first day of the Unleavened Bread, when they customarily offered up the Passover sacrifice, his disciples said to him: 'Where do you want us to go and prepare for you to eat the Passover?'"
+
+- triggers: ["!mark14:13 ","!mr14:13 "]
+  replace: "With that he sent two of his disciples and said to them: 'Go into the city, and a man carrying an earthenware water jar will meet you. Follow him,"
+
+- triggers: ["!mark14:14 ","!mr14:14 "]
+  replace: "and wherever he goes inside, say to the master of the house, 'The Teacher says: 'Where is the guest room where I may eat the Passover with my disciples?''"
+
+- triggers: ["!mark14:15 ","!mr14:15 "]
+  replace: "And he will show you a large upper room, furnished and ready. Prepare it for us there.'"
+
+- triggers: ["!mark14:16 ","!mr14:16 "]
+  replace: "So the disciples went out, and they entered the city and found it just as he said to them, and they prepared for the Passover."
+
+- triggers: ["!mark14:17 ","!mr14:17 "]
+  replace: "After evening had fallen, he came with the Twelve."
+
+- triggers: ["!mark14:18 ","!mr14:18 "]
+  replace: "And as they were reclining at the table and eating, Jesus said: 'Truly I say to you, one of you who is eating with me will betray me.'"
+
+- triggers: ["!mark14:19 ","!mr14:19 "]
+  replace: "They began to be grieved and to say to him one by one: 'It is not I, is it?'"
+
+- triggers: ["!mark14:20 ","!mr14:20 "]
+  replace: "He said to them: 'It is one of the Twelve, the one dipping with me into the bowl."
+
+- triggers: ["!mark14:21 ","!mr14:21 "]
+  replace: "For the Son of man is going away, just as it is written about him, but woe to that man through whom the Son of man is betrayed! It would have been better for that man if he had not been born.'"
+
+- triggers: ["!mark14:22 ","!mr14:22 "]
+  replace: "And as they continued eating, he took a loaf, said a blessing, broke it, and gave it to them, saying: 'Take it; this means my body.'"
+
+- triggers: ["!mark14:23 ","!mr14:23 "]
+  replace: "And taking a cup, he offered thanks and gave it to them, and they all drank out of it."
+
+- triggers: ["!mark14:24 ","!mr14:24 "]
+  replace: "And he said to them: 'This means my 'blood of the covenant,' which is to be poured out in behalf of many."
+
+- triggers: ["!mark14:25 ","!mr14:25 "]
+  replace: "Truly I say to you, I will by no means drink anymore of the product of the vine until that day when I drink it new in the Kingdom of God.'"
+
+- triggers: ["!mark14:26 ","!mr14:26 "]
+  replace: "Finally, after singing praises, they went out to the Mount of Olives."
+
+- triggers: ["!mark14:27 ","!mr14:27 "]
+  replace: "And Jesus said to them: 'You will all be stumbled, for it is written: 'I will strike the shepherd, and the sheep will be scattered about.'"
+
+- triggers: ["!mark14:28 ","!mr14:28 "]
+  replace: "But after I have been raised up, I will go ahead of you into Galʹilee.'"
+
+- triggers: ["!mark14:29 ","!mr14:29 "]
+  replace: "But Peter said to him: 'Even if all the others are stumbled, I will not be.'"
+
+- triggers: ["!mark14:30 ","!mr14:30 "]
+  replace: "At that Jesus said to him: 'Truly I say to you that today, yes, on this very night, before a rooster crows twice, you will disown me three times.'"
+
+- triggers: ["!mark14:31 ","!mr14:31 "]
+  replace: "But he kept insisting: 'If I have to die with you, I will by no means disown you.' Also, all the others began to say the same thing."
+
+- triggers: ["!mark14:32 ","!mr14:32 "]
+  replace: "So they came to a spot named Gethsemʹane, and he said to his disciples: 'Sit down here while I pray.'"
+
+- triggers: ["!mark14:33 ","!mr14:33 "]
+  replace: "And he took Peter and James and John along with him, and he began to feel deeply distressed and to be greatly troubled."
+
+- triggers: ["!mark14:34 ","!mr14:34 "]
+  replace: "He said to them: 'I am deeply grieved, even to death. Stay here and keep on the watch.'"
+
+- triggers: ["!mark14:35 ","!mr14:35 "]
+  replace: "And going a little way forward, he fell to the ground and began praying that, if it were possible, the hour might pass away from him."
+
+- triggers: ["!mark14:36 ","!mr14:36 "]
+  replace: "And he said: 'Abba, Father, all things are possible for you; remove this cup from me. Yet, not what I want, but what you want.'"
+
+- triggers: ["!mark14:37 ","!mr14:37 "]
+  replace: "He returned and found them sleeping, and he said to Peter: 'Simon, are you sleeping? Did you not have the strength to keep on the watch for one hour?"
+
+- triggers: ["!mark14:38 ","!mr14:38 "]
+  replace: "Keep on the watch and pray continually, so that you do not come into temptation. The spirit, of course, is eager, but the flesh is weak.'"
+
+- triggers: ["!mark14:39 ","!mr14:39 "]
+  replace: "And he went away again and prayed, saying the same thing."
+
+- triggers: ["!mark14:40 ","!mr14:40 "]
+  replace: "And he came again and found them sleeping, for their eyes were weighed down, so they did not know what to answer him."
+
+- triggers: ["!mark14:41 ","!mr14:41 "]
+  replace: "And he returned the third time and said to them: 'At such a time as this, you are sleeping and resting! It is enough! The hour has come! Look! The Son of man is being betrayed into the hands of sinners."
+
+- triggers: ["!mark14:42 ","!mr14:42 "]
+  replace: "Get up, let us go. Look! My betrayer has drawn near.'"
+
+- triggers: ["!mark14:43 ","!mr14:43 "]
+  replace: "And immediately, while he was still speaking, Judas, one of the Twelve, arrived and with him a crowd with swords and clubs, sent from the chief priests and the scribes and the elders."
+
+- triggers: ["!mark14:44 ","!mr14:44 "]
+  replace: "Now his betrayer had given them an agreed sign, saying: 'Whoever it is I kiss, he is the one; take him into custody, and lead him away under guard.'"
+
+- triggers: ["!mark14:45 ","!mr14:45 "]
+  replace: "And he came straight up and approached him and said, 'Rabbi!' and gave him a tender kiss."
+
+- triggers: ["!mark14:46 ","!mr14:46 "]
+  replace: "So they seized him and took him into custody."
+
+- triggers: ["!mark14:47 ","!mr14:47 "]
+  replace: "However, one of those standing by drew his sword and struck the slave of the high priest, taking off his ear."
+
+- triggers: ["!mark14:48 ","!mr14:48 "]
+  replace: "But in response Jesus said to them: 'Did you come out to arrest me with swords and clubs as against a robber?"
+
+- triggers: ["!mark14:49 ","!mr14:49 "]
+  replace: "Day after day I was with you in the temple teaching, and yet you did not take me into custody. Nevertheless, this is to fulfill the Scriptures.'"
+
+- triggers: ["!mark14:50 ","!mr14:50 "]
+  replace: "And they all abandoned him and fled."
+
+- triggers: ["!mark14:51 ","!mr14:51 "]
+  replace: "However, a certain young man wearing only a fine linen garment over his naked body began to follow him nearby, and they tried to seize him,"
+
+- triggers: ["!mark14:52 ","!mr14:52 "]
+  replace: "but he left his linen garment behind and got away naked."
+
+- triggers: ["!mark14:53 ","!mr14:53 "]
+  replace: "They now led Jesus away to the high priest, and all the chief priests and the elders and the scribes assembled."
+
+- triggers: ["!mark14:54 ","!mr14:54 "]
+  replace: "But Peter, from a good distance, followed him as far as into the courtyard of the high priest; and he was sitting together with the house attendants and warming himself before a bright fire."
+
+- triggers: ["!mark14:55 ","!mr14:55 "]
+  replace: "Now the chief priests and the entire Sanʹhedrin were looking for testimony against Jesus in order to put him to death, but they were not finding any."
+
+- triggers: ["!mark14:56 ","!mr14:56 "]
+  replace: "Many, indeed, were giving false witness against him, but their testimonies were not in agreement."
+
+- triggers: ["!mark14:57 ","!mr14:57 "]
+  replace: "Also, certain ones were standing up and bearing false witness against him, saying:"
+
+- triggers: ["!mark14:58 ","!mr14:58 "]
+  replace: "'We heard him say, 'I will throw down this temple that was made with hands, and in three days I will build another not made with hands.''"
+
+- triggers: ["!mark14:59 ","!mr14:59 "]
+  replace: "But even on these grounds, their testimony was not in agreement."
+
+- triggers: ["!mark14:60 ","!mr14:60 "]
+  replace: "Then the high priest stood up in their midst and questioned Jesus, saying: 'Do you say nothing in reply? What is it these men are testifying against you?'"
+
+- triggers: ["!mark14:61 ","!mr14:61 "]
+  replace: "But he kept silent and made no reply at all. Again the high priest began to question him and said to him: 'Are you the Christ the Son of the Blessed One?'"
+
+- triggers: ["!mark14:62 ","!mr14:62 "]
+  replace: "Then Jesus said: 'I am; and you will see the Son of man sitting at the right hand of power and coming with the clouds of heaven.'"
+
+- triggers: ["!mark14:63 ","!mr14:63 "]
+  replace: "At this the high priest ripped his garments and said: 'What further need do we have of witnesses?"
+
+- triggers: ["!mark14:64 ","!mr14:64 "]
+  replace: "You heard the blasphemy. What is your decision?' They all condemned him as deserving of death."
+
+- triggers: ["!mark14:65 ","!mr14:65 "]
+  replace: "And some started to spit on him and to cover his face and hit him with their fists and say to him: 'Prophesy!' And slapping him in the face, the court attendants took him."
+
+- triggers: ["!mark14:66 ","!mr14:66 "]
+  replace: "Now while Peter was below in the courtyard, one of the servant girls of the high priest came."
+
+- triggers: ["!mark14:67 ","!mr14:67 "]
+  replace: "On seeing Peter warming himself, she looked straight at him and said: 'You too were with the Nazareneʹ, this Jesus.'"
+
+- triggers: ["!mark14:68 ","!mr14:68 "]
+  replace: "But he denied it, saying: 'Neither do I know him nor do I understand what you are talking about,' and he went outside to the entryway."
+
+- triggers: ["!mark14:69 ","!mr14:69 "]
+  replace: "There the servant girl saw him and again began to say to those standing by: 'This is one of them.'"
+
+- triggers: ["!mark14:70 ","!mr14:70 "]
+  replace: "Again he was denying it. And after a little while, those standing by again began saying to Peter: 'Certainly you are one of them, for you are, in fact, a Galileʹan.'"
+
+- triggers: ["!mark14:71 ","!mr14:71 "]
+  replace: "But he started to curse and swear: 'I do not know this man of whom you speak!'"
+
+- triggers: ["!mark14:72 ","!mr14:72 "]
+  replace: "Immediately a rooster crowed a second time, and Peter recalled what Jesus had said to him: 'Before a rooster crows twice, you will disown me three times.' And he broke down and began to weep."
+
+- triggers: ["!mark15:1 ","!mr15:1 "]
+  replace: "Immediately at dawn, the chief priests with the elders and the scribes, indeed, the whole Sanʹhedrin, consulted together, and they bound Jesus and led him off and handed him over to Pilate."
+
+- triggers: ["!mark15:2 ","!mr15:2 "]
+  replace: "So Pilate put the question to him: 'Are you the King of the Jews?' In answer he said: 'You yourself say it.'"
+
+- triggers: ["!mark15:3 ","!mr15:3 "]
+  replace: "But the chief priests were accusing him of many things."
+
+- triggers: ["!mark15:4 ","!mr15:4 "]
+  replace: "Now Pilate began questioning him again, saying: 'Have you no reply to make? See how many charges they are bringing against you.'"
+
+- triggers: ["!mark15:5 ","!mr15:5 "]
+  replace: "But Jesus made no further answer, so that Pilate was amazed."
+
+- triggers: ["!mark15:6 ","!mr15:6 "]
+  replace: "Well, from festival to festival, he used to release to them one prisoner whom they requested."
+
+- triggers: ["!mark15:7 ","!mr15:7 "]
+  replace: "At the time the man named Barabʹbas was in prison with the seditionists, who in their sedition had committed murder."
+
+- triggers: ["!mark15:8 ","!mr15:8 "]
+  replace: "So the crowd came up and began to make their request according to what Pilate used to do for them."
+
+- triggers: ["!mark15:9 ","!mr15:9 "]
+  replace: "He responded to them, saying: 'Do you want me to release to you the King of the Jews?'"
+
+- triggers: ["!mark15:10 ","!mr15:10 "]
+  replace: "For Pilate was aware that out of envy the chief priests had handed him over."
+
+- triggers: ["!mark15:11 ","!mr15:11 "]
+  replace: "But the chief priests stirred up the crowd to have him release Barabʹbas to them instead."
+
+- triggers: ["!mark15:12 ","!mr15:12 "]
+  replace: "Again in reply Pilate said to them: 'What, then, should I do with the one you call the King of the Jews?'"
+
+- triggers: ["!mark15:13 ","!mr15:13 "]
+  replace: "Once more they cried out: 'To the stake with him!'"
+
+- triggers: ["!mark15:14 ","!mr15:14 "]
+  replace: "But Pilate went on to say to them: 'Why? What bad thing did he do?' Still they cried out all the more: 'To the stake with him!'"
+
+- triggers: ["!mark15:15 ","!mr15:15 "]
+  replace: "At that Pilate, wishing to satisfy the crowd, released Barabʹbas to them; and after having Jesus whipped, he handed him over to be executed on the stake."
+
+- triggers: ["!mark15:16 ","!mr15:16 "]
+  replace: "The soldiers now led him off into the courtyard, that is, into the governor's residence, and they called the whole body of troops together."
+
+- triggers: ["!mark15:17 ","!mr15:17 "]
+  replace: "And they dressed him in purple and braided a crown of thorns and put it on him;"
+
+- triggers: ["!mark15:18 ","!mr15:18 "]
+  replace: "and they began to call out to him: 'Greetings, you King of the Jews!'"
+
+- triggers: ["!mark15:19 ","!mr15:19 "]
+  replace: "Also, they were hitting him on the head with a reed and spitting on him, and they got on their knees and bowed down to him."
+
+- triggers: ["!mark15:20 ","!mr15:20 "]
+  replace: "Finally, after they had mocked him, they stripped him of the purple and put his outer garments on him. And they led him out to nail him to the stake."
+
+- triggers: ["!mark15:21 ","!mr15:21 "]
+  replace: "Also, they compelled into service a passerby, a certain Simon of Cyreʹne, coming from the countryside, the father of Alexander and Ruʹfus, to carry his torture stake."
+
+- triggers: ["!mark15:22 ","!mr15:22 "]
+  replace: "So they brought him to the place called Golʹgotha, which means, when translated, 'Skull Place.'"
+
+- triggers: ["!mark15:23 ","!mr15:23 "]
+  replace: "Here they tried to give him wine drugged with myrrh, but he would not take it."
+
+- triggers: ["!mark15:24 ","!mr15:24 "]
+  replace: "And they nailed him to the stake and distributed his outer garments by casting lots over them to decide who would take what."
+
+- triggers: ["!mark15:25 ","!mr15:25 "]
+  replace: "It was now the third hour, and they nailed him to the stake."
+
+- triggers: ["!mark15:26 ","!mr15:26 "]
+  replace: "And the inscription of the charge against him was written: 'The King of the Jews.'"
+
+- triggers: ["!mark15:27 ","!mr15:27 "]
+  replace: "Moreover, they put two robbers on stakes alongside him, one on his right and one on his left."
+
+- triggers: ["!mark15:28 ","!mr15:28 "]
+  replace: "--"
+
+- triggers: ["!mark15:29 ","!mr15:29 "]
+  replace: "And those passing by spoke abusively to him, shaking their heads and saying: 'Ha! You who would throw down the temple and build it in three days,"
+
+- triggers: ["!mark15:30 ","!mr15:30 "]
+  replace: "save yourself by coming down off the torture stake.'"
+
+- triggers: ["!mark15:31 ","!mr15:31 "]
+  replace: "In the same way also, the chief priests with the scribes were mocking him among themselves, saying: 'Others he saved; himself he cannot save!"
+
+- triggers: ["!mark15:32 ","!mr15:32 "]
+  replace: "Let the Christ, the King of Israel, now come down off the torture stake, so that we may see and believe.' Even those who were on stakes alongside him were reproaching him."
+
+- triggers: ["!mark15:33 ","!mr15:33 "]
+  replace: "When it became the sixth hour, a darkness fell over all the land until the ninth hour."
+
+- triggers: ["!mark15:34 ","!mr15:34 "]
+  replace: "And at the ninth hour, Jesus called out with a loud voice: 'Eʹli, Eʹli, laʹma sabachthaʹni?' which means, when translated: 'My God, my God, why have you forsaken me?'"
+
+- triggers: ["!mark15:35 ","!mr15:35 "]
+  replace: "And some of those standing near, on hearing it, began to say: 'See! He is calling Eliʹjah.'"
+
+- triggers: ["!mark15:36 ","!mr15:36 "]
+  replace: "Then someone ran, soaked a sponge in sour wine, put it on a reed, and gave it to him to drink, saying: 'Let him be! Let us see whether Eliʹjah comes to take him down.'"
+
+- triggers: ["!mark15:37 ","!mr15:37 "]
+  replace: "But Jesus let out a loud cry and expired."
+
+- triggers: ["!mark15:38 ","!mr15:38 "]
+  replace: "And the curtain of the sanctuary was torn in two from top to bottom."
+
+- triggers: ["!mark15:39 ","!mr15:39 "]
+  replace: "Now when the army officer who was standing by with him in view saw that he had expired under these circumstances, he said: 'Certainly this man was God's Son.'"
+
+- triggers: ["!mark15:40 ","!mr15:40 "]
+  replace: "There were also women watching from a distance, among them Mary Magʹdalene as well as Mary the mother of James the Less and of Joʹses, and Saloʹme,"
+
+- triggers: ["!mark15:41 ","!mr15:41 "]
+  replace: "who used to accompany him and minister to him when he was in Galʹilee, and many other women who had come up together with him to Jerusalem."
+
+- triggers: ["!mark15:42 ","!mr15:42 "]
+  replace: "Now as it was already late in the afternoon, and since it was Preparation, that is, the day before the Sabbath,"
+
+- triggers: ["!mark15:43 ","!mr15:43 "]
+  replace: "there came Joseph of Arimatheʹa, a reputable member of the Council, who also himself was waiting for the Kingdom of God. He took courage and went in before Pilate and asked for the body of Jesus."
+
+- triggers: ["!mark15:44 ","!mr15:44 "]
+  replace: "But Pilate wondered whether he could already be dead, and summoning the army officer, he asked him whether Jesus had already died."
+
+- triggers: ["!mark15:45 ","!mr15:45 "]
+  replace: "So after making certain from the army officer, he granted the body to Joseph."
+
+- triggers: ["!mark15:46 ","!mr15:46 "]
+  replace: "After he bought fine linen and took him down, he wrapped him in the fine linen and laid him in a tomb that was quarried out of rock; then he rolled a stone up to the entrance of the tomb."
+
+- triggers: ["!mark15:47 ","!mr15:47 "]
+  replace: "But Mary Magʹdalene and Mary the mother of Joʹses continued looking at where he had been laid."
+
+- triggers: ["!mark16:1 ","!mr16:1 "]
+  replace: "So when the Sabbath was over, Mary Magʹdalene, Mary the mother of James, and Saloʹme bought spices in order to come and apply them to his body."
+
+- triggers: ["!mark16:2 ","!mr16:2 "]
+  replace: "And very early on the first day of the week when the sun had risen, they came to the tomb."
+
+- triggers: ["!mark16:3 ","!mr16:3 "]
+  replace: "They were saying to one another: 'Who will roll the stone away from the entrance of the tomb for us?'"
+
+- triggers: ["!mark16:4 ","!mr16:4 "]
+  replace: "But when they looked up, they saw that the stone had been rolled away, although it was very large."
+
+- triggers: ["!mark16:5 ","!mr16:5 "]
+  replace: "When they entered into the tomb, they saw a young man sitting on the right side, clothed in a white robe, and they were stunned."
+
+- triggers: ["!mark16:6 ","!mr16:6 "]
+  replace: "He said to them: 'Do not be stunned. You are looking for Jesus the Nazareneʹ who was executed on the stake. He was raised up. He is not here. Look, here is the place where they laid him."
+
+- triggers: ["!mark16:7 ","!mr16:7 "]
+  replace: "But go, tell his disciples and Peter, 'He is going ahead of you into Galʹilee. You will see him there, just as he told you.''"
+
+- triggers: ["!mark16:8 ","!mr16:8 "]
+  replace: "So when they came out, they fled from the tomb, trembling and overwhelmed with emotion. And they said nothing to anyone, for they were in fear."
+

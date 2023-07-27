@@ -1,0 +1,286 @@
+matches:
+- triggers: ["!col1:1 ","!colossians1:1 "]
+  replace: "Paul, an apostle of Christ Jesus through God's will, and Timothy our brother,"
+
+- triggers: ["!col1:2 ","!colossians1:2 "]
+  replace: "to the holy ones and faithful brothers in union with Christ at Colosʹsae: May you have undeserved kindness and peace from God our Father."
+
+- triggers: ["!col1:3 ","!colossians1:3 "]
+  replace: "We always thank God, the Father of our Lord Jesus Christ, when we pray for you,"
+
+- triggers: ["!col1:4 ","!colossians1:4 "]
+  replace: "since we heard of your faith in Christ Jesus and the love you have for all the holy ones"
+
+- triggers: ["!col1:5 ","!colossians1:5 "]
+  replace: "because of the hope that is being reserved for you in the heavens. You previously heard about this hope through the message of truth of the good news"
+
+- triggers: ["!col1:6 ","!colossians1:6 "]
+  replace: "that has come to you. Just as the good news is bearing fruit and increasing in all the world, so it is also doing among you from the day you heard and accurately knew the undeserved kindness of God in truth."
+
+- triggers: ["!col1:7 ","!colossians1:7 "]
+  replace: "That is what you have learned from our beloved fellow slave Epʹaphras, who is a faithful minister of the Christ on our behalf."
+
+- triggers: ["!col1:8 ","!colossians1:8 "]
+  replace: "He also made known to us your love in a spiritual way."
+
+- triggers: ["!col1:9 ","!colossians1:9 "]
+  replace: "That is also why from the day we heard of it, we have never stopped praying for you and asking that you may be filled with the accurate knowledge of his will in all wisdom and spiritual comprehension,"
+
+- triggers: ["!col1:10 ","!colossians1:10 "]
+  replace: "so as to walk worthily of Jehovah in order to please him fully as you go on bearing fruit in every good work and increasing in the accurate knowledge of God;"
+
+- triggers: ["!col1:11 ","!colossians1:11 "]
+  replace: "and may you be strengthened with all power according to his glorious might so that you may endure fully with patience and joy,"
+
+- triggers: ["!col1:12 ","!colossians1:12 "]
+  replace: "as you thank the Father, who made you qualify to share in the inheritance of the holy ones in the light."
+
+- triggers: ["!col1:13 ","!colossians1:13 "]
+  replace: "He rescued us from the authority of the darkness and transferred us into the kingdom of his beloved Son,"
+
+- triggers: ["!col1:14 ","!colossians1:14 "]
+  replace: "by means of whom we have our release by ransom, the forgiveness of our sins."
+
+- triggers: ["!col1:15 ","!colossians1:15 "]
+  replace: "He is the image of the invisible God, the firstborn of all creation;"
+
+- triggers: ["!col1:16 ","!colossians1:16 "]
+  replace: "because by means of him all other things were created in the heavens and on the earth, the things visible and the things invisible, whether they are thrones or lordships or governments or authorities. All other things have been created through him and for him."
+
+- triggers: ["!col1:17 ","!colossians1:17 "]
+  replace: "Also, he is before all other things, and by means of him all other things were made to exist,"
+
+- triggers: ["!col1:18 ","!colossians1:18 "]
+  replace: "and he is the head of the body, the congregation. He is the beginning, the firstborn from the dead, so that he might become the one who is first in all things;"
+
+- triggers: ["!col1:19 ","!colossians1:19 "]
+  replace: "because God was pleased to have all fullness to dwell in him,"
+
+- triggers: ["!col1:20 ","!colossians1:20 "]
+  replace: "and through him to reconcile to himself all other things by making peace through the blood he shed on the torture stake, whether the things on the earth or the things in the heavens."
+
+- triggers: ["!col1:21 ","!colossians1:21 "]
+  replace: "Indeed, you who were once alienated and enemies because your minds were on the works that were wicked,"
+
+- triggers: ["!col1:22 ","!colossians1:22 "]
+  replace: "he has now reconciled by means of that one's fleshly body through his death, in order to present you holy and unblemished and open to no accusation before him-"
+
+- triggers: ["!col1:23 ","!colossians1:23 "]
+  replace: "provided, of course, that you continue in the faith, established on the foundation and steadfast, not being shifted away from the hope of that good news that you heard and that was preached in all creation under heaven. Of this good news I, Paul, became a minister."
+
+- triggers: ["!col1:24 ","!colossians1:24 "]
+  replace: "I am now rejoicing in my sufferings for your sake, and I am undergoing the tribulations of the Christ that are yet lacking in my flesh in behalf of his body, which is the congregation."
+
+- triggers: ["!col1:25 ","!colossians1:25 "]
+  replace: "I became a minister of this congregation in accord with the stewardship from God that was given to me in your behalf to preach the word of God fully,"
+
+- triggers: ["!col1:26 ","!colossians1:26 "]
+  replace: "the sacred secret that was hidden from the past systems of things and from the past generations. But now it has been revealed to his holy ones,"
+
+- triggers: ["!col1:27 ","!colossians1:27 "]
+  replace: "to whom God has been pleased to make known among the nations the glorious riches of this sacred secret, which is Christ in union with you, the hope of his glory."
+
+- triggers: ["!col1:28 ","!colossians1:28 "]
+  replace: "He is the one we are proclaiming, admonishing everyone and teaching everyone in all wisdom, so that we may present every person complete in union with Christ."
+
+- triggers: ["!col1:29 ","!colossians1:29 "]
+  replace: "To this end I am indeed working hard, exerting myself with his strength that is operating powerfully within me."
+
+- triggers: ["!col2:1 ","!colossians2:1 "]
+  replace: "For I want you to realize how great a struggle I am having in your behalf and in behalf of those at Laodiceʹa and in behalf of all those who have not personally seen me."
+
+- triggers: ["!col2:2 ","!colossians2:2 "]
+  replace: "This is so that their hearts may be comforted and that they may be harmoniously joined together in love and may have all the riches that result from the full assurance of their understanding, in order to gain an accurate knowledge of the sacred secret of God, namely, Christ."
+
+- triggers: ["!col2:3 ","!colossians2:3 "]
+  replace: "Carefully concealed in him are all the treasures of wisdom and of knowledge."
+
+- triggers: ["!col2:4 ","!colossians2:4 "]
+  replace: "I am saying this so that no one may delude you with persuasive arguments."
+
+- triggers: ["!col2:5 ","!colossians2:5 "]
+  replace: "Though I am absent in body, I am with you in spirit, rejoicing to see your good order and the firmness of your faith in Christ."
+
+- triggers: ["!col2:6 ","!colossians2:6 "]
+  replace: "Therefore, just as you have accepted Christ Jesus the Lord, go on walking in union with him,"
+
+- triggers: ["!col2:7 ","!colossians2:7 "]
+  replace: "being rooted and built up in him and being stabilized in the faith, just as you were taught, and overflowing with thanksgiving."
+
+- triggers: ["!col2:8 ","!colossians2:8 "]
+  replace: "Look out that no one takes you captive by means of the philosophy and empty deception according to human tradition, according to the elementary things of the world and not according to Christ;"
+
+- triggers: ["!col2:9 ","!colossians2:9 "]
+  replace: "because it is in him that all the fullness of the divine quality dwells bodily."
+
+- triggers: ["!col2:10 ","!colossians2:10 "]
+  replace: "So you have acquired a fullness by means of him, the one who is the head of all government and authority."
+
+- triggers: ["!col2:11 ","!colossians2:11 "]
+  replace: "By your relationship with him, you were also circumcised with a circumcision performed without hands by stripping off the fleshly body, by the circumcision that belongs to the Christ."
+
+- triggers: ["!col2:12 ","!colossians2:12 "]
+  replace: "For you were buried with him in his baptism, and by your relationship with him you were also raised up together through your faith in the powerful work of God, who raised him up from the dead."
+
+- triggers: ["!col2:13 ","!colossians2:13 "]
+  replace: "Furthermore, though you were dead in your trespasses and in the uncircumcised state of your flesh, God made you alive together with him. He kindly forgave us all our trespasses"
+
+- triggers: ["!col2:14 ","!colossians2:14 "]
+  replace: "and erased the handwritten document that consisted of decrees and was in opposition to us. He has taken it out of the way by nailing it to the torture stake."
+
+- triggers: ["!col2:15 ","!colossians2:15 "]
+  replace: "He has stripped the governments and the authorities bare and has publicly exhibited them as conquered, leading them in a triumphal procession by means of it."
+
+- triggers: ["!col2:16 ","!colossians2:16 "]
+  replace: "Therefore, do not let anyone judge you about what you eat and drink or about the observance of a festival or of the new moon or of a sabbath."
+
+- triggers: ["!col2:17 ","!colossians2:17 "]
+  replace: "Those things are a shadow of the things to come, but the reality belongs to the Christ."
+
+- triggers: ["!col2:18 ","!colossians2:18 "]
+  replace: "Let no man deprive you of the prize who takes delight in a false humility and a form of worship of the angels, 'taking his stand on' the things he has seen. He is actually puffed up without proper cause by his fleshly frame of mind,"
+
+- triggers: ["!col2:19 ","!colossians2:19 "]
+  replace: "and he is not holding fast to the head, to the one through whom the whole body is supplied and harmoniously joined together by means of its joints and ligaments and made to grow with the growth that is from God."
+
+- triggers: ["!col2:20 ","!colossians2:20 "]
+  replace: "If you died together with Christ with respect to the elementary things of the world, why do you live as if still part of the world by further subjecting yourselves to the decrees:"
+
+- triggers: ["!col2:21 ","!colossians2:21 "]
+  replace: "'Do not handle, nor taste, nor touch,'"
+
+- triggers: ["!col2:22 ","!colossians2:22 "]
+  replace: "referring to things that all perish with their use, according to the commands and teachings of men?"
+
+- triggers: ["!col2:23 ","!colossians2:23 "]
+  replace: "Although those things have an appearance of wisdom in a self-imposed form of worship and a false humility, a harsh treatment of the body, they are of no value in combating the satisfying of the flesh."
+
+- triggers: ["!col3:1 ","!colossians3:1 "]
+  replace: "If, however, you were raised up with the Christ, go on seeking the things above, where the Christ is seated at the right hand of God."
+
+- triggers: ["!col3:2 ","!colossians3:2 "]
+  replace: "Keep your minds fixed on the things above, not on the things on the earth."
+
+- triggers: ["!col3:3 ","!colossians3:3 "]
+  replace: "For you died, and your life has been hidden with the Christ in union with God."
+
+- triggers: ["!col3:4 ","!colossians3:4 "]
+  replace: "When the Christ, our life, is made manifest, then you also will be made manifest with him in glory."
+
+- triggers: ["!col3:5 ","!colossians3:5 "]
+  replace: "Deaden, therefore, your body members that are on the earth as respects sexual immorality, uncleanness, uncontrolled sexual passion, hurtful desire, and greediness, which is idolatry."
+
+- triggers: ["!col3:6 ","!colossians3:6 "]
+  replace: "On account of those things the wrath of God is coming."
+
+- triggers: ["!col3:7 ","!colossians3:7 "]
+  replace: "That is how you too used to conduct yourselves in your former way of life."
+
+- triggers: ["!col3:8 ","!colossians3:8 "]
+  replace: "But now you must put them all away from you: wrath, anger, badness, abusive speech, and obscene talk out of your mouth."
+
+- triggers: ["!col3:9 ","!colossians3:9 "]
+  replace: "Do not lie to one another. Strip off the old personality with its practices,"
+
+- triggers: ["!col3:10 ","!colossians3:10 "]
+  replace: "and clothe yourselves with the new personality, which through accurate knowledge is being made new according to the image of the One who created it,"
+
+- triggers: ["!col3:11 ","!colossians3:11 "]
+  replace: "where there is neither Greek nor Jew, circumcision nor uncircumcision, foreigner, Scythʹian, slave, or freeman; but Christ is all things and in all."
+
+- triggers: ["!col3:12 ","!colossians3:12 "]
+  replace: "Accordingly, as God's chosen ones, holy and loved, clothe yourselves with the tender affections of compassion, kindness, humility, mildness, and patience."
+
+- triggers: ["!col3:13 ","!colossians3:13 "]
+  replace: "Continue putting up with one another and forgiving one another freely even if anyone has a cause for complaint against another. Just as Jehovah freely forgave you, you must also do the same."
+
+- triggers: ["!col3:14 ","!colossians3:14 "]
+  replace: "But besides all these things, clothe yourselves with love, for it is a perfect bond of union."
+
+- triggers: ["!col3:15 ","!colossians3:15 "]
+  replace: "Also, let the peace of the Christ rule in your hearts, for you were called to that peace in one body. And show yourselves thankful."
+
+- triggers: ["!col3:16 ","!colossians3:16 "]
+  replace: "Let the word of the Christ reside in you richly in all wisdom. Keep on teaching and encouraging one another with psalms, praises to God, spiritual songs sung with gratitude, singing in your hearts to Jehovah."
+
+- triggers: ["!col3:17 ","!colossians3:17 "]
+  replace: "Whatever it is that you do in word or in deed, do everything in the name of the Lord Jesus, thanking God the Father through him."
+
+- triggers: ["!col3:18 ","!colossians3:18 "]
+  replace: "You wives, be in subjection to your husbands, as it is becoming in the Lord."
+
+- triggers: ["!col3:19 ","!colossians3:19 "]
+  replace: "You husbands, keep on loving your wives and do not be bitterly angry with them."
+
+- triggers: ["!col3:20 ","!colossians3:20 "]
+  replace: "You children, be obedient to your parents in everything, for this is well-pleasing to the Lord."
+
+- triggers: ["!col3:21 ","!colossians3:21 "]
+  replace: "You fathers, do not be exasperating your children, so that they do not become downhearted."
+
+- triggers: ["!col3:22 ","!colossians3:22 "]
+  replace: "You slaves, be obedient in everything to those who are your human masters, not only when they are watching, just to please men, but with sincerity of heart, with fear of Jehovah."
+
+- triggers: ["!col3:23 ","!colossians3:23 "]
+  replace: "Whatever you are doing, work at it whole-souled as for Jehovah, and not for men,"
+
+- triggers: ["!col3:24 ","!colossians3:24 "]
+  replace: "for you know that it is from Jehovah you will receive the inheritance as a reward. Slave for the Master, Christ."
+
+- triggers: ["!col3:25 ","!colossians3:25 "]
+  replace: "Certainly the one who does wrong will be repaid for the wrong he has done, and there is no partiality."
+
+- triggers: ["!col4:1 ","!colossians4:1 "]
+  replace: "You masters, treat your slaves in a righteous and fair way, knowing that you also have a Master in heaven."
+
+- triggers: ["!col4:2 ","!colossians4:2 "]
+  replace: "Persevere in prayer, remaining awake in it with thanksgiving."
+
+- triggers: ["!col4:3 ","!colossians4:3 "]
+  replace: "At the same time, pray also for us, that God may open a door for the word so that we can declare the sacred secret about the Christ, for which I am in prison bonds,"
+
+- triggers: ["!col4:4 ","!colossians4:4 "]
+  replace: "and that I may proclaim it as clearly as I ought to."
+
+- triggers: ["!col4:5 ","!colossians4:5 "]
+  replace: "Go on walking in wisdom toward those on the outside, making the best use of your time."
+
+- triggers: ["!col4:6 ","!colossians4:6 "]
+  replace: "Let your words always be gracious, seasoned with salt, so that you will know how you should answer each person."
+
+- triggers: ["!col4:7 ","!colossians4:7 "]
+  replace: "Tychʹicus, my beloved brother and faithful minister and fellow slave in the Lord, will tell you all the news about me."
+
+- triggers: ["!col4:8 ","!colossians4:8 "]
+  replace: "I am sending him to you so that you will know how we are and that he may comfort your hearts."
+
+- triggers: ["!col4:9 ","!colossians4:9 "]
+  replace: "He is coming along with Onesʹimus, my faithful and beloved brother, who is from among you; they will tell you all the things happening here."
+
+- triggers: ["!col4:10 ","!colossians4:10 "]
+  replace: "Aristarʹchus, my fellow captive, sends you his greetings, and so does Mark, the cousin of Barʹnabas (concerning whom you received instructions to welcome him if he comes to you),"
+
+- triggers: ["!col4:11 ","!colossians4:11 "]
+  replace: "and Jesus who is called Justus, who are of those circumcised. Only these are my fellow workers for the Kingdom of God, and they have become a source of great comfort to me."
+
+- triggers: ["!col4:12 ","!colossians4:12 "]
+  replace: "Epʹaphras, a slave of Christ Jesus who is from among you, sends you his greetings. He is always exerting himself in your behalf in his prayers, so that you may finally stand complete and with firm conviction in all the will of God."
+
+- triggers: ["!col4:13 ","!colossians4:13 "]
+  replace: "For I bear him witness that he makes great efforts in your behalf and in behalf of those in Laodiceʹa and Hierapʹolis."
+
+- triggers: ["!col4:14 ","!colossians4:14 "]
+  replace: "Luke, the beloved physician, sends you his greetings, and so does Deʹmas."
+
+- triggers: ["!col4:15 ","!colossians4:15 "]
+  replace: "Give my greetings to the brothers in Laodiceʹa and to Nymʹpha and to the congregation at her house."
+
+- triggers: ["!col4:16 ","!colossians4:16 "]
+  replace: "And when this letter has been read among you, arrange for it also to be read in the congregation of the Laodiceʹans and for you also to read the one from Laodiceʹa."
+
+- triggers: ["!col4:17 ","!colossians4:17 "]
+  replace: "Also, tell Archipʹpus: 'Pay attention to the ministry that you accepted in the Lord, in order to fulfill it.'"
+
+- triggers: ["!col4:18 ","!colossians4:18 "]
+  replace: "Here is my greeting, Paul's, in my own hand. Keep my prison bonds in mind. The undeserved kindness be with you."
+

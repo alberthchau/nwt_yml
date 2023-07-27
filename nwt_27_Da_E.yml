@@ -1,0 +1,1072 @@
+matches:
+- triggers: ["!daniel1:1 ","!dan1:1 ","!da1:1 "]
+  replace: "In the third year of the kingship of King Jehoiʹakim of Judah, King Nebuchadnezʹzar of Babylon came to Jerusalem and besieged it."
+
+- triggers: ["!daniel1:2 ","!dan1:2 ","!da1:2 "]
+  replace: "In time Jehovah gave King Jehoiʹakim of Judah into his hand, along with some of the utensils of the house of the true God, and he brought them to the land of Shiʹnar to the house of his god. He placed the utensils in the treasury of his god."
+
+- triggers: ["!daniel1:3 ","!dan1:3 ","!da1:3 "]
+  replace: "Then the king ordered Ashʹpenaz his chief court official to bring some of the Israelites, including those of royal and noble descent."
+
+- triggers: ["!daniel1:4 ","!dan1:4 ","!da1:4 "]
+  replace: "They were to be youths without any defect, of good appearance, endowed with wisdom, knowledge, and discernment, and capable of serving in the king’s palace. He was to teach them the writing and the language of the Chaldeʹans."
+
+- triggers: ["!daniel1:5 ","!dan1:5 ","!da1:5 "]
+  replace: "Furthermore, the king assigned to them a daily ration from the king’s delicacies and from the wine he drank. They were to be trained for three years, and at the end of that time they were to enter the king’s service."
+
+- triggers: ["!daniel1:6 ","!dan1:6 ","!da1:6 "]
+  replace: "Now among them were some from the tribe of Judah: Daniel, Hananiʹah, Mishʹael, and Azariʹah."
+
+- triggers: ["!daniel1:7 ","!dan1:7 ","!da1:7 "]
+  replace: "And the principal court official assigned names to them; he gave to Daniel the name Belteshazʹzar, to Hananiʹah the name Shaʹdrach, to Mishʹael the name Meʹshach, and to Azariʹah the name Abedʹnego."
+
+- triggers: ["!daniel1:8 ","!dan1:8 ","!da1:8 "]
+  replace: "But Daniel resolved in his heart that he would not defile himself with the king’s delicacies or with the wine he drank. So he asked the principal court official for permission not to defile himself in this way."
+
+- triggers: ["!daniel1:9 ","!dan1:9 ","!da1:9 "]
+  replace: "And the true God caused the principal court official to show Daniel favor and mercy."
+
+- triggers: ["!daniel1:10 ","!dan1:10 ","!da1:10 "]
+  replace: "But the principal court official said to Daniel: “I am afraid of my lord the king, who has assigned your food and drink. What if he should see you looking worse in appearance than the other youths of your age? You would make me guilty before the king.”"
+
+- triggers: ["!daniel1:11 ","!dan1:11 ","!da1:11 "]
+  replace: "But Daniel said to the guardian whom the principal court official had appointed over Daniel, Hananiʹah, Mishʹael, and Azariʹah:"
+
+- triggers: ["!daniel1:12 ","!dan1:12 ","!da1:12 "]
+  replace: "“Please, test your servants for ten days, and let us be given some vegetables to eat and water to drink;"
+
+- triggers: ["!daniel1:13 ","!dan1:13 ","!da1:13 "]
+  replace: "then compare our appearance with the appearance of the youths who are eating the king’s delicacies, and deal with your servants according to what you see.”"
+
+- triggers: ["!daniel1:14 ","!dan1:14 ","!da1:14 "]
+  replace: "So he agreed to their proposal and tested them for ten days."
+
+- triggers: ["!daniel1:15 ","!dan1:15 ","!da1:15 "]
+  replace: "At the end of ten days their appearance was better and healthier than all the youths who were eating the king’s delicacies."
+
+- triggers: ["!daniel1:16 ","!dan1:16 ","!da1:16 "]
+  replace: "So the guardian would take away their delicacies and their wine and give them vegetables."
+
+- triggers: ["!daniel1:17 ","!dan1:17 ","!da1:17 "]
+  replace: "And the true God gave these four youths knowledge and insight into every kind of writing and wisdom; and Daniel was given understanding in all sorts of visions and dreams."
+
+- triggers: ["!daniel1:18 ","!dan1:18 ","!da1:18 "]
+  replace: "At the end of the time that the king had specified to bring them in, the principal court official brought them in before Nebuchadnezʹzar."
+
+- triggers: ["!daniel1:19 ","!dan1:19 ","!da1:19 "]
+  replace: "When the king spoke with them, no one in the entire group was found to be like Daniel, Hananiʹah, Mishʹael, and Azariʹah; and they continued to serve before the king."
+
+- triggers: ["!daniel1:20 ","!dan1:20 ","!da1:20 "]
+  replace: "In every matter requiring wisdom and understanding that the king would ask them about, he found them ten times better than all the magic-practicing priests and the conjurers in his entire realm."
+
+- triggers: ["!daniel1:21 ","!dan1:21 ","!da1:21 "]
+  replace: "And Daniel remained there until the first year of King Cyrus."
+
+- triggers: ["!daniel2:1 ","!dan2:1 ","!da2:1 "]
+  replace: "In the second year of his kingship, Nebuchadnezʹzar had a number of dreams, and he was so agitated that he could not sleep."
+
+- triggers: ["!daniel2:2 ","!dan2:2 ","!da2:2 "]
+  replace: "So the king gave the order to summon the magic-practicing priests, the conjurers, the sorcerers, and the Chaldeʹans to tell the king his dreams. So they came in and stood before the king."
+
+- triggers: ["!daniel2:3 ","!dan2:3 ","!da2:3 "]
+  replace: "Then the king said to them: “I have had a dream, and I am agitated because I want to know what I dreamed.”"
+
+- triggers: ["!daniel2:4 ","!dan2:4 ","!da2:4 "]
+  replace: "The Chaldeʹans replied to the king in the Aramaʹic language: “O king, may you live on forever. Relate the dream to your servants, and we will tell the interpretation.”"
+
+- triggers: ["!daniel2:5 ","!dan2:5 ","!da2:5 "]
+  replace: "The king answered the Chaldeʹans: “This is my final word: If you do not make the dream known to me, along with its interpretation, you will be dismembered, and your houses will be turned into public latrines."
+
+- triggers: ["!daniel2:6 ","!dan2:6 ","!da2:6 "]
+  replace: "But if you do tell the dream and its interpretation, you will receive from me gifts and a reward and great honor. So tell me the dream and its interpretation.”"
+
+- triggers: ["!daniel2:7 ","!dan2:7 ","!da2:7 "]
+  replace: "They answered a second time: “Let the king relate the dream to his servants, and we will tell its interpretation.”"
+
+- triggers: ["!daniel2:8 ","!dan2:8 ","!da2:8 "]
+  replace: "The king replied: “I am well-aware that you are trying to gain time, for you realize what my final word is."
+
+- triggers: ["!daniel2:9 ","!dan2:9 ","!da2:9 "]
+  replace: "If you do not make the dream known to me, there is only one penalty for all of you. But you have agreed to tell me something false and deceitful until the situation changes. So tell me the dream, and I will know that you can explain its interpretation.”"
+
+- triggers: ["!daniel2:10 ","!dan2:10 ","!da2:10 "]
+  replace: "The Chaldeʹans answered the king: “There is not a man on earth who is able to do what the king demands, for no great king or governor has asked such a thing of any magic-practicing priest or conjurer or Chaldeʹan."
+
+- triggers: ["!daniel2:11 ","!dan2:11 ","!da2:11 "]
+  replace: "What the king is asking is difficult, and no one exists who could tell the king this except the gods, who do not dwell among mortals.”"
+
+- triggers: ["!daniel2:12 ","!dan2:12 ","!da2:12 "]
+  replace: "At this the king flew into a violent rage and gave the order to destroy all the wise men of Babylon."
+
+- triggers: ["!daniel2:13 ","!dan2:13 ","!da2:13 "]
+  replace: "When the order was issued and the wise men were about to be killed, they also looked for Daniel and his companions to put them to death."
+
+- triggers: ["!daniel2:14 ","!dan2:14 ","!da2:14 "]
+  replace: "At that time Daniel discreetly and cautiously spoke to Arʹioch the chief of the king’s bodyguard, who had gone out to kill the wise men of Babylon."
+
+- triggers: ["!daniel2:15 ","!dan2:15 ","!da2:15 "]
+  replace: "He asked Arʹioch the officer of the king: “Why is there such a harsh order from the king?” Then Arʹioch informed Daniel about the matter."
+
+- triggers: ["!daniel2:16 ","!dan2:16 ","!da2:16 "]
+  replace: "So Daniel went in and asked the king to grant him time to tell the interpretation to the king."
+
+- triggers: ["!daniel2:17 ","!dan2:17 ","!da2:17 "]
+  replace: "Daniel then went to his house and informed his companions Hananiʹah, Mishʹael, and Azariʹah of the matter."
+
+- triggers: ["!daniel2:18 ","!dan2:18 ","!da2:18 "]
+  replace: "He asked them to pray for mercy from the God of heaven concerning this secret, so that Daniel and his companions would not be destroyed along with the rest of the wise men of Babylon."
+
+- triggers: ["!daniel2:19 ","!dan2:19 ","!da2:19 "]
+  replace: "Then the secret was revealed to Daniel in a vision at night. So Daniel praised the God of heaven."
+
+- triggers: ["!daniel2:20 ","!dan2:20 ","!da2:20 "]
+  replace: "Daniel declared: “Let the name of God be praised for all eternity, For wisdom and mightiness are his alone."
+
+- triggers: ["!daniel2:21 ","!dan2:21 ","!da2:21 "]
+  replace: "He changes times and seasons, Removes kings and sets up kings, Gives wisdom to the wise and knowledge to those with discernment."
+
+- triggers: ["!daniel2:22 ","!dan2:22 ","!da2:22 "]
+  replace: "He reveals the deep things and the hidden things, He knows what is in the darkness, And with him the light dwells."
+
+- triggers: ["!daniel2:23 ","!dan2:23 ","!da2:23 "]
+  replace: "To you, O God of my forefathers, I offer thanks and praise, Because you have given me wisdom and power. And now you have made known to me what we requested of you; You have made known to us the concern of the king.”"
+
+- triggers: ["!daniel2:24 ","!dan2:24 ","!da2:24 "]
+  replace: "Daniel then went in to Arʹioch, whom the king had appointed to destroy the wise men of Babylon, and he said to him: “Do not destroy any wise men of Babylon. Take me in before the king, and I will tell the interpretation to the king.”"
+
+- triggers: ["!daniel2:25 ","!dan2:25 ","!da2:25 "]
+  replace: "Arʹioch quickly took Daniel in before the king and said to him: “I have found a man of the exiles of Judah who can make known the interpretation to the king.”"
+
+- triggers: ["!daniel2:26 ","!dan2:26 ","!da2:26 "]
+  replace: "The king said to Daniel, whose name was Belteshazʹzar: “Can you really make known to me the dream that I saw, and its interpretation?”"
+
+- triggers: ["!daniel2:27 ","!dan2:27 ","!da2:27 "]
+  replace: "Daniel replied to the king: “None of the wise men, conjurers, magic-practicing priests, or astrologers are able to tell the king the secret that he is asking."
+
+- triggers: ["!daniel2:28 ","!dan2:28 ","!da2:28 "]
+  replace: "But there is a God in the heavens who is a Revealer of secrets, and he has made known to King Nebuchadnezʹzar what is to happen in the final part of the days. This is your dream, and these are the visions of your head as you lay on your bed:"
+
+- triggers: ["!daniel2:29 ","!dan2:29 ","!da2:29 "]
+  replace: "“As for you, O king, on your bed your thoughts turned to what is to take place in the future, and the Revealer of secrets has made known to you what is to happen."
+
+- triggers: ["!daniel2:30 ","!dan2:30 ","!da2:30 "]
+  replace: "As for me, this secret was not revealed to me because I have greater wisdom than anyone living; rather, it was to make the interpretation known to the king so that you may know the thoughts in your heart."
+
+- triggers: ["!daniel2:31 ","!dan2:31 ","!da2:31 "]
+  replace: "“You, O king, were watching, and you saw an immense image. That image, which was huge and extremely bright, was standing in front of you, and its appearance was terrifying."
+
+- triggers: ["!daniel2:32 ","!dan2:32 ","!da2:32 "]
+  replace: "The head of that image was of fine gold, its chest and its arms were of silver, its abdomen and its thighs were of copper,"
+
+- triggers: ["!daniel2:33 ","!dan2:33 ","!da2:33 "]
+  replace: "its legs were of iron, and its feet were partly of iron and partly of clay."
+
+- triggers: ["!daniel2:34 ","!dan2:34 ","!da2:34 "]
+  replace: "You looked on until a stone was cut out, not by hands, and it struck the image on its feet of iron and of clay and crushed them."
+
+- triggers: ["!daniel2:35 ","!dan2:35 ","!da2:35 "]
+  replace: "At that time the iron, the clay, the copper, the silver, and the gold were, all together, crushed and became like the chaff from the summer threshing floor, and the wind carried them away so that not a trace of them could be found. But the stone that struck the image became a large mountain, and it filled the whole earth."
+
+- triggers: ["!daniel2:36 ","!dan2:36 ","!da2:36 "]
+  replace: "“This is the dream, and we will now tell the king its interpretation."
+
+- triggers: ["!daniel2:37 ","!dan2:37 ","!da2:37 "]
+  replace: "You, O king—the king of kings to whom the God of heaven has given the kingdom, the might, the strength, and the glory,"
+
+- triggers: ["!daniel2:38 ","!dan2:38 ","!da2:38 "]
+  replace: "and into whose hand he has given men wherever they may dwell, as well as the beasts of the field and the birds of the heavens, and whom he has made ruler over all of them—you yourself are the head of gold."
+
+- triggers: ["!daniel2:39 ","!dan2:39 ","!da2:39 "]
+  replace: "“But after you another kingdom will rise, inferior to you; then another kingdom, a third one, of copper, that will rule over the whole earth."
+
+- triggers: ["!daniel2:40 ","!dan2:40 ","!da2:40 "]
+  replace: "“As for the fourth kingdom, it will be strong like iron. For just as iron crushes and pulverizes everything else, yes, like iron that shatters, it will crush and shatter all of these."
+
+- triggers: ["!daniel2:41 ","!dan2:41 ","!da2:41 "]
+  replace: "“And just as you saw the feet and the toes to be partly of clay of a potter and partly of iron, the kingdom will be divided, but some of the hardness of iron will be in it, just as you saw the iron mixed with soft clay."
+
+- triggers: ["!daniel2:42 ","!dan2:42 ","!da2:42 "]
+  replace: "And as the toes of the feet were partly of iron and partly of clay, so the kingdom will be partly strong and partly fragile."
+
+- triggers: ["!daniel2:43 ","!dan2:43 ","!da2:43 "]
+  replace: "Just as you saw iron mixed with soft clay, they will be mixed with the people; but they will not stick together, one to the other, just as iron does not mix with clay."
+
+- triggers: ["!daniel2:44 ","!dan2:44 ","!da2:44 "]
+  replace: "“In the days of those kings the God of heaven will set up a kingdom that will never be destroyed. And this kingdom will not be passed on to any other people. It will crush and put an end to all these kingdoms, and it alone will stand forever,"
+
+- triggers: ["!daniel2:45 ","!dan2:45 ","!da2:45 "]
+  replace: "just as you saw that out of the mountain a stone was cut not by hands, and that it crushed the iron, the copper, the clay, the silver, and the gold. The Grand God has made known to the king what will happen in the future. The dream is true, and its interpretation is trustworthy.”"
+
+- triggers: ["!daniel2:46 ","!dan2:46 ","!da2:46 "]
+  replace: "Then King Nebuchadnezʹzar fell down with his face to the ground before Daniel and paid homage to him. And he gave the order to offer a present and incense to him."
+
+- triggers: ["!daniel2:47 ","!dan2:47 ","!da2:47 "]
+  replace: "The king said to Daniel: “Truly your God is a God of gods and a Lord of kings and a Revealer of secrets, because you were able to reveal this secret.”"
+
+- triggers: ["!daniel2:48 ","!dan2:48 ","!da2:48 "]
+  replace: "The king then elevated Daniel and gave him many fine gifts, and he made him the ruler over all the province of Babylon and the chief prefect over all the wise men of Babylon."
+
+- triggers: ["!daniel2:49 ","!dan2:49 ","!da2:49 "]
+  replace: "And at Daniel’s request, the king appointed Shaʹdrach, Meʹshach, and Abedʹnego over the administration of the province of Babylon, but Daniel served in the king’s court."
+
+- triggers: ["!daniel3:1 ","!dan3:1 ","!da3:1 "]
+  replace: "Nebuchadnezʹzar the king made an image of gold that was 60 cubits high and 6 cubits wide. He set it up on the plain of Duʹra in the province of Babylon."
+
+- triggers: ["!daniel3:2 ","!dan3:2 ","!da3:2 "]
+  replace: "Then King Nebuchadnezʹzar sent word to assemble the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the administrators of the provinces to come to the inauguration of the image that King Nebuchadnezʹzar had set up."
+
+- triggers: ["!daniel3:3 ","!dan3:3 ","!da3:3 "]
+  replace: "So the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the administrators of the provinces assembled for the inauguration of the image that King Nebuchadnezʹzar had set up. And they stood in front of the image that Nebuchadnezʹzar had set up."
+
+- triggers: ["!daniel3:4 ","!dan3:4 ","!da3:4 "]
+  replace: "The herald loudly proclaimed: “You are commanded, O peoples, nations, and language groups,"
+
+- triggers: ["!daniel3:5 ","!dan3:5 ","!da3:5 "]
+  replace: "that when you hear the sound of the horn, pipe, zither, triangular harp, stringed instrument, bagpipe, and all the other musical instruments, you must fall down and worship the image of gold that King Nebuchadnezʹzar has set up."
+
+- triggers: ["!daniel3:6 ","!dan3:6 ","!da3:6 "]
+  replace: "Whoever does not fall down and worship will immediately be thrown into the burning fiery furnace.”"
+
+- triggers: ["!daniel3:7 ","!dan3:7 ","!da3:7 "]
+  replace: "So when all the peoples heard the sound of the horn, pipe, zither, triangular harp, stringed instrument, and all the other musical instruments, all the peoples, nations, and language groups fell down and worshipped the image of gold that King Nebuchadnezʹzar had set up."
+
+- triggers: ["!daniel3:8 ","!dan3:8 ","!da3:8 "]
+  replace: "Now at that time some of the Chaldeʹans came forward and accused the Jews."
+
+- triggers: ["!daniel3:9 ","!dan3:9 ","!da3:9 "]
+  replace: "They said to King Nebuchadnezʹzar: “O king, may you live on forever."
+
+- triggers: ["!daniel3:10 ","!dan3:10 ","!da3:10 "]
+  replace: "You, O king, gave the command that every man who hears the sound of the horn, pipe, zither, triangular harp, stringed instrument, bagpipe, and all the other musical instruments should fall down and worship the image of gold;"
+
+- triggers: ["!daniel3:11 ","!dan3:11 ","!da3:11 "]
+  replace: "and that whoever would not fall down and worship should be thrown into the burning fiery furnace."
+
+- triggers: ["!daniel3:12 ","!dan3:12 ","!da3:12 "]
+  replace: "But there are certain Jews whom you appointed to administer the province of Babylon: Shaʹdrach, Meʹshach, and Abedʹnego. These men have paid no regard to you, O king. They are not serving your gods, and they refuse to worship the image of gold that you have set up.”"
+
+- triggers: ["!daniel3:13 ","!dan3:13 ","!da3:13 "]
+  replace: "Then Nebuchadnezʹzar, in a furious rage, ordered Shaʹdrach, Meʹshach, and Abedʹnego to be brought in. So these men were brought in before the king."
+
+- triggers: ["!daniel3:14 ","!dan3:14 ","!da3:14 "]
+  replace: "Nebuchadnezʹzar said to them: “Is it really true, Shaʹdrach, Meʹshach, and Abedʹnego, that you are not serving my gods and that you refuse to worship the image of gold that I have set up?"
+
+- triggers: ["!daniel3:15 ","!dan3:15 ","!da3:15 "]
+  replace: "Now when you hear the sound of the horn, the pipe, the zither, the triangular harp, the stringed instrument, the bagpipe, and all the other musical instruments, if you are ready to fall down and worship the image that I have made, fine. But if you refuse to worship, you will immediately be thrown into the burning fiery furnace. And who is the god who can rescue you out of my hands?”"
+
+- triggers: ["!daniel3:16 ","!dan3:16 ","!da3:16 "]
+  replace: "Shaʹdrach, Meʹshach, and Abedʹnego answered the king: “O Nebuchadnezʹzar, we have no need to answer you in this matter."
+
+- triggers: ["!daniel3:17 ","!dan3:17 ","!da3:17 "]
+  replace: "If it must be, our God whom we serve is able to rescue us from the burning fiery furnace, O king, and to rescue us from your hand."
+
+- triggers: ["!daniel3:18 ","!dan3:18 ","!da3:18 "]
+  replace: "But even if he does not, let it be known to you, O king, that we will not serve your gods or worship the image of gold that you have set up.”"
+
+- triggers: ["!daniel3:19 ","!dan3:19 ","!da3:19 "]
+  replace: "Then Nebuchadnezʹzar became so furious with Shaʹdrach, Meʹshach, and Abedʹnego that the expression of his face changed toward them, and he gave orders to heat the furnace seven times hotter than usual."
+
+- triggers: ["!daniel3:20 ","!dan3:20 ","!da3:20 "]
+  replace: "He ordered some of the mighty men from his army to bind Shaʹdrach, Meʹshach, and Abedʹnego and to throw them into the burning fiery furnace."
+
+- triggers: ["!daniel3:21 ","!dan3:21 ","!da3:21 "]
+  replace: "So these men were tied up while still wearing their cloaks, garments, caps, and all their other clothing, and they were thrown into the burning fiery furnace."
+
+- triggers: ["!daniel3:22 ","!dan3:22 ","!da3:22 "]
+  replace: "Because the king’s command was so harsh and the furnace was exceptionally hot, the men who took up Shaʹdrach, Meʹshach, and Abedʹnego were the ones killed by the flames of the fire."
+
+- triggers: ["!daniel3:23 ","!dan3:23 ","!da3:23 "]
+  replace: "But these three men, Shaʹdrach, Meʹshach, and Abedʹnego, fell bound into the burning fiery furnace."
+
+- triggers: ["!daniel3:24 ","!dan3:24 ","!da3:24 "]
+  replace: "King Nebuchadnezʹzar then became frightened and quickly rose up and said to his high officials: “Did we not tie up three men and throw them into the fire?” They answered the king: “Yes, O king.”"
+
+- triggers: ["!daniel3:25 ","!dan3:25 ","!da3:25 "]
+  replace: "He said: “Look! I see four men walking about free in the midst of the fire, and they are unharmed, and the fourth one looks like a son of the gods.”"
+
+- triggers: ["!daniel3:26 ","!dan3:26 ","!da3:26 "]
+  replace: "Nebuchadnezʹzar approached the door of the burning fiery furnace and said: “Shaʹdrach, Meʹshach, and Abedʹnego, you servants of the Most High God, step out and come here!” Shaʹdrach, Meʹshach, and Abedʹnego stepped out from the midst of the fire."
+
+- triggers: ["!daniel3:27 ","!dan3:27 ","!da3:27 "]
+  replace: "And the satraps, prefects, governors, and the high officials of the king who were assembled there saw that the fire had had no effect on the bodies of these men; not a hair of their heads had been singed, their cloaks looked no different, and there was not even the smell of fire on them."
+
+- triggers: ["!daniel3:28 ","!dan3:28 ","!da3:28 "]
+  replace: "Nebuchadnezʹzar then declared: “Praised be the God of Shaʹdrach, Meʹshach, and Abedʹnego, who sent his angel and rescued his servants. They trusted in him and went against the command of the king and were willing to die rather than serve or worship any god except their own God."
+
+- triggers: ["!daniel3:29 ","!dan3:29 ","!da3:29 "]
+  replace: "I am therefore issuing an order that any people, nation, or language group that says anything against the God of Shaʹdrach, Meʹshach, and Abedʹnego should be dismembered, and their houses should be turned into public latrines; for there is no other god who is able to rescue like this one.”"
+
+- triggers: ["!daniel3:30 ","!dan3:30 ","!da3:30 "]
+  replace: "The king then promoted Shaʹdrach, Meʹshach, and Abedʹnego in the province of Babylon."
+
+- triggers: ["!daniel4:1 ","!dan4:1 ","!da4:1 "]
+  replace: "“From King Nebuchadnezʹzar to all the peoples, nations, and language groups dwelling in all the earth: May your peace abound!"
+
+- triggers: ["!daniel4:2 ","!dan4:2 ","!da4:2 "]
+  replace: "I am pleased to declare the signs and wonders that the Most High God has performed toward me."
+
+- triggers: ["!daniel4:3 ","!dan4:3 ","!da4:3 "]
+  replace: "How great are his signs, and how mighty his wonders! His kingdom is an everlasting kingdom, and his rulership is for generation after generation."
+
+- triggers: ["!daniel4:4 ","!dan4:4 ","!da4:4 "]
+  replace: "“I, Nebuchadnezʹzar, was at ease in my house and prospering in my palace."
+
+- triggers: ["!daniel4:5 ","!dan4:5 ","!da4:5 "]
+  replace: "I saw a dream that made me afraid. As I lay on my bed, the images and visions of my head frightened me."
+
+- triggers: ["!daniel4:6 ","!dan4:6 ","!da4:6 "]
+  replace: "So I issued an order to bring in before me all the wise men of Babylon so that they could make known to me the interpretation of the dream."
+
+- triggers: ["!daniel4:7 ","!dan4:7 ","!da4:7 "]
+  replace: "“At that time the magic-practicing priests, the conjurers, the Chaldeʹans, and the astrologers came in. When I told them what the dream was, they could not make its interpretation known to me."
+
+- triggers: ["!daniel4:8 ","!dan4:8 ","!da4:8 "]
+  replace: "At last there came in before me Daniel, whose name is Belteshazʹzar after the name of my god and in whom there is the spirit of the holy gods, and I told him the dream:"
+
+- triggers: ["!daniel4:9 ","!dan4:9 ","!da4:9 "]
+  replace: "“‘O Belteshazʹzar the chief of the magic-practicing priests, I well know that the spirit of the holy gods is in you and no secret is too difficult for you. So explain to me the visions I saw in my dream and its interpretation."
+
+- triggers: ["!daniel4:10 ","!dan4:10 ","!da4:10 "]
+  replace: "“‘In the visions of my head while on my bed, I saw a tree in the midst of the earth, and its height was enormous."
+
+- triggers: ["!daniel4:11 ","!dan4:11 ","!da4:11 "]
+  replace: "The tree grew and became strong, and its top reached the heavens, and it was visible to the ends of the whole earth."
+
+- triggers: ["!daniel4:12 ","!dan4:12 ","!da4:12 "]
+  replace: "Its foliage was beautiful, and its fruit was abundant, and there was food on it for all. Beneath it the beasts of the field would seek shade, and on its branches the birds of the heavens would dwell, and all creatures would feed from it."
+
+- triggers: ["!daniel4:13 ","!dan4:13 ","!da4:13 "]
+  replace: "“‘As I viewed the visions of my head while on my bed, I saw a watcher, a holy one, coming down from the heavens."
+
+- triggers: ["!daniel4:14 ","!dan4:14 ","!da4:14 "]
+  replace: "He called out loudly: “Chop down the tree, cut off its branches, shake off its leaves, and scatter its fruit! Let the beasts flee from beneath it, and the birds from its branches."
+
+- triggers: ["!daniel4:15 ","!dan4:15 ","!da4:15 "]
+  replace: "But leave the stump with its roots in the ground, with a banding of iron and of copper, among the grass of the field. Let it be wet with the dew of the heavens, and let its portion be with the beasts among the vegetation of the earth."
+
+- triggers: ["!daniel4:16 ","!dan4:16 ","!da4:16 "]
+  replace: "Let its heart be changed from that of a human, and let it be given the heart of a beast, and let seven times pass over it."
+
+- triggers: ["!daniel4:17 ","!dan4:17 ","!da4:17 "]
+  replace: "This is by the decree of watchers, and the request is by the word of the holy ones, so that people living may know that the Most High is Ruler in the kingdom of mankind and that he gives it to whomever he wants, and he sets up over it even the lowliest of men.”"
+
+- triggers: ["!daniel4:18 ","!dan4:18 ","!da4:18 "]
+  replace: "“‘This was the dream that I, King Nebuchadnezʹzar, saw; now you, O Belteshazʹzar, tell its interpretation, for all the other wise men of my kingdom are unable to make the interpretation known to me. But you are able to do so, because the spirit of holy gods is in you.’"
+
+- triggers: ["!daniel4:19 ","!dan4:19 ","!da4:19 "]
+  replace: "“At that time Daniel, whose name is Belteshazʹzar, was alarmed for a moment, and his thoughts began to frighten him. “The king said, ‘O Belteshazʹzar, do not let the dream and the interpretation frighten you.’ “Belteshazʹzar answered, ‘O my lord, may the dream apply to those hating you, and its interpretation to your enemies."
+
+- triggers: ["!daniel4:20 ","!dan4:20 ","!da4:20 "]
+  replace: "“‘The tree that you saw that grew great and became strong, whose top reached the heavens and was visible to all the earth,"
+
+- triggers: ["!daniel4:21 ","!dan4:21 ","!da4:21 "]
+  replace: "which had beautiful foliage, abundant fruit, and food for all, beneath which the beasts of the field would dwell and on whose branches the birds of the heavens would reside,"
+
+- triggers: ["!daniel4:22 ","!dan4:22 ","!da4:22 "]
+  replace: "it is you, O king, because you have grown great and become strong, and your grandeur has grown and reached to the heavens, and your rulership to the ends of the earth."
+
+- triggers: ["!daniel4:23 ","!dan4:23 ","!da4:23 "]
+  replace: "“‘And the king saw a watcher, a holy one, coming down from the heavens, who was saying: “Chop down the tree and destroy it, but leave the stump with its roots in the ground, with a banding of iron and of copper, among the grass of the field. And let the dew of the heavens make it wet, and let its portion be with the beasts of the field until seven times pass over it.”"
+
+- triggers: ["!daniel4:24 ","!dan4:24 ","!da4:24 "]
+  replace: "This is the interpretation, O king; it is the decree of the Most High that must befall my lord the king."
+
+- triggers: ["!daniel4:25 ","!dan4:25 ","!da4:25 "]
+  replace: "You will be driven away from among men, and your dwelling will be with the beasts of the field, and you will be given vegetation to eat just like bulls; and you will become wet with the dew of the heavens, and seven times will pass over you, until you know that the Most High is Ruler in the kingdom of mankind and that he grants it to whomever he wants."
+
+- triggers: ["!daniel4:26 ","!dan4:26 ","!da4:26 "]
+  replace: "“‘But because they said to leave the stump of the tree with its roots, your kingdom will be yours again after you come to know that the heavens are ruling."
+
+- triggers: ["!daniel4:27 ","!dan4:27 ","!da4:27 "]
+  replace: "Therefore, O king, may my counsel be acceptable to you. Turn away from your sins by doing what is right, and from your iniquity by showing mercy to the poor. It may be that your prosperity will be extended.’”"
+
+- triggers: ["!daniel4:28 ","!dan4:28 ","!da4:28 "]
+  replace: "All of this befell King Nebuchadnezʹzar."
+
+- triggers: ["!daniel4:29 ","!dan4:29 ","!da4:29 "]
+  replace: "Twelve months later he was walking on the roof of the royal palace of Babylon."
+
+- triggers: ["!daniel4:30 ","!dan4:30 ","!da4:30 "]
+  replace: "The king was saying: “Is this not Babylon the Great that I myself have built for the royal house by my own strength and might and for the glory of my majesty?”"
+
+- triggers: ["!daniel4:31 ","!dan4:31 ","!da4:31 "]
+  replace: "While the word was yet in the king’s mouth, a voice came down from the heavens: “To you it is being said, O King Nebuchadnezʹzar, ‘The kingdom has gone away from you,"
+
+- triggers: ["!daniel4:32 ","!dan4:32 ","!da4:32 "]
+  replace: "and from mankind you are being driven away. With the beasts of the field your dwelling will be, and you will be given vegetation to eat just like bulls, and seven times will pass over you, until you know that the Most High is Ruler in the kingdom of mankind and that he grants it to whomever he wants.’”"
+
+- triggers: ["!daniel4:33 ","!dan4:33 ","!da4:33 "]
+  replace: "At that moment the word was fulfilled on Nebuchadnezʹzar. He was driven away from mankind, and he began to eat vegetation just like bulls, and his body became wet with the dew of the heavens, until his hair grew long just like eagles’ feathers and his nails were like birds’ claws."
+
+- triggers: ["!daniel4:34 ","!dan4:34 ","!da4:34 "]
+  replace: "“At the end of that time I, Nebuchadnezʹzar, looked up to the heavens, and my understanding returned to me; and I praised the Most High, and to the One living forever I gave praise and glory, because his rulership is an everlasting rulership and his kingdom is for generation after generation."
+
+- triggers: ["!daniel4:35 ","!dan4:35 ","!da4:35 "]
+  replace: "All the inhabitants of the earth are regarded as nothing, and he does according to his own will among the army of the heavens and the inhabitants of the earth. And there is no one who can hinder him or say to him, ‘What have you done?’"
+
+- triggers: ["!daniel4:36 ","!dan4:36 ","!da4:36 "]
+  replace: "“At that time my understanding returned to me, and the glory of my kingdom, my majesty, and my splendor returned to me. My high officials and nobles eagerly sought me out, and I was restored to my kingdom, and even more greatness was added to me."
+
+- triggers: ["!daniel4:37 ","!dan4:37 ","!da4:37 "]
+  replace: "“Now I, Nebuchadnezʹzar, am praising and exalting and glorifying the King of the heavens, because all his works are truth and his ways are just, and because he is able to humiliate those who are walking in pride.”"
+
+- triggers: ["!daniel5:1 ","!dan5:1 ","!da5:1 "]
+  replace: "As regards King Belshazʹzar, he held a great feast for a thousand of his nobles, and he was drinking wine in front of them."
+
+- triggers: ["!daniel5:2 ","!dan5:2 ","!da5:2 "]
+  replace: "While under the influence of the wine, Belshazʹzar gave an order to bring in the vessels of gold and silver that his father Nebuchadnezʹzar had taken from the temple in Jerusalem, so that the king and his nobles, his concubines and his secondary wives could drink from them."
+
+- triggers: ["!daniel5:3 ","!dan5:3 ","!da5:3 "]
+  replace: "Then they brought in the gold vessels that had been taken from the temple of the house of God in Jerusalem, and the king and his nobles, his concubines and his secondary wives drank from them."
+
+- triggers: ["!daniel5:4 ","!dan5:4 ","!da5:4 "]
+  replace: "They drank wine, and they praised the gods of gold and silver, of copper, iron, wood, and stone."
+
+- triggers: ["!daniel5:5 ","!dan5:5 ","!da5:5 "]
+  replace: "At that very moment the fingers of a man’s hand appeared and began writing on the plaster of the wall of the king’s palace opposite the lampstand, and the king could see the back of the hand as it was writing."
+
+- triggers: ["!daniel5:6 ","!dan5:6 ","!da5:6 "]
+  replace: "Then the king turned pale and his thoughts terrified him, and his hips shook and his knees began to knock together."
+
+- triggers: ["!daniel5:7 ","!dan5:7 ","!da5:7 "]
+  replace: "The king called out loudly to summon the conjurers, the Chaldeʹans, and the astrologers. The king said to the wise men of Babylon: “Any man who reads this writing and tells me its interpretation will be clothed with purple, a gold necklace will be placed around his neck, and he will rule as the third one in the kingdom.”"
+
+- triggers: ["!daniel5:8 ","!dan5:8 ","!da5:8 "]
+  replace: "Then all the wise men of the king came in, but they were not able to read the writing or to make known the interpretation to the king."
+
+- triggers: ["!daniel5:9 ","!dan5:9 ","!da5:9 "]
+  replace: "So King Belshazʹzar was very frightened and his face turned pale; and his nobles were perplexed."
+
+- triggers: ["!daniel5:10 ","!dan5:10 ","!da5:10 "]
+  replace: "Because of the words of the king and his nobles, the queen entered the banqueting hall. The queen said: “O king, may you live on forever. Do not let your thoughts terrify you, nor let your face turn pale."
+
+- triggers: ["!daniel5:11 ","!dan5:11 ","!da5:11 "]
+  replace: "There is a man in your kingdom who has the spirit of holy gods. In the days of your father, enlightenment and insight and wisdom like the wisdom of gods were found in him. King Nebuchadnezʹzar your father appointed him as chief of the magic-practicing priests, conjurers, Chaldeʹans, and astrologers; your father did this, O king."
+
+- triggers: ["!daniel5:12 ","!dan5:12 ","!da5:12 "]
+  replace: "For Daniel, whom the king named Belteshazʹzar, had an extraordinary spirit and knowledge and insight to interpret dreams, to explain riddles, and to solve knotty problems. Now let Daniel be summoned, and he will tell you the interpretation.”"
+
+- triggers: ["!daniel5:13 ","!dan5:13 ","!da5:13 "]
+  replace: "So Daniel was brought in before the king. The king asked Daniel: “Are you Daniel of the exiles of Judah, whom my father the king brought out of Judah?"
+
+- triggers: ["!daniel5:14 ","!dan5:14 ","!da5:14 "]
+  replace: "I have heard concerning you that the spirit of gods is in you and that enlightenment and insight and extraordinary wisdom have been found in you."
+
+- triggers: ["!daniel5:15 ","!dan5:15 ","!da5:15 "]
+  replace: "Now the wise men and the conjurers were brought in before me to read this writing and to make its interpretation known to me, but they are not able to tell the interpretation of the message."
+
+- triggers: ["!daniel5:16 ","!dan5:16 ","!da5:16 "]
+  replace: "But I have heard concerning you that you are able to provide interpretations and to solve knotty problems. Now if you are able to read the writing and to make its interpretation known to me, you will be clothed with purple, a gold necklace will be placed around your neck, and you will rule as the third one in the kingdom.”"
+
+- triggers: ["!daniel5:17 ","!dan5:17 ","!da5:17 "]
+  replace: "Daniel then replied to the king: “You may keep your gifts and give your presents to others. However, I will read the writing to the king and make known its interpretation to him."
+
+- triggers: ["!daniel5:18 ","!dan5:18 ","!da5:18 "]
+  replace: "As for you, O king, the Most High God granted to Nebuchadnezʹzar your father the kingdom and greatness and honor and majesty."
+
+- triggers: ["!daniel5:19 ","!dan5:19 ","!da5:19 "]
+  replace: "Because of the greatness He gave him, all peoples, nations, and language groups trembled with fear before him. Whomever he wanted, he killed or let live, and whomever he wanted, he exalted or humiliated."
+
+- triggers: ["!daniel5:20 ","!dan5:20 ","!da5:20 "]
+  replace: "But when his heart became haughty and his spirit became hardened, so that he acted presumptuously, he was brought down from the throne of his kingdom, and his dignity was taken away from him."
+
+- triggers: ["!daniel5:21 ","!dan5:21 ","!da5:21 "]
+  replace: "He was driven away from mankind, and his heart was made like that of a beast, and his dwelling was with the wild donkeys. He was given vegetation to eat just like bulls, and his body became wet with the dew of the heavens, until he came to know that the Most High God is Ruler in the kingdom of mankind and that he sets up over it whomever he wants."
+
+- triggers: ["!daniel5:22 ","!dan5:22 ","!da5:22 "]
+  replace: "“But you, his son Belshazʹzar, have not humbled your heart, although you knew all of this."
+
+- triggers: ["!daniel5:23 ","!dan5:23 ","!da5:23 "]
+  replace: "Instead, you exalted yourself against the Lord of the heavens, and you had them bring you the vessels of his house. Then you and your nobles, your concubines and your secondary wives drank wine from them and praised gods of silver and gold, of copper, iron, wood, and stone, gods that see nothing and hear nothing and know nothing. But you have not glorified the God in whose hand is your breath and all your ways."
+
+- triggers: ["!daniel5:24 ","!dan5:24 ","!da5:24 "]
+  replace: "So the hand was sent from him, and this writing was inscribed."
+
+- triggers: ["!daniel5:25 ","!dan5:25 ","!da5:25 "]
+  replace: "And this is the writing that was inscribed: MEʹNE, MEʹNE, TEʹKEL, and PARʹSIN."
+
+- triggers: ["!daniel5:26 ","!dan5:26 ","!da5:26 "]
+  replace: "“This is the interpretation of the words: MEʹNE, God has numbered the days of your kingdom and brought it to an end."
+
+- triggers: ["!daniel5:27 ","!dan5:27 ","!da5:27 "]
+  replace: "“TEʹKEL, you have been weighed in the balances and found lacking."
+
+- triggers: ["!daniel5:28 ","!dan5:28 ","!da5:28 "]
+  replace: "“PEʹRES, your kingdom has been divided and given to the Medes and the Persians.”"
+
+- triggers: ["!daniel5:29 ","!dan5:29 ","!da5:29 "]
+  replace: "Then Belshazʹzar gave the command, and they clothed Daniel with purple and placed a gold necklace around his neck; and they heralded concerning him that he was to become the third ruler in the kingdom."
+
+- triggers: ["!daniel5:30 ","!dan5:30 ","!da5:30 "]
+  replace: "That very night Belshazʹzar the Chaldeʹan king was killed."
+
+- triggers: ["!daniel5:31 ","!dan5:31 ","!da5:31 "]
+  replace: "And Dariʹus the Mede received the kingdom; he was about 62 years old."
+
+- triggers: ["!daniel6:1 ","!dan6:1 ","!da6:1 "]
+  replace: "It seemed good to Dariʹus to appoint 120 satraps over the whole kingdom."
+
+- triggers: ["!daniel6:2 ","!dan6:2 ","!da6:2 "]
+  replace: "Over them were three high officials, one of whom was Daniel; and the satraps would report to them, so that the king would not suffer loss."
+
+- triggers: ["!daniel6:3 ","!dan6:3 ","!da6:3 "]
+  replace: "Now Daniel was distinguishing himself over the other high officials and the satraps, for there was an extraordinary spirit in him, and the king intended to elevate him over the entire kingdom."
+
+- triggers: ["!daniel6:4 ","!dan6:4 ","!da6:4 "]
+  replace: "At that time the high officials and the satraps were seeking to find some grounds for accusation against Daniel respecting matters of state, but they could find no grounds for accusation or anything corrupt, for he was trustworthy and no negligence or corruption could be found in him."
+
+- triggers: ["!daniel6:5 ","!dan6:5 ","!da6:5 "]
+  replace: "These men then said: “We will find in this Daniel no grounds for accusation at all, unless we find it against him in the law of his God.”"
+
+- triggers: ["!daniel6:6 ","!dan6:6 ","!da6:6 "]
+  replace: "So these high officials and satraps went in as a group to the king, and they said to him: “O King Dariʹus, may you live on forever."
+
+- triggers: ["!daniel6:7 ","!dan6:7 ","!da6:7 "]
+  replace: "All the royal officials, prefects, satraps, high royal officers, and governors have consulted together to establish a royal decree and to enforce a ban, that for 30 days whoever makes a petition to any god or man except to you, O king, should be thrown into the lions’ pit."
+
+- triggers: ["!daniel6:8 ","!dan6:8 ","!da6:8 "]
+  replace: "Now, O king, may you establish the decree and sign it, so that it cannot be changed, according to the law of the Medes and the Persians, which cannot be annulled.”"
+
+- triggers: ["!daniel6:9 ","!dan6:9 ","!da6:9 "]
+  replace: "So King Dariʹus signed the decree and the ban."
+
+- triggers: ["!daniel6:10 ","!dan6:10 ","!da6:10 "]
+  replace: "But as soon as Daniel knew that the decree had been signed, he went to his house, which had the windows of his roof chamber open toward Jerusalem. And three times a day he got down on his knees and prayed and offered praise before his God, as he had regularly done prior to this."
+
+- triggers: ["!daniel6:11 ","!dan6:11 ","!da6:11 "]
+  replace: "At that time those men burst in and found Daniel petitioning and pleading for favor before his God."
+
+- triggers: ["!daniel6:12 ","!dan6:12 ","!da6:12 "]
+  replace: "So they approached the king and reminded him about the royal ban: “Did you not sign a ban stating that for 30 days any man who makes a petition to any god or man except to you, O king, should be thrown into the lions’ pit?” The king replied: “The matter is well-established according to the law of the Medes and the Persians, which cannot be annulled.”"
+
+- triggers: ["!daniel6:13 ","!dan6:13 ","!da6:13 "]
+  replace: "They immediately said to the king: “Daniel, who is of the exiles of Judah, has paid no regard to you, O king, nor to the ban that you signed, but three times a day he is praying.”"
+
+- triggers: ["!daniel6:14 ","!dan6:14 ","!da6:14 "]
+  replace: "As soon as the king heard this, he was greatly distressed, and he tried to think of a way to rescue Daniel; and until the sun set he made every effort to save him."
+
+- triggers: ["!daniel6:15 ","!dan6:15 ","!da6:15 "]
+  replace: "Finally those men went in as a group to the king, and they said to the king: “Take note, O king, that the law of the Medes and the Persians is that any ban or decree that the king establishes cannot be changed.”"
+
+- triggers: ["!daniel6:16 ","!dan6:16 ","!da6:16 "]
+  replace: "So the king gave the order, and they brought Daniel and threw him into the pit of lions. The king said to Daniel: “Your God whom you are continually serving will rescue you.”"
+
+- triggers: ["!daniel6:17 ","!dan6:17 ","!da6:17 "]
+  replace: "Then a stone was brought and placed over the entrance of the pit, and the king sealed it with his signet ring and with the signet ring of his nobles, so that nothing could be changed with regard to Daniel."
+
+- triggers: ["!daniel6:18 ","!dan6:18 ","!da6:18 "]
+  replace: "The king then went to his palace. He passed the night fasting and refused any entertainment, and he could not sleep."
+
+- triggers: ["!daniel6:19 ","!dan6:19 ","!da6:19 "]
+  replace: "Finally at the first light of dawn, the king got up and hurried to the lions’ pit."
+
+- triggers: ["!daniel6:20 ","!dan6:20 ","!da6:20 "]
+  replace: "As he got near the pit, he called out to Daniel with a sad voice. The king asked Daniel: “O Daniel, servant of the living God, has your God whom you are continually serving been able to rescue you from the lions?”"
+
+- triggers: ["!daniel6:21 ","!dan6:21 ","!da6:21 "]
+  replace: "Daniel immediately said to the king: “O king, may you live on forever."
+
+- triggers: ["!daniel6:22 ","!dan6:22 ","!da6:22 "]
+  replace: "My God sent his angel and shut the mouth of the lions, and they have not harmed me, for I was found innocent before him; nor have I done any wrong to you, O king.”"
+
+- triggers: ["!daniel6:23 ","!dan6:23 ","!da6:23 "]
+  replace: "The king was overjoyed, and he commanded that Daniel be lifted up out of the pit. When Daniel was lifted up out of the pit, he was completely unharmed, because he had trusted in his God."
+
+- triggers: ["!daniel6:24 ","!dan6:24 ","!da6:24 "]
+  replace: "The king then gave an order, and the men who had accused Daniel were brought, and they were thrown into the lions’ pit, along with their sons and their wives. They had not reached the bottom of the pit before the lions overpowered them and crushed all their bones."
+
+- triggers: ["!daniel6:25 ","!dan6:25 ","!da6:25 "]
+  replace: "Then King Dariʹus wrote to all the peoples, nations, and language groups dwelling throughout the earth: “May you have abundant peace!"
+
+- triggers: ["!daniel6:26 ","!dan6:26 ","!da6:26 "]
+  replace: "I am issuing an order that in every domain of my kingdom, people are to tremble in fear before the God of Daniel. For he is the living God and he endures forever. His kingdom will never be destroyed, and his rulership is eternal."
+
+- triggers: ["!daniel6:27 ","!dan6:27 ","!da6:27 "]
+  replace: "He rescues, saves, and performs signs and wonders in the heavens and on the earth, for he rescued Daniel from the paw of the lions.”"
+
+- triggers: ["!daniel6:28 ","!dan6:28 ","!da6:28 "]
+  replace: "So this Daniel prospered in the kingdom of Dariʹus and in the kingdom of Cyrus the Persian."
+
+- triggers: ["!daniel7:1 ","!dan7:1 ","!da7:1 "]
+  replace: "In the first year of King Belshazʹzar of Babylon, Daniel saw a dream and visions of his head as he lay on his bed. Then he wrote down the dream; he recorded a complete account of the matters."
+
+- triggers: ["!daniel7:2 ","!dan7:2 ","!da7:2 "]
+  replace: "Daniel declared: “I was watching in my visions during the night, and look! the four winds of the heavens were stirring up the vast sea."
+
+- triggers: ["!daniel7:3 ","!dan7:3 ","!da7:3 "]
+  replace: "And four huge beasts came out of the sea, each different from the others."
+
+- triggers: ["!daniel7:4 ","!dan7:4 ","!da7:4 "]
+  replace: "“The first one was like a lion, and it had the wings of an eagle. I watched until its wings were plucked out, and it was lifted up from the earth and was made to stand up on two feet like a man, and it was given the heart of a man."
+
+- triggers: ["!daniel7:5 ","!dan7:5 ","!da7:5 "]
+  replace: "“And look! another beast, a second one, like a bear. It was raised up on one side, and three ribs were in its mouth between its teeth; and it was told, ‘Get up, eat much flesh.’"
+
+- triggers: ["!daniel7:6 ","!dan7:6 ","!da7:6 "]
+  replace: "“After this I kept watching, and look! another beast, like a leopard, but on its back it had four wings like those of a bird. And the beast had four heads, and it was given authority to rule."
+
+- triggers: ["!daniel7:7 ","!dan7:7 ","!da7:7 "]
+  replace: "“After this I kept watching in the visions of the night, and I saw a fourth beast, fearsome and terrifying and unusually strong, and it had large iron teeth. It was devouring and crushing, and what was left it trampled down with its feet. It was different from all the other beasts that were prior to it, and it had ten horns."
+
+- triggers: ["!daniel7:8 ","!dan7:8 ","!da7:8 "]
+  replace: "While I considered the horns, look! another horn, a small one, came up among them, and three of the first horns were plucked up from before it. And look! there were eyes like human eyes in this horn, and there was a mouth speaking arrogantly."
+
+- triggers: ["!daniel7:9 ","!dan7:9 ","!da7:9 "]
+  replace: "“I kept watching until thrones were set in place and the Ancient of Days sat down. His clothing was white like snow, and the hair of his head was like clean wool. His throne was flames of fire; its wheels were a burning fire."
+
+- triggers: ["!daniel7:10 ","!dan7:10 ","!da7:10 "]
+  replace: "A stream of fire was flowing and going out from before him. A thousand thousands kept ministering to him, and ten thousand times ten thousand stood before him. The Court took its seat, and books were opened."
+
+- triggers: ["!daniel7:11 ","!dan7:11 ","!da7:11 "]
+  replace: "“I kept watching at that time because of the sound of the arrogant words that the horn was speaking; I watched until the beast was killed and its body was destroyed and it was given over to be burned in the fire."
+
+- triggers: ["!daniel7:12 ","!dan7:12 ","!da7:12 "]
+  replace: "But as for the rest of the beasts, their rulerships were taken away, and their lives were prolonged for a time and a season."
+
+- triggers: ["!daniel7:13 ","!dan7:13 ","!da7:13 "]
+  replace: "“I kept watching in the visions of the night, and look! with the clouds of the heavens, someone like a son of man was coming; and he gained access to the Ancient of Days, and they brought him up close before that One."
+
+- triggers: ["!daniel7:14 ","!dan7:14 ","!da7:14 "]
+  replace: "And to him there were given rulership, honor, and a kingdom, that the peoples, nations, and language groups should all serve him. His rulership is an everlasting rulership that will not pass away, and his kingdom will not be destroyed."
+
+- triggers: ["!daniel7:15 ","!dan7:15 ","!da7:15 "]
+  replace: "“As for me, Daniel, my spirit was distressed within me because the visions of my head frightened me."
+
+- triggers: ["!daniel7:16 ","!dan7:16 ","!da7:16 "]
+  replace: "I went near to one of those who were standing there to ask him about the true meaning of this. So he replied and made known to me the interpretation of these things."
+
+- triggers: ["!daniel7:17 ","!dan7:17 ","!da7:17 "]
+  replace: "“‘These huge beasts, four in number, are four kings who will stand up from the earth."
+
+- triggers: ["!daniel7:18 ","!dan7:18 ","!da7:18 "]
+  replace: "But the holy ones of the Supreme One will receive the kingdom, and they will possess the kingdom forever, yes, forever and ever.’"
+
+- triggers: ["!daniel7:19 ","!dan7:19 ","!da7:19 "]
+  replace: "“Then I wanted to know more about the fourth beast, which was different from all the others; it was extraordinarily fearsome, with iron teeth and copper claws, and it was devouring and crushing, and trampling down what was left with its feet;"
+
+- triggers: ["!daniel7:20 ","!dan7:20 ","!da7:20 "]
+  replace: "and about the ten horns on its head, and the other horn that came up and before which three fell, the horn that had eyes and a mouth speaking arrogantly and whose appearance was bigger than that of the others."
+
+- triggers: ["!daniel7:21 ","!dan7:21 ","!da7:21 "]
+  replace: "“I kept watching as that horn made war on the holy ones, and it was prevailing against them,"
+
+- triggers: ["!daniel7:22 ","!dan7:22 ","!da7:22 "]
+  replace: "until the Ancient of Days came and judgment was rendered in favor of the holy ones of the Supreme One, and the appointed time arrived for the holy ones to take possession of the kingdom."
+
+- triggers: ["!daniel7:23 ","!dan7:23 ","!da7:23 "]
+  replace: "“This is what he said: ‘As for the fourth beast, there is a fourth kingdom that will come to be on the earth. It will be different from all the other kingdoms, and it will devour all the earth and will trample it down and crush it."
+
+- triggers: ["!daniel7:24 ","!dan7:24 ","!da7:24 "]
+  replace: "As for the ten horns, ten kings will rise up out of that kingdom; and still another one will rise up after them, and he will be different from the first ones, and he will humiliate three kings."
+
+- triggers: ["!daniel7:25 ","!dan7:25 ","!da7:25 "]
+  replace: "He will speak words against the Most High, and he will continually harass the holy ones of the Supreme One. He will intend to change times and law, and they will be given into his hand for a time, times, and half a time."
+
+- triggers: ["!daniel7:26 ","!dan7:26 ","!da7:26 "]
+  replace: "But the Court sat, and they took away his rulership, in order to annihilate him and to destroy him completely."
+
+- triggers: ["!daniel7:27 ","!dan7:27 ","!da7:27 "]
+  replace: "“‘And the kingdom and the rulership and the grandeur of the kingdoms under all the heavens were given to the people who are the holy ones of the Supreme One. Their kingdom is an everlasting kingdom, and all rulerships will serve and obey them.’"
+
+- triggers: ["!daniel7:28 ","!dan7:28 ","!da7:28 "]
+  replace: "“This is the end of the matter. As for me, Daniel, my thoughts alarmed me greatly, so that I turned pale; but I kept the matter in my own heart.”"
+
+- triggers: ["!daniel8:1 ","!dan8:1 ","!da8:1 "]
+  replace: "In the third year of the kingship of King Belshazʹzar, a vision appeared to me, Daniel, after the one that appeared to me previously."
+
+- triggers: ["!daniel8:2 ","!dan8:2 ","!da8:2 "]
+  replace: "I saw the vision, and as I watched I was in Shuʹshan the citadel, which is in the province of Eʹlam; I viewed the vision, and I was next to the watercourse of Uʹlai."
+
+- triggers: ["!daniel8:3 ","!dan8:3 ","!da8:3 "]
+  replace: "As I raised my eyes, look! there was a ram standing before the watercourse, and it had two horns. The two horns were tall, but one was higher than the other, and the higher one came up later."
+
+- triggers: ["!daniel8:4 ","!dan8:4 ","!da8:4 "]
+  replace: "I saw the ram making thrusts to the west and to the north and to the south, and no wild beasts could stand before it, and there was no one who could provide rescue from its power. It did as it pleased and exalted itself."
+
+- triggers: ["!daniel8:5 ","!dan8:5 ","!da8:5 "]
+  replace: "As I kept watching, look! there was a male goat coming from the west crossing the surface of the whole earth without touching the ground. And the goat had a conspicuous horn between its eyes."
+
+- triggers: ["!daniel8:6 ","!dan8:6 ","!da8:6 "]
+  replace: "It was coming toward the ram with the two horns, which I had seen standing before the watercourse; it was running toward it in a powerful rage."
+
+- triggers: ["!daniel8:7 ","!dan8:7 ","!da8:7 "]
+  replace: "I saw it closing in on the ram, and it was filled with bitterness toward it. It struck down the ram and broke its two horns, and the ram was powerless to stand up to it. It threw the ram to the ground and trampled it down, and there was no one to rescue it from its power."
+
+- triggers: ["!daniel8:8 ","!dan8:8 ","!da8:8 "]
+  replace: "Then the male goat exalted itself exceedingly, but as soon as it became mighty, the great horn was broken; then four conspicuous horns came up instead of the one, toward the four winds of the heavens."
+
+- triggers: ["!daniel8:9 ","!dan8:9 ","!da8:9 "]
+  replace: "Out of one of them came another horn, a small one, and it grew very great toward the south and toward the east and toward the Decoration."
+
+- triggers: ["!daniel8:10 ","!dan8:10 ","!da8:10 "]
+  replace: "It grew so great that it reached all the way to the army of the heavens, and it caused some of the army and some of the stars to fall to the earth, and it trampled them down."
+
+- triggers: ["!daniel8:11 ","!dan8:11 ","!da8:11 "]
+  replace: "It exalted itself even against the Prince of the army, and from him the constant feature was taken away, and the established place of his sanctuary was thrown down."
+
+- triggers: ["!daniel8:12 ","!dan8:12 ","!da8:12 "]
+  replace: "And an army was given over, together with the constant feature, because of transgression; and it kept throwing truth to the earth, and it acted and had success."
+
+- triggers: ["!daniel8:13 ","!dan8:13 ","!da8:13 "]
+  replace: "And I heard a holy one speaking, and another holy one said to the one speaking: “How long will the vision of the constant feature and of the transgression causing desolation continue, to make both the holy place and the army things to trample on?”"
+
+- triggers: ["!daniel8:14 ","!dan8:14 ","!da8:14 "]
+  replace: "So he said to me: “Until 2,300 evenings and mornings; and the holy place will certainly be restored to its right condition.”"
+
+- triggers: ["!daniel8:15 ","!dan8:15 ","!da8:15 "]
+  replace: "While I, Daniel, was watching the vision and seeking to understand it, suddenly I saw standing in front of me someone who appeared to be a man."
+
+- triggers: ["!daniel8:16 ","!dan8:16 ","!da8:16 "]
+  replace: "Then I heard the voice of a man in the midst of the Uʹlai, and he called out: “Gaʹbriel, make that one understand what he saw.”"
+
+- triggers: ["!daniel8:17 ","!dan8:17 ","!da8:17 "]
+  replace: "So he came near to where I was standing, but when he came I was so terrified that I fell facedown. He said to me: “Understand, O son of man, that the vision is for the time of the end.”"
+
+- triggers: ["!daniel8:18 ","!dan8:18 ","!da8:18 "]
+  replace: "But while he was speaking with me, I fell fast asleep with my face to the ground. So he touched me and made me stand up where I had been standing."
+
+- triggers: ["!daniel8:19 ","!dan8:19 ","!da8:19 "]
+  replace: "Then he said: “Here I am causing you to know what will happen in the final part of the denunciation, because it is for the appointed time of the end."
+
+- triggers: ["!daniel8:20 ","!dan8:20 ","!da8:20 "]
+  replace: "“The two-horned ram that you saw stands for the kings of Meʹdia and Persia."
+
+- triggers: ["!daniel8:21 ","!dan8:21 ","!da8:21 "]
+  replace: "The hairy male goat stands for the king of Greece; and the great horn that was between its eyes stands for the first king."
+
+- triggers: ["!daniel8:22 ","!dan8:22 ","!da8:22 "]
+  replace: "As for the horn that was broken, so that four stood up instead of it, there are four kingdoms from his nation that will stand up, but not with his power."
+
+- triggers: ["!daniel8:23 ","!dan8:23 ","!da8:23 "]
+  replace: "“And in the final part of their kingdom, as the transgressors act to a completion, a fierce-looking king who understands ambiguous sayings will stand up."
+
+- triggers: ["!daniel8:24 ","!dan8:24 ","!da8:24 "]
+  replace: "His power will become great, but not through his own power. He will bring ruin in an extraordinary way, and he will be successful and act effectively. He will bring mighty ones to ruin, also the people made up of the holy ones."
+
+- triggers: ["!daniel8:25 ","!dan8:25 ","!da8:25 "]
+  replace: "And by his cunning he will use deception to succeed; and in his heart he will exalt himself; and during a time of security he will bring many to ruin. He will even stand up against the Prince of princes, but he will be broken without human hand."
+
+- triggers: ["!daniel8:26 ","!dan8:26 ","!da8:26 "]
+  replace: "“What was said in the vision about the evenings and the mornings is true, but you must keep the vision secret, for it refers to a time many days from now.”"
+
+- triggers: ["!daniel8:27 ","!dan8:27 ","!da8:27 "]
+  replace: "As for me, Daniel, I felt exhausted and I was sick for some days. Then I got up and carried out the king’s work; but I was numbed by what I had seen, and no one could understand it."
+
+- triggers: ["!daniel9:1 ","!dan9:1 ","!da9:1 "]
+  replace: "In the first year of Dariʹus the son of Ahasueʹrus—a descendant of the Medes who had been made king over the kingdom of the Chaldeʹans—"
+
+- triggers: ["!daniel9:2 ","!dan9:2 ","!da9:2 "]
+  replace: "in the first year of his reign I, Daniel, discerned by the books the number of years mentioned in the word of Jehovah to Jeremiah the prophet to fulfill the desolation of Jerusalem, namely, 70 years."
+
+- triggers: ["!daniel9:3 ","!dan9:3 ","!da9:3 "]
+  replace: "So I turned my face to Jehovah the true God, entreating him in prayer, along with fasting and sackcloth and ashes."
+
+- triggers: ["!daniel9:4 ","!dan9:4 ","!da9:4 "]
+  replace: "I prayed to Jehovah my God and made confession and said: “O Jehovah the true God, the great and awe-inspiring One, who keeps his covenant and shows loyal love to those who love him and keep his commandments,"
+
+- triggers: ["!daniel9:5 ","!dan9:5 ","!da9:5 "]
+  replace: "we have sinned and done wrong and acted wickedly and rebelled; and we have deviated from your commandments and your judgments."
+
+- triggers: ["!daniel9:6 ","!dan9:6 ","!da9:6 "]
+  replace: "We have not listened to your servants the prophets, who spoke in your name to our kings, our princes, our forefathers, and all the people of the land."
+
+- triggers: ["!daniel9:7 ","!dan9:7 ","!da9:7 "]
+  replace: "To you, O Jehovah, belongs righteousness, but to us belongs shame as is the case today, to the men of Judah, the inhabitants of Jerusalem, and all Israel, those nearby and far away, in all the lands to which you dispersed them because they acted unfaithfully toward you."
+
+- triggers: ["!daniel9:8 ","!dan9:8 ","!da9:8 "]
+  replace: "“O Jehovah, to us belongs shame, to our kings, our princes, and our forefathers, because we have sinned against you."
+
+- triggers: ["!daniel9:9 ","!dan9:9 ","!da9:9 "]
+  replace: "To Jehovah our God belong mercy and forgiveness, for we have rebelled against him."
+
+- triggers: ["!daniel9:10 ","!dan9:10 ","!da9:10 "]
+  replace: "We have not obeyed the voice of Jehovah our God by following his laws that he set before us through his servants the prophets."
+
+- triggers: ["!daniel9:11 ","!dan9:11 ","!da9:11 "]
+  replace: "All Israel has overstepped your Law and turned away by not obeying your voice, so that you poured out on us the curse and the sworn oath written about in the Law of Moses the servant of the true God, for we have sinned against Him."
+
+- triggers: ["!daniel9:12 ","!dan9:12 ","!da9:12 "]
+  replace: "He has carried out his words that he spoke against us and against our rulers who ruled over us, by bringing great calamity on us; nothing has ever been done under the whole heavens such as what was done in Jerusalem."
+
+- triggers: ["!daniel9:13 ","!dan9:13 ","!da9:13 "]
+  replace: "Just as it is written in the Law of Moses, all this calamity has come upon us, yet we have not begged for the favor of Jehovah our God by turning away from our error and by showing insight into your truth."
+
+- triggers: ["!daniel9:14 ","!dan9:14 ","!da9:14 "]
+  replace: "“So Jehovah kept watchful and brought calamity on us, for Jehovah our God is righteous in all the works that he has done; yet we have not obeyed his voice."
+
+- triggers: ["!daniel9:15 ","!dan9:15 ","!da9:15 "]
+  replace: "“Now, O Jehovah our God, the One who brought your people out of the land of Egypt by a mighty hand and made a name for yourself down to this day, we have sinned and acted wickedly."
+
+- triggers: ["!daniel9:16 ","!dan9:16 ","!da9:16 "]
+  replace: "O Jehovah, according to all your righteous acts, please, may your anger and wrath turn away from your city Jerusalem, your holy mountain; for because of our sins and the errors of our forefathers, Jerusalem and your people are an object of reproach to all those around us."
+
+- triggers: ["!daniel9:17 ","!dan9:17 ","!da9:17 "]
+  replace: "And now listen, O our God, to the prayer of your servant and to his entreaties, and cause your face to shine upon your sanctuary that is desolate, for your own sake, O Jehovah."
+
+- triggers: ["!daniel9:18 ","!dan9:18 ","!da9:18 "]
+  replace: "Incline your ear, O my God, and hear! Do open your eyes and see our desolate condition and the city that has been called by your name; for we are not entreating you because of our righteous acts but because of your great mercy."
+
+- triggers: ["!daniel9:19 ","!dan9:19 ","!da9:19 "]
+  replace: "O Jehovah, do hear. O Jehovah, do forgive. O Jehovah, do pay attention and act! Do not delay, for your own sake, O my God, for your own name has been called upon your city and upon your people.”"
+
+- triggers: ["!daniel9:20 ","!dan9:20 ","!da9:20 "]
+  replace: "While I was still speaking and praying and confessing my sin and the sin of my people Israel and making my request for favor before Jehovah my God concerning the holy mountain of my God,"
+
+- triggers: ["!daniel9:21 ","!dan9:21 ","!da9:21 "]
+  replace: "yes, while I was yet speaking in prayer, the man Gaʹbriel, whom I had previously seen in the vision, came to me when I was extremely weary at about the time of the evening gift offering."
+
+- triggers: ["!daniel9:22 ","!dan9:22 ","!da9:22 "]
+  replace: "And he gave me understanding, saying: “O Daniel, now I have come to give you insight and understanding."
+
+- triggers: ["!daniel9:23 ","!dan9:23 ","!da9:23 "]
+  replace: "When you began your entreaty the word went out, and I have come to report it to you, because you are someone very precious. So consider the matter and understand the vision."
+
+- triggers: ["!daniel9:24 ","!dan9:24 ","!da9:24 "]
+  replace: "“There are 70 weeks that have been determined for your people and your holy city, in order to terminate the transgression, to finish off sin, to make atonement for error, to bring in everlasting righteousness, to seal up the vision and the prophecy, and to anoint the Holy of Holies."
+
+- triggers: ["!daniel9:25 ","!dan9:25 ","!da9:25 "]
+  replace: "You should know and understand that from the issuing of the word to restore and to rebuild Jerusalem until Messiʹah the Leader, there will be 7 weeks, also 62 weeks. She will be restored and rebuilt, with a public square and moat, but in times of distress."
+
+- triggers: ["!daniel9:26 ","!dan9:26 ","!da9:26 "]
+  replace: "“And after the 62 weeks, Messiʹah will be cut off, with nothing for himself. “And the people of a leader who is coming will destroy the city and the holy place. And its end will be by the flood. And until the end there will be war; what is decided upon is desolations."
+
+- triggers: ["!daniel9:27 ","!dan9:27 ","!da9:27 "]
+  replace: "“And he will keep the covenant in force for the many for one week; and at the half of the week, he will cause sacrifice and gift offering to cease. “And on the wing of disgusting things there will be the one causing desolation; and until an extermination, what was decided on will be poured out also on the one lying desolate.”"
+
+- triggers: ["!daniel10:1 ","!dan10:1 ","!da10:1 "]
+  replace: "In the third year of King Cyrus of Persia, a revelation was given to Daniel, who was called by the name Belteshazʹzar; and the message was true, and it was about a great conflict. And he understood the message and was given understanding about what he had seen."
+
+- triggers: ["!daniel10:2 ","!dan10:2 ","!da10:2 "]
+  replace: "In those days I, Daniel, had been mourning for three full weeks."
+
+- triggers: ["!daniel10:3 ","!dan10:3 ","!da10:3 "]
+  replace: "I ate no rich food, and no meat or wine entered my mouth, and I did not put any oil on myself for three full weeks."
+
+- triggers: ["!daniel10:4 ","!dan10:4 ","!da10:4 "]
+  replace: "On the 24th day of the first month, while I was on the bank of the great river, the Tiʹgris,"
+
+- triggers: ["!daniel10:5 ","!dan10:5 ","!da10:5 "]
+  replace: "I looked up and saw a man clothed in linen, and around his waist was a belt of gold from Uʹphaz."
+
+- triggers: ["!daniel10:6 ","!dan10:6 ","!da10:6 "]
+  replace: "His body was like chrysʹolite, his face had the appearance of lightning, his eyes were like fiery torches, his arms and his feet looked like burnished copper, and the sound of his words was like the sound of a multitude."
+
+- triggers: ["!daniel10:7 ","!dan10:7 ","!da10:7 "]
+  replace: "Only I, Daniel, saw the vision; the men with me did not see the vision. However, a great trembling seized them, and they ran away and hid."
+
+- triggers: ["!daniel10:8 ","!dan10:8 ","!da10:8 "]
+  replace: "Then I was left by myself, and when I saw this great vision, there was no power left in me and my dignified appearance left me and I lost all strength."
+
+- triggers: ["!daniel10:9 ","!dan10:9 ","!da10:9 "]
+  replace: "Then I heard the sound of him speaking; but when I heard him speaking, I fell fast asleep with my face to the ground."
+
+- triggers: ["!daniel10:10 ","!dan10:10 ","!da10:10 "]
+  replace: "But then a hand touched me, and it stirred me to get up on my hands and knees."
+
+- triggers: ["!daniel10:11 ","!dan10:11 ","!da10:11 "]
+  replace: "Then he said to me: “O Daniel, you very precious man, give attention to the words that I am about to speak to you. Now stand up in your place, for I have been sent to you.” When he said this to me, I stood up, trembling."
+
+- triggers: ["!daniel10:12 ","!dan10:12 ","!da10:12 "]
+  replace: "He then said to me: “Do not be afraid, O Daniel. Your words have been heard from the first day that you gave your heart to understanding and to humbling yourself before your God, and I have come because of your words."
+
+- triggers: ["!daniel10:13 ","!dan10:13 ","!da10:13 "]
+  replace: "But the prince of the royal realm of Persia stood in opposition to me for 21 days. But then Miʹchael, one of the foremost princes, came to help me; and I remained there beside the kings of Persia."
+
+- triggers: ["!daniel10:14 ","!dan10:14 ","!da10:14 "]
+  replace: "I have come to make you understand what will befall your people in the final part of the days, because it is a vision yet for the days to come.”"
+
+- triggers: ["!daniel10:15 ","!dan10:15 ","!da10:15 "]
+  replace: "Now when he spoke these words to me, I turned my face to the ground and became speechless."
+
+- triggers: ["!daniel10:16 ","!dan10:16 ","!da10:16 "]
+  replace: "Then one who looked like a man touched my lips, and I opened my mouth and said to the one who stood in front of me: “My lord, I am shuddering because of the vision, and I have no strength."
+
+- triggers: ["!daniel10:17 ","!dan10:17 ","!da10:17 "]
+  replace: "So how can my lord’s servant speak with my lord? For now I have no strength, and there is no breath left in me.”"
+
+- triggers: ["!daniel10:18 ","!dan10:18 ","!da10:18 "]
+  replace: "The one who looked like a man touched me again and strengthened me."
+
+- triggers: ["!daniel10:19 ","!dan10:19 ","!da10:19 "]
+  replace: "Then he said: “Do not be afraid, O very precious man. May you have peace. Be strong, yes, be strong.” As he spoke with me I was strengthened and I said: “Let my lord speak, for you have strengthened me.”"
+
+- triggers: ["!daniel10:20 ","!dan10:20 ","!da10:20 "]
+  replace: "Then he said: “Do you know why I have come to you? Now I will go back to fight with the prince of Persia. When I leave, the prince of Greece will come."
+
+- triggers: ["!daniel10:21 ","!dan10:21 ","!da10:21 "]
+  replace: "However, I will tell you the things recorded in the writings of truth. There is no one strongly supporting me in these things but Miʹchael, your prince."
+
+- triggers: ["!daniel11:1 ","!dan11:1 ","!da11:1 "]
+  replace: "“As for me, in the first year of Dariʹus the Mede, I stood up to strengthen and fortify him."
+
+- triggers: ["!daniel11:2 ","!dan11:2 ","!da11:2 "]
+  replace: "What I will tell you now is the truth: “Look! Three more kings will stand up for Persia, and the fourth one will amass greater riches than all others. And when he becomes strong by means of his riches, he will rouse up everything against the kingdom of Greece."
+
+- triggers: ["!daniel11:3 ","!dan11:3 ","!da11:3 "]
+  replace: "“And a mighty king will stand up and rule with extensive dominion and do as he pleases."
+
+- triggers: ["!daniel11:4 ","!dan11:4 ","!da11:4 "]
+  replace: "But when he has stood up, his kingdom will be broken and be divided toward the four winds of the heavens, but not to his descendants and not like the dominion with which he ruled; for his kingdom will be uprooted and go to others besides these."
+
+- triggers: ["!daniel11:5 ","!dan11:5 ","!da11:5 "]
+  replace: "“And the king of the south will become strong, that is, one of his princes; but one will prevail against him and will rule with extensive dominion, greater than that one’s ruling power."
+
+- triggers: ["!daniel11:6 ","!dan11:6 ","!da11:6 "]
+  replace: "“After some years they will make an alliance, and the daughter of the king of the south will come to the king of the north in order to make an equitable arrangement. But she will not retain the power of her arm; and he will not stand, nor his arm; and she will be given up, she and those bringing her in, and the one who caused her birth, and the one making her strong in those times."
+
+- triggers: ["!daniel11:7 ","!dan11:7 ","!da11:7 "]
+  replace: "And one from the sprout of her roots will stand up in his position, and he will come to the army and come against the fortress of the king of the north and will take action against them and prevail."
+
+- triggers: ["!daniel11:8 ","!dan11:8 ","!da11:8 "]
+  replace: "Also with their gods, with their metal images, with their desirable articles of silver and of gold, and with captives, he will come to Egypt. For some years he will stand off from the king of the north,"
+
+- triggers: ["!daniel11:9 ","!dan11:9 ","!da11:9 "]
+  replace: "who will come against the kingdom of the king of the south, but will go back to his own land."
+
+- triggers: ["!daniel11:10 ","!dan11:10 ","!da11:10 "]
+  replace: "“As for his sons, they will prepare for war and assemble a vast, great army. He will certainly advance and sweep through like a flood. But he will go back, and he will wage war all the way to his fortress."
+
+- triggers: ["!daniel11:11 ","!dan11:11 ","!da11:11 "]
+  replace: "“And the king of the south will become bitter and will go out and fight with him, that is, with the king of the north; and he will muster a large crowd, but the crowd will be given into that one’s hand."
+
+- triggers: ["!daniel11:12 ","!dan11:12 ","!da11:12 "]
+  replace: "And the crowd will be carried away. His heart will become exalted, and he will cause tens of thousands to fall; but he will not make use of his strong position."
+
+- triggers: ["!daniel11:13 ","!dan11:13 ","!da11:13 "]
+  replace: "“And the king of the north will return and muster a crowd larger than the first; and at the end of the times, after some years, he will surely come with a large army and with many resources."
+
+- triggers: ["!daniel11:14 ","!dan11:14 ","!da11:14 "]
+  replace: "In those times many will stand up against the king of the south. “And the violent ones among your people will be carried along to try making a vision come true; but they will stumble."
+
+- triggers: ["!daniel11:15 ","!dan11:15 ","!da11:15 "]
+  replace: "“And the king of the north will come and throw up a siege rampart and capture a fortified city. And the arms of the south will not stand, nor will his select men; and they will have no power to stand."
+
+- triggers: ["!daniel11:16 ","!dan11:16 ","!da11:16 "]
+  replace: "The one coming against him will do as he pleases, and no one will stand before him. He will stand in the land of the Decoration, and ability to exterminate will be in his hand."
+
+- triggers: ["!daniel11:17 ","!dan11:17 ","!da11:17 "]
+  replace: "He will set his face to come with the full force of his kingdom, and there will be equitable terms with him; and he will act effectively. As regards the daughter of women, it will be granted to him to bring her to ruin. And she will not stand, and she will not continue to be his."
+
+- triggers: ["!daniel11:18 ","!dan11:18 ","!da11:18 "]
+  replace: "He will turn his face back to the coastlands and will capture many. And a commander will make the reproach from him cease for himself, so that his reproach will not be. He will make it turn back on that one."
+
+- triggers: ["!daniel11:19 ","!dan11:19 ","!da11:19 "]
+  replace: "Then he will turn his face back to the fortresses of his own land, and he will stumble and fall, and he will not be found."
+
+- triggers: ["!daniel11:20 ","!dan11:20 ","!da11:20 "]
+  replace: "“And there will stand up in his position one who causes an exactor to pass through the splendid kingdom, but in a few days he will be broken, though not in anger nor in warfare."
+
+- triggers: ["!daniel11:21 ","!dan11:21 ","!da11:21 "]
+  replace: "“And there will stand up in his position a despised one, and they will not give him the majesty of the kingdom; and he will come in during a time of security and take hold of the kingdom by means of smoothness."
+
+- triggers: ["!daniel11:22 ","!dan11:22 ","!da11:22 "]
+  replace: "And the arms of the flood will be swept away on account of him, and they will be broken; as will be the Leader of the covenant."
+
+- triggers: ["!daniel11:23 ","!dan11:23 ","!da11:23 "]
+  replace: "And because of their alliance with him, he will carry on deception and rise up and become mighty by means of a little nation."
+
+- triggers: ["!daniel11:24 ","!dan11:24 ","!da11:24 "]
+  replace: "During a time of security he will come into the richest parts of the province and do what his fathers and their fathers have not done. Plunder and spoil and goods he will distribute among them; and against fortified places he will plot his schemes, but only for a time."
+
+- triggers: ["!daniel11:25 ","!dan11:25 ","!da11:25 "]
+  replace: "“And he will muster his power and his heart against the king of the south with a large army, and the king of the south will prepare himself for the war with an exceedingly large and mighty army. And he will not stand, because they will plot schemes against him."
+
+- triggers: ["!daniel11:26 ","!dan11:26 ","!da11:26 "]
+  replace: "And those eating his delicacies will bring his downfall. “As for his army, it will be swept away, and many will fall down slain."
+
+- triggers: ["!daniel11:27 ","!dan11:27 ","!da11:27 "]
+  replace: "“As regards these two kings, their heart will be inclined to do what is bad, and they will sit at one table speaking lies to each other. But nothing will succeed, because the end is yet for the time appointed."
+
+- triggers: ["!daniel11:28 ","!dan11:28 ","!da11:28 "]
+  replace: "“And he will go back to his land with a great amount of goods, and his heart will be against the holy covenant. He will act effectively and go back to his land."
+
+- triggers: ["!daniel11:29 ","!dan11:29 ","!da11:29 "]
+  replace: "“At the time appointed he will return and come against the south. But this time will not be as it was before,"
+
+- triggers: ["!daniel11:30 ","!dan11:30 ","!da11:30 "]
+  replace: "for the ships of Kitʹtim will come against him, and he will be humbled. “He will go back and hurl denunciations against the holy covenant and act effectively; and he will go back and will give attention to those leaving the holy covenant."
+
+- triggers: ["!daniel11:31 ","!dan11:31 ","!da11:31 "]
+  replace: "And arms will stand up, proceeding from him; and they will profane the sanctuary, the fortress, and remove the constant feature. “And they will put in place the disgusting thing that causes desolation."
+
+- triggers: ["!daniel11:32 ","!dan11:32 ","!da11:32 "]
+  replace: "“And those who act wickedly against the covenant, he will lead into apostasy by means of smooth words. But the people who know their God will prevail and act effectively."
+
+- triggers: ["!daniel11:33 ","!dan11:33 ","!da11:33 "]
+  replace: "And those having insight among the people will impart understanding to the many. And they will be made to stumble by sword and by flame, by captivity and by plundering, for some days."
+
+- triggers: ["!daniel11:34 ","!dan11:34 ","!da11:34 "]
+  replace: "But when they are made to stumble, they will be given a little help; and many will join with them by means of smooth speech."
+
+- triggers: ["!daniel11:35 ","!dan11:35 ","!da11:35 "]
+  replace: "And some of those having insight will be made to stumble, in order to do a refining work because of them and to do a cleansing and a whitening until the time of the end; because it is yet for the time appointed."
+
+- triggers: ["!daniel11:36 ","!dan11:36 ","!da11:36 "]
+  replace: "“The king will do as he pleases, and he will exalt himself and magnify himself above every god; and against the God of gods he will speak astonishing things. And he will prove successful until the denunciation comes to a finish; because what is determined must take place."
+
+- triggers: ["!daniel11:37 ","!dan11:37 ","!da11:37 "]
+  replace: "He will show no regard for the God of his fathers; nor will he show regard for the desire of women or for any other god, but he will magnify himself over everyone."
+
+- triggers: ["!daniel11:38 ","!dan11:38 ","!da11:38 "]
+  replace: "But instead he will give glory to the god of fortresses; to a god that his fathers did not know he will give glory by means of gold and silver and precious stones and desirable things."
+
+- triggers: ["!daniel11:39 ","!dan11:39 ","!da11:39 "]
+  replace: "He will act effectively against the most fortified strongholds, along with a foreign god. He will give great glory to those who give him recognition, and he will make them rule among many; and the ground he will apportion out for a price."
+
+- triggers: ["!daniel11:40 ","!dan11:40 ","!da11:40 "]
+  replace: "“In the time of the end the king of the south will engage with him in a pushing, and against him the king of the north will storm with chariots and horsemen and many ships; and he will enter into the lands and sweep through like a flood."
+
+- triggers: ["!daniel11:41 ","!dan11:41 ","!da11:41 "]
+  replace: "He will also enter into the land of the Decoration, and many lands will be made to stumble. But these are the ones that will escape out of his hand: Eʹdom and Moʹab and the main part of the Amʹmonites."
+
+- triggers: ["!daniel11:42 ","!dan11:42 ","!da11:42 "]
+  replace: "And he will keep thrusting out his hand against the lands; and as regards the land of Egypt, she will not escape."
+
+- triggers: ["!daniel11:43 ","!dan11:43 ","!da11:43 "]
+  replace: "And he will rule over the hidden treasures of gold and silver and over all the desirable things of Egypt. And the Libʹyans and the Ethioʹpians will be at his steps."
+
+- triggers: ["!daniel11:44 ","!dan11:44 ","!da11:44 "]
+  replace: "“But reports out of the east and out of the north will disturb him, and he will go out in a great rage to annihilate and to devote many to destruction."
+
+- triggers: ["!daniel11:45 ","!dan11:45 ","!da11:45 "]
+  replace: "And he will plant his royal tents between the grand sea and the holy mountain of Decoration; and he will come all the way to his end, and there will be no helper for him."
+
+- triggers: ["!daniel12:1 ","!dan12:1 ","!da12:1 "]
+  replace: "“During that time Miʹchael will stand up, the great prince who is standing in behalf of your people. And there will occur a time of distress such as has not occurred since there came to be a nation until that time. And during that time your people will escape, everyone who is found written down in the book."
+
+- triggers: ["!daniel12:2 ","!dan12:2 ","!da12:2 "]
+  replace: "And many of those asleep in the dust of the earth will wake up, some to everlasting life and others to reproach and to everlasting contempt."
+
+- triggers: ["!daniel12:3 ","!dan12:3 ","!da12:3 "]
+  replace: "“And those having insight will shine as brightly as the expanse of heaven, and those bringing the many to righteousness like the stars, forever and ever."
+
+- triggers: ["!daniel12:4 ","!dan12:4 ","!da12:4 "]
+  replace: "“As for you, Daniel, keep the words secret, and seal up the book until the time of the end. Many will rove about, and the true knowledge will become abundant.”"
+
+- triggers: ["!daniel12:5 ","!dan12:5 ","!da12:5 "]
+  replace: "Then I, Daniel, looked and saw two others standing there, one on this bank of the stream and one on the other bank of the stream."
+
+- triggers: ["!daniel12:6 ","!dan12:6 ","!da12:6 "]
+  replace: "Then one said to the man clothed in linen, who was up above the waters of the stream: “How long will it be to the end of these marvelous things?”"
+
+- triggers: ["!daniel12:7 ","!dan12:7 ","!da12:7 "]
+  replace: "Then I heard the man clothed in linen, who was up above the waters of the stream, as he raised his right hand and his left hand to the heavens and swore by the One who is alive forever: “It will be for an appointed time, appointed times, and half a time. As soon as the dashing to pieces of the power of the holy people comes to an end, all these things will come to their finish.”"
+
+- triggers: ["!daniel12:8 ","!dan12:8 ","!da12:8 "]
+  replace: "Now as for me, I heard, but I could not understand; so I said: “O my lord, what will be the outcome of these things?”"
+
+- triggers: ["!daniel12:9 ","!dan12:9 ","!da12:9 "]
+  replace: "Then he said: “Go, Daniel, because the words are to be kept secret and sealed up until the time of the end."
+
+- triggers: ["!daniel12:10 ","!dan12:10 ","!da12:10 "]
+  replace: "Many will cleanse themselves and whiten themselves and will be refined. And the wicked ones will act wickedly, and none of the wicked will understand; but those having insight will understand."
+
+- triggers: ["!daniel12:11 ","!dan12:11 ","!da12:11 "]
+  replace: "“And from the time that the constant feature has been removed and the disgusting thing that causes desolation has been put in place, there will be 1,290 days."
+
+- triggers: ["!daniel12:12 ","!dan12:12 ","!da12:12 "]
+  replace: "“Happy is the one who keeps in expectation and who arrives at the 1,335 days!"
+
+- triggers: ["!daniel12:13 ","!dan12:13 ","!da12:13 "]
+  replace: "“But as for you, go on to the end. You will rest, but you will stand up for your lot at the end of the days.”"
+

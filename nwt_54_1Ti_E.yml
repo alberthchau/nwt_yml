@@ -1,0 +1,340 @@
+matches:
+- triggers: ["!1timothy1:1 ","!1tim1:1 ","!1ti1:1 "]
+  replace: "Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus, our hope,"
+
+- triggers: ["!1timothy1:2 ","!1tim1:2 ","!1ti1:2 "]
+  replace: "to Timothy, a genuine child in the faith: May you have undeserved kindness and mercy and peace from God the Father and Christ Jesus our Lord."
+
+- triggers: ["!1timothy1:3 ","!1tim1:3 ","!1ti1:3 "]
+  replace: "Just as I encouraged you to stay in Ephʹesus when I was about to go to Macedoʹnia, so I do now, in order for you to command certain ones not to teach different doctrine,"
+
+- triggers: ["!1timothy1:4 ","!1tim1:4 ","!1ti1:4 "]
+  replace: "nor to pay attention to false stories and to genealogies. Such things end up in nothing useful but merely give rise to speculations rather than providing anything from God in connection with faith."
+
+- triggers: ["!1timothy1:5 ","!1tim1:5 ","!1ti1:5 "]
+  replace: "Really, the objective of this instruction is love out of a clean heart and out of a good conscience and out of faith without hypocrisy."
+
+- triggers: ["!1timothy1:6 ","!1tim1:6 ","!1ti1:6 "]
+  replace: "By deviating from these things, some have been turned aside to meaningless talk."
+
+- triggers: ["!1timothy1:7 ","!1tim1:7 ","!1ti1:7 "]
+  replace: "They want to be teachers of law, but they do not understand either the things they are saying or the things they insist on so strongly."
+
+- triggers: ["!1timothy1:8 ","!1tim1:8 ","!1ti1:8 "]
+  replace: "Now we know that the Law is fine if one applies it properly,"
+
+- triggers: ["!1timothy1:9 ","!1tim1:9 ","!1ti1:9 "]
+  replace: "recognizing that law is made, not for a righteous man, but for those who are lawless and rebellious, ungodly and sinners, disloyal and profane, murderers of fathers and murderers of mothers, manslayers,"
+
+- triggers: ["!1timothy1:10 ","!1tim1:10 ","!1ti1:10 "]
+  replace: "sexually immoral people, men who practice homosexuality, kidnappers, liars, perjurers, and everything else that is in opposition to the wholesome teaching"
+
+- triggers: ["!1timothy1:11 ","!1tim1:11 ","!1ti1:11 "]
+  replace: "according to the glorious good news of the happy God, with which I was entrusted."
+
+- triggers: ["!1timothy1:12 ","!1tim1:12 ","!1ti1:12 "]
+  replace: "I am grateful to Christ Jesus our Lord, who imparted power to me, because he considered me faithful by assigning me to a ministry,"
+
+- triggers: ["!1timothy1:13 ","!1tim1:13 ","!1ti1:13 "]
+  replace: "although formerly I was a blasphemer and a persecutor and an insolent man. Nevertheless, I was shown mercy because I acted in ignorance and with a lack of faith."
+
+- triggers: ["!1timothy1:14 ","!1tim1:14 ","!1ti1:14 "]
+  replace: "But the undeserved kindness of our Lord abounded exceedingly along with faith and the love that is in Christ Jesus."
+
+- triggers: ["!1timothy1:15 ","!1tim1:15 ","!1ti1:15 "]
+  replace: "This saying is trustworthy and deserving of full acceptance: Christ Jesus came into the world to save sinners. Of these, I am foremost."
+
+- triggers: ["!1timothy1:16 ","!1tim1:16 ","!1ti1:16 "]
+  replace: "Nevertheless, I was shown mercy so that by means of me as the foremost case, Christ Jesus might demonstrate all his patience, making me an example to those who are going to rest their faith on him for everlasting life."
+
+- triggers: ["!1timothy1:17 ","!1tim1:17 ","!1ti1:17 "]
+  replace: "Now to the King of eternity, incorruptible, invisible, the only God, be honor and glory forever and ever. Amen."
+
+- triggers: ["!1timothy1:18 ","!1tim1:18 ","!1ti1:18 "]
+  replace: "This instruction I entrust to you, my child Timothy, in harmony with the prophecies that were made about you, that by these you may go on waging the fine warfare,"
+
+- triggers: ["!1timothy1:19 ","!1tim1:19 ","!1ti1:19 "]
+  replace: "holding faith and a good conscience, which some have thrust aside, resulting in the shipwreck of their faith."
+
+- triggers: ["!1timothy1:20 ","!1tim1:20 ","!1ti1:20 "]
+  replace: "Hymenaeʹus and Alexander are among these, and I have handed them over to Satan so that they may be taught by discipline not to blaspheme."
+
+- triggers: ["!1timothy2:1 ","!1tim2:1 ","!1ti2:1 "]
+  replace: "First of all, then, I urge that supplications, prayers, intercessions, and thanksgiving be made concerning all sorts of men,"
+
+- triggers: ["!1timothy2:2 ","!1tim2:2 ","!1ti2:2 "]
+  replace: "concerning kings and all those who are in high positions, so that we may go on leading a calm and quiet life with complete godly devotion and seriousness."
+
+- triggers: ["!1timothy2:3 ","!1tim2:3 ","!1ti2:3 "]
+  replace: "This is fine and acceptable in the sight of our Savior, God,"
+
+- triggers: ["!1timothy2:4 ","!1tim2:4 ","!1ti2:4 "]
+  replace: "whose will is that all sorts of people should be saved and come to an accurate knowledge of truth."
+
+- triggers: ["!1timothy2:5 ","!1tim2:5 ","!1ti2:5 "]
+  replace: "For there is one God, and one mediator between God and men, a man, Christ Jesus,"
+
+- triggers: ["!1timothy2:6 ","!1tim2:6 ","!1ti2:6 "]
+  replace: "who gave himself a corresponding ransom for all-this is what is to be witnessed to in its own due time."
+
+- triggers: ["!1timothy2:7 ","!1tim2:7 ","!1ti2:7 "]
+  replace: "For the purpose of this witness I was appointed a preacher and an apostle-I am telling the truth, I am not lying-a teacher of nations in the matter of faith and truth."
+
+- triggers: ["!1timothy2:8 ","!1tim2:8 ","!1ti2:8 "]
+  replace: "So I desire that in every place the men carry on prayer, lifting up loyal hands, without anger and debates."
+
+- triggers: ["!1timothy2:9 ","!1tim2:9 ","!1ti2:9 "]
+  replace: "Likewise, the women should adorn themselves in appropriate dress, with modesty and soundness of mind, not with styles of hair braiding and gold or pearls or very expensive clothing,"
+
+- triggers: ["!1timothy2:10 ","!1tim2:10 ","!1ti2:10 "]
+  replace: "but in the way that is proper for women professing devotion to God, namely, through good works."
+
+- triggers: ["!1timothy2:11 ","!1tim2:11 ","!1ti2:11 "]
+  replace: "Let a woman learn in silence with full submissiveness."
+
+- triggers: ["!1timothy2:12 ","!1tim2:12 ","!1ti2:12 "]
+  replace: "I do not permit a woman to teach or to exercise authority over a man, but she is to remain silent."
+
+- triggers: ["!1timothy2:13 ","!1tim2:13 ","!1ti2:13 "]
+  replace: "For Adam was formed first, then Eve."
+
+- triggers: ["!1timothy2:14 ","!1tim2:14 ","!1ti2:14 "]
+  replace: "Also, Adam was not deceived, but the woman was thoroughly deceived and became a transgressor."
+
+- triggers: ["!1timothy2:15 ","!1tim2:15 ","!1ti2:15 "]
+  replace: "However, she will be kept safe through childbearing, provided she continues in faith and love and holiness along with soundness of mind."
+
+- triggers: ["!1timothy3:1 ","!1tim3:1 ","!1ti3:1 "]
+  replace: "This statement is trustworthy: If a man is reaching out to be an overseer, he is desirous of a fine work."
+
+- triggers: ["!1timothy3:2 ","!1tim3:2 ","!1ti3:2 "]
+  replace: "The overseer should therefore be irreprehensible, a husband of one wife, moderate in habits, sound in mind, orderly, hospitable, qualified to teach,"
+
+- triggers: ["!1timothy3:3 ","!1tim3:3 ","!1ti3:3 "]
+  replace: "not a drunkard, not violent, but reasonable, not quarrelsome, not a lover of money,"
+
+- triggers: ["!1timothy3:4 ","!1tim3:4 ","!1ti3:4 "]
+  replace: "a man presiding over his own household in a fine manner, having his children in subjection with all seriousness"
+
+- triggers: ["!1timothy3:5 ","!1tim3:5 ","!1ti3:5 "]
+  replace: "(for if any man does not know how to preside over his own household, how will he care for the congregation of God?),"
+
+- triggers: ["!1timothy3:6 ","!1tim3:6 ","!1ti3:6 "]
+  replace: "not a newly converted man, for fear that he might get puffed up with pride and fall into the judgment passed on the Devil."
+
+- triggers: ["!1timothy3:7 ","!1tim3:7 ","!1ti3:7 "]
+  replace: "Moreover, he should also have a fine testimony from outsiders so that he does not fall into reproach and a snare of the Devil."
+
+- triggers: ["!1timothy3:8 ","!1tim3:8 ","!1ti3:8 "]
+  replace: "Ministerial servants should likewise be serious, not double-tongued, not indulging in a lot of wine, not greedy of dishonest gain,"
+
+- triggers: ["!1timothy3:9 ","!1tim3:9 ","!1ti3:9 "]
+  replace: "holding the sacred secret of the faith with a clean conscience."
+
+- triggers: ["!1timothy3:10 ","!1tim3:10 ","!1ti3:10 "]
+  replace: "Also, let these be tested as to fitness first; then let them serve as ministers, as they are free from accusation."
+
+- triggers: ["!1timothy3:11 ","!1tim3:11 ","!1ti3:11 "]
+  replace: "Women should likewise be serious, not slanderous, moderate in habits, faithful in all things."
+
+- triggers: ["!1timothy3:12 ","!1tim3:12 ","!1ti3:12 "]
+  replace: "Let ministerial servants be husbands of one wife, presiding in a fine manner over their children and their own households."
+
+- triggers: ["!1timothy3:13 ","!1tim3:13 ","!1ti3:13 "]
+  replace: "For the men who minister in a fine manner are acquiring for themselves a fine standing and great freeness of speech in the faith that is in Christ Jesus."
+
+- triggers: ["!1timothy3:14 ","!1tim3:14 ","!1ti3:14 "]
+  replace: "I am writing you these things, though I am hoping to come to you shortly,"
+
+- triggers: ["!1timothy3:15 ","!1tim3:15 ","!1ti3:15 "]
+  replace: "but in case I am delayed, so that you may know how you ought to conduct yourself in God's household, which is the congregation of the living God, a pillar and support of the truth."
+
+- triggers: ["!1timothy3:16 ","!1tim3:16 ","!1ti3:16 "]
+  replace: "Indeed, the sacred secret of this godly devotion is admittedly great: 'He was made manifest in flesh, was declared righteous in spirit, appeared to angels, was preached about among nations, was believed upon in the world, was received up in glory.'"
+
+- triggers: ["!1timothy4:1 ","!1tim4:1 ","!1ti4:1 "]
+  replace: "However, the inspired word clearly says that in later times some will fall away from the faith, paying attention to misleading inspired statements and teachings of demons,"
+
+- triggers: ["!1timothy4:2 ","!1tim4:2 ","!1ti4:2 "]
+  replace: "by means of the hypocrisy of men who speak lies, whose conscience is seared as with a branding iron."
+
+- triggers: ["!1timothy4:3 ","!1tim4:3 ","!1ti4:3 "]
+  replace: "They forbid marriage and command people to abstain from foods that God created to be partaken of with thanksgiving by those who have faith and accurately know the truth."
+
+- triggers: ["!1timothy4:4 ","!1tim4:4 ","!1ti4:4 "]
+  replace: "For every creation of God is fine, and nothing is to be rejected if it is received with thanksgiving,"
+
+- triggers: ["!1timothy4:5 ","!1tim4:5 ","!1ti4:5 "]
+  replace: "for it is sanctified through God's word and prayer over it."
+
+- triggers: ["!1timothy4:6 ","!1tim4:6 ","!1ti4:6 "]
+  replace: "By giving this counsel to the brothers, you will be a fine minister of Christ Jesus, one nourished with the words of the faith and of the fine teaching that you have followed closely."
+
+- triggers: ["!1timothy4:7 ","!1tim4:7 ","!1ti4:7 "]
+  replace: "But reject irreverent false stories, like those told by old women. On the other hand, train yourself with godly devotion as your aim."
+
+- triggers: ["!1timothy4:8 ","!1tim4:8 ","!1ti4:8 "]
+  replace: "For physical training is beneficial for a little, but godly devotion is beneficial for all things, as it holds promise of the life now and the life that is to come."
+
+- triggers: ["!1timothy4:9 ","!1tim4:9 ","!1ti4:9 "]
+  replace: "That statement is trustworthy and deserves full acceptance."
+
+- triggers: ["!1timothy4:10 ","!1tim4:10 ","!1ti4:10 "]
+  replace: "This is why we are working hard and exerting ourselves, because we have rested our hope on a living God, who is a Savior of all sorts of men, especially of faithful ones."
+
+- triggers: ["!1timothy4:11 ","!1tim4:11 ","!1ti4:11 "]
+  replace: "Keep on giving these commands and teaching them."
+
+- triggers: ["!1timothy4:12 ","!1tim4:12 ","!1ti4:12 "]
+  replace: "Never let anyone look down on your youth. Instead, become an example to the faithful ones in speaking, in conduct, in love, in faith, in chasteness."
+
+- triggers: ["!1timothy4:13 ","!1tim4:13 ","!1ti4:13 "]
+  replace: "Until I come, continue applying yourself to public reading, to exhortation, to teaching."
+
+- triggers: ["!1timothy4:14 ","!1tim4:14 ","!1ti4:14 "]
+  replace: "Do not neglect the gift in you that was given you through a prophecy when the body of elders laid their hands on you."
+
+- triggers: ["!1timothy4:15 ","!1tim4:15 ","!1ti4:15 "]
+  replace: "Ponder over these things; be absorbed in them, so that your advancement may be plainly seen by all people."
+
+- triggers: ["!1timothy4:16 ","!1tim4:16 ","!1ti4:16 "]
+  replace: "Pay constant attention to yourself and to your teaching. Persevere in these things, for by doing this you will save both yourself and those who listen to you."
+
+- triggers: ["!1timothy5:1 ","!1tim5:1 ","!1ti5:1 "]
+  replace: "Do not severely criticize an older man. On the contrary, appeal to him as a father, to younger men as brothers,"
+
+- triggers: ["!1timothy5:2 ","!1tim5:2 ","!1ti5:2 "]
+  replace: "to older women as mothers, to younger women as sisters, with all chasteness."
+
+- triggers: ["!1timothy5:3 ","!1tim5:3 ","!1ti5:3 "]
+  replace: "Give consideration to widows who are truly widows."
+
+- triggers: ["!1timothy5:4 ","!1tim5:4 ","!1ti5:4 "]
+  replace: "But if any widow has children or grandchildren, let these learn first to practice godly devotion in their own household and to repay their parents and grandparents what is due them, for this is acceptable in God's sight."
+
+- triggers: ["!1timothy5:5 ","!1tim5:5 ","!1ti5:5 "]
+  replace: "Now the woman who is truly a widow and left destitute has put her hope in God and continues in supplications and prayers night and day."
+
+- triggers: ["!1timothy5:6 ","!1tim5:6 ","!1ti5:6 "]
+  replace: "But the one who gives herself to sensual gratification is dead though she is living."
+
+- triggers: ["!1timothy5:7 ","!1tim5:7 ","!1ti5:7 "]
+  replace: "So keep on giving these instructions, so that they may be irreprehensible."
+
+- triggers: ["!1timothy5:8 ","!1tim5:8 ","!1ti5:8 "]
+  replace: "Certainly if anyone does not provide for those who are his own, and especially for those who are members of his household, he has disowned the faith and is worse than a person without faith."
+
+- triggers: ["!1timothy5:9 ","!1tim5:9 ","!1ti5:9 "]
+  replace: "A widow is to be put on the list if she is not less than 60 years old, was the wife of one husband,"
+
+- triggers: ["!1timothy5:10 ","!1tim5:10 ","!1ti5:10 "]
+  replace: "having a reputation for fine works, if she raised children, if she practiced hospitality, if she washed the feet of holy ones, if she assisted the afflicted, if she devoted herself to every good work."
+
+- triggers: ["!1timothy5:11 ","!1tim5:11 ","!1ti5:11 "]
+  replace: "On the other hand, do not put younger widows on the list, for when their sexual desires come between them and the Christ, they want to marry."
+
+- triggers: ["!1timothy5:12 ","!1tim5:12 ","!1ti5:12 "]
+  replace: "And they will incur judgment because they have abandoned their first expression of faith."
+
+- triggers: ["!1timothy5:13 ","!1tim5:13 ","!1ti5:13 "]
+  replace: "At the same time they also learn to be unoccupied, going around from one house to another; yes, not only unoccupied but also gossipers and meddlers in other people's affairs, talking about things they should not."
+
+- triggers: ["!1timothy5:14 ","!1tim5:14 ","!1ti5:14 "]
+  replace: "Therefore, I desire the younger widows to marry, to bear children, to manage a household, to give no opportunity to the opposer to criticize."
+
+- triggers: ["!1timothy5:15 ","!1tim5:15 ","!1ti5:15 "]
+  replace: "In fact, some have already been turned aside to follow Satan."
+
+- triggers: ["!1timothy5:16 ","!1tim5:16 ","!1ti5:16 "]
+  replace: "If any believing woman has relatives who are widows, let her assist them so that the congregation is not burdened. Then it can assist those who are truly widows."
+
+- triggers: ["!1timothy5:17 ","!1tim5:17 ","!1ti5:17 "]
+  replace: "Let the elders who preside in a fine way be considered worthy of double honor, especially those who work hard in speaking and teaching."
+
+- triggers: ["!1timothy5:18 ","!1tim5:18 ","!1ti5:18 "]
+  replace: "For the scripture says, 'You must not muzzle a bull when it is threshing out the grain,' also, 'The worker is worthy of his wages.'"
+
+- triggers: ["!1timothy5:19 ","!1tim5:19 ","!1ti5:19 "]
+  replace: "Do not accept an accusation against an older man except on the evidence of two or three witnesses."
+
+- triggers: ["!1timothy5:20 ","!1tim5:20 ","!1ti5:20 "]
+  replace: "Reprove before all onlookers those who practice sin, as a warning to the rest."
+
+- triggers: ["!1timothy5:21 ","!1tim5:21 ","!1ti5:21 "]
+  replace: "I solemnly charge you before God and Christ Jesus and the chosen angels to observe these instructions without any prejudice or partiality."
+
+- triggers: ["!1timothy5:22 ","!1tim5:22 ","!1ti5:22 "]
+  replace: "Never lay your hands hastily on any man; neither become a sharer in the sins of others; keep yourself chaste."
+
+- triggers: ["!1timothy5:23 ","!1tim5:23 ","!1ti5:23 "]
+  replace: "Do not drink water any longer, but take a little wine for the sake of your stomach and your frequent cases of sickness."
+
+- triggers: ["!1timothy5:24 ","!1tim5:24 ","!1ti5:24 "]
+  replace: "The sins of some men are publicly known, leading directly to judgment, but those of other men become evident later."
+
+- triggers: ["!1timothy5:25 ","!1tim5:25 ","!1ti5:25 "]
+  replace: "In the same way also, the fine works are publicly known and those that are otherwise cannot be kept hidden."
+
+- triggers: ["!1timothy6:1 ","!1tim6:1 ","!1ti6:1 "]
+  replace: "Let those who are under the yoke of slavery keep on considering their owners worthy of full honor, so that the name of God and the teaching may never be spoken of injuriously."
+
+- triggers: ["!1timothy6:2 ","!1tim6:2 ","!1ti6:2 "]
+  replace: "Moreover, let those having believing owners not be disrespectful to them because they are brothers. Rather, they should serve more readily, because those receiving the benefit of their good service are believers and beloved. Keep on teaching these things and giving these exhortations."
+
+- triggers: ["!1timothy6:3 ","!1tim6:3 ","!1ti6:3 "]
+  replace: "If any man teaches another doctrine and does not agree with the wholesome instruction, which is from our Lord Jesus Christ, nor with the teaching that is in harmony with godly devotion,"
+
+- triggers: ["!1timothy6:4 ","!1tim6:4 ","!1ti6:4 "]
+  replace: "he is puffed up with pride and does not understand anything. He is obsessed with arguments and debates about words. These things give rise to envy, strife, slander, wicked suspicions,"
+
+- triggers: ["!1timothy6:5 ","!1tim6:5 ","!1ti6:5 "]
+  replace: "constant disputes about minor matters by men who are corrupted in mind and deprived of the truth, thinking that godly devotion is a means of gain."
+
+- triggers: ["!1timothy6:6 ","!1tim6:6 ","!1ti6:6 "]
+  replace: "To be sure, there is great gain in godly devotion along with contentment."
+
+- triggers: ["!1timothy6:7 ","!1tim6:7 ","!1ti6:7 "]
+  replace: "For we have brought nothing into the world, and neither can we carry anything out."
+
+- triggers: ["!1timothy6:8 ","!1tim6:8 ","!1ti6:8 "]
+  replace: "So, having food and clothing, we will be content with these things."
+
+- triggers: ["!1timothy6:9 ","!1tim6:9 ","!1ti6:9 "]
+  replace: "But those who are determined to be rich fall into temptation and a snare and many senseless and harmful desires that plunge men into destruction and ruin."
+
+- triggers: ["!1timothy6:10 ","!1tim6:10 ","!1ti6:10 "]
+  replace: "For the love of money is a root of all sorts of injurious things, and by reaching out for this love some have been led astray from the faith and have stabbed themselves all over with many pains."
+
+- triggers: ["!1timothy6:11 ","!1tim6:11 ","!1ti6:11 "]
+  replace: "However, you, O man of God, flee from these things. But pursue righteousness, godly devotion, faith, love, endurance, and mildness."
+
+- triggers: ["!1timothy6:12 ","!1tim6:12 ","!1ti6:12 "]
+  replace: "Fight the fine fight of the faith; get a firm hold on the everlasting life for which you were called and you offered the fine public declaration in front of many witnesses."
+
+- triggers: ["!1timothy6:13 ","!1tim6:13 ","!1ti6:13 "]
+  replace: "Before God, who preserves all things alive, and Christ Jesus, who as a witness made the fine public declaration before Pontius Pilate, I give you orders"
+
+- triggers: ["!1timothy6:14 ","!1tim6:14 ","!1ti6:14 "]
+  replace: "to observe the commandment in a spotless and irreprehensible way until the manifestation of our Lord Jesus Christ,"
+
+- triggers: ["!1timothy6:15 ","!1tim6:15 ","!1ti6:15 "]
+  replace: "which the happy and only Potentate will show in its own appointed times. He is the King of those who rule as kings and Lord of those who rule as lords,"
+
+- triggers: ["!1timothy6:16 ","!1tim6:16 ","!1ti6:16 "]
+  replace: "the one alone having immortality, who dwells in unapproachable light, whom no man has seen or can see. To him be honor and eternal might. Amen."
+
+- triggers: ["!1timothy6:17 ","!1tim6:17 ","!1ti6:17 "]
+  replace: "Instruct those who are rich in the present system of things not to be arrogant, and to place their hope, not on uncertain riches, but on God, who richly provides us with all the things we enjoy."
+
+- triggers: ["!1timothy6:18 ","!1tim6:18 ","!1ti6:18 "]
+  replace: "Tell them to work at good, to be rich in fine works, to be generous, ready to share,"
+
+- triggers: ["!1timothy6:19 ","!1tim6:19 ","!1ti6:19 "]
+  replace: "safely treasuring up for themselves a fine foundation for the future, so that they may get a firm hold on the real life."
+
+- triggers: ["!1timothy6:20 ","!1tim6:20 ","!1ti6:20 "]
+  replace: "Timothy, guard what has been entrusted to you, turning away from the empty speeches that violate what is holy and from the contradictions of the falsely called 'knowledge.'"
+
+- triggers: ["!1timothy6:21 ","!1tim6:21 ","!1ti6:21 "]
+  replace: "By making a show of such knowledge, some have deviated from the faith. May the undeserved kindness be with you."
+

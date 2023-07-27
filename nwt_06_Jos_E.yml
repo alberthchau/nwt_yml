@@ -1,0 +1,1975 @@
+matches:
+- triggers: ["!joshua1:1 ","!josh1:1 ","!jos1:1 "]
+  replace: "After the death of Moses the servant of Jehovah, Jehovah said to Joshua the son of Nun, the minister of Moses:"
+
+- triggers: ["!joshua1:2 ","!josh1:2 ","!jos1:2 "]
+  replace: "“Moses my servant is dead. Now get up, cross the Jordan, you and all this people, and go into the land that I am giving to them, to the people of Israel."
+
+- triggers: ["!joshua1:3 ","!josh1:3 ","!jos1:3 "]
+  replace: "I will give you every place on which you set your foot, just as I promised Moses."
+
+- triggers: ["!joshua1:4 ","!josh1:4 ","!jos1:4 "]
+  replace: "Your territory will extend from the wilderness up to Lebʹanon and to the great river, the Euphraʹtes—all the land of the Hitʹtites—and to the Great Sea on the west."
+
+- triggers: ["!joshua1:5 ","!josh1:5 ","!jos1:5 "]
+  replace: "No one will be able to take a stand against you as long as you live. Just as I was with Moses, so I will be with you. I will neither desert you nor abandon you."
+
+- triggers: ["!joshua1:6 ","!josh1:6 ","!jos1:6 "]
+  replace: "Be courageous and strong, for you are the one who will cause this people to inherit the land that I swore to their forefathers I would give to them."
+
+- triggers: ["!joshua1:7 ","!josh1:7 ","!jos1:7 "]
+  replace: "“Only be courageous and very strong, and observe carefully the entire Law that Moses my servant commanded you. Do not deviate from it either to the right or to the left, so that you may act wisely wherever you go."
+
+- triggers: ["!joshua1:8 ","!josh1:8 ","!jos1:8 "]
+  replace: "This book of the Law should not depart from your mouth, and you must read it in an undertone day and night, in order to observe carefully all that is written in it; for then your way will be successful and then you will act wisely."
+
+- triggers: ["!joshua1:9 ","!josh1:9 ","!jos1:9 "]
+  replace: "Have I not commanded you? Be courageous and strong. Do not be struck with terror or fear, for Jehovah your God is with you wherever you go.”"
+
+- triggers: ["!joshua1:10 ","!josh1:10 ","!jos1:10 "]
+  replace: "Then Joshua commanded the officers of the people:"
+
+- triggers: ["!joshua1:11 ","!josh1:11 ","!jos1:11 "]
+  replace: "“Pass throughout the camp and give this command to the people, ‘Get provisions ready, because in three days you will cross the Jordan to go in and take possession of the land that Jehovah your God is giving you to possess.’”"
+
+- triggers: ["!joshua1:12 ","!josh1:12 ","!jos1:12 "]
+  replace: "And to the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh, Joshua said:"
+
+- triggers: ["!joshua1:13 ","!josh1:13 ","!jos1:13 "]
+  replace: "“Remember what Moses the servant of Jehovah commanded you: ‘Jehovah your God is giving you rest and has given you this land."
+
+- triggers: ["!joshua1:14 ","!josh1:14 ","!jos1:14 "]
+  replace: "Your wives, your children, and your livestock will dwell in the land that Moses has given you on this side of the Jordan, but all you mighty warriors should cross over in battle formation ahead of your brothers. You must help them"
+
+- triggers: ["!joshua1:15 ","!josh1:15 ","!jos1:15 "]
+  replace: "until Jehovah gives your brothers rest, just as he has given you, and they also take possession of the land that Jehovah your God is giving them. Then return to the land you were given to occupy and take possession of it, the land that Moses the servant of Jehovah gave you on the east side of the Jordan.’”"
+
+- triggers: ["!joshua1:16 ","!josh1:16 ","!jos1:16 "]
+  replace: "They answered Joshua: “We will do all that you have commanded, and we will go wherever you send us."
+
+- triggers: ["!joshua1:17 ","!josh1:17 ","!jos1:17 "]
+  replace: "Just as we listened to everything Moses said, so we will listen to you. Only may Jehovah your God be with you just as he was with Moses."
+
+- triggers: ["!joshua1:18 ","!josh1:18 ","!jos1:18 "]
+  replace: "Any man who rebels against your order and does not obey every command you give him will be put to death. Only be courageous and strong.”"
+
+- triggers: ["!joshua2:1 ","!josh2:1 ","!jos2:1 "]
+  replace: "Then Joshua the son of Nun secretly sent two men out from Shitʹtim as spies. He told them: “Go and inspect the land, especially Jerʹicho.” So they went and came to the house of a prostitute named Raʹhab, and they stayed there."
+
+- triggers: ["!joshua2:2 ","!josh2:2 ","!jos2:2 "]
+  replace: "The king of Jerʹicho was told: “Look! Israelite men have come in here tonight to spy out the land.”"
+
+- triggers: ["!joshua2:3 ","!josh2:3 ","!jos2:3 "]
+  replace: "At that the king of Jerʹicho sent word to Raʹhab: “Bring out the men who came and are staying in your house, for they have come to spy out the entire land.”"
+
+- triggers: ["!joshua2:4 ","!josh2:4 ","!jos2:4 "]
+  replace: "But the woman took the two men and hid them. Then she said: “Yes, the men came to me, but I did not know where they were from."
+
+- triggers: ["!joshua2:5 ","!josh2:5 ","!jos2:5 "]
+  replace: "And at dark when the city gate was about to be closed, the men went out. I do not know where the men went, but if you quickly chase after them, you will catch up with them.”"
+
+- triggers: ["!joshua2:6 ","!josh2:6 ","!jos2:6 "]
+  replace: "(However, she had taken them up to the roof and hidden them among stalks of flax laid in rows on the roof.)"
+
+- triggers: ["!joshua2:7 ","!josh2:7 ","!jos2:7 "]
+  replace: "So the men chased after them in the direction of the Jordan at the fords, and the city gate was shut once the pursuers had gone out."
+
+- triggers: ["!joshua2:8 ","!josh2:8 ","!jos2:8 "]
+  replace: "Before the men lay down to sleep, she came up to them on the roof."
+
+- triggers: ["!joshua2:9 ","!josh2:9 ","!jos2:9 "]
+  replace: "She said to the men: “I do know that Jehovah will give you the land and that the fear of you has fallen upon us. All the inhabitants of the land are disheartened because of you,"
+
+- triggers: ["!joshua2:10 ","!josh2:10 ","!jos2:10 "]
+  replace: "for we heard how Jehovah dried up the waters of the Red Sea before you when you left Egypt and what you did to the two kings of the Amʹorites, Siʹhon and Og, whom you devoted to destruction on the other side of the Jordan."
+
+- triggers: ["!joshua2:11 ","!josh2:11 ","!jos2:11 "]
+  replace: "When we heard about it, we lost heart, and no one has any courage because of you, for Jehovah your God is God in the heavens above and on the earth beneath."
+
+- triggers: ["!joshua2:12 ","!josh2:12 ","!jos2:12 "]
+  replace: "Now, please, swear to me by Jehovah that, because I showed loyal love to you, you will also show loyal love to my father’s household; and you must give me a sign of good faith."
+
+- triggers: ["!joshua2:13 ","!josh2:13 ","!jos2:13 "]
+  replace: "You must spare the lives of my father and mother, my brothers and sisters, and all who belong to them, and you must save us from death.”"
+
+- triggers: ["!joshua2:14 ","!josh2:14 ","!jos2:14 "]
+  replace: "At that the men said to her: “We will give our lives for yours! If you do not tell about our mission, then we will show loyal love and faithfulness toward you when Jehovah gives us the land.”"
+
+- triggers: ["!joshua2:15 ","!josh2:15 ","!jos2:15 "]
+  replace: "After that she let them down by a rope through the window, for her house was on a side of the city wall. In fact, she was dwelling on the wall."
+
+- triggers: ["!joshua2:16 ","!josh2:16 ","!jos2:16 "]
+  replace: "Then she said to them: “Go to the mountainous region and hide there for three days, so that those pursuing you may not find you. Then, after your pursuers have come back, you can go on your way.”"
+
+- triggers: ["!joshua2:17 ","!josh2:17 ","!jos2:17 "]
+  replace: "The men said to her: “We will be free from guilt respecting this oath that you made us swear"
+
+- triggers: ["!joshua2:18 ","!josh2:18 ","!jos2:18 "]
+  replace: "unless, when we come into the land, you tie this cord of scarlet thread in the window by which you let us down. You should gather your father, your mother, your brothers, and all your father’s household with you into the house."
+
+- triggers: ["!joshua2:19 ","!josh2:19 ","!jos2:19 "]
+  replace: "Then if anyone goes out the doors of your house into the open, his blood will be on his own head, and we will be free from guilt. But if harm comes to anyone who remains with you in the house, his blood will be on our heads."
+
+- triggers: ["!joshua2:20 ","!josh2:20 ","!jos2:20 "]
+  replace: "But if you report our mission, we will be free from guilt respecting your oath that you made us swear.”"
+
+- triggers: ["!joshua2:21 ","!josh2:21 ","!jos2:21 "]
+  replace: "She replied: “Let it be according to your words.” With that she sent them off, and they went their way. Afterward, she tied the scarlet cord in the window."
+
+- triggers: ["!joshua2:22 ","!josh2:22 ","!jos2:22 "]
+  replace: "So they left and went to the mountainous region and stayed there for three days, until the pursuers returned. The pursuers had been looking for them on every road but did not find them."
+
+- triggers: ["!joshua2:23 ","!josh2:23 ","!jos2:23 "]
+  replace: "The two men then descended from the mountainous region and crossed the river and came to Joshua the son of Nun. They related to him all the things that had happened to them."
+
+- triggers: ["!joshua2:24 ","!josh2:24 ","!jos2:24 "]
+  replace: "Then they said to Joshua: “Jehovah has handed over the entire land to us. In fact, all the inhabitants of the land are disheartened because of us.”"
+
+- triggers: ["!joshua3:1 ","!josh3:1 ","!jos3:1 "]
+  replace: "Then Joshua got up early in the morning, and he and all the Israelites departed from Shitʹtim and came to the Jordan. They spent the night there before crossing over."
+
+- triggers: ["!joshua3:2 ","!josh3:2 ","!jos3:2 "]
+  replace: "After three days, the officers passed throughout the camp"
+
+- triggers: ["!joshua3:3 ","!josh3:3 ","!jos3:3 "]
+  replace: "and commanded the people: “As soon as you see the ark of the covenant of Jehovah your God being carried by the Levitical priests, you should depart from your place and follow it."
+
+- triggers: ["!joshua3:4 ","!josh3:4 ","!jos3:4 "]
+  replace: "But keep a distance of about 2,000 cubits from it; do not come any nearer to it, so that you may know which is the way to go, for you have not traveled on this way before.”"
+
+- triggers: ["!joshua3:5 ","!josh3:5 ","!jos3:5 "]
+  replace: "Joshua now said to the people: “Sanctify yourselves, for tomorrow Jehovah will do wonderful things among you.”"
+
+- triggers: ["!joshua3:6 ","!josh3:6 ","!jos3:6 "]
+  replace: "Then Joshua said to the priests: “Take up the ark of the covenant and pass ahead of the people.” So they took up the ark of the covenant and went ahead of the people."
+
+- triggers: ["!joshua3:7 ","!josh3:7 ","!jos3:7 "]
+  replace: "Then Jehovah said to Joshua: “This day I will start to exalt you in the eyes of all Israel, so that they may know that I will be with you just as I was with Moses."
+
+- triggers: ["!joshua3:8 ","!josh3:8 ","!jos3:8 "]
+  replace: "You should give this command to the priests carrying the ark of the covenant: ‘When you reach the edge of the waters of the Jordan, you should stand still in the Jordan.’”"
+
+- triggers: ["!joshua3:9 ","!josh3:9 ","!jos3:9 "]
+  replace: "And Joshua said to the Israelites: “Come here and listen to the words of Jehovah your God.”"
+
+- triggers: ["!joshua3:10 ","!josh3:10 ","!jos3:10 "]
+  replace: "Joshua then said: “By this you will know that a living God is among you, and that he will without fail drive away from before you the Caʹnaanites, the Hitʹtites, the Hiʹvites, the Perʹizzites, the Girʹgashites, the Amʹorites, and the Jebʹusites."
+
+- triggers: ["!joshua3:11 ","!josh3:11 ","!jos3:11 "]
+  replace: "Look! The ark of the covenant of the Lord of the whole earth is passing ahead of you into the Jordan."
+
+- triggers: ["!joshua3:12 ","!josh3:12 ","!jos3:12 "]
+  replace: "Now take 12 men from the tribes of Israel, one man for each tribe,"
+
+- triggers: ["!joshua3:13 ","!josh3:13 ","!jos3:13 "]
+  replace: "and as soon as the soles of the feet of the priests carrying the Ark of Jehovah, the Lord of the whole earth, touch the waters of the Jordan, the waters of the Jordan flowing from upstream will be halted and they will stand still like a dam.”"
+
+- triggers: ["!joshua3:14 ","!josh3:14 ","!jos3:14 "]
+  replace: "So when the people departed from their tents just before crossing the Jordan, the priests carrying the ark of the covenant went ahead of the people."
+
+- triggers: ["!joshua3:15 ","!josh3:15 ","!jos3:15 "]
+  replace: "As soon as the carriers of the Ark reached the Jordan and the priests carrying the Ark dipped their feet into the edge of the waters (now the Jordan overflows its banks all the days of harvest),"
+
+- triggers: ["!joshua3:16 ","!josh3:16 ","!jos3:16 "]
+  replace: "the waters flowing from upstream stood still. They rose up like a dam very far away at Adam, the city near Zarʹethan, while the waters descending toward the Sea of the Arʹabah, the Salt Sea, drained away. They were halted, and the people crossed over opposite Jerʹicho."
+
+- triggers: ["!joshua3:17 ","!josh3:17 ","!jos3:17 "]
+  replace: "While the priests carrying the ark of Jehovah’s covenant kept standing still on dry ground in the middle of the Jordan, all Israel crossed over on dry ground until the whole nation had finished crossing the Jordan."
+
+- triggers: ["!joshua4:1 ","!josh4:1 ","!jos4:1 "]
+  replace: "As soon as the whole nation had finished crossing the Jordan, Jehovah said to Joshua:"
+
+- triggers: ["!joshua4:2 ","!josh4:2 ","!jos4:2 "]
+  replace: "“Take 12 men from the people, one man from each tribe,"
+
+- triggers: ["!joshua4:3 ","!josh4:3 ","!jos4:3 "]
+  replace: "and give them this command: ‘Take up 12 stones from the middle of the Jordan, from the place where the priests’ feet stood still, and carry them over with you and set them down in the place where you will spend the night.’”"
+
+- triggers: ["!joshua4:4 ","!josh4:4 ","!jos4:4 "]
+  replace: "So Joshua called the 12 men whom he had appointed from the Israelites, one man from each tribe,"
+
+- triggers: ["!joshua4:5 ","!josh4:5 ","!jos4:5 "]
+  replace: "and Joshua said to them: “Pass ahead of the Ark of Jehovah your God to the middle of the Jordan, and each of you should lift up a stone on his shoulder, according to the number of the tribes of the Israelites,"
+
+- triggers: ["!joshua4:6 ","!josh4:6 ","!jos4:6 "]
+  replace: "to serve as a sign among you. If your children should later ask you, ‘Why do you have these stones?’"
+
+- triggers: ["!joshua4:7 ","!josh4:7 ","!jos4:7 "]
+  replace: "you must tell them: ‘Because the waters of the Jordan were halted from before the ark of Jehovah’s covenant. When it crossed the Jordan, the waters of the Jordan were halted. These stones will serve as a lasting memorial to the people of Israel.’”"
+
+- triggers: ["!joshua4:8 ","!josh4:8 ","!jos4:8 "]
+  replace: "So the Israelites did just as Joshua had commanded. They took up 12 stones from the middle of the Jordan, just as Jehovah had instructed Joshua, to correspond to the number of the tribes of the Israelites. They took them over to the place where they would spend the night and set them down there."
+
+- triggers: ["!joshua4:9 ","!josh4:9 ","!jos4:9 "]
+  replace: "Joshua also set up 12 stones in the middle of the Jordan at the place where the feet of the priests who carried the ark of the covenant stood, and the stones are there to this day."
+
+- triggers: ["!joshua4:10 ","!josh4:10 ","!jos4:10 "]
+  replace: "The priests carrying the Ark remained standing in the middle of the Jordan until everything that Jehovah had ordered Joshua to tell the people to do was completed, in harmony with all that Moses had commanded Joshua. All the while, the people hurried across."
+
+- triggers: ["!joshua4:11 ","!josh4:11 ","!jos4:11 "]
+  replace: "As soon as all the people had finished crossing over, the Ark of Jehovah and the priests crossed over in the sight of the people."
+
+- triggers: ["!joshua4:12 ","!josh4:12 ","!jos4:12 "]
+  replace: "And the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh crossed over in battle formation ahead of the other Israelites, just as Moses had instructed them."
+
+- triggers: ["!joshua4:13 ","!josh4:13 ","!jos4:13 "]
+  replace: "About 40,000 soldiers armed for battle crossed over before Jehovah onto the desert plains of Jerʹicho."
+
+- triggers: ["!joshua4:14 ","!josh4:14 ","!jos4:14 "]
+  replace: "On that day Jehovah exalted Joshua in the eyes of all Israel, and they deeply respected him all the days of his life, just as they had deeply respected Moses."
+
+- triggers: ["!joshua4:15 ","!josh4:15 ","!jos4:15 "]
+  replace: "Then Jehovah said to Joshua:"
+
+- triggers: ["!joshua4:16 ","!josh4:16 ","!jos4:16 "]
+  replace: "“Command the priests carrying the ark of the Testimony to come up out of the Jordan.”"
+
+- triggers: ["!joshua4:17 ","!josh4:17 ","!jos4:17 "]
+  replace: "So Joshua commanded the priests: “Come up out of the Jordan.”"
+
+- triggers: ["!joshua4:18 ","!josh4:18 ","!jos4:18 "]
+  replace: "When the priests carrying the ark of the covenant of Jehovah came up from the middle of the Jordan and the soles of the feet of the priests stepped onto dry ground, the waters of the Jordan resumed their course and overflowed the banks as before."
+
+- triggers: ["!joshua4:19 ","!josh4:19 ","!jos4:19 "]
+  replace: "The people came up from the Jordan on the tenth day of the first month and camped at Gilʹgal on the eastern border of Jerʹicho."
+
+- triggers: ["!joshua4:20 ","!josh4:20 ","!jos4:20 "]
+  replace: "As for the 12 stones that they had taken out of the Jordan, Joshua set these up at Gilʹgal."
+
+- triggers: ["!joshua4:21 ","!josh4:21 ","!jos4:21 "]
+  replace: "Then he said to the Israelites: “In the future when your children ask their fathers, ‘What do these stones mean?’"
+
+- triggers: ["!joshua4:22 ","!josh4:22 ","!jos4:22 "]
+  replace: "you must explain to your children: ‘Israel crossed the Jordan on dry land"
+
+- triggers: ["!joshua4:23 ","!josh4:23 ","!jos4:23 "]
+  replace: "when Jehovah your God dried up the waters of the Jordan before them until they had crossed it, just as Jehovah your God did to the Red Sea when he dried it up before us until we crossed it."
+
+- triggers: ["!joshua4:24 ","!josh4:24 ","!jos4:24 "]
+  replace: "He did this so that all the peoples of the earth may know how mighty Jehovah’s hand is and so that you may always fear Jehovah your God.’”"
+
+- triggers: ["!joshua5:1 ","!josh5:1 ","!jos5:1 "]
+  replace: "As soon as all the kings of the Amʹorites who were on the west side of the Jordan and all the kings of the Caʹnaanites who were by the sea heard that Jehovah had dried up the waters of the Jordan before the Israelites until they had crossed over, they lost heart, and they lost all courage because of the Israelites."
+
+- triggers: ["!joshua5:2 ","!josh5:2 ","!jos5:2 "]
+  replace: "At that time Jehovah said to Joshua: “Make for yourself flint knives and circumcise the men of Israel again, a second time.”"
+
+- triggers: ["!joshua5:3 ","!josh5:3 ","!jos5:3 "]
+  replace: "So Joshua made flint knives and circumcised the men of Israel at Gibʹeath-haarʹaloth."
+
+- triggers: ["!joshua5:4 ","!josh5:4 ","!jos5:4 "]
+  replace: "This is why Joshua circumcised them: All the males of the people who left Egypt, all the men of war, had died in the wilderness on the journey after they left Egypt."
+
+- triggers: ["!joshua5:5 ","!josh5:5 ","!jos5:5 "]
+  replace: "All the people who left Egypt were circumcised, but all the people born in the wilderness on the journey after they left Egypt were not circumcised."
+
+- triggers: ["!joshua5:6 ","!josh5:6 ","!jos5:6 "]
+  replace: "The Israelites had walked for 40 years in the wilderness until the entire nation had died off, that is, the men of war who left Egypt who did not obey the voice of Jehovah. Jehovah swore to them that he would never let them see the land that Jehovah had sworn to their forefathers to give to us, a land flowing with milk and honey."
+
+- triggers: ["!joshua5:7 ","!josh5:7 ","!jos5:7 "]
+  replace: "So he raised up their sons instead of them. These Joshua circumcised; they were uncircumcised because they had not circumcised them during the journey."
+
+- triggers: ["!joshua5:8 ","!josh5:8 ","!jos5:8 "]
+  replace: "When they finished circumcising the entire nation, they remained where they were in the camp until they recovered."
+
+- triggers: ["!joshua5:9 ","!josh5:9 ","!jos5:9 "]
+  replace: "Then Jehovah said to Joshua: “Today I have rolled away from you the reproach of Egypt.” So that place has been called Gilʹgal until this day."
+
+- triggers: ["!joshua5:10 ","!josh5:10 ","!jos5:10 "]
+  replace: "The Israelites continued to camp at Gilʹgal, and they observed the Passover on the 14th day of the month, in the evening, on the desert plains of Jerʹicho."
+
+- triggers: ["!joshua5:11 ","!josh5:11 ","!jos5:11 "]
+  replace: "And they began to eat the produce of the land the day after the Passover, unleavened bread and roasted grains, on this same day."
+
+- triggers: ["!joshua5:12 ","!josh5:12 ","!jos5:12 "]
+  replace: "Then the manna stopped on the day following when they had eaten some of the produce of the land; there was no longer manna for the Israelites, but they began to eat the produce of the land of Caʹnaan in that year."
+
+- triggers: ["!joshua5:13 ","!josh5:13 ","!jos5:13 "]
+  replace: "When Joshua was near Jerʹicho, he looked up and saw a man standing in front of him with a drawn sword in his hand. Joshua walked up to him and asked: “Are you on our side or on the side of our adversaries?”"
+
+- triggers: ["!joshua5:14 ","!josh5:14 ","!jos5:14 "]
+  replace: "To this he said: “No, but I have come as prince of Jehovah’s army.” With that Joshua fell with his face to the ground and prostrated himself and said to him: “What does my lord have to say to his servant?”"
+
+- triggers: ["!joshua5:15 ","!josh5:15 ","!jos5:15 "]
+  replace: "The prince of Jehovah’s army replied to Joshua: “Remove your sandals from your feet, because the place where you are standing is holy.” At once Joshua did so."
+
+- triggers: ["!joshua6:1 ","!josh6:1 ","!jos6:1 "]
+  replace: "Now Jerʹicho was tightly shut up because of the Israelites; no one was leaving and no one was entering."
+
+- triggers: ["!joshua6:2 ","!josh6:2 ","!jos6:2 "]
+  replace: "Jehovah then said to Joshua: “See, I have handed over to you Jerʹicho and its king and its mighty warriors."
+
+- triggers: ["!joshua6:3 ","!josh6:3 ","!jos6:3 "]
+  replace: "All you fighting men should march around the city, going around the city once. That is what you should do for six days."
+
+- triggers: ["!joshua6:4 ","!josh6:4 ","!jos6:4 "]
+  replace: "Have seven priests carry seven ram’s horns before the Ark. But on the seventh day, you should march around the city seven times and the priests should blow the horns."
+
+- triggers: ["!joshua6:5 ","!josh6:5 ","!jos6:5 "]
+  replace: "When the ram’s horn is sounded—as soon as you hear the sound of the horn—all the people should shout a great war cry. Then the wall of the city will fall down flat, and the people must go up, each one straight ahead.”"
+
+- triggers: ["!joshua6:6 ","!josh6:6 ","!jos6:6 "]
+  replace: "So Joshua the son of Nun called the priests together and told them: “Take up the ark of the covenant, and seven priests should carry seven ram’s horns before the Ark of Jehovah.”"
+
+- triggers: ["!joshua6:7 ","!josh6:7 ","!jos6:7 "]
+  replace: "Then he told the people: “Move on and march around the city, and the armed troops should go ahead of the Ark of Jehovah.”"
+
+- triggers: ["!joshua6:8 ","!josh6:8 ","!jos6:8 "]
+  replace: "And just as Joshua had spoken to the people, the seven priests carrying seven ram’s horns before Jehovah went forward and blew the horns, and the ark of the covenant of Jehovah was following them."
+
+- triggers: ["!joshua6:9 ","!josh6:9 ","!jos6:9 "]
+  replace: "And the armed troops went ahead of the priests who were blowing the horns, and the rear guard followed the Ark as the horns were blown continuously."
+
+- triggers: ["!joshua6:10 ","!josh6:10 ","!jos6:10 "]
+  replace: "Now Joshua had commanded the people: “Do not shout nor let your voices be heard. Not a word should come out of your mouths until the day I say to you, ‘Shout!’ Then shout.”"
+
+- triggers: ["!joshua6:11 ","!josh6:11 ","!jos6:11 "]
+  replace: "He had the Ark of Jehovah go around the city, going around it once, after which they returned to the camp and spent the night there."
+
+- triggers: ["!joshua6:12 ","!josh6:12 ","!jos6:12 "]
+  replace: "The next morning Joshua got up early, and the priests took up the Ark of Jehovah,"
+
+- triggers: ["!joshua6:13 ","!josh6:13 ","!jos6:13 "]
+  replace: "and seven priests carrying seven ram’s horns walked before the Ark of Jehovah, continuously blowing the horns. The armed troops were walking ahead of them while the rear guard was following the Ark of Jehovah as the horns were blown continuously."
+
+- triggers: ["!joshua6:14 ","!josh6:14 ","!jos6:14 "]
+  replace: "They marched around the city on the second day once, after which they returned to the camp. That was what they did for six days."
+
+- triggers: ["!joshua6:15 ","!josh6:15 ","!jos6:15 "]
+  replace: "On the seventh day they got up early, as soon as the dawn broke, and they marched around the city in the same manner seven times. It was only on that day that they marched around the city seven times."
+
+- triggers: ["!joshua6:16 ","!josh6:16 ","!jos6:16 "]
+  replace: "And on the seventh time, the priests blew the horns, and Joshua told the people: “Shout, for Jehovah has given you the city!"
+
+- triggers: ["!joshua6:17 ","!josh6:17 ","!jos6:17 "]
+  replace: "The city and everything in it is to be devoted to destruction; it all belongs to Jehovah. Only Raʹhab the prostitute may keep living, she and all who are with her in the house, because she hid the messengers we sent out."
+
+- triggers: ["!joshua6:18 ","!josh6:18 ","!jos6:18 "]
+  replace: "But keep away from what is devoted to destruction, so that you do not desire something devoted to destruction and take it, making the camp of Israel something devoted to destruction by bringing disaster on it."
+
+- triggers: ["!joshua6:19 ","!josh6:19 ","!jos6:19 "]
+  replace: "But all the silver and the gold and the articles of copper and iron are holy to Jehovah. They should go into the treasury of Jehovah.”"
+
+- triggers: ["!joshua6:20 ","!josh6:20 ","!jos6:20 "]
+  replace: "Then the people shouted when the horns were blown. As soon as the people heard the sound of the horn and shouted a great war cry, the wall fell down flat. After that the people went up into the city, each one straight ahead, and they captured the city."
+
+- triggers: ["!joshua6:21 ","!josh6:21 ","!jos6:21 "]
+  replace: "They devoted all that was in the city to destruction by the sword, man and woman, young and old, bull, sheep, and donkey."
+
+- triggers: ["!joshua6:22 ","!josh6:22 ","!jos6:22 "]
+  replace: "Joshua said to the two men who had spied out the land: “Go into the house of the prostitute and bring out the woman and all who belong to her, just as you swore to her.”"
+
+- triggers: ["!joshua6:23 ","!josh6:23 ","!jos6:23 "]
+  replace: "So the young spies went in and brought out Raʹhab, along with her father, her mother, her brothers, and all who belonged to her; yes, they brought out her whole family, and they brought them safely to a place outside the camp of Israel."
+
+- triggers: ["!joshua6:24 ","!josh6:24 ","!jos6:24 "]
+  replace: "Then they burned the city and everything in it with fire. But the silver, the gold, and the articles of copper and iron, they gave to the treasury of Jehovah’s house."
+
+- triggers: ["!joshua6:25 ","!josh6:25 ","!jos6:25 "]
+  replace: "Only Raʹhab the prostitute and her father’s household and all who belonged to her were spared by Joshua; and she lives in Israel to this day, because she hid the messengers whom Joshua sent out to spy on Jerʹicho."
+
+- triggers: ["!joshua6:26 ","!josh6:26 ","!jos6:26 "]
+  replace: "At that time Joshua pronounced this oath: “Cursed be the man before Jehovah who undertakes to rebuild this city of Jerʹicho. At the cost of his firstborn he will lay its foundation, and at the cost of his youngest he will put up its doors.”"
+
+- triggers: ["!joshua6:27 ","!josh6:27 ","!jos6:27 "]
+  replace: "So Jehovah was with Joshua, and his fame spread through all the earth."
+
+- triggers: ["!joshua7:1 ","!josh7:1 ","!jos7:1 "]
+  replace: "But the Israelites were unfaithful with regard to what had been devoted to destruction, for Aʹchan son of Carʹmi, son of Zabʹdi, son of Zeʹrah, of the tribe of Judah, took some of what was devoted to destruction. At this Jehovah’s anger blazed against the Israelites."
+
+- triggers: ["!joshua7:2 ","!josh7:2 ","!jos7:2 "]
+  replace: "Then Joshua sent men out from Jerʹicho to Aʹi, which is close by Beth-aʹven and east of Bethʹel, telling them: “Go up and spy on the land.” So the men went up and spied on Aʹi."
+
+- triggers: ["!joshua7:3 ","!josh7:3 ","!jos7:3 "]
+  replace: "When they returned to Joshua, they told him: “Not all the people need to go up. About two or three thousand men are enough to defeat Aʹi. Do not tire out all the people by making them go, for there are only a few of them.”"
+
+- triggers: ["!joshua7:4 ","!josh7:4 ","!jos7:4 "]
+  replace: "So about 3,000 men went up there, but they had to flee from the men of Aʹi."
+
+- triggers: ["!joshua7:5 ","!josh7:5 ","!jos7:5 "]
+  replace: "The men of Aʹi struck down 3"
+
+- triggers: ["!joshua7:6 ","!josh7:6 ","!jos7:6 "]
+  replace: "men, and they pursued them from outside the city gate as far as Shebʹarim, and they continued striking them down on the descent. So the courage of the people melted and flowed away like water. 6 At this Joshua ripped his garments and fell with his face to the ground before the Ark of Jehovah until the evening, he and the elders of Israel, and they kept throwing dust on their heads."
+
+- triggers: ["!joshua7:7 ","!josh7:7 ","!jos7:7 "]
+  replace: "Joshua said: “Alas, Sovereign Lord Jehovah, why did you bring this people all the way across the Jordan just to hand us over to the Amʹorites to be destroyed? If only we had been satisfied to remain on the other side of the Jordan!"
+
+- triggers: ["!joshua7:8 ","!josh7:8 ","!jos7:8 "]
+  replace: "Pardon me, O Jehovah, what can I say now that Israel has retreated before his enemies?"
+
+- triggers: ["!joshua7:9 ","!josh7:9 ","!jos7:9 "]
+  replace: "When the Caʹnaanites and all the inhabitants of the land hear about it, they will surround us and wipe out our very name from the earth, and what will you do about your great name?”"
+
+- triggers: ["!joshua7:10 ","!josh7:10 ","!jos7:10 "]
+  replace: "Jehovah replied to Joshua: “Get up! Why are you lying on your face?"
+
+- triggers: ["!joshua7:11 ","!josh7:11 ","!jos7:11 "]
+  replace: "Israel has sinned. They have violated my covenant that I commanded them to keep. They took some of what was devoted to destruction, stealing it and secretly putting it among their own possessions."
+
+- triggers: ["!joshua7:12 ","!josh7:12 ","!jos7:12 "]
+  replace: "Therefore, the Israelites will not be able to stand against their enemies. They will turn their backs and flee from their enemies, because they have become something devoted to destruction. I will not be with you again unless you annihilate from your midst what was devoted to destruction."
+
+- triggers: ["!joshua7:13 ","!josh7:13 ","!jos7:13 "]
+  replace: "Get up and sanctify the people! Tell them, ‘Sanctify yourselves for tomorrow, for this is what Jehovah the God of Israel says: “What is devoted to destruction is among you, O Israel. You will not be able to stand against your enemies until you remove from your midst the thing devoted to destruction."
+
+- triggers: ["!joshua7:14 ","!josh7:14 ","!jos7:14 "]
+  replace: "You are to present yourselves in the morning, tribe by tribe, and the tribe that Jehovah selects will come near, family by family, and the family that Jehovah selects will come near, household by household, and the household that Jehovah selects will come near, man by man."
+
+- triggers: ["!joshua7:15 ","!josh7:15 ","!jos7:15 "]
+  replace: "And the one who is caught with the thing devoted to destruction will be burned with fire, he and all that belongs to him, because he has violated the covenant of Jehovah and because he has committed a disgraceful act in Israel.”’”"
+
+- triggers: ["!joshua7:16 ","!josh7:16 ","!jos7:16 "]
+  replace: "So Joshua rose early the next morning and had Israel come near, tribe by tribe, and the tribe of Judah was selected."
+
+- triggers: ["!joshua7:17 ","!josh7:17 ","!jos7:17 "]
+  replace: "He had the families of Judah come near and the family of the Zeʹrahites was selected, after which he had the family of the Zeʹrahites come near, man by man, and Zabʹdi was selected."
+
+- triggers: ["!joshua7:18 ","!josh7:18 ","!jos7:18 "]
+  replace: "Finally he had the household of Zabʹdi come near, man by man, and Aʹchan son of Carʹmi, son of Zabʹdi, son of Zeʹrah, of the tribe of Judah, was selected."
+
+- triggers: ["!joshua7:19 ","!josh7:19 ","!jos7:19 "]
+  replace: "Then Joshua said to Aʹchan: “My son, please, honor Jehovah the God of Israel and make confession to him. Tell me, please, what you have done. Do not hide it from me.”"
+
+- triggers: ["!joshua7:20 ","!josh7:20 ","!jos7:20 "]
+  replace: "Aʹchan answered Joshua: “For a fact I am the one who sinned against Jehovah the God of Israel, and this is what I have done."
+
+- triggers: ["!joshua7:21 ","!josh7:21 ","!jos7:21 "]
+  replace: "When I saw among the spoil a good-looking official garment from Shiʹnar and 200 shekels of silver and one gold bar weighing 50 shekels, I desired them, so I took them. They are now hidden in the ground inside my tent, with the money underneath.”"
+
+- triggers: ["!joshua7:22 ","!josh7:22 ","!jos7:22 "]
+  replace: "At once Joshua sent messengers, and they ran to the tent, and there the garment was hidden in his tent, with the money underneath it."
+
+- triggers: ["!joshua7:23 ","!josh7:23 ","!jos7:23 "]
+  replace: "So they took the things out of the tent and brought them to Joshua and all the Israelites and placed them before Jehovah."
+
+- triggers: ["!joshua7:24 ","!josh7:24 ","!jos7:24 "]
+  replace: "Joshua and all Israel with him then took Aʹchan the son of Zeʹrah, the silver, the official garment, and the bar of gold, along with his sons, his daughters, his bull, his donkey, his flock, his tent, and everything that was his, and they brought them up to the Valley of Aʹchor."
+
+- triggers: ["!joshua7:25 ","!josh7:25 ","!jos7:25 "]
+  replace: "Joshua said: “Why have you brought disaster upon us? Jehovah will bring disaster upon you on this day.” With that all Israel stoned him, after which they burned them with fire. Thus they stoned all of them."
+
+- triggers: ["!joshua7:26 ","!josh7:26 ","!jos7:26 "]
+  replace: "And they raised a huge pile of stones over him that remains to this day. At this Jehovah’s hot anger subsided. That is why the name of that place is Valley of Aʹchor to this day."
+
+- triggers: ["!joshua8:1 ","!josh8:1 ","!jos8:1 "]
+  replace: "Then Jehovah said to Joshua: “Do not be afraid or be terrified. Take with you all the fighting men and go up against Aʹi. See, I have handed over to you the king of Aʹi, his people, his city, and his land."
+
+- triggers: ["!joshua8:2 ","!josh8:2 ","!jos8:2 "]
+  replace: "Do to Aʹi and to its king just as you did to Jerʹicho and its king, except you may plunder its spoil and its livestock for yourselves. Set an ambush behind the city.”"
+
+- triggers: ["!joshua8:3 ","!josh8:3 ","!jos8:3 "]
+  replace: "So Joshua and all the fighting men went up against Aʹi. Joshua chose 30,000 mighty warriors and sent them off by night."
+
+- triggers: ["!joshua8:4 ","!josh8:4 ","!jos8:4 "]
+  replace: "He gave them this command: “See, you are to lie in ambush behind the city. Do not go very far from the city, and all of you be ready."
+
+- triggers: ["!joshua8:5 ","!josh8:5 ","!jos8:5 "]
+  replace: "I and all the people with me will approach the city, and when they come out against us as before, we will retreat from them."
+
+- triggers: ["!joshua8:6 ","!josh8:6 ","!jos8:6 "]
+  replace: "When they come out after us, we will draw them away from the city, for they will say, ‘They are retreating from us just as before.’ And we will retreat from them."
+
+- triggers: ["!joshua8:7 ","!josh8:7 ","!jos8:7 "]
+  replace: "Then you should rise up from the ambush and capture the city; Jehovah your God will hand it over to you."
+
+- triggers: ["!joshua8:8 ","!josh8:8 ","!jos8:8 "]
+  replace: "As soon as you have seized the city, you should set it on fire. You should do according to Jehovah’s word. See, I have given you your orders.”"
+
+- triggers: ["!joshua8:9 ","!josh8:9 ","!jos8:9 "]
+  replace: "Then Joshua sent them out, and they marched to the place of ambush; they took a position between Bethʹel and Aʹi, to the west of Aʹi, while Joshua spent that night with the people."
+
+- triggers: ["!joshua8:10 ","!josh8:10 ","!jos8:10 "]
+  replace: "After Joshua rose up early in the morning and gathered the troops, he and the elders of Israel led them to Aʹi."
+
+- triggers: ["!joshua8:11 ","!josh8:11 ","!jos8:11 "]
+  replace: "All the fighting men who were with him marched up and advanced to the front of the city. They camped to the north of Aʹi, with the valley between them and Aʹi."
+
+- triggers: ["!joshua8:12 ","!josh8:12 ","!jos8:12 "]
+  replace: "In the meantime, he had taken about 5,000 men and had set them as an ambush between Bethʹel and Aʹi, to the west of the city."
+
+- triggers: ["!joshua8:13 ","!josh8:13 ","!jos8:13 "]
+  replace: "So the people set the main camp to the north of the city and the rear guard west of the city, and Joshua went that night into the middle of the valley."
+
+- triggers: ["!joshua8:14 ","!josh8:14 ","!jos8:14 "]
+  replace: "And as soon as the king of Aʹi saw this, he and the men of the city hurried out early in the morning to meet Israel in battle at a certain place overlooking the desert plain. But he did not know that there was an ambush set against him to the rear of the city."
+
+- triggers: ["!joshua8:15 ","!josh8:15 ","!jos8:15 "]
+  replace: "When the men of Aʹi attacked, Joshua and all Israel fled along the road in the direction of the wilderness."
+
+- triggers: ["!joshua8:16 ","!josh8:16 ","!jos8:16 "]
+  replace: "Then all the people who were in the city were summoned to pursue them; and as they pursued Joshua they were drawn away from the city."
+
+- triggers: ["!joshua8:17 ","!josh8:17 ","!jos8:17 "]
+  replace: "Not a man was remaining in Aʹi and Bethʹel who did not go out after Israel. They left the city wide open and pursued Israel."
+
+- triggers: ["!joshua8:18 ","!josh8:18 ","!jos8:18 "]
+  replace: "Jehovah now said to Joshua: “Stretch out the javelin that is in your hand toward Aʹi, for into your hand I will give it.” So Joshua stretched out the javelin that was in his hand toward the city."
+
+- triggers: ["!joshua8:19 ","!josh8:19 ","!jos8:19 "]
+  replace: "The moment he stretched out his hand, the ambush rose up quickly from its place and ran into the city and captured it. They immediately set the city on fire."
+
+- triggers: ["!joshua8:20 ","!josh8:20 ","!jos8:20 "]
+  replace: "When the men of Aʹi turned around, they saw the smoke of the city rising to the sky, and they had no strength to flee in any direction. Then the people who had been fleeing toward the wilderness turned on their pursuers."
+
+- triggers: ["!joshua8:21 ","!josh8:21 ","!jos8:21 "]
+  replace: "When Joshua and all Israel saw that the ambush had captured the city and saw the smoke of the city rising, they turned around and attacked the men of Aʹi."
+
+- triggers: ["!joshua8:22 ","!josh8:22 ","!jos8:22 "]
+  replace: "And the others came out of the city to meet them, so that the men of Aʹi were trapped in the middle, with some Israelites on this side and some on that side, and they struck them down until there was not one survivor or escapee remaining."
+
+- triggers: ["!joshua8:23 ","!josh8:23 ","!jos8:23 "]
+  replace: "But they caught the king of Aʹi alive and brought him before Joshua."
+
+- triggers: ["!joshua8:24 ","!josh8:24 ","!jos8:24 "]
+  replace: "After Israel finished killing all the inhabitants of Aʹi in the field, in the wilderness where they had pursued them, and every last one of them had fallen by the sword, then all Israel returned to Aʹi and struck it with the sword."
+
+- triggers: ["!joshua8:25 ","!josh8:25 ","!jos8:25 "]
+  replace: "All those who fell on that day, from man to woman, amounted to 12,000, all the people of Aʹi."
+
+- triggers: ["!joshua8:26 ","!josh8:26 ","!jos8:26 "]
+  replace: "Joshua did not draw back his hand with which he had stretched out the javelin until he had devoted all the inhabitants of Aʹi to destruction."
+
+- triggers: ["!joshua8:27 ","!josh8:27 ","!jos8:27 "]
+  replace: "However, Israel took the livestock and the spoil of that city for themselves, according to the orders that Jehovah had given to Joshua."
+
+- triggers: ["!joshua8:28 ","!josh8:28 ","!jos8:28 "]
+  replace: "Then Joshua burned Aʹi and reduced it to a permanent mound of ruins, as it remains to this day."
+
+- triggers: ["!joshua8:29 ","!josh8:29 ","!jos8:29 "]
+  replace: "He hung the king of Aʹi on a stake until the evening, and as the sun was about to set, Joshua gave the order to take his dead body down from the stake. Then they pitched it at the entrance of the city gate and raised up a great pile of stones over him, which is there to this day."
+
+- triggers: ["!joshua8:30 ","!josh8:30 ","!jos8:30 "]
+  replace: "It was then that Joshua built an altar on Mount Eʹbal to Jehovah the God of Israel,"
+
+- triggers: ["!joshua8:31 ","!josh8:31 ","!jos8:31 "]
+  replace: "just as Moses the servant of Jehovah had commanded the Israelites and as it is written in the book of the Law of Moses: “An altar of whole stones on which no iron tool has been wielded.” On it they offered up burnt offerings to Jehovah as well as communion sacrifices."
+
+- triggers: ["!joshua8:32 ","!josh8:32 ","!jos8:32 "]
+  replace: "Then he wrote there on the stones a copy of the Law that Moses had written before the Israelites."
+
+- triggers: ["!joshua8:33 ","!josh8:33 ","!jos8:33 "]
+  replace: "All Israel, their elders, the officers, and their judges were standing on both sides of the Ark in front of the Levitical priests who were carrying the ark of the covenant of Jehovah. The foreign residents were there as well as the natives. Half of them stood in front of Mount Gerʹizim, and the other half in front of Mount Eʹbal (just as Moses the servant of Jehovah had previously commanded), to bless the people of Israel."
+
+- triggers: ["!joshua8:34 ","!josh8:34 ","!jos8:34 "]
+  replace: "After this he read aloud all the words of the Law, the blessings and the curses, according to all that is written in the book of the Law."
+
+- triggers: ["!joshua8:35 ","!josh8:35 ","!jos8:35 "]
+  replace: "There was not a word of all that Moses had commanded that Joshua did not read aloud in front of all the congregation of Israel, including the women and children and the foreign residents who were living among them."
+
+- triggers: ["!joshua9:1 ","!josh9:1 ","!jos9:1 "]
+  replace: "When all the kings who were on the west side of the Jordan heard what had happened, those in the mountainous region, in the Shepheʹlah, along the entire coast of the Great Sea, and in front of Lebʹanon—the Hitʹtites, the Amʹorites, the Caʹnaanites, the Perʹizzites, the Hiʹvites, and the Jebʹusites—"
+
+- triggers: ["!joshua9:2 ","!josh9:2 ","!jos9:2 "]
+  replace: "they formed an alliance to fight against Joshua and Israel."
+
+- triggers: ["!joshua9:3 ","!josh9:3 ","!jos9:3 "]
+  replace: "The inhabitants of Gibʹeon also heard what Joshua had done to Jerʹicho and Aʹi."
+
+- triggers: ["!joshua9:4 ","!josh9:4 ","!jos9:4 "]
+  replace: "So they acted shrewdly and put provisions into worn-out sacks on their donkeys, along with worn-out wineskins that had burst and had been mended;"
+
+- triggers: ["!joshua9:5 ","!josh9:5 ","!jos9:5 "]
+  replace: "they also had worn-out and patched sandals on their feet, and they were wearing worn-out garments. All the bread of their provisions was dry and crumbly."
+
+- triggers: ["!joshua9:6 ","!josh9:6 ","!jos9:6 "]
+  replace: "Then they went to Joshua at the camp at Gilʹgal and said to him and the men of Israel: “We have come from a distant land. Now make a covenant with us.”"
+
+- triggers: ["!joshua9:7 ","!josh9:7 ","!jos9:7 "]
+  replace: "But the men of Israel said to the Hiʹvites: “Perhaps you are living near us. So how can we make a covenant with you?”"
+
+- triggers: ["!joshua9:8 ","!josh9:8 ","!jos9:8 "]
+  replace: "They replied to Joshua: “We are your servants.” Then Joshua said to them: “Who are you, and where do you come from?”"
+
+- triggers: ["!joshua9:9 ","!josh9:9 ","!jos9:9 "]
+  replace: "At this they said to him: “Your servants have come from a very distant land out of regard for the name of Jehovah your God, because we have heard about his fame and about all he did in Egypt"
+
+- triggers: ["!joshua9:10 ","!josh9:10 ","!jos9:10 "]
+  replace: "and about all he did to the two kings of the Amʹorites who were on the other side of the Jordan, King Siʹhon of Heshʹbon and King Og of Baʹshan, who was in Ashʹtaroth."
+
+- triggers: ["!joshua9:11 ","!josh9:11 ","!jos9:11 "]
+  replace: "So our elders and all the inhabitants of our land told us, ‘Take provisions with you for the journey and go to meet them. Tell them: “We will be your servants; now make a covenant with us.”’"
+
+- triggers: ["!joshua9:12 ","!josh9:12 ","!jos9:12 "]
+  replace: "This bread that we took as our provisions was still hot on the day we left our houses to come here to you. Now you can see it is dry and crumbly."
+
+- triggers: ["!joshua9:13 ","!josh9:13 ","!jos9:13 "]
+  replace: "And these wineskins were new when we filled them, but now they have burst. And our garments and sandals have worn out because of the great length of the journey.”"
+
+- triggers: ["!joshua9:14 ","!josh9:14 ","!jos9:14 "]
+  replace: "At that the men took some of their provisions, but they did not inquire of Jehovah."
+
+- triggers: ["!joshua9:15 ","!josh9:15 ","!jos9:15 "]
+  replace: "So Joshua made peace with them and made a covenant with them to let them live, and that is what the chieftains of the assembly swore to them in an oath."
+
+- triggers: ["!joshua9:16 ","!josh9:16 ","!jos9:16 "]
+  replace: "At the end of three days, after they made a covenant with them, they heard that they lived nearby, in their vicinity."
+
+- triggers: ["!joshua9:17 ","!josh9:17 ","!jos9:17 "]
+  replace: "Then the Israelites set out and came to their cities on the third day; their cities were Gibʹeon, Chephiʹrah, Beerʹoth, and Kirʹiath-jeʹarim."
+
+- triggers: ["!joshua9:18 ","!josh9:18 ","!jos9:18 "]
+  replace: "But the Israelites did not attack them, because the chieftains of the assembly had sworn an oath to them by Jehovah the God of Israel. So all the assembly began to murmur against the chieftains."
+
+- triggers: ["!joshua9:19 ","!josh9:19 ","!jos9:19 "]
+  replace: "At this all the chieftains said to the entire assembly: “Since we swore an oath to them by Jehovah the God of Israel, we are not allowed to hurt them."
+
+- triggers: ["!joshua9:20 ","!josh9:20 ","!jos9:20 "]
+  replace: "This is what we will do: We will let them live, so that there is no indignation against us because of the oath that we swore to them.”"
+
+- triggers: ["!joshua9:21 ","!josh9:21 ","!jos9:21 "]
+  replace: "And the chieftains added: “Let them live, but let them become gatherers of wood and drawers of water for all the assembly.” This is what the chieftains promised them."
+
+- triggers: ["!joshua9:22 ","!josh9:22 ","!jos9:22 "]
+  replace: "Joshua now called them and said to them: “Why did you trick us by saying, ‘We are from a place very far away from you,’ when you really live right among us?"
+
+- triggers: ["!joshua9:23 ","!josh9:23 ","!jos9:23 "]
+  replace: "From now on you are cursed, and you will always occupy a slave’s position as gatherers of wood and drawers of water for the house of my God.”"
+
+- triggers: ["!joshua9:24 ","!josh9:24 ","!jos9:24 "]
+  replace: "They answered Joshua: “It was because your servants were plainly told that Jehovah your God had commanded Moses his servant to give you all the land and to annihilate all its inhabitants from before you. So we were afraid for our lives because of you, and that is why we did this."
+
+- triggers: ["!joshua9:25 ","!josh9:25 ","!jos9:25 "]
+  replace: "Now we are at your mercy. Do to us whatever you think is good and right.”"
+
+- triggers: ["!joshua9:26 ","!josh9:26 ","!jos9:26 "]
+  replace: "And that is what he did with them; he saved them from the hands of the Israelites, and they did not kill them."
+
+- triggers: ["!joshua9:27 ","!josh9:27 ","!jos9:27 "]
+  replace: "But that day Joshua made them gatherers of wood and drawers of water for the assembly and for Jehovah’s altar at the place that He should choose, and they remain so to this day."
+
+- triggers: ["!joshua10:1 ","!josh10:1 ","!jos10:1 "]
+  replace: "As soon as King Adoʹni-zeʹdek of Jerusalem heard that Joshua had captured Aʹi and devoted it to destruction, doing to Aʹi and its king just as he had done to Jerʹicho and its king, and how the inhabitants of Gibʹeon had made peace with Israel and remained among them,"
+
+- triggers: ["!joshua10:2 ","!josh10:2 ","!jos10:2 "]
+  replace: "he was greatly alarmed, because Gibʹeon was a great city, like one of the royal cities. It was greater than Aʹi, and all its men were warriors."
+
+- triggers: ["!joshua10:3 ","!josh10:3 ","!jos10:3 "]
+  replace: "So Adoʹni-zeʹdek king of Jerusalem sent this message to Hoʹham king of Hebʹron, Piʹram king of Jarʹmuth, Japhiʹa king of Laʹchish, and Deʹbir king of Egʹlon:"
+
+- triggers: ["!joshua10:4 ","!josh10:4 ","!jos10:4 "]
+  replace: "“Come to my aid, and let us attack Gibʹeon, because it has made peace with Joshua and the Israelites.”"
+
+- triggers: ["!joshua10:5 ","!josh10:5 ","!jos10:5 "]
+  replace: "At this the five kings of the Amʹorites—the king of Jerusalem, the king of Hebʹron, the king of Jarʹmuth, the king of Laʹchish, and the king of Egʹlon—gathered together along with their armies, and they marched on and encamped against Gibʹeon to fight against it."
+
+- triggers: ["!joshua10:6 ","!josh10:6 ","!jos10:6 "]
+  replace: "Then the men of Gibʹeon sent word to Joshua at the camp at Gilʹgal: “Do not forsake your slaves. Come quickly! Rescue us and help us! All the kings of the Amʹorites from the mountainous region have gathered against us.”"
+
+- triggers: ["!joshua10:7 ","!josh10:7 ","!jos10:7 "]
+  replace: "So Joshua went up from Gilʹgal with all the fighting men and the mighty warriors."
+
+- triggers: ["!joshua10:8 ","!josh10:8 ","!jos10:8 "]
+  replace: "Jehovah then said to Joshua: “Do not be afraid of them, for I have handed them over to you. Not one of them will be able to stand against you.”"
+
+- triggers: ["!joshua10:9 ","!josh10:9 ","!jos10:9 "]
+  replace: "Joshua came against them by surprise after marching all night long from Gilʹgal."
+
+- triggers: ["!joshua10:10 ","!josh10:10 ","!jos10:10 "]
+  replace: "Jehovah threw them into confusion before Israel, and they inflicted a great slaughter on them at Gibʹeon, pursuing them by way of the ascent of Beth-hoʹron and striking them down as far as Azeʹkah and Makkeʹdah."
+
+- triggers: ["!joshua10:11 ","!josh10:11 ","!jos10:11 "]
+  replace: "While they were fleeing from Israel and were on the descent of Beth-hoʹron, Jehovah hurled great hailstones from the sky on them as far as Azeʹkah, and they perished. In fact, more died from the hail than from the sword of the Israelites."
+
+- triggers: ["!joshua10:12 ","!josh10:12 ","!jos10:12 "]
+  replace: "It was then, on the day that Jehovah routed the Amʹorites before the eyes of the Israelites, that Joshua said to Jehovah before Israel: “Sun, stand still over Gibʹeon, And moon, over the Valley of Aiʹjalon!”"
+
+- triggers: ["!joshua10:13 ","!josh10:13 ","!jos10:13 "]
+  replace: "So the sun stood still and the moon did not move until the nation could take vengeance on its enemies. Is it not written in the book of Jaʹshar? The sun stood still in the middle of the sky and did not hasten to set for about a whole day."
+
+- triggers: ["!joshua10:14 ","!josh10:14 ","!jos10:14 "]
+  replace: "There has never been a day like that one, either before it or after it, when Jehovah listened to the voice of a man, for Jehovah was fighting for Israel."
+
+- triggers: ["!joshua10:15 ","!josh10:15 ","!jos10:15 "]
+  replace: "After that Joshua together with all Israel returned to the camp at Gilʹgal."
+
+- triggers: ["!joshua10:16 ","!josh10:16 ","!jos10:16 "]
+  replace: "Meanwhile, the five kings fled and hid in the cave at Makkeʹdah."
+
+- triggers: ["!joshua10:17 ","!josh10:17 ","!jos10:17 "]
+  replace: "Then it was reported to Joshua: “The five kings have been found hiding in the cave at Makkeʹdah.”"
+
+- triggers: ["!joshua10:18 ","!josh10:18 ","!jos10:18 "]
+  replace: "So Joshua said: “Roll large stones over the mouth of the cave and assign men to guard them."
+
+- triggers: ["!joshua10:19 ","!josh10:19 ","!jos10:19 "]
+  replace: "But the rest of you should not stop. Pursue your enemies and strike them from the rear. Do not allow them to enter into their cities, for Jehovah your God has given them into your hands.”"
+
+- triggers: ["!joshua10:20 ","!josh10:20 ","!jos10:20 "]
+  replace: "After Joshua and the Israelites had finished inflicting a very great slaughter on them, to the point of wiping them out except for some survivors who escaped and entered into the fortified cities,"
+
+- triggers: ["!joshua10:21 ","!josh10:21 ","!jos10:21 "]
+  replace: "all the people returned safely to Joshua at the camp at Makkeʹdah. Not a man dared to utter a word against the Israelites."
+
+- triggers: ["!joshua10:22 ","!josh10:22 ","!jos10:22 "]
+  replace: "Then Joshua said: “Open the mouth of the cave and bring the five kings out of the cave to me.”"
+
+- triggers: ["!joshua10:23 ","!josh10:23 ","!jos10:23 "]
+  replace: "So they brought to him from the cave these five kings: the king of Jerusalem, the king of Hebʹron, the king of Jarʹmuth, the king of Laʹchish, and the king of Egʹlon."
+
+- triggers: ["!joshua10:24 ","!josh10:24 ","!jos10:24 "]
+  replace: "When they brought these kings to Joshua, he summoned all the men of Israel and said to the commanders of the fighting men who had gone with him: “Come forward. Place your feet on the backs of the necks of these kings.” So they came forward and placed their feet on the backs of their necks."
+
+- triggers: ["!joshua10:25 ","!josh10:25 ","!jos10:25 "]
+  replace: "Then Joshua said to them: “Do not be afraid or be terrified. Be courageous and strong, for this is what Jehovah will do to all your enemies against whom you are fighting.”"
+
+- triggers: ["!joshua10:26 ","!josh10:26 ","!jos10:26 "]
+  replace: "Then Joshua struck them and put them to death and hung them on five stakes, and they remained hanging on the stakes until the evening."
+
+- triggers: ["!joshua10:27 ","!josh10:27 ","!jos10:27 "]
+  replace: "At sunset Joshua ordered that they be taken down off the stakes and thrown into the cave where they had hidden themselves. Then large stones were placed at the mouth of the cave, and these remain to this very day."
+
+- triggers: ["!joshua10:28 ","!josh10:28 ","!jos10:28 "]
+  replace: "Joshua captured Makkeʹdah on that day and struck it with the sword. He devoted its king and everyone in it to destruction, letting no survivor remain. He did to the king of Makkeʹdah just as he had done to the king of Jerʹicho."
+
+- triggers: ["!joshua10:29 ","!josh10:29 ","!jos10:29 "]
+  replace: "Then Joshua together with all Israel went from Makkeʹdah to Libʹnah and fought against Libʹnah."
+
+- triggers: ["!joshua10:30 ","!josh10:30 ","!jos10:30 "]
+  replace: "Jehovah also gave it and its king into Israel’s hand, and they struck it and everyone in it with the sword, not letting a survivor remain in it. So they did to its king just as they had done to the king of Jerʹicho."
+
+- triggers: ["!joshua10:31 ","!josh10:31 ","!jos10:31 "]
+  replace: "Next Joshua together with all Israel went from Libʹnah to Laʹchish and camped there and fought against it."
+
+- triggers: ["!joshua10:32 ","!josh10:32 ","!jos10:32 "]
+  replace: "Jehovah gave Laʹchish into Israel’s hand, and they captured it on the second day. They struck it and everyone in it with the sword, just as they had done to Libʹnah."
+
+- triggers: ["!joshua10:33 ","!josh10:33 ","!jos10:33 "]
+  replace: "Then Hoʹram king of Geʹzer went up to help Laʹchish, but Joshua struck him and his people down until not one survivor remained."
+
+- triggers: ["!joshua10:34 ","!josh10:34 ","!jos10:34 "]
+  replace: "Then Joshua together with all Israel went from Laʹchish to Egʹlon and camped there and fought against it."
+
+- triggers: ["!joshua10:35 ","!josh10:35 ","!jos10:35 "]
+  replace: "They captured it on that day and struck it with the sword. They devoted everyone in it to destruction on that day, just as they had done to Laʹchish."
+
+- triggers: ["!joshua10:36 ","!josh10:36 ","!jos10:36 "]
+  replace: "Then Joshua together with all Israel went up from Egʹlon to Hebʹron and fought against it."
+
+- triggers: ["!joshua10:37 ","!josh10:37 ","!jos10:37 "]
+  replace: "They captured it and struck it, its king, its towns, and everyone in it with the sword, not letting any survivor remain. Just as he had done to Egʹlon, he devoted it and everyone in it to destruction."
+
+- triggers: ["!joshua10:38 ","!josh10:38 ","!jos10:38 "]
+  replace: "Finally Joshua together with all Israel turned toward Deʹbir and fought against it."
+
+- triggers: ["!joshua10:39 ","!josh10:39 ","!jos10:39 "]
+  replace: "He captured it, its king, and all its towns, and they struck them down with the sword, devoting everyone in it to destruction, not letting any survivor remain. He did to Deʹbir and its king just as he had done to Hebʹron and to Libʹnah and its king."
+
+- triggers: ["!joshua10:40 ","!josh10:40 ","!jos10:40 "]
+  replace: "Joshua conquered all the land of the mountainous region, the Negʹeb, the Shepheʹlah, and the slopes, and all their kings, not letting any survivor remain; he devoted everything that breathed to destruction, just as Jehovah the God of Israel had commanded."
+
+- triggers: ["!joshua10:41 ","!josh10:41 ","!jos10:41 "]
+  replace: "Joshua conquered them from Kaʹdesh-barʹnea to Gazʹa and all the land of Goʹshen and up to Gibʹeon."
+
+- triggers: ["!joshua10:42 ","!josh10:42 ","!jos10:42 "]
+  replace: "Joshua captured all these kings and their land, all at the same time, because it was Jehovah the God of Israel who was fighting for Israel."
+
+- triggers: ["!joshua10:43 ","!josh10:43 ","!jos10:43 "]
+  replace: "Then Joshua returned with all Israel to the camp at Gilʹgal."
+
+- triggers: ["!joshua11:1 ","!josh11:1 ","!jos11:1 "]
+  replace: "As soon as Jaʹbin king of Haʹzor heard of it, he sent word to Joʹbab king of Maʹdon, and to the king of Shimʹron, the king of Achʹshaph,"
+
+- triggers: ["!joshua11:2 ","!josh11:2 ","!jos11:2 "]
+  replace: "the kings who were in the northern mountainous region, those in the plains south of Chinʹnereth, those in the Shepheʹlah and on the slopes of Dor to the west,"
+
+- triggers: ["!joshua11:3 ","!josh11:3 ","!jos11:3 "]
+  replace: "the Caʹnaanites to the east and the west, the Amʹorites, the Hitʹtites, the Perʹizzites, the Jebʹusites in the mountainous region, and the Hiʹvites at the base of Herʹmon in the land of Mizʹpah."
+
+- triggers: ["!joshua11:4 ","!josh11:4 ","!jos11:4 "]
+  replace: "So they came out with all their armies, a vast multitude as numerous as the grains of sand on the seashore, together with very many horses and war chariots."
+
+- triggers: ["!joshua11:5 ","!josh11:5 ","!jos11:5 "]
+  replace: "All these kings agreed to meet, and they came and camped together at the waters of Merʹom to fight against Israel."
+
+- triggers: ["!joshua11:6 ","!josh11:6 ","!jos11:6 "]
+  replace: "At this Jehovah said to Joshua: “Do not be afraid because of them, for about this time tomorrow, I am giving over all of them slain to Israel. Their horses you must hamstring, and their chariots you must burn in the fire.”"
+
+- triggers: ["!joshua11:7 ","!josh11:7 ","!jos11:7 "]
+  replace: "Joshua together with all the fighting men then launched a surprise attack against them along the waters of Merʹom."
+
+- triggers: ["!joshua11:8 ","!josh11:8 ","!jos11:8 "]
+  replace: "Jehovah gave them into Israel’s hand, and they defeated them and pursued them as far as Great Siʹdon and Misʹrephoth-maʹim and the Valley of Mizʹpeh to the east, and they struck them down until no survivors remained."
+
+- triggers: ["!joshua11:9 ","!josh11:9 ","!jos11:9 "]
+  replace: "Joshua then did to them just as Jehovah had told him; he hamstrung their horses and burned their chariots in the fire."
+
+- triggers: ["!joshua11:10 ","!josh11:10 ","!jos11:10 "]
+  replace: "Moreover, Joshua then returned and captured Haʹzor and struck down its king with the sword, because Haʹzor had formerly been the head of all these kingdoms."
+
+- triggers: ["!joshua11:11 ","!josh11:11 ","!jos11:11 "]
+  replace: "They struck down everyone in it with the sword, devoting them to destruction. Not a breathing thing was left. Then he burned Haʹzor in the fire."
+
+- triggers: ["!joshua11:12 ","!josh11:12 ","!jos11:12 "]
+  replace: "Joshua captured all the cities of these kings and defeated all their kings with the sword. He devoted them to destruction, just as Moses the servant of Jehovah had commanded."
+
+- triggers: ["!joshua11:13 ","!josh11:13 ","!jos11:13 "]
+  replace: "However, Israel did not burn any of the cities that stood on their mounds except Haʹzor; it was the only one Joshua burned."
+
+- triggers: ["!joshua11:14 ","!josh11:14 ","!jos11:14 "]
+  replace: "All the spoil of these cities and the livestock, the Israelites plundered for themselves. But they struck every human with the sword until they had annihilated each one. They did not let anyone who breathed remain."
+
+- triggers: ["!joshua11:15 ","!josh11:15 ","!jos11:15 "]
+  replace: "Just as Jehovah had commanded Moses his servant, so Moses commanded Joshua, and so Joshua did. He left nothing undone of all that Jehovah had commanded Moses."
+
+- triggers: ["!joshua11:16 ","!josh11:16 ","!jos11:16 "]
+  replace: "Joshua conquered all this land, the mountainous region, all the Negʹeb, all the land of Goʹshen, the Shepheʹlah, the Arʹabah, and the mountainous region of Israel and its Shepheʹlah,"
+
+- triggers: ["!joshua11:17 ","!josh11:17 ","!jos11:17 "]
+  replace: "from Mount Haʹlak, which goes up to Seʹir, and as far as Baʹal-gad in the Valley of Lebʹanon at the base of Mount Herʹmon, and he captured all their kings and defeated them, putting them to death."
+
+- triggers: ["!joshua11:18 ","!josh11:18 ","!jos11:18 "]
+  replace: "Joshua waged war with all these kings for quite some time."
+
+- triggers: ["!joshua11:19 ","!josh11:19 ","!jos11:19 "]
+  replace: "There was no city that made peace with the Israelites except the Hiʹvites inhabiting Gibʹeon. They conquered all the others by war."
+
+- triggers: ["!joshua11:20 ","!josh11:20 ","!jos11:20 "]
+  replace: "It was Jehovah who allowed their hearts to become stubborn so that they waged war against Israel, in order for him to devote them to destruction without any favorable consideration. They were to be annihilated, just as Jehovah had commanded Moses."
+
+- triggers: ["!joshua11:21 ","!josh11:21 ","!jos11:21 "]
+  replace: "At that time Joshua wiped out the Anʹakim from the mountainous region, from Hebʹron, Deʹbir, Aʹnab, and all the mountainous region of Judah and all the mountainous region of Israel. Joshua devoted them and their cities to destruction."
+
+- triggers: ["!joshua11:22 ","!josh11:22 ","!jos11:22 "]
+  replace: "There were no Anʹakim left in the land of the Israelites; they remained only in Gazʹa, in Gath, and in Ashʹdod."
+
+- triggers: ["!joshua11:23 ","!josh11:23 ","!jos11:23 "]
+  replace: "So Joshua took control of all the land, just as Jehovah had promised Moses, and then Joshua gave it as an inheritance to Israel by their shares to be divided among their tribes. And the land had rest from war."
+
+- triggers: ["!joshua12:1 ","!josh12:1 ","!jos12:1 "]
+  replace: "Now these are the kings of the land whom the Israelites defeated, whose land they took possession of on the east side of the Jordan, from the Arʹnon Valley up to Mount Herʹmon and all the Arʹabah toward the east:"
+
+- triggers: ["!joshua12:2 ","!josh12:2 ","!jos12:2 "]
+  replace: "King Siʹhon of the Amʹorites, who lived in Heshʹbon and ruled from Aroʹer, which was on the rim of the Arʹnon Valley, and from the middle of the valley, and half of Gilʹead as far as the Valley of Jabʹbok, the boundary of the Amʹmonites."
+
+- triggers: ["!joshua12:3 ","!josh12:3 ","!jos12:3 "]
+  replace: "He also ruled over the Arʹabah as far as the Sea of Chinʹnereth toward the east and as far as the Sea of the Arʹabah, the Salt Sea, to the east in the direction of Beth-jeshʹimoth, and toward the south under the slopes of Pisʹgah."
+
+- triggers: ["!joshua12:4 ","!josh12:4 ","!jos12:4 "]
+  replace: "Also the territory of King Og of Baʹshan, who was one of the last of the Rephʹaim and who lived in Ashʹtaroth and Edʹrei"
+
+- triggers: ["!joshua12:5 ","!josh12:5 ","!jos12:5 "]
+  replace: "and ruled in Mount Herʹmon, in Salʹecah, and in all Baʹshan, as far as the boundary of the Geshʹurites and the Maacʹathites, and half of Gilʹead, to the territory of King Siʹhon of Heshʹbon."
+
+- triggers: ["!joshua12:6 ","!josh12:6 ","!jos12:6 "]
+  replace: "Moses the servant of Jehovah and the Israelites defeated them, after which Moses the servant of Jehovah gave their land as a possession to the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh."
+
+- triggers: ["!joshua12:7 ","!josh12:7 ","!jos12:7 "]
+  replace: "These are the kings of the land whom Joshua and the Israelites defeated on the west side of the Jordan, from Baʹal-gad in the Valley of Lebʹanon and as far as Mount Haʹlak, which goes up to Seʹir, after which Joshua gave their land to the tribes of Israel as a possession by their shares,"
+
+- triggers: ["!joshua12:8 ","!josh12:8 ","!jos12:8 "]
+  replace: "in the mountainous region, in the Shepheʹlah, in the Arʹabah, on the slopes, in the wilderness, and in the Negʹeb—the land of the Hitʹtites, the Amʹorites, the Caʹnaanites, the Perʹizzites, the Hiʹvites, and the Jebʹusites:"
+
+- triggers: ["!joshua12:9 ","!josh12:9 ","!jos12:9 "]
+  replace: "The king of Jerʹicho, one; the king of Aʹi, which was beside Bethʹel, one;"
+
+- triggers: ["!joshua12:10 ","!josh12:10 ","!jos12:10 "]
+  replace: "the king of Jerusalem, one; the king of Hebʹron, one;"
+
+- triggers: ["!joshua12:11 ","!josh12:11 ","!jos12:11 "]
+  replace: "the king of Jarʹmuth, one; the king of Laʹchish, one;"
+
+- triggers: ["!joshua12:12 ","!josh12:12 ","!jos12:12 "]
+  replace: "the king of Egʹlon, one; the king of Geʹzer, one;"
+
+- triggers: ["!joshua12:13 ","!josh12:13 ","!jos12:13 "]
+  replace: "the king of Deʹbir, one; the king of Geʹder, one;"
+
+- triggers: ["!joshua12:14 ","!josh12:14 ","!jos12:14 "]
+  replace: "the king of Horʹmah, one; the king of Aʹrad, one;"
+
+- triggers: ["!joshua12:15 ","!josh12:15 ","!jos12:15 "]
+  replace: "the king of Libʹnah, one; the king of Adulʹlam, one;"
+
+- triggers: ["!joshua12:16 ","!josh12:16 ","!jos12:16 "]
+  replace: "the king of Makkeʹdah, one; the king of Bethʹel, one;"
+
+- triggers: ["!joshua12:17 ","!josh12:17 ","!jos12:17 "]
+  replace: "the king of Tapʹpuah, one; the king of Heʹpher, one;"
+
+- triggers: ["!joshua12:18 ","!josh12:18 ","!jos12:18 "]
+  replace: "the king of Aʹphek, one; the king of Lassharʹon, one;"
+
+- triggers: ["!joshua12:19 ","!josh12:19 ","!jos12:19 "]
+  replace: "the king of Maʹdon, one; the king of Haʹzor, one;"
+
+- triggers: ["!joshua12:20 ","!josh12:20 ","!jos12:20 "]
+  replace: "the king of Shimʹron-meʹron, one; the king of Achʹshaph, one;"
+
+- triggers: ["!joshua12:21 ","!josh12:21 ","!jos12:21 "]
+  replace: "the king of Taʹanach, one; the king of Megidʹdo, one;"
+
+- triggers: ["!joshua12:22 ","!josh12:22 ","!jos12:22 "]
+  replace: "the king of Keʹdesh, one; the king of Jokʹneam in Carʹmel, one;"
+
+- triggers: ["!joshua12:23 ","!josh12:23 ","!jos12:23 "]
+  replace: "the king of Dor on the slopes of Dor, one; the king of Goiʹim in Gilʹgal, one;"
+
+- triggers: ["!joshua12:24 ","!josh12:24 ","!jos12:24 "]
+  replace: "the king of Tirʹzah, one; a total of 31 kings."
+
+- triggers: ["!joshua13:1 ","!josh13:1 ","!jos13:1 "]
+  replace: "Now Joshua had grown old and was advanced in years. So Jehovah said to him: “You have grown old and are advanced in years; but much of the land remains to be taken in possession."
+
+- triggers: ["!joshua13:2 ","!josh13:2 ","!jos13:2 "]
+  replace: "This is the land remaining: all the regions of the Philisʹtines and all the Geshʹurites"
+
+- triggers: ["!joshua13:3 ","!josh13:3 ","!jos13:3 "]
+  replace: "(from the branch of the Nile that is east of Egypt up to the border of Ekʹron to the north, which used to be considered Caʹnaanite territory) including that of the five lords of the Philisʹtines—the Gazʹites, the Ashʹdodites, the Ashʹkelonites, the Gitʹtites, and the Ekʹronites; that of the Avʹvim"
+
+- triggers: ["!joshua13:4 ","!josh13:4 ","!jos13:4 "]
+  replace: "to the south; all the land of the Caʹnaanites; Mearʹah, which belongs to the Sidoʹnians, as far as Aʹphek, to the border of the Amʹorites;"
+
+- triggers: ["!joshua13:5 ","!josh13:5 ","!jos13:5 "]
+  replace: "the land of the Geʹbalites and all of Lebʹanon toward the east, from Baʹal-gad at the base of Mount Herʹmon to Leʹbo-haʹmath;"
+
+- triggers: ["!joshua13:6 ","!josh13:6 ","!jos13:6 "]
+  replace: "all the inhabitants of the mountainous region from Lebʹanon to Misʹrephoth-maʹim; and all the Sidoʹnians. I will drive them out before the Israelites. You have only to assign it to Israel as an inheritance, just as I have commanded you."
+
+- triggers: ["!joshua13:7 ","!josh13:7 ","!jos13:7 "]
+  replace: "Now you must apportion this land as an inheritance to the nine tribes and the half tribe of Manasʹseh.”"
+
+- triggers: ["!joshua13:8 ","!josh13:8 ","!jos13:8 "]
+  replace: "With the other half tribe, the Reuʹbenites and the Gadʹites took their inheritance that Moses gave them on the east side of the Jordan, just as Moses the servant of Jehovah had given them:"
+
+- triggers: ["!joshua13:9 ","!josh13:9 ","!jos13:9 "]
+  replace: "from Aroʹer, which is on the rim of the Arʹnon Valley, and the city that is in the middle of the valley, and all the tableland of Medʹeba as far as Diʹbon;"
+
+- triggers: ["!joshua13:10 ","!josh13:10 ","!jos13:10 "]
+  replace: "and all the cities of King Siʹhon of the Amʹorites, who reigned in Heshʹbon, up to the border of the Amʹmonites;"
+
+- triggers: ["!joshua13:11 ","!josh13:11 ","!jos13:11 "]
+  replace: "also Gilʹead and the territory of the Geshʹurites and the Maacʹathites and all Mount Herʹmon and all Baʹshan as far as Salʹecah;"
+
+- triggers: ["!joshua13:12 ","!josh13:12 ","!jos13:12 "]
+  replace: "all the royal realm of Og in Baʹshan, who reigned in Ashʹtaroth and in Edʹrei. (He was one of the last of the Rephʹaim.) Moses defeated them and drove them out."
+
+- triggers: ["!joshua13:13 ","!josh13:13 ","!jos13:13 "]
+  replace: "But the Israelites did not drive out the Geshʹurites and the Maacʹathites, for Geshʹur and Maʹacath live in the midst of Israel to this day."
+
+- triggers: ["!joshua13:14 ","!josh13:14 ","!jos13:14 "]
+  replace: "It was only to the tribe of the Levites that he did not give an inheritance. The offerings made by fire to Jehovah the God of Israel are their inheritance, just as he promised them."
+
+- triggers: ["!joshua13:15 ","!josh13:15 ","!jos13:15 "]
+  replace: "Then Moses gave an inheritance to the tribe of the Reuʹbenites by their families,"
+
+- triggers: ["!joshua13:16 ","!josh13:16 ","!jos13:16 "]
+  replace: "and their territory was from Aroʹer, which is on the rim of the Arʹnon Valley, and the city in the middle of the valley, and all the tableland by Medʹeba;"
+
+- triggers: ["!joshua13:17 ","!josh13:17 ","!jos13:17 "]
+  replace: "Heshʹbon and all its towns on the tableland, Diʹbon, Baʹmoth-baʹal, Beth-baʹal-meʹon,"
+
+- triggers: ["!joshua13:18 ","!josh13:18 ","!jos13:18 "]
+  replace: "Jaʹhaz, Kedʹemoth, Mephʹaath,"
+
+- triggers: ["!joshua13:19 ","!josh13:19 ","!jos13:19 "]
+  replace: "Kiriathaʹim, Sibʹmah, and Zeʹreth-shaʹhar on the mountain of the valley,"
+
+- triggers: ["!joshua13:20 ","!josh13:20 ","!jos13:20 "]
+  replace: "Beth-peʹor, the slopes of Pisʹgah, Beth-jeshʹimoth,"
+
+- triggers: ["!joshua13:21 ","!josh13:21 ","!jos13:21 "]
+  replace: "all the cities of the tableland, and all the royal realm of King Siʹhon of the Amʹorites, who reigned in Heshʹbon. Moses defeated him and the Midʹianite chieftains Eʹvi, Reʹkem, Zur, Hur, and Reʹba, vassals of Siʹhon who were dwelling in the land."
+
+- triggers: ["!joshua13:22 ","!josh13:22 ","!jos13:22 "]
+  replace: "Baʹlaam the son of Beʹor, the diviner, was one whom the Israelites killed with the sword along with the rest who were slain."
+
+- triggers: ["!joshua13:23 ","!josh13:23 ","!jos13:23 "]
+  replace: "The boundary of the Reuʹbenites was the Jordan; and this territory was the inheritance of the Reuʹbenites by their families, with the cities and their settlements."
+
+- triggers: ["!joshua13:24 ","!josh13:24 ","!jos13:24 "]
+  replace: "Furthermore, Moses gave an inheritance to the tribe of Gad, the Gadʹites by their families,"
+
+- triggers: ["!joshua13:25 ","!josh13:25 ","!jos13:25 "]
+  replace: "and their territory included Jaʹzer and all the cities of Gilʹead and half of the land of the Amʹmonites as far as Aroʹer, which faces Rabʹbah;"
+
+- triggers: ["!joshua13:26 ","!josh13:26 ","!jos13:26 "]
+  replace: "and from Heshʹbon to Raʹmath-mizʹpeh and Betʹonim, and from Mahanaʹim to the border of Deʹbir;"
+
+- triggers: ["!joshua13:27 ","!josh13:27 ","!jos13:27 "]
+  replace: "and in the valley, Beth-haʹram, Beth-nimʹrah, Sucʹcoth, and Zaʹphon, the rest of the royal realm of King Siʹhon of Heshʹbon, with the Jordan as the border from the lower end of the Sea of Chinʹnereth on the east side of the Jordan."
+
+- triggers: ["!joshua13:28 ","!josh13:28 ","!jos13:28 "]
+  replace: "This was the inheritance of the Gadʹites by their families, with the cities and their settlements."
+
+- triggers: ["!joshua13:29 ","!josh13:29 ","!jos13:29 "]
+  replace: "Further, Moses gave an inheritance to the half tribe of Manasʹseh, to half of the tribe of Manasʹseh by their families."
+
+- triggers: ["!joshua13:30 ","!josh13:30 ","!jos13:30 "]
+  replace: "And their territory extended from Mahanaʹim and took in all of Baʹshan, all the royal realm of King Og of Baʹshan, and all the tent villages of Jaʹir in Baʹshan, 60 towns."
+
+- triggers: ["!joshua13:31 ","!josh13:31 ","!jos13:31 "]
+  replace: "And half of Gilʹead, and Ashʹtaroth and Edʹrei, the cities of the royal realm of Og in Baʹshan, went to the sons of Maʹchir the son of Manasʹseh, to half of the sons of Maʹchir by their families."
+
+- triggers: ["!joshua13:32 ","!josh13:32 ","!jos13:32 "]
+  replace: "These were the inheritances that Moses gave them on the desert plains of Moʹab beyond the Jordan, east of Jerʹicho."
+
+- triggers: ["!joshua13:33 ","!josh13:33 ","!jos13:33 "]
+  replace: "But to the tribe of the Levites, Moses did not give an inheritance. Jehovah the God of Israel is their inheritance, just as he promised them."
+
+- triggers: ["!joshua14:1 ","!josh14:1 ","!jos14:1 "]
+  replace: "Now this is what the Israelites took as an inheritance in the land of Caʹnaan, which Eleaʹzar the priest and Joshua the son of Nun and the heads of the paternal houses of the tribes of Israel gave them to inherit."
+
+- triggers: ["!joshua14:2 ","!josh14:2 ","!jos14:2 "]
+  replace: "Their inheritance was by lot, just as Jehovah had commanded through Moses for the nine and a half tribes."
+
+- triggers: ["!joshua14:3 ","!josh14:3 ","!jos14:3 "]
+  replace: "Moses had given the inheritance of the other two and a half tribes on the other side of the Jordan, and to the Levites he did not give an inheritance among them."
+
+- triggers: ["!joshua14:4 ","!josh14:4 ","!jos14:4 "]
+  replace: "The descendants of Joseph were considered two tribes, Manasʹseh and Eʹphraim; and they did not give a share in the land to the Levites, except cities to dwell in and their pastures for their livestock and their property."
+
+- triggers: ["!joshua14:5 ","!josh14:5 ","!jos14:5 "]
+  replace: "So the Israelites apportioned the land just as Jehovah had commanded Moses."
+
+- triggers: ["!joshua14:6 ","!josh14:6 ","!jos14:6 "]
+  replace: "Then the men of Judah approached Joshua in Gilʹgal, and Caʹleb the son of Jephunʹneh the Kenʹizzite said to him: “You well know what Jehovah said to Moses the man of the true God about you and me at Kaʹdesh-barʹnea."
+
+- triggers: ["!joshua14:7 ","!josh14:7 ","!jos14:7 "]
+  replace: "I was 40 years old when Moses the servant of Jehovah sent me out of Kaʹdesh-barʹnea to spy out the land, and I returned with a forthright report."
+
+- triggers: ["!joshua14:8 ","!josh14:8 ","!jos14:8 "]
+  replace: "Although my brothers who went up with me caused the people to lose heart, I followed Jehovah my God wholeheartedly."
+
+- triggers: ["!joshua14:9 ","!josh14:9 ","!jos14:9 "]
+  replace: "Moses swore on that day, saying: ‘The land on which your foot has walked will become a lasting inheritance for you and your sons, because you have followed Jehovah my God wholeheartedly.’"
+
+- triggers: ["!joshua14:10 ","!josh14:10 ","!jos14:10 "]
+  replace: "Now just as he promised, Jehovah has preserved me alive these 45 years since Jehovah made this promise to Moses when Israel walked in the wilderness; I am still here today, 85 years old."
+
+- triggers: ["!joshua14:11 ","!josh14:11 ","!jos14:11 "]
+  replace: "And today I am as strong as on the day Moses sent me out. My strength is now as it was then, for war and for other activities."
+
+- triggers: ["!joshua14:12 ","!josh14:12 ","!jos14:12 "]
+  replace: "Therefore, give me this mountainous region that Jehovah promised on that day. Though you heard on that day that there were Anʹakim there with great fortified cities, surely Jehovah will be with me, and I will drive them out, just as Jehovah promised.”"
+
+- triggers: ["!joshua14:13 ","!josh14:13 ","!jos14:13 "]
+  replace: "So Joshua blessed him and gave Hebʹron to Caʹleb the son of Jephunʹneh as an inheritance."
+
+- triggers: ["!joshua14:14 ","!josh14:14 ","!jos14:14 "]
+  replace: "That is why Hebʹron belongs to Caʹleb the son of Jephunʹneh the Kenʹizzite as an inheritance to this day, because he followed Jehovah the God of Israel wholeheartedly."
+
+- triggers: ["!joshua14:15 ","!josh14:15 ","!jos14:15 "]
+  replace: "The name of Hebʹron was previously Kirʹiath-arʹba (Arʹba was the great man among the Anʹakim). And the land had rest from war."
+
+- triggers: ["!joshua15:1 ","!josh15:1 ","!jos15:1 "]
+  replace: "The land allotted to the tribe of Judah for their families extended to the boundary of Eʹdom, the wilderness of Zin, to the Negʹeb at its southern end."
+
+- triggers: ["!joshua15:2 ","!josh15:2 ","!jos15:2 "]
+  replace: "Their southern boundary ran from the extremity of the Salt Sea, from the bay that faces southward."
+
+- triggers: ["!joshua15:3 ","!josh15:3 ","!jos15:3 "]
+  replace: "And it extended south to the ascent of Akrabʹbim, passed over to Zin, then went up from the south to Kaʹdesh-barʹnea, over to Hezʹron, up to Adʹdar, and went around toward Karʹka."
+
+- triggers: ["!joshua15:4 ","!josh15:4 ","!jos15:4 "]
+  replace: "Then it passed on to Azʹmon and extended to the Wadi of Egypt, and the boundary ended at the Sea. This was their southern boundary."
+
+- triggers: ["!joshua15:5 ","!josh15:5 ","!jos15:5 "]
+  replace: "The eastern boundary was the Salt Sea up to the end of the Jordan, and the boundary at the northern corner was at the bay of the sea, at the end of the Jordan."
+
+- triggers: ["!joshua15:6 ","!josh15:6 ","!jos15:6 "]
+  replace: "The boundary went up to Beth-hogʹlah and passed over at the north of Beth-arʹabah, and the boundary went up to the stone of Boʹhan the son of Reuʹben."
+
+- triggers: ["!joshua15:7 ","!josh15:7 ","!jos15:7 "]
+  replace: "The boundary went up to Deʹbir at the Valley of Aʹchor and turned northward to Gilʹgal, which is in front of the ascent of Adumʹmim that is south of the wadi, and the boundary passed over to the waters of En-sheʹmesh and ended at En-roʹgel."
+
+- triggers: ["!joshua15:8 ","!josh15:8 ","!jos15:8 "]
+  replace: "The boundary went up to the Valley of the Son of Hinʹnom to the slope of the Jebʹusite at the south, that is, Jerusalem, and the boundary went up to the top of the mountain that faces the Valley of Hinʹnom to the west, which is at the extremity of the Valley of Rephʹaim to the north."
+
+- triggers: ["!joshua15:9 ","!josh15:9 ","!jos15:9 "]
+  replace: "And the boundary was marked from the top of the mountain to the spring of the waters of Nephtoʹah and extended to the cities of Mount Eʹphron; and the boundary was marked to Baʹalah, that is, Kirʹiath-jeʹarim."
+
+- triggers: ["!joshua15:10 ","!josh15:10 ","!jos15:10 "]
+  replace: "The boundary went around from Baʹalah westward to Mount Seʹir and passed over to the slope of Mount Jeʹarim at the north, that is, Chesʹalon, and it went down to Beth-sheʹmesh and passed over to Timʹnah."
+
+- triggers: ["!joshua15:11 ","!josh15:11 ","!jos15:11 "]
+  replace: "And the boundary extended to the slope of Ekʹron to the north, and the boundary was marked to Shikʹkeron and passed over to Mount Baʹalah and extended to Jabʹneel, and the boundary ended at the sea."
+
+- triggers: ["!joshua15:12 ","!josh15:12 ","!jos15:12 "]
+  replace: "The western boundary was at the Great Sea and its coast. This was the boundary of the descendants of Judah by their families on all sides."
+
+- triggers: ["!joshua15:13 ","!josh15:13 ","!jos15:13 "]
+  replace: "And to Caʹleb the son of Jephunʹneh, he gave a share among the descendants of Judah at the order of Jehovah to Joshua, namely, Kirʹiath-arʹba (Arʹba was the father of Aʹnak), that is, Hebʹron."
+
+- triggers: ["!joshua15:14 ","!josh15:14 ","!jos15:14 "]
+  replace: "So Caʹleb drove out from there the three sons of Aʹnak: Sheʹshai, Ahiʹman, and Talʹmai, descendants of Aʹnak."
+
+- triggers: ["!joshua15:15 ","!josh15:15 ","!jos15:15 "]
+  replace: "Then he went up from there against the inhabitants of Deʹbir. (The name of Deʹbir was previously Kirʹiath-seʹpher.)"
+
+- triggers: ["!joshua15:16 ","!josh15:16 ","!jos15:16 "]
+  replace: "Caʹleb then said: “To the man who strikes Kirʹiath-seʹpher and captures it, I will give my daughter Achʹsah as a wife.”"
+
+- triggers: ["!joshua15:17 ","!josh15:17 ","!jos15:17 "]
+  replace: "And Othʹniel the son of Keʹnaz, Caʹleb’s brother, captured it. So he gave him his daughter Achʹsah as a wife."
+
+- triggers: ["!joshua15:18 ","!josh15:18 ","!jos15:18 "]
+  replace: "While she was going home, she urged him to ask her father for a field. Then she dismounted from her donkey. Caʹleb asked her: “What do you want?”"
+
+- triggers: ["!joshua15:19 ","!josh15:19 ","!jos15:19 "]
+  replace: "She said: “Please grant me a blessing, for you have given me a piece of land in the south; give me also Gulʹloth-maʹim.” So he gave her Upper Gulʹloth and Lower Gulʹloth."
+
+- triggers: ["!joshua15:20 ","!josh15:20 ","!jos15:20 "]
+  replace: "This was the inheritance of the tribe of Judah by their families."
+
+- triggers: ["!joshua15:21 ","!josh15:21 ","!jos15:21 "]
+  replace: "The cities at the extremity of the tribe of Judah toward the boundary of Eʹdom in the south were: Kabʹzeel, Eʹder, Jaʹgur,"
+
+- triggers: ["!joshua15:22 ","!josh15:22 ","!jos15:22 "]
+  replace: "Kiʹnah, Dimoʹnah, Adaʹdah,"
+
+- triggers: ["!joshua15:23 ","!josh15:23 ","!jos15:23 "]
+  replace: "Keʹdesh, Haʹzor, Ithʹnan,"
+
+- triggers: ["!joshua15:24 ","!josh15:24 ","!jos15:24 "]
+  replace: "Ziph, Teʹlem, Beaʹloth,"
+
+- triggers: ["!joshua15:25 ","!josh15:25 ","!jos15:25 "]
+  replace: "Haʹzor-hadatʹtah, and Keʹrioth-hezʹron, that is, Haʹzor,"
+
+- triggers: ["!joshua15:26 ","!josh15:26 ","!jos15:26 "]
+  replace: "Aʹmam, Sheʹma, Molaʹdah,"
+
+- triggers: ["!joshua15:27 ","!josh15:27 ","!jos15:27 "]
+  replace: "Haʹzar-gadʹdah, Heshʹmon, Beth-pelʹet,"
+
+- triggers: ["!joshua15:28 ","!josh15:28 ","!jos15:28 "]
+  replace: "Haʹzar-shuʹal, Beʹer-sheʹba, Biziothiʹah,"
+
+- triggers: ["!joshua15:29 ","!josh15:29 ","!jos15:29 "]
+  replace: "Baʹalah, Iʹim, Eʹzem,"
+
+- triggers: ["!joshua15:30 ","!josh15:30 ","!jos15:30 "]
+  replace: "Eltoʹlad, Cheʹsil, Horʹmah,"
+
+- triggers: ["!joshua15:31 ","!josh15:31 ","!jos15:31 "]
+  replace: "Zikʹlag, Madmanʹnah, Sansanʹnah,"
+
+- triggers: ["!joshua15:32 ","!josh15:32 ","!jos15:32 "]
+  replace: "Lebaʹoth, Shilʹhim, Aʹin, and Rimʹmon—a total of 29 cities together with their settlements."
+
+- triggers: ["!joshua15:33 ","!josh15:33 ","!jos15:33 "]
+  replace: "In the Shepheʹlah, there were: Eshʹtaol, Zoʹrah, Ashʹnah,"
+
+- triggers: ["!joshua15:34 ","!josh15:34 ","!jos15:34 "]
+  replace: "Zanoʹah, En-ganʹnim, Tapʹpuah, Eʹnam,"
+
+- triggers: ["!joshua15:35 ","!josh15:35 ","!jos15:35 "]
+  replace: "Jarʹmuth, Adulʹlam, Soʹcoh, Azeʹkah,"
+
+- triggers: ["!joshua15:36 ","!josh15:36 ","!jos15:36 "]
+  replace: "Shaʹaraʹim, Adithaʹim, and Gedeʹrah and Gederothaʹim—14 cities and their settlements."
+
+- triggers: ["!joshua15:37 ","!josh15:37 ","!jos15:37 "]
+  replace: "Zeʹnan, Hadashʹah, Migʹdal-gad,"
+
+- triggers: ["!joshua15:38 ","!josh15:38 ","!jos15:38 "]
+  replace: "Diʹlean, Mizʹpeh, Jokʹtheel,"
+
+- triggers: ["!joshua15:39 ","!josh15:39 ","!jos15:39 "]
+  replace: "Laʹchish, Bozʹkath, Egʹlon,"
+
+- triggers: ["!joshua15:40 ","!josh15:40 ","!jos15:40 "]
+  replace: "Cabʹbon, Lahʹmam, Chitʹlish,"
+
+- triggers: ["!joshua15:41 ","!josh15:41 ","!jos15:41 "]
+  replace: "Gedeʹroth, Beth-daʹgon, Naʹamah, and Makkeʹdah—16 cities and their settlements."
+
+- triggers: ["!joshua15:42 ","!josh15:42 ","!jos15:42 "]
+  replace: "Libʹnah, Eʹther, Aʹshan,"
+
+- triggers: ["!joshua15:43 ","!josh15:43 ","!jos15:43 "]
+  replace: "Iphʹtah, Ashʹnah, Neʹzib,"
+
+- triggers: ["!joshua15:44 ","!josh15:44 ","!jos15:44 "]
+  replace: "Keiʹlah, Achʹzib, and Mareʹshah—nine cities and their settlements."
+
+- triggers: ["!joshua15:45 ","!josh15:45 ","!jos15:45 "]
+  replace: "Ekʹron and its dependent towns and its settlements;"
+
+- triggers: ["!joshua15:46 ","!josh15:46 ","!jos15:46 "]
+  replace: "from Ekʹron westward, all that is alongside Ashʹdod and their settlements."
+
+- triggers: ["!joshua15:47 ","!josh15:47 ","!jos15:47 "]
+  replace: "Ashʹdod, its dependent towns and its settlements; Gazʹa, its dependent towns and its settlements, down to the Wadi of Egypt, the Great Sea, and the adjacent region."
+
+- triggers: ["!joshua15:48 ","!josh15:48 ","!jos15:48 "]
+  replace: "And in the mountainous region, Shaʹmir, Jatʹtir, Soʹcoh,"
+
+- triggers: ["!joshua15:49 ","!josh15:49 ","!jos15:49 "]
+  replace: "Danʹnah, Kirʹiath-sanʹnah, that is, Deʹbir,"
+
+- triggers: ["!joshua15:50 ","!josh15:50 ","!jos15:50 "]
+  replace: "Aʹnab, Eshʹtemoh, Aʹnim,"
+
+- triggers: ["!joshua15:51 ","!josh15:51 ","!jos15:51 "]
+  replace: "Goʹshen, Hoʹlon, and Giʹloh—11 cities and their settlements."
+
+- triggers: ["!joshua15:52 ","!josh15:52 ","!jos15:52 "]
+  replace: "Arab, Duʹmah, Eʹshan,"
+
+- triggers: ["!joshua15:53 ","!josh15:53 ","!jos15:53 "]
+  replace: "Jaʹnim, Beth-tapʹpuah, Apheʹkah,"
+
+- triggers: ["!joshua15:54 ","!josh15:54 ","!jos15:54 "]
+  replace: "Humʹtah, Kirʹiath-arʹba, that is, Hebʹron, and Ziʹor—nine cities and their settlements."
+
+- triggers: ["!joshua15:55 ","!josh15:55 ","!jos15:55 "]
+  replace: "Maʹon, Carʹmel, Ziph, Jutʹtah,"
+
+- triggers: ["!joshua15:56 ","!josh15:56 ","!jos15:56 "]
+  replace: "Jezʹreel, Jokʹdeam, Zanoʹah,"
+
+- triggers: ["!joshua15:57 ","!josh15:57 ","!jos15:57 "]
+  replace: "Kaʹin, Gibʹeah, and Timʹnah—ten cities and their settlements."
+
+- triggers: ["!joshua15:58 ","!josh15:58 ","!jos15:58 "]
+  replace: "Halʹhul, Beth-zur, Geʹdor,"
+
+- triggers: ["!joshua15:59 ","!josh15:59 ","!jos15:59 "]
+  replace: "Maʹarath, Beth-aʹnoth, and Elʹtekon—six cities and their settlements."
+
+- triggers: ["!joshua15:60 ","!josh15:60 ","!jos15:60 "]
+  replace: "Kirʹiath-baʹal, that is, Kirʹiath-jeʹarim, and Rabʹbah—two cities and their settlements."
+
+- triggers: ["!joshua15:61 ","!josh15:61 ","!jos15:61 "]
+  replace: "In the wilderness, Beth-arʹabah, Midʹdin, Secaʹcah,"
+
+- triggers: ["!joshua15:62 ","!josh15:62 ","!jos15:62 "]
+  replace: "Nibʹshan, the City of Salt, and En-gedʹi—six cities and their settlements."
+
+- triggers: ["!joshua15:63 ","!josh15:63 ","!jos15:63 "]
+  replace: "As for the Jebʹusites who were dwelling in Jerusalem, the men of Judah were not able to drive them away, so the Jebʹusites continue dwelling with the people of Judah in Jerusalem to this day."
+
+- triggers: ["!joshua16:1 ","!josh16:1 ","!jos16:1 "]
+  replace: "And the land that fell by lot to the descendants of Joseph was from the Jordan at Jerʹicho to the waters east of Jerʹicho, through the wilderness going up from Jerʹicho into the mountainous region of Bethʹel."
+
+- triggers: ["!joshua16:2 ","!josh16:2 ","!jos16:2 "]
+  replace: "It extended from Bethʹel belonging to Luz and continued to the boundary of the Arʹchites at Atʹaroth,"
+
+- triggers: ["!joshua16:3 ","!josh16:3 ","!jos16:3 "]
+  replace: "then it went down westward to the boundary of the Japhʹletites as far as the boundary of Lower Beth-hoʹron and Geʹzer, and it ended at the sea."
+
+- triggers: ["!joshua16:4 ","!josh16:4 ","!jos16:4 "]
+  replace: "So Joseph’s descendants, Manasʹseh and Eʹphraim, took possession of their land."
+
+- triggers: ["!joshua16:5 ","!josh16:5 ","!jos16:5 "]
+  replace: "The boundary of the descendants of Eʹphraim by their families was as follows: The boundary of their inheritance to the east was Atʹaroth-adʹdar, as far as Upper Beth-hoʹron,"
+
+- triggers: ["!joshua16:6 ","!josh16:6 ","!jos16:6 "]
+  replace: "and the boundary extended to the sea. Michmeʹthath was on the north, and the boundary went around east to Taʹanath-shiʹloh, and it passed on the east to Janoʹah."
+
+- triggers: ["!joshua16:7 ","!josh16:7 ","!jos16:7 "]
+  replace: "Then it went down from Janoʹah to Atʹaroth and Naʹarah and reached to Jerʹicho and extended to the Jordan."
+
+- triggers: ["!joshua16:8 ","!josh16:8 ","!jos16:8 "]
+  replace: "From Tapʹpuah the boundary continued westward to the Wadi of Kaʹnah, and it ended at the sea. This is the inheritance of the tribe of Eʹphraim by their families;"
+
+- triggers: ["!joshua16:9 ","!josh16:9 ","!jos16:9 "]
+  replace: "the descendants of Eʹphraim also had enclave cities in the midst of the inheritance of Manasʹseh, all the cities and their settlements."
+
+- triggers: ["!joshua16:10 ","!josh16:10 ","!jos16:10 "]
+  replace: "But they did not drive away the Caʹnaanites who were dwelling in Geʹzer, and the Caʹnaanites continue to dwell among Eʹphraim to this day and have been subjected to forced labor."
+
+- triggers: ["!joshua17:1 ","!josh17:1 ","!jos17:1 "]
+  replace: "Then the lot fell for the tribe of Manasʹseh, because he was Joseph’s firstborn. Since Maʹchir, the firstborn of Manasʹseh and the father of Gilʹead, was a man of war, he received Gilʹead and Baʹshan."
+
+- triggers: ["!joshua17:2 ","!josh17:2 ","!jos17:2 "]
+  replace: "And the lot fell for the rest of the descendants of Manasʹseh according to their families, for the sons of Abi-eʹzer, the sons of Heʹlek, the sons of Asʹriel, the sons of Sheʹchem, the sons of Heʹpher, and the sons of Shemiʹda. These were the descendants of Manasʹseh the son of Joseph, the males according to their families."
+
+- triggers: ["!joshua17:3 ","!josh17:3 ","!jos17:3 "]
+  replace: "But Zeloʹphehad the son of Heʹpher, the son of Gilʹead, the son of Maʹchir, the son of Manasʹseh, did not have sons, only daughters, and these were the names of his daughters: Mahʹlah, Noah, Hogʹlah, Milʹcah, and Tirʹzah."
+
+- triggers: ["!joshua17:4 ","!josh17:4 ","!jos17:4 "]
+  replace: "So they presented themselves before Eleaʹzar the priest, Joshua the son of Nun, and the chieftains, saying: “It was Jehovah who commanded Moses to give us an inheritance among our brothers.” So at the order of Jehovah, he gave them an inheritance among the brothers of their father."
+
+- triggers: ["!joshua17:5 ","!josh17:5 ","!jos17:5 "]
+  replace: "There were also ten allotments that fell to Manasʹseh apart from the land of Gilʹead and Baʹshan, which were on the other side of the Jordan,"
+
+- triggers: ["!joshua17:6 ","!josh17:6 ","!jos17:6 "]
+  replace: "for the daughters of Manasʹseh received an inheritance along with his sons, and the land of Gilʹead became the property of the rest of the descendants of Manasʹseh."
+
+- triggers: ["!joshua17:7 ","!josh17:7 ","!jos17:7 "]
+  replace: "And the boundary of Manasʹseh was from Ashʹer to Michmeʹthath, which faces Sheʹchem, and the boundary continued toward the south to the land of the inhabitants of En-Tapʹpuah."
+
+- triggers: ["!joshua17:8 ","!josh17:8 ","!jos17:8 "]
+  replace: "The land of Tapʹpuah became Manasʹseh’s, but Tapʹpuah on Manasʹseh’s boundary belonged to the descendants of Eʹphraim."
+
+- triggers: ["!joshua17:9 ","!josh17:9 ","!jos17:9 "]
+  replace: "And the boundary went down to the Wadi of Kaʹnah, south of the wadi. There were cities of Eʹphraim among the cities of Manasʹseh, and the boundary of Manasʹseh was on the north of the wadi, and it ended at the sea."
+
+- triggers: ["!joshua17:10 ","!josh17:10 ","!jos17:10 "]
+  replace: "To the south it belonged to Eʹphraim, and to the north it belonged to Manasʹseh, and the sea was his boundary, and on the north they reached to Ashʹer, and on the east, to Isʹsachar."
+
+- triggers: ["!joshua17:11 ","!josh17:11 ","!jos17:11 "]
+  replace: "In the territories of Isʹsachar and Ashʹer, Manasʹseh was given Beth-sheʹan and its dependent towns, Ibʹleam and its dependent towns, the inhabitants of Dor and its dependent towns, the inhabitants of En-dor and its dependent towns, the inhabitants of Taʹanach and its dependent towns, and the inhabitants of Megidʹdo and its dependent towns, three of the heights."
+
+- triggers: ["!joshua17:12 ","!josh17:12 ","!jos17:12 "]
+  replace: "But the descendants of Manasʹseh were not able to take possession of these cities; the Caʹnaanites persisted in dwelling in this land."
+
+- triggers: ["!joshua17:13 ","!josh17:13 ","!jos17:13 "]
+  replace: "When the Israelites grew strong, they subjected the Caʹnaanites to forced labor, but they did not drive them out entirely."
+
+- triggers: ["!joshua17:14 ","!josh17:14 ","!jos17:14 "]
+  replace: "The descendants of Joseph said to Joshua: “Why have you given us as an inheritance only one lot and one allotment? We are a numerous people, for Jehovah has blessed us until now.”"
+
+- triggers: ["!joshua17:15 ","!josh17:15 ","!jos17:15 "]
+  replace: "Joshua replied to them: “If you are such a numerous people, go up to the forest and clear out a place for yourself there in the land of the Perʹizzites and the Rephʹaim, since the mountainous region of Eʹphraim is too cramped for you.”"
+
+- triggers: ["!joshua17:16 ","!josh17:16 ","!jos17:16 "]
+  replace: "Then the descendants of Joseph said: “The mountainous region is not enough for us, and all the Caʹnaanites who are dwelling in the land of the valley have war chariots with iron scythes, both those in Beth-sheʹan and its dependent towns and those in the Valley of Jezʹreel.”"
+
+- triggers: ["!joshua17:17 ","!josh17:17 ","!jos17:17 "]
+  replace: "So Joshua said this to the house of Joseph, to Eʹphraim and Manasʹseh: “You are a numerous people, and you have great power. You will not receive only one lot,"
+
+- triggers: ["!joshua17:18 ","!josh17:18 ","!jos17:18 "]
+  replace: "but the mountainous region will also be yours. Although it is a forest, you will clear it, and it will be the extremity of your territory. For you will drive away the Caʹnaanites, even though they are strong and have war chariots with iron scythes.”"
+
+- triggers: ["!joshua18:1 ","!josh18:1 ","!jos18:1 "]
+  replace: "Then all the assembly of the Israelites congregated at Shiʹloh, and they set up the tent of meeting there, as the land was now subdued before them."
+
+- triggers: ["!joshua18:2 ","!josh18:2 ","!jos18:2 "]
+  replace: "But there were still seven tribes left of the Israelites whose inheritance had not been allotted."
+
+- triggers: ["!joshua18:3 ","!josh18:3 ","!jos18:3 "]
+  replace: "So Joshua said to the Israelites: “How long will you put off going in to take possession of the land that Jehovah the God of your forefathers has given you?"
+
+- triggers: ["!joshua18:4 ","!josh18:4 ","!jos18:4 "]
+  replace: "Give me three men from each tribe to send out; they should go out and walk throughout the land and map it out according to their inheritance. Then they should return to me."
+
+- triggers: ["!joshua18:5 ","!josh18:5 ","!jos18:5 "]
+  replace: "They must apportion it among themselves into seven shares. Judah will remain in his territory to the south, and the house of Joseph will remain in their territory to the north."
+
+- triggers: ["!joshua18:6 ","!josh18:6 ","!jos18:6 "]
+  replace: "As for you, map out the land into seven shares, and bring them here to me, and I will cast lots here for you before Jehovah our God."
+
+- triggers: ["!joshua18:7 ","!josh18:7 ","!jos18:7 "]
+  replace: "But the Levites will not be given a share among you, because the priesthood of Jehovah is their inheritance; and Gad, Reuʹben, and the half tribe of Manasʹseh have already taken their inheritance on the east side of the Jordan, which Moses the servant of Jehovah gave them.”"
+
+- triggers: ["!joshua18:8 ","!josh18:8 ","!jos18:8 "]
+  replace: "The men prepared to go, and Joshua commanded those who were to map out the land: “Go and walk through the land and map it out and return to me, and I will cast lots for you here before Jehovah in Shiʹloh.”"
+
+- triggers: ["!joshua18:9 ","!josh18:9 ","!jos18:9 "]
+  replace: "With that the men went and traveled through the land and mapped it out by cities into seven shares, recording it in a book. After that they returned to Joshua at the camp in Shiʹloh."
+
+- triggers: ["!joshua18:10 ","!josh18:10 ","!jos18:10 "]
+  replace: "Joshua then cast lots for them in Shiʹloh before Jehovah. There Joshua apportioned the land to the Israelites by their shares."
+
+- triggers: ["!joshua18:11 ","!josh18:11 ","!jos18:11 "]
+  replace: "The lot came up for the tribe of Benjamin by their families, and the territory of their lot was between the people of Judah and the people of Joseph."
+
+- triggers: ["!joshua18:12 ","!josh18:12 ","!jos18:12 "]
+  replace: "On the north side, their boundary started at the Jordan, and the boundary went up to the slope of Jerʹicho on the north and went up on the mountain westward, and it extended to the wilderness of Beth-aʹven."
+
+- triggers: ["!joshua18:13 ","!josh18:13 ","!jos18:13 "]
+  replace: "And the boundary continued from there to Luz, at the southern slope of Luz, that is, Bethʹel; the boundary went down to Atʹaroth-adʹdar on the mountain that is south of Lower Beth-hoʹron."
+
+- triggers: ["!joshua18:14 ","!josh18:14 ","!jos18:14 "]
+  replace: "And the boundary was marked at the western side and went around toward the south from the mountain that faces Beth-hoʹron to the south; it ended at Kirʹiath-baʹal, that is, Kirʹiath-jeʹarim, a city of Judah. This is the western side."
+
+- triggers: ["!joshua18:15 ","!josh18:15 ","!jos18:15 "]
+  replace: "The south side was from the extremity of Kirʹiath-jeʹarim, and the boundary extended westward; it went out to the spring of the waters of Nephtoʹah."
+
+- triggers: ["!joshua18:16 ","!josh18:16 ","!jos18:16 "]
+  replace: "The boundary went down to the extremity of the mountain that faces the Valley of the Son of Hinʹnom, which is in the Valley of Rephʹaim to the north, and it went down to the Valley of Hinʹnom, to the slope of the Jebʹusite on the south, and down to En-roʹgel."
+
+- triggers: ["!joshua18:17 ","!josh18:17 ","!jos18:17 "]
+  replace: "And it was marked northward and extended to En-sheʹmesh and then out to Geliʹloth, which is in front of the ascent of Adumʹmim, and it went down to the stone of Boʹhan the son of Reuʹben."
+
+- triggers: ["!joshua18:18 ","!josh18:18 ","!jos18:18 "]
+  replace: "And it continued to the northern slope in front of the Arʹabah and went down to the Arʹabah."
+
+- triggers: ["!joshua18:19 ","!josh18:19 ","!jos18:19 "]
+  replace: "And the boundary continued to the northern slope of Beth-hogʹlah, and the boundary ended at the northern bay of the Salt Sea at the southern end of the Jordan. This was the southern boundary."
+
+- triggers: ["!joshua18:20 ","!josh18:20 ","!jos18:20 "]
+  replace: "And the Jordan served as its boundary on the eastern side. This was the inheritance of the descendants of Benjamin by their families, according to its boundaries on all sides."
+
+- triggers: ["!joshua18:21 ","!josh18:21 ","!jos18:21 "]
+  replace: "And the cities of the tribe of Benjamin by their families were: Jerʹicho, Beth-hogʹlah, Eʹmek-keʹziz,"
+
+- triggers: ["!joshua18:22 ","!josh18:22 ","!jos18:22 "]
+  replace: "Beth-arʹabah, Zemaraʹim, Bethʹel,"
+
+- triggers: ["!joshua18:23 ","!josh18:23 ","!jos18:23 "]
+  replace: "Avʹvim, Paʹrah, Ophʹrah,"
+
+- triggers: ["!joshua18:24 ","!josh18:24 ","!jos18:24 "]
+  replace: "Cheʹphar-amʹmoni, Ophʹni, and Geʹba—12 cities and their settlements."
+
+- triggers: ["!joshua18:25 ","!josh18:25 ","!jos18:25 "]
+  replace: "Gibʹeon, Raʹmah, Beerʹoth,"
+
+- triggers: ["!joshua18:26 ","!josh18:26 ","!jos18:26 "]
+  replace: "Mizʹpeh, Chephiʹrah, Moʹzah,"
+
+- triggers: ["!joshua18:27 ","!josh18:27 ","!jos18:27 "]
+  replace: "Reʹkem, Irʹpeel, Tarʹalah,"
+
+- triggers: ["!joshua18:28 ","!josh18:28 ","!jos18:28 "]
+  replace: "Zeʹlah, Ha-eʹleph, Jebuʹsi, that is, Jerusalem, Gibʹeah, and Kirʹiath—14 cities and their settlements. This was the inheritance of the descendants of Benjamin by their families."
+
+- triggers: ["!joshua19:1 ","!josh19:1 ","!jos19:1 "]
+  replace: "Then the second lot came out for Simʹeon, for the tribe of Simʹeon by their families. And their inheritance was within the inheritance of Judah."
+
+- triggers: ["!joshua19:2 ","!josh19:2 ","!jos19:2 "]
+  replace: "Their inheritance was Beʹer-sheʹba with Sheʹba, Molaʹdah,"
+
+- triggers: ["!joshua19:3 ","!josh19:3 ","!jos19:3 "]
+  replace: "Haʹzar-shuʹal, Baʹlah, Eʹzem,"
+
+- triggers: ["!joshua19:4 ","!josh19:4 ","!jos19:4 "]
+  replace: "Eltoʹlad, Beʹthul, Horʹmah,"
+
+- triggers: ["!joshua19:5 ","!josh19:5 ","!jos19:5 "]
+  replace: "Zikʹlag, Beth-marʹcaboth, Haʹzar-suʹsah,"
+
+- triggers: ["!joshua19:6 ","!josh19:6 ","!jos19:6 "]
+  replace: "Beth-lebaʹoth, and Sharuʹhen—13 cities and their settlements;"
+
+- triggers: ["!joshua19:7 ","!josh19:7 ","!jos19:7 "]
+  replace: "Aʹin, Rimʹmon, Eʹther, and Aʹshan—four cities and their settlements;"
+
+- triggers: ["!joshua19:8 ","!josh19:8 ","!jos19:8 "]
+  replace: "and all the settlements that were around these cities as far as Baʹalath-beʹer, Raʹmah of the south. This was the inheritance of the tribe of Simʹeon by their families."
+
+- triggers: ["!joshua19:9 ","!josh19:9 ","!jos19:9 "]
+  replace: "The inheritance of the descendants of Simʹeon was taken out of the allotment of Judah, because the share of Judah was too large for them. So the descendants of Simʹeon received a possession within their inheritance."
+
+- triggers: ["!joshua19:10 ","!josh19:10 ","!jos19:10 "]
+  replace: "Next the third lot came up for the descendants of Zebʹulun by their families, and the boundary of their inheritance went as far as Saʹrid."
+
+- triggers: ["!joshua19:11 ","!josh19:11 ","!jos19:11 "]
+  replace: "Their boundary went up westward to Marʹeal and reached to Dabʹbesheth and then to the valley in front of Jokʹneam."
+
+- triggers: ["!joshua19:12 ","!josh19:12 ","!jos19:12 "]
+  replace: "And it went from Saʹrid eastward toward the sunrise, to the border of Chisʹloth-taʹbor and out to Dabʹerath and then up to Japhiʹa."
+
+- triggers: ["!joshua19:13 ","!josh19:13 ","!jos19:13 "]
+  replace: "And from there it continued eastward toward the sunrise to Gath-heʹpher, to Eth-kaʹzin, and out to Rimʹmon, and it extended to Neʹah."
+
+- triggers: ["!joshua19:14 ","!josh19:14 ","!jos19:14 "]
+  replace: "And the boundary went around it on the north to Hanʹnathon, and it ended at the Valley of Iphʹtah-el,"
+
+- triggers: ["!joshua19:15 ","!josh19:15 ","!jos19:15 "]
+  replace: "and Katʹtath, Nahalʹal, Shimʹron, Iʹdalah, and Bethʹlehem—12 cities and their settlements."
+
+- triggers: ["!joshua19:16 ","!josh19:16 ","!jos19:16 "]
+  replace: "This was the inheritance of the descendants of Zebʹulun by their families. These were the cities and their settlements."
+
+- triggers: ["!joshua19:17 ","!josh19:17 ","!jos19:17 "]
+  replace: "The fourth lot came out for Isʹsachar, for the descendants of Isʹsachar by their families."
+
+- triggers: ["!joshua19:18 ","!josh19:18 ","!jos19:18 "]
+  replace: "And their boundary was to Jezʹreel, Chesulʹloth, Shuʹnem,"
+
+- triggers: ["!joshua19:19 ","!josh19:19 ","!jos19:19 "]
+  replace: "Haphʹaraʹim, Shiʹon, Anahaʹrath,"
+
+- triggers: ["!joshua19:20 ","!josh19:20 ","!jos19:20 "]
+  replace: "Rabʹbith, Kishʹion, Eʹbez,"
+
+- triggers: ["!joshua19:21 ","!josh19:21 ","!jos19:21 "]
+  replace: "Reʹmeth, En-ganʹnim, En-hadʹdah, and Beth-pazʹzez."
+
+- triggers: ["!joshua19:22 ","!josh19:22 ","!jos19:22 "]
+  replace: "And the boundary reached to Taʹbor and Shahazuʹmah and Beth-sheʹmesh, and the end of their border was at the Jordan—16 cities and their settlements."
+
+- triggers: ["!joshua19:23 ","!josh19:23 ","!jos19:23 "]
+  replace: "This was the inheritance of the tribe of Isʹsachar by their families, the cities and their settlements."
+
+- triggers: ["!joshua19:24 ","!josh19:24 ","!jos19:24 "]
+  replace: "Then the fifth lot came out for the tribe of Ashʹer by their families."
+
+- triggers: ["!joshua19:25 ","!josh19:25 ","!jos19:25 "]
+  replace: "And their boundary was Helʹkath, Haʹli, Beʹten, Achʹshaph,"
+
+- triggers: ["!joshua19:26 ","!josh19:26 ","!jos19:26 "]
+  replace: "Allamʹmelech, Aʹmad, and Miʹshal. It reached westward to Carʹmel and to Shiʹhor-libʹnath,"
+
+- triggers: ["!joshua19:27 ","!josh19:27 ","!jos19:27 "]
+  replace: "and it went back toward the east to Beth-daʹgon and reached to Zebʹulun and the Valley of Iphʹtah-el to the north, to Beth-eʹmek and Neiʹel, and it extended to Caʹbul on the left,"
+
+- triggers: ["!joshua19:28 ","!josh19:28 ","!jos19:28 "]
+  replace: "and to Eʹbron, Reʹhob, Hamʹmon, and Kaʹnah as far as Great Siʹdon."
+
+- triggers: ["!joshua19:29 ","!josh19:29 ","!jos19:29 "]
+  replace: "And the boundary went back to Raʹmah and as far as the fortified city of Tyre. Then the boundary went back to Hoʹsah, and it ended at the sea in the region of Achʹzib,"
+
+- triggers: ["!joshua19:30 ","!josh19:30 ","!jos19:30 "]
+  replace: "Umʹmah, Aʹphek, and Reʹhob—22 cities and their settlements."
+
+- triggers: ["!joshua19:31 ","!josh19:31 ","!jos19:31 "]
+  replace: "This was the inheritance of the tribe of Ashʹer by their families. These were the cities and their settlements."
+
+- triggers: ["!joshua19:32 ","!josh19:32 ","!jos19:32 "]
+  replace: "The sixth lot came out for the descendants of Naphʹtali, for the descendants of Naphʹtali by their families."
+
+- triggers: ["!joshua19:33 ","!josh19:33 ","!jos19:33 "]
+  replace: "Their boundary was from Heʹleph, from the big tree in Zaananʹnim, and Adʹami-neʹkeb and Jabʹneel as far as Lakʹkum; and it ended at the Jordan."
+
+- triggers: ["!joshua19:34 ","!josh19:34 ","!jos19:34 "]
+  replace: "The boundary went back westward to Azʹnoth-taʹbor and extended from there to Hukʹkok and reached to Zebʹulun on the south and to Ashʹer on the west and to Judah at the Jordan toward the east."
+
+- triggers: ["!joshua19:35 ","!josh19:35 ","!jos19:35 "]
+  replace: "And the fortified cities were Zidʹdim, Zer, Hamʹmath, Rakʹkath, Chinʹnereth,"
+
+- triggers: ["!joshua19:36 ","!josh19:36 ","!jos19:36 "]
+  replace: "Adʹamah, Raʹmah, Haʹzor,"
+
+- triggers: ["!joshua19:37 ","!josh19:37 ","!jos19:37 "]
+  replace: "Keʹdesh, Edʹrei, En-haʹzor,"
+
+- triggers: ["!joshua19:38 ","!josh19:38 ","!jos19:38 "]
+  replace: "Yiʹron, Migʹdal-el, Hoʹrem, Beth-aʹnath, and Beth-sheʹmesh—19 cities and their settlements."
+
+- triggers: ["!joshua19:39 ","!josh19:39 ","!jos19:39 "]
+  replace: "This was the inheritance of the tribe of Naphʹtali by their families, the cities and their settlements."
+
+- triggers: ["!joshua19:40 ","!josh19:40 ","!jos19:40 "]
+  replace: "The seventh lot came out for the tribe of Dan by their families."
+
+- triggers: ["!joshua19:41 ","!josh19:41 ","!jos19:41 "]
+  replace: "And the border of their inheritance was Zoʹrah, Eshʹtaol, Ir-sheʹmesh,"
+
+- triggers: ["!joshua19:42 ","!josh19:42 ","!jos19:42 "]
+  replace: "Shaalabʹbin, Aiʹjalon, Ithʹlah,"
+
+- triggers: ["!joshua19:43 ","!josh19:43 ","!jos19:43 "]
+  replace: "Eʹlon, Timʹnah, Ekʹron,"
+
+- triggers: ["!joshua19:44 ","!josh19:44 ","!jos19:44 "]
+  replace: "Elʹtekeh, Gibʹbethon, Baʹalath,"
+
+- triggers: ["!joshua19:45 ","!josh19:45 ","!jos19:45 "]
+  replace: "Jeʹhud, Benʹe-beʹrak, Gath-rimʹmon,"
+
+- triggers: ["!joshua19:46 ","!josh19:46 ","!jos19:46 "]
+  replace: "Me-jarʹkon, and Rakʹkon, with the border facing Jopʹpa."
+
+- triggers: ["!joshua19:47 ","!josh19:47 ","!jos19:47 "]
+  replace: "But the territory of Dan was too cramped for them. So they went up and fought against Leʹshem and captured it and struck it with the sword. Then they took possession of it and settled in it, and they changed the name of Leʹshem to Dan, after the name of Dan their forefather."
+
+- triggers: ["!joshua19:48 ","!josh19:48 ","!jos19:48 "]
+  replace: "This was the inheritance of the tribe of Dan by their families. These were the cities and their settlements."
+
+- triggers: ["!joshua19:49 ","!josh19:49 ","!jos19:49 "]
+  replace: "Thus they finished dividing the land for inheritance by its territories. Then the Israelites gave Joshua the son of Nun an inheritance in their midst."
+
+- triggers: ["!joshua19:50 ","!josh19:50 ","!jos19:50 "]
+  replace: "At the order of Jehovah they gave him the city he asked for, Timʹnath-seʹrah, in the mountainous region of Eʹphraim, and he built up the city and settled in it."
+
+- triggers: ["!joshua19:51 ","!josh19:51 ","!jos19:51 "]
+  replace: "These were the inheritances that Eleaʹzar the priest, Joshua the son of Nun, and the heads of the paternal houses of the tribes of Israel distributed by lot in Shiʹloh before Jehovah, at the entrance of the tent of meeting. So they finished apportioning the land."
+
+- triggers: ["!joshua20:1 ","!josh20:1 ","!jos20:1 "]
+  replace: "Then Jehovah said to Joshua:"
+
+- triggers: ["!joshua20:2 ","!josh20:2 ","!jos20:2 "]
+  replace: "“Tell the Israelites, ‘Select for yourselves the cities of refuge about which I spoke to you through Moses,"
+
+- triggers: ["!joshua20:3 ","!josh20:3 ","!jos20:3 "]
+  replace: "so that the manslayer who unintentionally or accidentally kills someone may flee there. And they will serve as a refuge for you from the avenger of blood."
+
+- triggers: ["!joshua20:4 ","!josh20:4 ","!jos20:4 "]
+  replace: "He must flee to one of these cities and stand at the entrance of the city gate and present his case in the hearing of the elders of that city. Then they must receive him into the city and give him a place and he will live with them."
+
+- triggers: ["!joshua20:5 ","!josh20:5 ","!jos20:5 "]
+  replace: "If the avenger of blood chases after him, they should not surrender the manslayer into his hand, for he killed his fellow man accidentally and he did not previously hate him."
+
+- triggers: ["!joshua20:6 ","!josh20:6 ","!jos20:6 "]
+  replace: "He must dwell in that city until he stands trial before the assembly and remain there until the death of the high priest who is in office at that time. Then the manslayer may return to the city from which he fled, and he may enter his city and his house.’”"
+
+- triggers: ["!joshua20:7 ","!josh20:7 ","!jos20:7 "]
+  replace: "So they gave a sacred status to Keʹdesh in Galʹilee in the mountainous region of Naphʹtali, Sheʹchem in the mountainous region of Eʹphraim, and Kirʹiath-arʹba, that is, Hebʹron, in the mountainous region of Judah."
+
+- triggers: ["!joshua20:8 ","!josh20:8 ","!jos20:8 "]
+  replace: "In the region of the Jordan, east of Jerʹicho, they selected Beʹzer in the wilderness on the tableland out of the tribe of Reuʹben, Raʹmoth in Gilʹead out of the tribe of Gad, and Goʹlan in Baʹshan out of the tribe of Manasʹseh."
+
+- triggers: ["!joshua20:9 ","!josh20:9 ","!jos20:9 "]
+  replace: "These became the cities appointed for all the Israelites and for the foreign residents residing among them, so that anyone who unintentionally killed someone could flee there and not die by the hand of the avenger of blood prior to standing trial before the assembly."
+
+- triggers: ["!joshua21:1 ","!josh21:1 ","!jos21:1 "]
+  replace: "The heads of the paternal houses of the Levites now approached Eleaʹzar the priest, Joshua the son of Nun, and the heads of the paternal houses of the tribes of Israel,"
+
+- triggers: ["!joshua21:2 ","!josh21:2 ","!jos21:2 "]
+  replace: "and they spoke to them in Shiʹloh in the land of Caʹnaan, saying: “Jehovah through Moses commanded that we be given cities in which to dwell, along with their pastures for our livestock.”"
+
+- triggers: ["!joshua21:3 ","!josh21:3 ","!jos21:3 "]
+  replace: "So at the order of Jehovah, the Israelites gave the Levites these cities and their pastures out of their own inheritance."
+
+- triggers: ["!joshua21:4 ","!josh21:4 ","!jos21:4 "]
+  replace: "The lot came out for the families of the Koʹhathites, and the Levites who were descendants of Aaron the priest were given by lot 13 cities out of the tribe of Judah, the tribe of Simʹeon, and the tribe of Benjamin."
+
+- triggers: ["!joshua21:5 ","!josh21:5 ","!jos21:5 "]
+  replace: "And for the rest of the Koʹhathites, there were allotted ten cities out of the families of the tribe of Eʹphraim, the tribe of Dan, and the half tribe of Manasʹseh."
+
+- triggers: ["!joshua21:6 ","!josh21:6 ","!jos21:6 "]
+  replace: "And for the Gerʹshonites, there were allotted 13 cities out of the families of the tribe of Isʹsachar, the tribe of Ashʹer, the tribe of Naphʹtali, and the half tribe of Manasʹseh in Baʹshan."
+
+- triggers: ["!joshua21:7 ","!josh21:7 ","!jos21:7 "]
+  replace: "For the Merarʹites by their families, there were 12 cities out of the tribe of Reuʹben, the tribe of Gad, and the tribe of Zebʹulun."
+
+- triggers: ["!joshua21:8 ","!josh21:8 ","!jos21:8 "]
+  replace: "Thus the Israelites gave the Levites these cities and their pastures by lot, just as Jehovah had commanded through Moses."
+
+- triggers: ["!joshua21:9 ","!josh21:9 ","!jos21:9 "]
+  replace: "So from the tribe of Judah and the tribe of Simʹeon, they gave these cities here mentioned by name,"
+
+- triggers: ["!joshua21:10 ","!josh21:10 ","!jos21:10 "]
+  replace: "and they were given to the sons of Aaron of the Koʹhathite families of the Levites, because they received the first lot."
+
+- triggers: ["!joshua21:11 ","!josh21:11 ","!jos21:11 "]
+  replace: "They gave them Kirʹiath-arʹba (Arʹba was the father of Aʹnak), that is, Hebʹron, in the mountainous region of Judah, and its surrounding pastures."
+
+- triggers: ["!joshua21:12 ","!josh21:12 ","!jos21:12 "]
+  replace: "But the field of the city and its settlements they gave to Caʹleb the son of Jephunʹneh as his possession."
+
+- triggers: ["!joshua21:13 ","!josh21:13 ","!jos21:13 "]
+  replace: "And to the sons of Aaron the priest, they gave the city of refuge for the manslayer, namely, Hebʹron with its pastures, also Libʹnah with its pastures,"
+
+- triggers: ["!joshua21:14 ","!josh21:14 ","!jos21:14 "]
+  replace: "Jatʹtir with its pastures, Eshtemoʹa with its pastures,"
+
+- triggers: ["!joshua21:15 ","!josh21:15 ","!jos21:15 "]
+  replace: "Hoʹlon with its pastures, Deʹbir with its pastures,"
+
+- triggers: ["!joshua21:16 ","!josh21:16 ","!jos21:16 "]
+  replace: "Aʹin with its pastures, Jutʹtah with its pastures, and Beth-sheʹmesh with its pastures—nine cities out of these two tribes."
+
+- triggers: ["!joshua21:17 ","!josh21:17 ","!jos21:17 "]
+  replace: "And from the tribe of Benjamin: Gibʹeon with its pastures, Geʹba with its pastures,"
+
+- triggers: ["!joshua21:18 ","!josh21:18 ","!jos21:18 "]
+  replace: "Anʹathoth with its pastures, and Alʹmon with its pastures—four cities."
+
+- triggers: ["!joshua21:19 ","!josh21:19 ","!jos21:19 "]
+  replace: "All the cities given to the descendants of Aaron, the priests, were 13 cities with their pastures."
+
+- triggers: ["!joshua21:20 ","!josh21:20 ","!jos21:20 "]
+  replace: "And the rest of the Koʹhathite families among the Levites were given by lot cities from the tribe of Eʹphraim."
+
+- triggers: ["!joshua21:21 ","!josh21:21 ","!jos21:21 "]
+  replace: "They gave them the city of refuge for the manslayer, namely, Sheʹchem with its pastures in the mountainous region of Eʹphraim, Geʹzer with its pastures,"
+
+- triggers: ["!joshua21:22 ","!josh21:22 ","!jos21:22 "]
+  replace: "Kibʹzaim with its pastures, and Beth-hoʹron with its pastures—four cities."
+
+- triggers: ["!joshua21:23 ","!josh21:23 ","!jos21:23 "]
+  replace: "And from the tribe of Dan: Elʹteke with its pastures, Gibʹbethon with its pastures,"
+
+- triggers: ["!joshua21:24 ","!josh21:24 ","!jos21:24 "]
+  replace: "Aiʹjalon with its pastures, Gath-rimʹmon with its pastures—four cities."
+
+- triggers: ["!joshua21:25 ","!josh21:25 ","!jos21:25 "]
+  replace: "And from the half tribe of Manasʹseh: Taʹanach with its pastures and Gath-rimʹmon with its pastures—two cities."
+
+- triggers: ["!joshua21:26 ","!josh21:26 ","!jos21:26 "]
+  replace: "All the cities together with their pastures that the rest of the families of the Koʹhathites received were ten."
+
+- triggers: ["!joshua21:27 ","!josh21:27 ","!jos21:27 "]
+  replace: "And the Gerʹshonites of the families of the Levites received from the half tribe of Manasʹseh the city of refuge for the manslayer, namely, Goʹlan, in Baʹshan, with its pastures and Beeshʹterah with its pastures—two cities."
+
+- triggers: ["!joshua21:28 ","!josh21:28 ","!jos21:28 "]
+  replace: "And from the tribe of Isʹsachar: Kishʹion with its pastures, Dabʹerath with its pastures,"
+
+- triggers: ["!joshua21:29 ","!josh21:29 ","!jos21:29 "]
+  replace: "Jarʹmuth with its pastures, and En-ganʹnim with its pastures—four cities."
+
+- triggers: ["!joshua21:30 ","!josh21:30 ","!jos21:30 "]
+  replace: "And from the tribe of Ashʹer: Miʹshal with its pastures, Abʹdon with its pastures,"
+
+- triggers: ["!joshua21:31 ","!josh21:31 ","!jos21:31 "]
+  replace: "Helʹkath with its pastures, and Reʹhob with its pastures—four cities."
+
+- triggers: ["!joshua21:32 ","!josh21:32 ","!jos21:32 "]
+  replace: "And from the tribe of Naphʹtali: the city of refuge for the manslayer, namely, Keʹdesh in Galʹilee with its pastures, Hamʹmoth-dor with its pastures, and Karʹtan with its pastures—three cities."
+
+- triggers: ["!joshua21:33 ","!josh21:33 ","!jos21:33 "]
+  replace: "All the cities of the Gerʹshonites by their families were 13 cities with their pastures."
+
+- triggers: ["!joshua21:34 ","!josh21:34 ","!jos21:34 "]
+  replace: "And the families of the Merarʹites, the rest of the Levites, received from the tribe of Zebʹulun: Jokʹneam with its pastures, Karʹtah with its pastures,"
+
+- triggers: ["!joshua21:35 ","!josh21:35 ","!jos21:35 "]
+  replace: "Dimʹnah with its pastures, and Nahalʹal with its pastures—four cities."
+
+- triggers: ["!joshua21:36 ","!josh21:36 ","!jos21:36 "]
+  replace: "And from the tribe of Reuʹben: Beʹzer with its pastures, Jaʹhaz with its pastures,"
+
+- triggers: ["!joshua21:37 ","!josh21:37 ","!jos21:37 "]
+  replace: "Kedʹemoth with its pastures, and Mephʹaath with its pastures—four cities."
+
+- triggers: ["!joshua21:38 ","!josh21:38 ","!jos21:38 "]
+  replace: "And from the tribe of Gad: the city of refuge for the manslayer, namely, Raʹmoth in Gilʹead with its pastures, Mahanaʹim with its pastures,"
+
+- triggers: ["!joshua21:39 ","!josh21:39 ","!jos21:39 "]
+  replace: "Heshʹbon with its pastures, and Jaʹzer with its pastures—a total of four cities."
+
+- triggers: ["!joshua21:40 ","!josh21:40 ","!jos21:40 "]
+  replace: "All the cities that were allotted to the Merarʹites by their families, the rest of the families of the Levites, were 12 cities."
+
+- triggers: ["!joshua21:41 ","!josh21:41 ","!jos21:41 "]
+  replace: "All the cities of the Levites within the possession of the Israelites were 48 cities together with their pastures."
+
+- triggers: ["!joshua21:42 ","!josh21:42 ","!jos21:42 "]
+  replace: "Each of these cities had its pastures all around it—this was the case for all these cities."
+
+- triggers: ["!joshua21:43 ","!josh21:43 ","!jos21:43 "]
+  replace: "So Jehovah gave Israel all the land that he had sworn to give to their forefathers, and they took possession of it and settled in it."
+
+- triggers: ["!joshua21:44 ","!josh21:44 ","!jos21:44 "]
+  replace: "Furthermore, Jehovah gave them rest on every side, just as he had sworn to their forefathers, and not one of all their enemies could stand against them. Jehovah gave all their enemies into their hand."
+
+- triggers: ["!joshua21:45 ","!josh21:45 ","!jos21:45 "]
+  replace: "Not a promise failed out of all the good promises that Jehovah had made to the house of Israel; all of them came true."
+
+- triggers: ["!joshua22:1 ","!josh22:1 ","!jos22:1 "]
+  replace: "Then Joshua summoned the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh"
+
+- triggers: ["!joshua22:2 ","!josh22:2 ","!jos22:2 "]
+  replace: "and said to them: “You have done all that Moses the servant of Jehovah commanded you, and you have obeyed my voice in all that I commanded you."
+
+- triggers: ["!joshua22:3 ","!josh22:3 ","!jos22:3 "]
+  replace: "You have not forsaken your brothers all this time, down to this day; and you have kept the obligation of the commandment of Jehovah your God."
+
+- triggers: ["!joshua22:4 ","!josh22:4 ","!jos22:4 "]
+  replace: "Now Jehovah your God has given your brothers rest, just as he promised them. So now you may return to your tents in the land that Moses the servant of Jehovah gave you to possess on the other side of the Jordan."
+
+- triggers: ["!joshua22:5 ","!josh22:5 ","!jos22:5 "]
+  replace: "Only be very careful to carry out the commandment and the Law that Moses the servant of Jehovah gave you, by loving Jehovah your God, by walking in all his ways, by keeping his commandments, by sticking to him, and by serving him with all your heart and with all your soul.”"
+
+- triggers: ["!joshua22:6 ","!josh22:6 ","!jos22:6 "]
+  replace: "Then Joshua blessed them and sent them away, and they went to their tents."
+
+- triggers: ["!joshua22:7 ","!josh22:7 ","!jos22:7 "]
+  replace: "And to the half tribe of Manasʹseh, Moses had given an inheritance in Baʹshan, and to the other half of the tribe, Joshua gave land on the west side of the Jordan, along with their brothers. Moreover, when Joshua sent them away to their tents, he blessed them"
+
+- triggers: ["!joshua22:8 ","!josh22:8 ","!jos22:8 "]
+  replace: "and said to them: “Return to your tents with many riches, with very much livestock, with silver and gold, copper and iron, and garments in very great quantity. Take your share of the spoil of your enemies, along with your brothers.”"
+
+- triggers: ["!joshua22:9 ","!josh22:9 ","!jos22:9 "]
+  replace: "After that the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh departed from the other Israelites, from Shiʹloh in the land of Caʹnaan, and they returned to the land of Gilʹead, the land of their possession where they had settled at the order of Jehovah through Moses."
+
+- triggers: ["!joshua22:10 ","!josh22:10 ","!jos22:10 "]
+  replace: "When they came to the regions of the Jordan in the land of Caʹnaan, the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh built an altar there by the Jordan, a large, impressive altar."
+
+- triggers: ["!joshua22:11 ","!josh22:11 ","!jos22:11 "]
+  replace: "Later the other Israelites heard it said: “Look! The Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh have built an altar on the frontier of the land of Caʹnaan in the regions of the Jordan on the side belonging to the Israelites.”"
+
+- triggers: ["!joshua22:12 ","!josh22:12 ","!jos22:12 "]
+  replace: "When the Israelites heard about it, the whole assembly of the Israelites congregated at Shiʹloh to go to war against them."
+
+- triggers: ["!joshua22:13 ","!josh22:13 ","!jos22:13 "]
+  replace: "Then the Israelites sent Phinʹehas the son of Eleaʹzar the priest to the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh in the land of Gilʹead,"
+
+- triggers: ["!joshua22:14 ","!josh22:14 ","!jos22:14 "]
+  replace: "and ten chieftains were with him, one chieftain of each paternal house of all the tribes of Israel, each a head of his paternal house among the thousands of Israel."
+
+- triggers: ["!joshua22:15 ","!josh22:15 ","!jos22:15 "]
+  replace: "When they came to the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh in the land of Gilʹead, they said to them:"
+
+- triggers: ["!joshua22:16 ","!josh22:16 ","!jos22:16 "]
+  replace: "“This is what all the assembly of Jehovah says: ‘What is this act of unfaithfulness that you have committed against the God of Israel? You have turned back today from following Jehovah by building yourselves an altar and rebelling against Jehovah."
+
+- triggers: ["!joshua22:17 ","!josh22:17 ","!jos22:17 "]
+  replace: "Was the error of Peʹor not enough for us? We have not cleansed ourselves from it down to this day, even though a plague came upon the assembly of Jehovah."
+
+- triggers: ["!joshua22:18 ","!josh22:18 ","!jos22:18 "]
+  replace: "And you would turn back today from following Jehovah! If you rebel today against Jehovah, then tomorrow he will be indignant against the entire assembly of Israel."
+
+- triggers: ["!joshua22:19 ","!josh22:19 ","!jos22:19 "]
+  replace: "Now if it is because the land of your possession is unclean, cross over to the land of Jehovah’s possession where the tabernacle of Jehovah resides and settle among us, but do not rebel against Jehovah, and do not make us rebels by building yourselves an altar in addition to the altar of Jehovah our God."
+
+- triggers: ["!joshua22:20 ","!josh22:20 ","!jos22:20 "]
+  replace: "When Aʹchan the son of Zeʹrah committed an act of unfaithfulness regarding what was devoted to destruction, did not indignation come against all the assembly of Israel? And he was not the only man to die for his error.’”"
+
+- triggers: ["!joshua22:21 ","!josh22:21 ","!jos22:21 "]
+  replace: "At this the Reuʹbenites, the Gadʹites, and the half tribe of Manasʹseh said in answer to the heads of the thousands of Israel:"
+
+- triggers: ["!joshua22:22 ","!josh22:22 ","!jos22:22 "]
+  replace: "“The God of gods, Jehovah! The God of gods, Jehovah! He knows, and Israel will also know. If we were rebellious and unfaithful to Jehovah, do not spare us this day."
+
+- triggers: ["!joshua22:23 ","!josh22:23 ","!jos22:23 "]
+  replace: "If we built ourselves an altar to turn back from following Jehovah and to offer burnt offerings, grain offerings, and communion sacrifices on it, Jehovah will exact the penalty."
+
+- triggers: ["!joshua22:24 ","!josh22:24 ","!jos22:24 "]
+  replace: "No, it was because of another concern that we did this, for we said, ‘In the future, your sons will say to our sons: “What do you have to do with Jehovah the God of Israel?"
+
+- triggers: ["!joshua22:25 ","!josh22:25 ","!jos22:25 "]
+  replace: "Jehovah has put the Jordan as a boundary between us and you, the Reuʹbenites and the Gadʹites. You have no share in Jehovah.” And your sons will hinder our sons from worshipping Jehovah.’"
+
+- triggers: ["!joshua22:26 ","!josh22:26 ","!jos22:26 "]
+  replace: "“So we said, ‘Let us by all means take action by building an altar, not for burnt offerings or sacrifices,"
+
+- triggers: ["!joshua22:27 ","!josh22:27 ","!jos22:27 "]
+  replace: "but to be a witness between you and us and our descendants after us that we will carry out our service to Jehovah before him with our burnt offerings and our sacrifices and our communion sacrifices, so that your sons may not say to our sons in the future: “You have no share in Jehovah.”’"
+
+- triggers: ["!joshua22:28 ","!josh22:28 ","!jos22:28 "]
+  replace: "So we said, ‘If they should say that to us and to our descendants in the future, we will then say: “See the replica of Jehovah’s altar that our forefathers made, not for burnt offerings or sacrifices, but to be a witness between you and us.”’"
+
+- triggers: ["!joshua22:29 ","!josh22:29 ","!jos22:29 "]
+  replace: "It is unthinkable for us to rebel against Jehovah and to turn back today from following Jehovah by building an altar for burnt offerings, grain offerings, and sacrifices, other than the altar of Jehovah our God that is before his tabernacle!”"
+
+- triggers: ["!joshua22:30 ","!josh22:30 ","!jos22:30 "]
+  replace: "When Phinʹehas the priest, the chieftains of the assembly, and the heads of the thousands of Israel who were with him heard the words that the descendants of Reuʹben, Gad, and Manasʹseh spoke, they were satisfied."
+
+- triggers: ["!joshua22:31 ","!josh22:31 ","!jos22:31 "]
+  replace: "So Phinʹehas the son of Eleaʹzar the priest said to the descendants of Reuʹben, Gad, and Manasʹseh: “Today we know that Jehovah is among us, because you have not committed this act of unfaithfulness against Jehovah. Now you have saved the Israelites out of the hand of Jehovah.”"
+
+- triggers: ["!joshua22:32 ","!josh22:32 ","!jos22:32 "]
+  replace: "Then Phinʹehas the son of Eleaʹzar the priest and the chieftains returned from the Reuʹbenites and the Gadʹites in the land of Gilʹead to the land of Caʹnaan, and they brought back word to the other Israelites."
+
+- triggers: ["!joshua22:33 ","!josh22:33 ","!jos22:33 "]
+  replace: "And the Israelites were satisfied with the report. The Israelites then praised God, and they said nothing more about going to war against the Reuʹbenites and the Gadʹites to destroy the land in which they were dwelling."
+
+- triggers: ["!joshua22:34 ","!josh22:34 ","!jos22:34 "]
+  replace: "So the Reuʹbenites and the Gadʹites named the altar, because “it is a witness between us that Jehovah is the true God.”"
+
+- triggers: ["!joshua23:1 ","!josh23:1 ","!jos23:1 "]
+  replace: "Many days after Jehovah had given Israel rest from all its surrounding enemies, when Joshua was old and advanced in years,"
+
+- triggers: ["!joshua23:2 ","!josh23:2 ","!jos23:2 "]
+  replace: "Joshua summoned all Israel, its elders, its heads, its judges, and its officers, and he said to them: “I have grown old; I am advanced in years."
+
+- triggers: ["!joshua23:3 ","!josh23:3 ","!jos23:3 "]
+  replace: "And you have seen for yourselves all that Jehovah your God did to all these nations in your behalf because Jehovah your God was the one who was fighting for you."
+
+- triggers: ["!joshua23:4 ","!josh23:4 ","!jos23:4 "]
+  replace: "See, I assigned to you by lot the land of the nations that remain as an inheritance for your tribes, as well as that of all the nations that I destroyed, from the Jordan to the Great Sea on the west."
+
+- triggers: ["!joshua23:5 ","!josh23:5 ","!jos23:5 "]
+  replace: "And Jehovah your God was the one who kept thrusting them away from before you, and he drove them out for you, and you took possession of their land, just as Jehovah your God promised you."
+
+- triggers: ["!joshua23:6 ","!josh23:6 ","!jos23:6 "]
+  replace: "“Now you must be very courageous to observe and carry out all that is written in the book of the Law of Moses by never deviating from it to the right or to the left,"
+
+- triggers: ["!joshua23:7 ","!josh23:7 ","!jos23:7 "]
+  replace: "by never mingling with these nations that remain with you. You must not even mention the names of their gods nor swear by them, and you must never serve them nor bow down to them."
+
+- triggers: ["!joshua23:8 ","!josh23:8 ","!jos23:8 "]
+  replace: "But you must stick to Jehovah your God, just as you have done down to this day."
+
+- triggers: ["!joshua23:9 ","!josh23:9 ","!jos23:9 "]
+  replace: "Jehovah will drive away great and mighty nations from before you, for not a man has been able to stand before you to this day."
+
+- triggers: ["!joshua23:10 ","!josh23:10 ","!jos23:10 "]
+  replace: "Just one man of you will chase a thousand, because Jehovah your God is fighting for you, just as he promised you."
+
+- triggers: ["!joshua23:11 ","!josh23:11 ","!jos23:11 "]
+  replace: "So be on guard constantly by loving Jehovah your God."
+
+- triggers: ["!joshua23:12 ","!josh23:12 ","!jos23:12 "]
+  replace: "“But if you should turn back at all and stick to what is left of these nations that remain with you and you form marriage alliances with them and associate with them and they with you,"
+
+- triggers: ["!joshua23:13 ","!josh23:13 ","!jos23:13 "]
+  replace: "you should know for sure that Jehovah your God will not continue to drive out these nations for you. They will become a trap and a snare and a scourge on your flanks and thorns in your eyes until you have perished from this good land that Jehovah your God has given you."
+
+- triggers: ["!joshua23:14 ","!josh23:14 ","!jos23:14 "]
+  replace: "“Now look! I am about to die, and you well know with all your heart and with all your soul that not one word out of all the good promises that Jehovah your God has spoken to you has failed. They have all come true for you. Not one word of them has failed."
+
+- triggers: ["!joshua23:15 ","!josh23:15 ","!jos23:15 "]
+  replace: "But just as all the good promises that Jehovah your God has spoken to you have come upon you, so Jehovah will bring upon you all the calamity that he promised and will annihilate you from this good land that Jehovah your God has given you."
+
+- triggers: ["!joshua23:16 ","!josh23:16 ","!jos23:16 "]
+  replace: "If you violate the covenant of Jehovah your God that he commanded you to keep and if you go and serve other gods and bow down to them, then Jehovah’s anger will blaze against you and you will quickly perish from the good land that he has given you.”"
+
+- triggers: ["!joshua24:1 ","!josh24:1 ","!jos24:1 "]
+  replace: "Joshua then assembled all the tribes of Israel together at Sheʹchem and summoned the elders of Israel, its heads, its judges, and its officers, and they stood before the true God."
+
+- triggers: ["!joshua24:2 ","!josh24:2 ","!jos24:2 "]
+  replace: "Joshua said to all the people: “This is what Jehovah the God of Israel says, ‘It was on the other side of the River that your forefathers lived a long time ago—Teʹrah the father of Abraham and the father of Naʹhor—and they used to serve other gods."
+
+- triggers: ["!joshua24:3 ","!josh24:3 ","!jos24:3 "]
+  replace: "“‘In time I took your forefather Abraham from the other side of the River and had him walk through all the land of Caʹnaan and made his offspring many. I gave him Isaac;"
+
+- triggers: ["!joshua24:4 ","!josh24:4 ","!jos24:4 "]
+  replace: "then to Isaac I gave Jacob and Eʹsau. Later to Eʹsau I gave Mount Seʹir as his possession; and Jacob and his sons went down to Egypt."
+
+- triggers: ["!joshua24:5 ","!josh24:5 ","!jos24:5 "]
+  replace: "I later sent Moses and Aaron, and I plagued Egypt with what I did among them, and then I brought you out."
+
+- triggers: ["!joshua24:6 ","!josh24:6 ","!jos24:6 "]
+  replace: "When I was bringing your fathers out of Egypt and you came to the sea, the Egyptians were chasing after your fathers with war chariots and cavalrymen as far as the Red Sea."
+
+- triggers: ["!joshua24:7 ","!josh24:7 ","!jos24:7 "]
+  replace: "They began to cry out to Jehovah, so he placed a darkness between you and the Egyptians and brought the sea over them and covered them, and your own eyes saw what I did in Egypt. Then you dwelled in the wilderness many years."
+
+- triggers: ["!joshua24:8 ","!josh24:8 ","!jos24:8 "]
+  replace: "“‘And I brought you to the land of the Amʹorites who were dwelling on the other side of the Jordan, and they fought against you. But I gave them into your hand so that you could take possession of their land, and I annihilated them from before you."
+
+- triggers: ["!joshua24:9 ","!josh24:9 ","!jos24:9 "]
+  replace: "Then Baʹlak son of Zipʹpor, the king of Moʹab, rose up and fought against Israel. So he summoned Baʹlaam the son of Beʹor to curse you."
+
+- triggers: ["!joshua24:10 ","!josh24:10 ","!jos24:10 "]
+  replace: "But I would not listen to Baʹlaam. So he blessed you repeatedly, and I rescued you from his hand."
+
+- triggers: ["!joshua24:11 ","!josh24:11 ","!jos24:11 "]
+  replace: "“‘Then you crossed the Jordan and came to Jerʹicho. And the leaders of Jerʹicho, the Amʹorites, the Perʹizzites, the Caʹnaanites, the Hitʹtites, the Girʹgashites, the Hiʹvites, and the Jebʹusites fought against you, but I gave them into your hand."
+
+- triggers: ["!joshua24:12 ","!josh24:12 ","!jos24:12 "]
+  replace: "So I sent the feeling of dejection ahead of you, and it drove them out from before you—two kings of the Amʹorites. It was not by your sword and not by your bow."
+
+- triggers: ["!joshua24:13 ","!josh24:13 ","!jos24:13 "]
+  replace: "Thus I gave you a land for which you had not toiled and cities that you had not built, and you settled in them. You are eating from vineyards and olive groves that you did not plant.’"
+
+- triggers: ["!joshua24:14 ","!josh24:14 ","!jos24:14 "]
+  replace: "“Therefore, fear Jehovah and serve him with integrity and faithfulness, and remove the gods that your forefathers served on the other side of the River and in Egypt, and serve Jehovah."
+
+- triggers: ["!joshua24:15 ","!josh24:15 ","!jos24:15 "]
+  replace: "Now if it seems bad to you to serve Jehovah, choose for yourselves today whom you will serve, whether the gods that your forefathers served on the other side of the River or the gods of the Amʹorites in whose land you are dwelling. But as for me and my household, we will serve Jehovah.”"
+
+- triggers: ["!joshua24:16 ","!josh24:16 ","!jos24:16 "]
+  replace: "At this the people answered: “It is unthinkable for us to abandon Jehovah and to serve other gods."
+
+- triggers: ["!joshua24:17 ","!josh24:17 ","!jos24:17 "]
+  replace: "It is Jehovah our God who brought us and our fathers up out of the land of Egypt, out of the house of slavery, and who performed these great signs before our eyes and who kept guarding us the entire way in which we walked and among all the peoples through whom we passed."
+
+- triggers: ["!joshua24:18 ","!josh24:18 ","!jos24:18 "]
+  replace: "Jehovah drove out all the peoples, including the Amʹorites, who lived in the land before us. Therefore, we too will serve Jehovah, because he is our God.”"
+
+- triggers: ["!joshua24:19 ","!josh24:19 ","!jos24:19 "]
+  replace: "Then Joshua said to the people: “You are not able to serve Jehovah, for he is a holy God; he is a God who requires exclusive devotion. He will not pardon your transgressions and your sins."
+
+- triggers: ["!joshua24:20 ","!josh24:20 ","!jos24:20 "]
+  replace: "If you abandon Jehovah and serve foreign gods, he will also turn against you and exterminate you after doing good for you.”"
+
+- triggers: ["!joshua24:21 ","!josh24:21 ","!jos24:21 "]
+  replace: "But the people said to Joshua: “No, but we will serve Jehovah!”"
+
+- triggers: ["!joshua24:22 ","!josh24:22 ","!jos24:22 "]
+  replace: "So Joshua said to the people: “You are witnesses against yourselves that of your own accord, you have chosen for yourselves to serve Jehovah.” To this they said: “We are witnesses.”"
+
+- triggers: ["!joshua24:23 ","!josh24:23 ","!jos24:23 "]
+  replace: "“Therefore, remove the foreign gods that are among you, and incline your hearts to Jehovah the God of Israel.”"
+
+- triggers: ["!joshua24:24 ","!josh24:24 ","!jos24:24 "]
+  replace: "The people said to Joshua: “We will serve Jehovah our God, and we will obey his voice!”"
+
+- triggers: ["!joshua24:25 ","!josh24:25 ","!jos24:25 "]
+  replace: "So Joshua made a covenant with the people on that day and established a regulation and a ruling for them in Sheʹchem."
+
+- triggers: ["!joshua24:26 ","!josh24:26 ","!jos24:26 "]
+  replace: "Then Joshua wrote these words in the book of God’s Law and took a great stone and set it up under the large tree that is by the sanctuary of Jehovah."
+
+- triggers: ["!joshua24:27 ","!josh24:27 ","!jos24:27 "]
+  replace: "Joshua went on to say to all the people: “Look! This stone will serve as a witness against us, because it has heard everything Jehovah said to us, and it will serve as a witness against you, so that you may not deny your God.”"
+
+- triggers: ["!joshua24:28 ","!josh24:28 ","!jos24:28 "]
+  replace: "With that Joshua sent the people away, each one to his inheritance."
+
+- triggers: ["!joshua24:29 ","!josh24:29 ","!jos24:29 "]
+  replace: "After these things, Joshua the son of Nun, the servant of Jehovah, died at the age of 110."
+
+- triggers: ["!joshua24:30 ","!josh24:30 ","!jos24:30 "]
+  replace: "So they buried him in the territory of his inheritance in Timʹnath-seʹrah, which is in the mountainous region of Eʹphraim, north of Mount Gaʹash."
+
+- triggers: ["!joshua24:31 ","!josh24:31 ","!jos24:31 "]
+  replace: "Israel continued to serve Jehovah all the days of Joshua and all the days of the elders who outlived Joshua and who had known all of Jehovah’s deeds in behalf of Israel."
+
+- triggers: ["!joshua24:32 ","!josh24:32 ","!jos24:32 "]
+  replace: "The bones of Joseph, which the Israelites had brought up out of Egypt, were buried in Sheʹchem in the portion of the field that Jacob had acquired from the sons of Haʹmor, Sheʹchem’s father, for 100 pieces of money; and it became the inheritance of the sons of Joseph."
+
+- triggers: ["!joshua24:33 ","!josh24:33 ","!jos24:33 "]
+  replace: "Also, Eleaʹzar the son of Aaron died. So they buried him in the Hill of Phinʹehas his son, which had been given to him in the mountainous region of Eʹphraim."
+

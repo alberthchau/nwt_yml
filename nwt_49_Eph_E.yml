@@ -1,0 +1,466 @@
+matches:
+- triggers: ["!eph1:1 ","!ephesians1:1 "]
+  replace: "Paul, an apostle of Christ Jesus through God's will, to the holy ones who are in Ephʹesus and are faithful in union with Christ Jesus:"
+
+- triggers: ["!eph1:2 ","!ephesians1:2 "]
+  replace: "May you have undeserved kindness and peace from God our Father and the Lord Jesus Christ."
+
+- triggers: ["!eph1:3 ","!ephesians1:3 "]
+  replace: "Praised be the God and Father of our Lord Jesus Christ, for he has blessed us with every spiritual blessing in the heavenly places in union with Christ,"
+
+- triggers: ["!eph1:4 ","!ephesians1:4 "]
+  replace: "as he chose us to be in union with him before the founding of the world, that we should be holy and unblemished before him in love."
+
+- triggers: ["!eph1:5 ","!ephesians1:5 "]
+  replace: "For he foreordained us to be adopted as his own sons through Jesus Christ, according to his good pleasure and will,"
+
+- triggers: ["!eph1:6 ","!ephesians1:6 "]
+  replace: "in praise of his glorious undeserved kindness that he kindly bestowed on us by means of his beloved one."
+
+- triggers: ["!eph1:7 ","!ephesians1:7 "]
+  replace: "By means of him we have the release by ransom through the blood of that one, yes, the forgiveness of our trespasses, according to the riches of his undeserved kindness."
+
+- triggers: ["!eph1:8 ","!ephesians1:8 "]
+  replace: "This undeserved kindness he caused to abound toward us in all wisdom and understanding"
+
+- triggers: ["!eph1:9 ","!ephesians1:9 "]
+  replace: "by making known to us the sacred secret of his will. It is according to his good pleasure that he himself purposed"
+
+- triggers: ["!eph1:10 ","!ephesians1:10 "]
+  replace: "for an administration at the full limit of the appointed times, to gather all things together in the Christ, the things in the heavens and the things on the earth. Yes, in him"
+
+- triggers: ["!eph1:11 ","!ephesians1:11 "]
+  replace: "with whom we are in union and were assigned as heirs, having been foreordained according to the purpose of the one who accomplishes all things as he decides according to his will,"
+
+- triggers: ["!eph1:12 ","!ephesians1:12 "]
+  replace: "so that we who have been first to hope in the Christ should serve for the praise of his glory."
+
+- triggers: ["!eph1:13 ","!ephesians1:13 "]
+  replace: "But you also hoped in him after you heard the word of truth, the good news about your salvation. After you believed, you were sealed by means of him with the promised holy spirit,"
+
+- triggers: ["!eph1:14 ","!ephesians1:14 "]
+  replace: "which is a token in advance of our inheritance, for the purpose of releasing God's own possession by a ransom, to his glorious praise."
+
+- triggers: ["!eph1:15 ","!ephesians1:15 "]
+  replace: "That is why I also, since I have heard of the faith that you have in the Lord Jesus and the love that you demonstrate toward all the holy ones,"
+
+- triggers: ["!eph1:16 ","!ephesians1:16 "]
+  replace: "never stop giving thanks for you. I continue mentioning you in my prayers,"
+
+- triggers: ["!eph1:17 ","!ephesians1:17 "]
+  replace: "that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and of revelation in the accurate knowledge of him."
+
+- triggers: ["!eph1:18 ","!ephesians1:18 "]
+  replace: "He has enlightened the eyes of your heart, so that you may know to what hope he called you, what glorious riches he holds as an inheritance for the holy ones,"
+
+- triggers: ["!eph1:19 ","!ephesians1:19 "]
+  replace: "and how surpassing the greatness of his power is toward us believers. It is according to the operation of the mightiness of his strength,"
+
+- triggers: ["!eph1:20 ","!ephesians1:20 "]
+  replace: "which he exercised toward Christ when he raised him up from the dead and seated him at his right hand in the heavenly places,"
+
+- triggers: ["!eph1:21 ","!ephesians1:21 "]
+  replace: "far above every government and authority and power and lordship and every name that is named, not only in this system of things but also in that to come."
+
+- triggers: ["!eph1:22 ","!ephesians1:22 "]
+  replace: "He also subjected all things under his feet and made him head over all things with regard to the congregation,"
+
+- triggers: ["!eph1:23 ","!ephesians1:23 "]
+  replace: "which is his body, the fullness of him who fills up all things in all."
+
+- triggers: ["!eph2:1 ","!ephesians2:1 "]
+  replace: "Furthermore, God made you alive, though you were dead in your trespasses and sins,"
+
+- triggers: ["!eph2:2 ","!ephesians2:2 "]
+  replace: "in which you at one time walked according to the system of things of this world, according to the ruler of the authority of the air, the spirit that is now at work in the sons of disobedience."
+
+- triggers: ["!eph2:3 ","!ephesians2:3 "]
+  replace: "Yes, among them we all at one time conducted ourselves in harmony with the desires of our flesh, carrying out the will of the flesh and of our thoughts, and we were naturally children of wrath just as the rest."
+
+- triggers: ["!eph2:4 ","!ephesians2:4 "]
+  replace: "But God, being rich in mercy, because of his great love with which he loved us,"
+
+- triggers: ["!eph2:5 ","!ephesians2:5 "]
+  replace: "made us alive together with the Christ, even when we were dead in trespasses-by undeserved kindness you have been saved."
+
+- triggers: ["!eph2:6 ","!ephesians2:6 "]
+  replace: "Moreover, he raised us up together and seated us together in the heavenly places in union with Christ Jesus,"
+
+- triggers: ["!eph2:7 ","!ephesians2:7 "]
+  replace: "so that in the coming systems of things he might demonstrate the surpassing riches of his undeserved kindness in his graciousness toward us in union with Christ Jesus."
+
+- triggers: ["!eph2:8 ","!ephesians2:8 "]
+  replace: "By this undeserved kindness you have been saved through faith, and this is not of your own doing; rather, it is God's gift."
+
+- triggers: ["!eph2:9 ","!ephesians2:9 "]
+  replace: "No, it is not a result of works, so that no one should have grounds for boasting."
+
+- triggers: ["!eph2:10 ","!ephesians2:10 "]
+  replace: "We are God's handiwork and were created in union with Christ Jesus for good works, which God determined in advance for us to walk in them."
+
+- triggers: ["!eph2:11 ","!ephesians2:11 "]
+  replace: "Therefore, remember that at one time you, people of the nations by fleshly descent, were the ones called 'uncircumcision' by those called 'circumcision,' which is made in the flesh by human hands."
+
+- triggers: ["!eph2:12 ","!ephesians2:12 "]
+  replace: "At that time you were without Christ, alienated from the state of Israel, strangers to the covenants of the promise; you had no hope and were without God in the world."
+
+- triggers: ["!eph2:13 ","!ephesians2:13 "]
+  replace: "But now in union with Christ Jesus, you who were once far off have come to be near by the blood of the Christ."
+
+- triggers: ["!eph2:14 ","!ephesians2:14 "]
+  replace: "For he is our peace, the one who made the two groups one and destroyed the wall in between that fenced them off."
+
+- triggers: ["!eph2:15 ","!ephesians2:15 "]
+  replace: "By means of his flesh he abolished the enmity, the Law of commandments consisting in decrees, in order to make the two groups in union with himself into one new man and to make peace,"
+
+- triggers: ["!eph2:16 ","!ephesians2:16 "]
+  replace: "and to reconcile fully both peoples in one body to God through the torture stake, because he had killed off the enmity by means of himself."
+
+- triggers: ["!eph2:17 ","!ephesians2:17 "]
+  replace: "And he came and declared the good news of peace to you who were far off, and peace to those near,"
+
+- triggers: ["!eph2:18 ","!ephesians2:18 "]
+  replace: "because through him we, both peoples, have free access to the Father by one spirit."
+
+- triggers: ["!eph2:19 ","!ephesians2:19 "]
+  replace: "So you are no longer strangers and foreigners, but you are fellow citizens of the holy ones and are members of the household of God,"
+
+- triggers: ["!eph2:20 ","!ephesians2:20 "]
+  replace: "and you have been built up on the foundation of the apostles and prophets, while Christ Jesus himself is the foundation cornerstone."
+
+- triggers: ["!eph2:21 ","!ephesians2:21 "]
+  replace: "In union with him the whole building, being harmoniously joined together, is growing into a holy temple for Jehovah."
+
+- triggers: ["!eph2:22 ","!ephesians2:22 "]
+  replace: "In union with him you too are being built up together into a place for God to inhabit by spirit."
+
+- triggers: ["!eph3:1 ","!ephesians3:1 "]
+  replace: "For this reason I, Paul, the prisoner of Christ Jesus in behalf of you, the people of the nations-"
+
+- triggers: ["!eph3:2 ","!ephesians3:2 "]
+  replace: "if, really, you have heard about the stewardship of God's undeserved kindness that was given to me for your sakes,"
+
+- triggers: ["!eph3:3 ","!ephesians3:3 "]
+  replace: "that by way of a revelation the sacred secret was made known to me, just as I wrote previously in brief."
+
+- triggers: ["!eph3:4 ","!ephesians3:4 "]
+  replace: "So when you read this, you can realize my comprehension of the sacred secret of the Christ."
+
+- triggers: ["!eph3:5 ","!ephesians3:5 "]
+  replace: "In other generations this secret was not made known to the sons of men as it has now been revealed to his holy apostles and prophets by spirit,"
+
+- triggers: ["!eph3:6 ","!ephesians3:6 "]
+  replace: "namely, that people of the nations should, in union with Christ Jesus and through the good news, be joint heirs and fellow members of the body and partakers with us of the promise."
+
+- triggers: ["!eph3:7 ","!ephesians3:7 "]
+  replace: "I became a minister of this according to the free gift of God's undeserved kindness that was given me through the operation of his power."
+
+- triggers: ["!eph3:8 ","!ephesians3:8 "]
+  replace: "To me, a man less than the least of all holy ones, this undeserved kindness was given, so that I should declare to the nations the good news about the unfathomable riches of the Christ"
+
+- triggers: ["!eph3:9 ","!ephesians3:9 "]
+  replace: "and should make everyone see the administration of the sacred secret that has been hidden through the ages in God, who created all things."
+
+- triggers: ["!eph3:10 ","!ephesians3:10 "]
+  replace: "This was so that now, through the congregation, there might be made known to the governments and the authorities in the heavenly places the greatly diversified wisdom of God."
+
+- triggers: ["!eph3:11 ","!ephesians3:11 "]
+  replace: "This is according to the eternal purpose that he formed in connection with the Christ, Jesus our Lord,"
+
+- triggers: ["!eph3:12 ","!ephesians3:12 "]
+  replace: "by means of whom we have this freeness of speech and free access with confidence through our faith in him."
+
+- triggers: ["!eph3:13 ","!ephesians3:13 "]
+  replace: "So I ask you not to give up on account of my tribulations in your behalf, for these mean glory for you."
+
+- triggers: ["!eph3:14 ","!ephesians3:14 "]
+  replace: "For this reason I bend my knees to the Father,"
+
+- triggers: ["!eph3:15 ","!ephesians3:15 "]
+  replace: "to whom every family in heaven and on earth owes its name."
+
+- triggers: ["!eph3:16 ","!ephesians3:16 "]
+  replace: "I pray that he may grant you through the abundance of his glory to be made mighty in the man you are inside, with power through his spirit,"
+
+- triggers: ["!eph3:17 ","!ephesians3:17 "]
+  replace: "and that through your faith you may have the Christ dwell in your hearts with love. May you be rooted and established on the foundation,"
+
+- triggers: ["!eph3:18 ","!ephesians3:18 "]
+  replace: "in order that with all the holy ones you may be thoroughly able to comprehend fully what is the breadth and length and height and depth,"
+
+- triggers: ["!eph3:19 ","!ephesians3:19 "]
+  replace: "and to know the love of the Christ, which surpasses knowledge, so that you may be filled with all the fullness that God gives."
+
+- triggers: ["!eph3:20 ","!ephesians3:20 "]
+  replace: "Now to the one who can, according to his power that is operating in us, do more than superabundantly beyond all the things we ask or conceive,"
+
+- triggers: ["!eph3:21 ","!ephesians3:21 "]
+  replace: "to him be the glory by means of the congregation and by means of Christ Jesus to all generations forever and ever. Amen."
+
+- triggers: ["!eph4:1 ","!ephesians4:1 "]
+  replace: "Therefore I, the prisoner in the Lord, appeal to you to walk worthily of the calling with which you were called,"
+
+- triggers: ["!eph4:2 ","!ephesians4:2 "]
+  replace: "with all humility and mildness, with patience, putting up with one another in love,"
+
+- triggers: ["!eph4:3 ","!ephesians4:3 "]
+  replace: "earnestly endeavoring to maintain the oneness of the spirit in the uniting bond of peace."
+
+- triggers: ["!eph4:4 ","!ephesians4:4 "]
+  replace: "One body there is, and one spirit, just as you were called to the one hope of your calling;"
+
+- triggers: ["!eph4:5 ","!ephesians4:5 "]
+  replace: "one Lord, one faith, one baptism;"
+
+- triggers: ["!eph4:6 ","!ephesians4:6 "]
+  replace: "one God and Father of all, who is over all and through all and in all."
+
+- triggers: ["!eph4:7 ","!ephesians4:7 "]
+  replace: "Now undeserved kindness was given to each one of us according to how the Christ measured out the free gift."
+
+- triggers: ["!eph4:8 ","!ephesians4:8 "]
+  replace: "For it says: 'When he ascended on high he carried away captives; he gave gifts in men.'"
+
+- triggers: ["!eph4:9 ","!ephesians4:9 "]
+  replace: "Now what does the expression 'he ascended' mean but that he also descended into the lower regions, that is, the earth?"
+
+- triggers: ["!eph4:10 ","!ephesians4:10 "]
+  replace: "The very one who descended is also the one who ascended far above all the heavens, so that he might give fullness to all things."
+
+- triggers: ["!eph4:11 ","!ephesians4:11 "]
+  replace: "And he gave some as apostles, some as prophets, some as evangelizers, some as shepherds and teachers,"
+
+- triggers: ["!eph4:12 ","!ephesians4:12 "]
+  replace: "with a view to the readjustment of the holy ones, for ministerial work, to build up the body of the Christ,"
+
+- triggers: ["!eph4:13 ","!ephesians4:13 "]
+  replace: "until we all attain to the oneness of the faith and of the accurate knowledge of the Son of God, to being a full-grown man, attaining the measure of stature that belongs to the fullness of the Christ."
+
+- triggers: ["!eph4:14 ","!ephesians4:14 "]
+  replace: "So we should no longer be children, tossed about as by waves and carried here and there by every wind of teaching by means of the trickery of men, by means of cunning in deceptive schemes."
+
+- triggers: ["!eph4:15 ","!ephesians4:15 "]
+  replace: "But speaking the truth, let us by love grow up in all things into him who is the head, Christ."
+
+- triggers: ["!eph4:16 ","!ephesians4:16 "]
+  replace: "From him all the body is harmoniously joined together and made to cooperate through every joint that gives what is needed. When each respective member functions properly, this contributes to the growth of the body as it builds itself up in love."
+
+- triggers: ["!eph4:17 ","!ephesians4:17 "]
+  replace: "So this is what I say and bear witness to in the Lord, that you should no longer go on walking just as the nations also walk, in the futility of their minds."
+
+- triggers: ["!eph4:18 ","!ephesians4:18 "]
+  replace: "They are in darkness mentally and alienated from the life that belongs to God, because of the ignorance that is in them, because of the insensitivity of their hearts."
+
+- triggers: ["!eph4:19 ","!ephesians4:19 "]
+  replace: "Having gone past all moral sense, they gave themselves over to brazen conduct to practice every sort of uncleanness with greediness."
+
+- triggers: ["!eph4:20 ","!ephesians4:20 "]
+  replace: "But you did not learn the Christ to be like this,"
+
+- triggers: ["!eph4:21 ","!ephesians4:21 "]
+  replace: "if, indeed, you heard him and were taught by means of him, just as truth is in Jesus."
+
+- triggers: ["!eph4:22 ","!ephesians4:22 "]
+  replace: "You were taught to put away the old personality that conforms to your former course of conduct and that is being corrupted according to its deceptive desires."
+
+- triggers: ["!eph4:23 ","!ephesians4:23 "]
+  replace: "And you should continue to be made new in your dominant mental attitude,"
+
+- triggers: ["!eph4:24 ","!ephesians4:24 "]
+  replace: "and should put on the new personality that was created according to God's will in true righteousness and loyalty."
+
+- triggers: ["!eph4:25 ","!ephesians4:25 "]
+  replace: "Therefore, now that you have put away deceit, each one of you speak truth with his neighbor, because we are members belonging to one another."
+
+- triggers: ["!eph4:26 ","!ephesians4:26 "]
+  replace: "Be wrathful, but do not sin; do not let the sun set while you are still angry;"
+
+- triggers: ["!eph4:27 ","!ephesians4:27 "]
+  replace: "do not give the Devil an opportunity."
+
+- triggers: ["!eph4:28 ","!ephesians4:28 "]
+  replace: "Let the one who steals steal no more; rather, let him do hard work, doing good work with his hands, so that he may have something to share with someone in need."
+
+- triggers: ["!eph4:29 ","!ephesians4:29 "]
+  replace: "Let a rotten word not come out of your mouth, but only what is good for building up as the need may be, to impart what is beneficial to the hearers."
+
+- triggers: ["!eph4:30 ","!ephesians4:30 "]
+  replace: "Also, do not be grieving God's holy spirit, with which you have been sealed for a day of releasing by ransom."
+
+- triggers: ["!eph4:31 ","!ephesians4:31 "]
+  replace: "Put away from yourselves every kind of malicious bitterness, anger, wrath, screaming, and abusive speech, as well as everything injurious."
+
+- triggers: ["!eph4:32 ","!ephesians4:32 "]
+  replace: "But become kind to one another, tenderly compassionate, freely forgiving one another just as God also by Christ freely forgave you."
+
+- triggers: ["!eph5:1 ","!ephesians5:1 "]
+  replace: "Therefore, become imitators of God, as beloved children,"
+
+- triggers: ["!eph5:2 ","!ephesians5:2 "]
+  replace: "and go on walking in love, just as the Christ also loved us and gave himself for us as an offering and a sacrifice, a sweet fragrance to God."
+
+- triggers: ["!eph5:3 ","!ephesians5:3 "]
+  replace: "Let sexual immorality and every sort of uncleanness or greediness not even be mentioned among you, just as is proper for holy people;"
+
+- triggers: ["!eph5:4 ","!ephesians5:4 "]
+  replace: "neither shameful conduct nor foolish talking nor obscene jesting-things that are not befitting-but rather the giving of thanks."
+
+- triggers: ["!eph5:5 ","!ephesians5:5 "]
+  replace: "For you know this, recognizing it for yourselves, that no sexually immoral person or unclean person or greedy person, which means being an idolater, has any inheritance in the Kingdom of the Christ and of God."
+
+- triggers: ["!eph5:6 ","!ephesians5:6 "]
+  replace: "Let no man deceive you with empty words, for because of such things the wrath of God is coming upon the sons of disobedience."
+
+- triggers: ["!eph5:7 ","!ephesians5:7 "]
+  replace: "Therefore, do not be sharers with them;"
+
+- triggers: ["!eph5:8 ","!ephesians5:8 "]
+  replace: "for you were once darkness, but you are now light in connection with the Lord. Go on walking as children of light,"
+
+- triggers: ["!eph5:9 ","!ephesians5:9 "]
+  replace: "for the fruitage of the light consists of every sort of goodness and righteousness and truth."
+
+- triggers: ["!eph5:10 ","!ephesians5:10 "]
+  replace: "Keep on making sure of what is acceptable to the Lord;"
+
+- triggers: ["!eph5:11 ","!ephesians5:11 "]
+  replace: "and stop sharing in the unfruitful works that belong to the darkness; rather, expose them for what they are."
+
+- triggers: ["!eph5:12 ","!ephesians5:12 "]
+  replace: "For the things they do in secret are shameful even to mention."
+
+- triggers: ["!eph5:13 ","!ephesians5:13 "]
+  replace: "Now all the things that are being exposed are made evident by the light, for everything that is being made evident is light."
+
+- triggers: ["!eph5:14 ","!ephesians5:14 "]
+  replace: "Therefore, it is said: 'Awake, O sleeper, and arise from the dead, and the Christ will shine upon you.'"
+
+- triggers: ["!eph5:15 ","!ephesians5:15 "]
+  replace: "So keep strict watch that how you walk is not as unwise but as wise persons,"
+
+- triggers: ["!eph5:16 ","!ephesians5:16 "]
+  replace: "making the best use of your time, because the days are wicked."
+
+- triggers: ["!eph5:17 ","!ephesians5:17 "]
+  replace: "On this account stop being unreasonable, but keep perceiving what the will of Jehovah is."
+
+- triggers: ["!eph5:18 ","!ephesians5:18 "]
+  replace: "Also, do not get drunk with wine, in which there is debauchery, but keep getting filled with spirit."
+
+- triggers: ["!eph5:19 ","!ephesians5:19 "]
+  replace: "Speak to one another with psalms, praises to God, and spiritual songs, singing and accompanying yourselves with music in your hearts to Jehovah,"
+
+- triggers: ["!eph5:20 ","!ephesians5:20 "]
+  replace: "always giving thanks to our God and Father for everything in the name of our Lord Jesus Christ."
+
+- triggers: ["!eph5:21 ","!ephesians5:21 "]
+  replace: "Be in subjection to one another in fear of Christ."
+
+- triggers: ["!eph5:22 ","!ephesians5:22 "]
+  replace: "Let wives be in subjection to their husbands as to the Lord,"
+
+- triggers: ["!eph5:23 ","!ephesians5:23 "]
+  replace: "because a husband is head of his wife just as the Christ is head of the congregation, he being a savior of this body."
+
+- triggers: ["!eph5:24 ","!ephesians5:24 "]
+  replace: "In fact, as the congregation is in subjection to the Christ, wives should also be to their husbands in everything."
+
+- triggers: ["!eph5:25 ","!ephesians5:25 "]
+  replace: "Husbands, continue loving your wives, just as the Christ also loved the congregation and gave himself up for it,"
+
+- triggers: ["!eph5:26 ","!ephesians5:26 "]
+  replace: "in order that he might sanctify it, cleansing it with the bath of water by means of the word,"
+
+- triggers: ["!eph5:27 ","!ephesians5:27 "]
+  replace: "so that he might present the congregation to himself in its splendor, without a spot or a wrinkle or any of such things, but holy and without blemish."
+
+- triggers: ["!eph5:28 ","!ephesians5:28 "]
+  replace: "In the same way husbands should love their wives as their own bodies. A man who loves his wife loves himself,"
+
+- triggers: ["!eph5:29 ","!ephesians5:29 "]
+  replace: "for no man ever hated his own body, but he feeds and cherishes it, just as the Christ does the congregation,"
+
+- triggers: ["!eph5:30 ","!ephesians5:30 "]
+  replace: "because we are members of his body."
+
+- triggers: ["!eph5:31 ","!ephesians5:31 "]
+  replace: "'For this reason a man will leave his father and his mother and he will stick to his wife, and the two will be one flesh.'"
+
+- triggers: ["!eph5:32 ","!ephesians5:32 "]
+  replace: "This sacred secret is great. Now I am speaking about Christ and the congregation."
+
+- triggers: ["!eph5:33 ","!ephesians5:33 "]
+  replace: "Nevertheless, each one of you must love his wife as he does himself; on the other hand, the wife should have deep respect for her husband."
+
+- triggers: ["!eph6:1 ","!ephesians6:1 "]
+  replace: "Children, be obedient to your parents in union with the Lord, for this is righteous."
+
+- triggers: ["!eph6:2 ","!ephesians6:2 "]
+  replace: "'Honor your father and your mother' is the first command with a promise:"
+
+- triggers: ["!eph6:3 ","!ephesians6:3 "]
+  replace: "'That it may go well with you and you may remain a long time on the earth.'"
+
+- triggers: ["!eph6:4 ","!ephesians6:4 "]
+  replace: "And fathers, do not be irritating your children, but go on bringing them up in the discipline and admonition of Jehovah."
+
+- triggers: ["!eph6:5 ","!ephesians6:5 "]
+  replace: "Slaves, be obedient to your human masters, with fear and trembling in the sincerity of your hearts, as to the Christ,"
+
+- triggers: ["!eph6:6 ","!ephesians6:6 "]
+  replace: "not only when being watched, just to please men, but as Christ's slaves doing the will of God whole-souled."
+
+- triggers: ["!eph6:7 ","!ephesians6:7 "]
+  replace: "Slave with a good attitude, as to Jehovah and not to men,"
+
+- triggers: ["!eph6:8 ","!ephesians6:8 "]
+  replace: "for you know that whatever good each one does, he will receive this back from Jehovah, whether he is a slave or a freeman."
+
+- triggers: ["!eph6:9 ","!ephesians6:9 "]
+  replace: "Also, you masters, keep treating them in the same way, not threatening, for you know that both their Master and yours is in the heavens, and there is no partiality with him."
+
+- triggers: ["!eph6:10 ","!ephesians6:10 "]
+  replace: "Finally, go on acquiring power in the Lord and in the mightiness of his strength."
+
+- triggers: ["!eph6:11 ","!ephesians6:11 "]
+  replace: "Put on the complete suit of armor from God so that you may be able to stand firm against the crafty acts of the Devil;"
+
+- triggers: ["!eph6:12 ","!ephesians6:12 "]
+  replace: "because we have a struggle, not against blood and flesh, but against the governments, against the authorities, against the world rulers of this darkness, against the wicked spirit forces in the heavenly places."
+
+- triggers: ["!eph6:13 ","!ephesians6:13 "]
+  replace: "For this reason take up the complete suit of armor from God, so that you may be able to resist in the wicked day and, after you have accomplished everything, to stand firm."
+
+- triggers: ["!eph6:14 ","!ephesians6:14 "]
+  replace: "Stand firm, therefore, with the belt of truth fastened around your waist, wearing the breastplate of righteousness,"
+
+- triggers: ["!eph6:15 ","!ephesians6:15 "]
+  replace: "and having your feet shod in readiness to declare the good news of peace."
+
+- triggers: ["!eph6:16 ","!ephesians6:16 "]
+  replace: "Besides all of this, take up the large shield of faith, with which you will be able to extinguish all the wicked one's burning arrows."
+
+- triggers: ["!eph6:17 ","!ephesians6:17 "]
+  replace: "Also, accept the helmet of salvation, and the sword of the spirit, that is, God's word,"
+
+- triggers: ["!eph6:18 ","!ephesians6:18 "]
+  replace: "while with every form of prayer and supplication you carry on prayer on every occasion in spirit. And to that end stay awake, constantly making supplication in behalf of all the holy ones."
+
+- triggers: ["!eph6:19 ","!ephesians6:19 "]
+  replace: "Pray also for me, that the words may be given to me when I open my mouth, so that I may be able to speak boldly in making known the sacred secret of the good news,"
+
+- triggers: ["!eph6:20 ","!ephesians6:20 "]
+  replace: "for which I am acting as an ambassador in chains, and that I may speak about it with boldness, as I ought to speak."
+
+- triggers: ["!eph6:21 ","!ephesians6:21 "]
+  replace: "Now so that you may also know about me and how I am doing, Tychʹicus, a beloved brother and faithful minister in the Lord, will make everything known to you."
+
+- triggers: ["!eph6:22 ","!ephesians6:22 "]
+  replace: "I am sending him to you for this very purpose, so that you may know how we are and that he may comfort your hearts."
+
+- triggers: ["!eph6:23 ","!ephesians6:23 "]
+  replace: "May the brothers have peace and love with faith from God the Father and the Lord Jesus Christ."
+
+- triggers: ["!eph6:24 ","!ephesians6:24 "]
+  replace: "May the undeserved kindness be with all those loving our Lord Jesus Christ in incorruptness."
+

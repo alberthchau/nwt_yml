@@ -1,0 +1,316 @@
+matches:
+- triggers: ["!micah1:1 ","!mic1:1 "]
+  replace: "The word of Jehovah that came to Miʹcah of Moʹresheth, in the days of Joʹtham, Aʹhaz, and Hezekiʹah, kings of Judah, and that he received in a vision concerning Samarʹia and Jerusalem:"
+
+- triggers: ["!micah1:2 ","!mic1:2 "]
+  replace: "“Hear, all you peoples! Pay attention, O earth and what fills you, And let the Sovereign Lord Jehovah serve as a witness against you —Jehovah from his holy temple."
+
+- triggers: ["!micah1:3 ","!mic1:3 "]
+  replace: "For look! Jehovah is going out from his place; He will come down and tread on earth’s high places."
+
+- triggers: ["!micah1:4 ","!mic1:4 "]
+  replace: "The mountains will melt under him, And the valleys will split apart Like wax before the fire, Like waters poured down a steep slope."
+
+- triggers: ["!micah1:5 ","!mic1:5 "]
+  replace: "All of this is because of the revolt of Jacob, Because of the sins of the house of Israel. What is the revolt of Jacob? Is it not Samarʹia? And what are the high places of Judah? Are they not Jerusalem?"
+
+- triggers: ["!micah1:6 ","!mic1:6 "]
+  replace: "I will make Samarʹia a heap of ruins of the field, A place for planting vineyards; I will hurl her stones down into the valley, And I will lay bare her foundations."
+
+- triggers: ["!micah1:7 ","!mic1:7 "]
+  replace: "All her graven images will be crushed to pieces, And all the gifts for which she hired herself out will be burned in the fire. I will devastate all her idols. For she collected them from the wages of prostitution, And they will again become the wages of prostitutes.”"
+
+- triggers: ["!micah1:8 ","!mic1:8 "]
+  replace: "Because of this I will wail and howl; I will walk barefoot and naked. My wailing will be like that of jackals, And my mourning like that of ostriches."
+
+- triggers: ["!micah1:9 ","!mic1:9 "]
+  replace: "For her wound cannot be healed; It has come as far as Judah. The plague has spread to the gate of my people, to Jerusalem."
+
+- triggers: ["!micah1:10 ","!mic1:10 "]
+  replace: "“Do not announce it in Gath; You must not weep at all. In Beth-aphʹrah roll in the dust."
+
+- triggers: ["!micah1:11 ","!mic1:11 "]
+  replace: "Cross over in nakedness and shame, O inhabitants of Shaʹphir. The inhabitants of Zaʹanan have not come out. There will be wailing in Beth-eʹzel, and it will take its support away from you."
+
+- triggers: ["!micah1:12 ","!mic1:12 "]
+  replace: "For the inhabitants of Maʹroth have waited for good, But what is bad has come down from Jehovah to the gate of Jerusalem."
+
+- triggers: ["!micah1:13 ","!mic1:13 "]
+  replace: "Harness the chariot to the team of horses, O inhabitants of Laʹchish. You were the beginning of sin to the daughter of Zion, For in you were found the revolts of Israel."
+
+- triggers: ["!micah1:14 ","!mic1:14 "]
+  replace: "So you will give parting gifts to Moʹresheth-gath. The houses of Achʹzib were something deceitful to the kings of Israel."
+
+- triggers: ["!micah1:15 ","!mic1:15 "]
+  replace: "The conqueror I will yet bring in to you, O inhabitants of Mareʹshah. As far as Adulʹlam the glory of Israel will come."
+
+- triggers: ["!micah1:16 ","!mic1:16 "]
+  replace: "Make yourselves bald and shear off your hair for your cherished children. Make yourselves as bald as an eagle, For they have been taken away from you into exile.”"
+
+- triggers: ["!micah2:1 ","!mic2:1 "]
+  replace: "“Woe to those who scheme what is harmful, Who work out evil on their beds! When morning light comes they carry it out, Because it is in the power of their hand."
+
+- triggers: ["!micah2:2 ","!mic2:2 "]
+  replace: "They desire fields and seize them; Also houses, and they take them; They defraud a man of his house, A man of his inheritance."
+
+- triggers: ["!micah2:3 ","!mic2:3 "]
+  replace: "Therefore this is what Jehovah says: ‘Here I am devising against this family a calamity from which you will not escape. You will no longer walk haughtily, for it is a time of calamity."
+
+- triggers: ["!micah2:4 ","!mic2:4 "]
+  replace: "In that day people will recite a proverb concerning you, And they will bitterly lament over you. They will say: “We are completely devastated! He caused the portion of my people to change hands—how he removes it from me! To the unfaithful one he assigns our fields.”"
+
+- triggers: ["!micah2:5 ","!mic2:5 "]
+  replace: "So you will have no one to stretch the measuring cord, To allot the land in the congregation of Jehovah."
+
+- triggers: ["!micah2:6 ","!mic2:6 "]
+  replace: "“Stop preaching!” they preach, “They should not preach these things; Humiliation will not overtake us!”"
+
+- triggers: ["!micah2:7 ","!mic2:7 "]
+  replace: "Is it being said, O house of Jacob: “Has the spirit of Jehovah become impatient? Are these his deeds?” Do not my own words bring good to those walking uprightly?"
+
+- triggers: ["!micah2:8 ","!mic2:8 "]
+  replace: "But lately my own people have risen up as an enemy. You openly strip off the majestic ornament with the garment From those passing by confidently, like those returning from war."
+
+- triggers: ["!micah2:9 ","!mic2:9 "]
+  replace: "You drive the women of my people out from their delightful houses; From their children you take away my splendor forever."
+
+- triggers: ["!micah2:10 ","!mic2:10 "]
+  replace: "Get up and go, for this is no place of rest. Because of uncleanness, there is destruction, grievous destruction."
+
+- triggers: ["!micah2:11 ","!mic2:11 "]
+  replace: "If a man walks after wind and deception and tells this lie: “I will preach to you about wine and alcoholic drink,” Then he would be just the preacher for this people!"
+
+- triggers: ["!micah2:12 ","!mic2:12 "]
+  replace: "I will certainly gather all of you, O Jacob; I will surely collect the remaining ones of Israel together. In unity I will place them, like sheep in the pen, Like a flock in its pasture; It will be noisy with people.’"
+
+- triggers: ["!micah2:13 ","!mic2:13 "]
+  replace: "The one breaking out will go before them; They will break out and pass through the gate and go out by it. Their king will pass through before them, With Jehovah at their head.”"
+
+- triggers: ["!micah3:1 ","!mic3:1 "]
+  replace: "I said: “Hear, please, you heads of Jacob And you commanders of the house of Israel. Should you not know what is just?"
+
+- triggers: ["!micah3:2 ","!mic3:2 "]
+  replace: "But you hate what is good and love what is bad; You tear off the skin from my people and the flesh from their bones."
+
+- triggers: ["!micah3:3 ","!mic3:3 "]
+  replace: "You also eat the flesh of my people And strip off their skin, Smashing their bones, crushing them to pieces, Like what is cooked in a pot, like meat in a cooking pot."
+
+- triggers: ["!micah3:4 ","!mic3:4 "]
+  replace: "At that time they will call to Jehovah for help, But he will not answer them. He will hide his face from them at that time, Because of their wicked deeds."
+
+- triggers: ["!micah3:5 ","!mic3:5 "]
+  replace: "This is what Jehovah says against the prophets who are leading my people astray, Who proclaim ‘Peace!’ while they bite with their teeth But who declare war against him who puts nothing into their mouths:"
+
+- triggers: ["!micah3:6 ","!mic3:6 "]
+  replace: "‘You will have night; there will be no vision; There will only be darkness for you, no divination. The sun will set on the prophets, And the day will turn dark for them."
+
+- triggers: ["!micah3:7 ","!mic3:7 "]
+  replace: "The visionaries will be put to shame, And the diviners will be disappointed. All of them will have to cover over the mustache, For there is no answer from God.’”"
+
+- triggers: ["!micah3:8 ","!mic3:8 "]
+  replace: "As for me, I am filled with power by the spirit of Jehovah, And with justice and might, To tell to Jacob his revolt and to Israel his sin."
+
+- triggers: ["!micah3:9 ","!mic3:9 "]
+  replace: "Hear this, please, you heads of the house of Jacob And you commanders of the house of Israel, Who detest justice and who make crooked all that is straight,"
+
+- triggers: ["!micah3:10 ","!mic3:10 "]
+  replace: "Who build Zion with bloodshed and Jerusalem with unrighteousness."
+
+- triggers: ["!micah3:11 ","!mic3:11 "]
+  replace: "Her leaders judge for a bribe, Her priests instruct for a price, And her prophets practice divination for money. And yet they lean on Jehovah, saying: “Is not Jehovah with us? No calamity will come upon us.”"
+
+- triggers: ["!micah3:12 ","!mic3:12 "]
+  replace: "So because of you, Zion will be plowed up as a field, Jerusalem will become heaps of ruins, And the mountain of the House will become like high places in a forest."
+
+- triggers: ["!micah4:1 ","!mic4:1 "]
+  replace: "In the final part of the days, The mountain of the house of Jehovah Will become firmly established above the top of the mountains, And it will be raised up above the hills, And to it peoples will stream."
+
+- triggers: ["!micah4:2 ","!mic4:2 "]
+  replace: "And many nations will go and say: “Come, let us go up to the mountain of Jehovah And to the house of the God of Jacob. He will instruct us about his ways, And we will walk in his paths.” For law will go out of Zion, And the word of Jehovah out of Jerusalem."
+
+- triggers: ["!micah4:3 ","!mic4:3 "]
+  replace: "He will render judgment among many peoples And set matters straight respecting mighty nations far away. They will beat their swords into plowshares And their spears into pruning shears. Nation will not lift up sword against nation, Nor will they learn war anymore."
+
+- triggers: ["!micah4:4 ","!mic4:4 "]
+  replace: "They will sit, each one under his vine and under his fig tree, And no one will make them afraid, For the mouth of Jehovah of armies has spoken."
+
+- triggers: ["!micah4:5 ","!mic4:5 "]
+  replace: "For all the peoples will walk, each in the name of its god, But we will walk in the name of Jehovah our God forever and ever."
+
+- triggers: ["!micah4:6 ","!mic4:6 "]
+  replace: "“In that day,” declares Jehovah, “I will gather the one who was limping, And collect together the dispersed one, Along with those I treated harshly."
+
+- triggers: ["!micah4:7 ","!mic4:7 "]
+  replace: "I will make the one who was limping a remnant, And the one far removed a mighty nation; And Jehovah will rule as king over them in Mount Zion, From now on and forever."
+
+- triggers: ["!micah4:8 ","!mic4:8 "]
+  replace: "As for you, O tower of the flock, The mound of the daughter of Zion, To you it will come, yes, the first dominion will come, The kingdom belonging to the daughter of Jerusalem."
+
+- triggers: ["!micah4:9 ","!mic4:9 "]
+  replace: "Now why are you shouting loudly? Have you no king, Or has your adviser perished, So that pain has seized you like a woman giving birth?"
+
+- triggers: ["!micah4:10 ","!mic4:10 "]
+  replace: "Writhe and groan, O daughter of Zion, Like a woman giving birth, For now you will go from the city and reside in the field. You will go as far as to Babylon, And there you will be rescued; There Jehovah will buy you back from the hand of your enemies."
+
+- triggers: ["!micah4:11 ","!mic4:11 "]
+  replace: "Now many nations will be gathered against you; They will say, ‘Let her be defiled, And let our eyes see this happen to Zion.’"
+
+- triggers: ["!micah4:12 ","!mic4:12 "]
+  replace: "But they do not know the thoughts of Jehovah, They do not understand his purpose; For he will gather them like a row of newly cut grain to the threshing floor."
+
+- triggers: ["!micah4:13 ","!mic4:13 "]
+  replace: "Get up and thresh, O daughter of Zion; For I will change your horns into iron, And I will change your hooves into copper, And you will pulverize many peoples. You will devote their dishonest profit to Jehovah, And their resources to the true Lord of the whole earth.”"
+
+- triggers: ["!micah5:1 ","!mic5:1 "]
+  replace: "“Now you are slashing yourself, O daughter under attack; A siege is laid against us. With a rod they strike the judge of Israel on the cheek."
+
+- triggers: ["!micah5:2 ","!mic5:2 "]
+  replace: "And you, O Bethʹlehem Ephʹrathah, The one too little to be among the thousands of Judah, From you will come out for me the one to be ruler in Israel, Whose origin is from ancient times, from the days of long ago."
+
+- triggers: ["!micah5:3 ","!mic5:3 "]
+  replace: "So he will give them up Until the time that she who is to give birth has given birth. And the rest of his brothers will return to the people of Israel."
+
+- triggers: ["!micah5:4 ","!mic5:4 "]
+  replace: "He will stand up and shepherd in the strength of Jehovah, In the superiority of the name of Jehovah his God. And they will dwell in security, For now his greatness will reach the ends of the earth."
+
+- triggers: ["!micah5:5 ","!mic5:5 "]
+  replace: "And he will bring peace. Should the Assyrʹian invade our land and tread on our fortified towers, We will raise up against him seven shepherds, yes, eight princes of mankind."
+
+- triggers: ["!micah5:6 ","!mic5:6 "]
+  replace: "They will shepherd the land of Assyrʹia with the sword, And the land of Nimʹrod at its entrances. And he will rescue us from the Assyrʹian, When he invades our land and treads on our territory."
+
+- triggers: ["!micah5:7 ","!mic5:7 "]
+  replace: "The remaining ones of Jacob will be in the midst of many peoples Like dew from Jehovah, Like showers of rain on vegetation That do not put hope in man Or wait for the sons of men."
+
+- triggers: ["!micah5:8 ","!mic5:8 "]
+  replace: "The remaining ones of Jacob will be among the nations, In the midst of many peoples, Like a lion among the beasts of a forest, Like a young lion among flocks of sheep, That passes through and pounces and tears in pieces; And there is no one to rescue them."
+
+- triggers: ["!micah5:9 ","!mic5:9 "]
+  replace: "Your hand will be raised over your adversaries, And all your enemies will be destroyed.”"
+
+- triggers: ["!micah5:10 ","!mic5:10 "]
+  replace: "“In that day,” declares Jehovah, “I will do away with your horses from your midst and destroy your chariots."
+
+- triggers: ["!micah5:11 ","!mic5:11 "]
+  replace: "I will destroy the cities of your land And tear down all your fortified places."
+
+- triggers: ["!micah5:12 ","!mic5:12 "]
+  replace: "I will put an end to the sorcery you practice, And no one practicing magic will remain among you."
+
+- triggers: ["!micah5:13 ","!mic5:13 "]
+  replace: "I will destroy your graven images and your pillars from your midst, And you will no longer bow down to the work of your hands."
+
+- triggers: ["!micah5:14 ","!mic5:14 "]
+  replace: "I will uproot your sacred poles from your midst And annihilate your cities."
+
+- triggers: ["!micah5:15 ","!mic5:15 "]
+  replace: "In anger and wrath I will execute vengeance On the nations that have not obeyed.”"
+
+- triggers: ["!micah6:1 ","!mic6:1 "]
+  replace: "Hear, please, what Jehovah is saying. Get up, present a legal case before the mountains, And may the hills hear your voice."
+
+- triggers: ["!micah6:2 ","!mic6:2 "]
+  replace: "Hear, O mountains, the legal case of Jehovah, You firm foundations of the earth, For Jehovah has a legal case with his people; It is against Israel that he will argue:"
+
+- triggers: ["!micah6:3 ","!mic6:3 "]
+  replace: "“My people, what have I done to you? How have I tired you out? Testify against me."
+
+- triggers: ["!micah6:4 ","!mic6:4 "]
+  replace: "For I brought you up out of the land of Egypt, From the house of slavery I redeemed you; I sent before you Moses, Aaron, and Mirʹiam."
+
+- triggers: ["!micah6:5 ","!mic6:5 "]
+  replace: "My people, remember, please, what King Baʹlak of Moʹab proposed, And what Baʹlaam the son of Beʹor answered him —What took place from Shitʹtim to Gilʹgal— So that you may know the righteous acts of Jehovah.”"
+
+- triggers: ["!micah6:6 ","!mic6:6 "]
+  replace: "With what will I come before Jehovah? With what will I bow before God on high? Will I come before him with whole burnt offerings, With year-old calves?"
+
+- triggers: ["!micah6:7 ","!mic6:7 "]
+  replace: "Will Jehovah be pleased with thousands of rams, With tens of thousands of torrents of oil? Will I give my firstborn son for my revolt, The fruit of my body for my sin?"
+
+- triggers: ["!micah6:8 ","!mic6:8 "]
+  replace: "He has told you, O man, what is good. And what is Jehovah requiring of you? Only to exercise justice, to cherish loyalty, And to walk in modesty with your God!"
+
+- triggers: ["!micah6:9 ","!mic6:9 "]
+  replace: "The voice of Jehovah calls out to the city; Those with practical wisdom will fear your name. Pay attention to the rod and to the one who appointed it."
+
+- triggers: ["!micah6:10 ","!mic6:10 "]
+  replace: "Are there still the treasures of wickedness in the house of the wicked And the incomplete eʹphah measure that is detestable?"
+
+- triggers: ["!micah6:11 ","!mic6:11 "]
+  replace: "Can I be morally clean with wicked scales, With a bag of fraudulent stone weights?"
+
+- triggers: ["!micah6:12 ","!mic6:12 "]
+  replace: "For her rich men are full of violence, And her inhabitants speak lies; Their tongue is deceitful in their mouth."
+
+- triggers: ["!micah6:13 ","!mic6:13 "]
+  replace: "“Therefore, I will wound you by striking you, Making you desolate because of your sins."
+
+- triggers: ["!micah6:14 ","!mic6:14 "]
+  replace: "You will eat but not be satisfied; You will be empty inside. What you remove, you will not carry off safely, And what you do carry off, I will give to the sword."
+
+- triggers: ["!micah6:15 ","!mic6:15 "]
+  replace: "You will sow seed, but you will not reap. You will tread olives, but you will not use the oil; And you will make new wine, but you will drink no wine."
+
+- triggers: ["!micah6:16 ","!mic6:16 "]
+  replace: "For you observe the statutes of Omʹri and all the work of the house of Aʹhab, And you walk in accord with their advice. That is why I will make you an object of horror And her inhabitants something to be whistled at; And you will bear the scorn of the peoples.”"
+
+- triggers: ["!micah7:1 ","!mic7:1 "]
+  replace: "Woe to me! I am like one who, After the gathering of summer fruit And the gleaning following a grape harvest, Finds no cluster of grapes to eat, No early fig that I crave."
+
+- triggers: ["!micah7:2 ","!mic7:2 "]
+  replace: "The loyal one has perished from the earth; Among men there is no one upright. All of them lie in ambush for bloodshed. Each hunts his own brother with a dragnet."
+
+- triggers: ["!micah7:3 ","!mic7:3 "]
+  replace: "Their hands are expert at doing what is bad; The prince is making demands, The judge asks for a reward, The prominent one makes known his desires, And they work it out together."
+
+- triggers: ["!micah7:4 ","!mic7:4 "]
+  replace: "Their best one is like thorns, Their most upright one is worse than a thorn hedge. The day of your watchmen and of your reckoning will come. Now they will panic."
+
+- triggers: ["!micah7:5 ","!mic7:5 "]
+  replace: "Do not put faith in your companion Or trust a close friend. Guard what you say to the one who lies in your embrace."
+
+- triggers: ["!micah7:6 ","!mic7:6 "]
+  replace: "For a son despises his father, A daughter rises up against her mother, And a daughter-in-law is against her mother-in-law; A man’s enemies are the men of his household."
+
+- triggers: ["!micah7:7 ","!mic7:7 "]
+  replace: "But as for me, I will keep on the lookout for Jehovah. I will show a waiting attitude for the God of my salvation. My God will hear me."
+
+- triggers: ["!micah7:8 ","!mic7:8 "]
+  replace: "Do not rejoice over me, O my enemy. Although I have fallen, I will rise up; Although I dwell in the darkness, Jehovah will be my light."
+
+- triggers: ["!micah7:9 ","!mic7:9 "]
+  replace: "The wrath of Jehovah I will bear —For I have sinned against him— Until he pleads my legal case and brings about justice for me. He will bring me out to the light; I will look upon his righteousness."
+
+- triggers: ["!micah7:10 ","!mic7:10 "]
+  replace: "My enemy will also see, And shame will cover her who said to me: “Where is Jehovah your God?” My eyes will look upon her. Now she will be trampled like mud in the streets."
+
+- triggers: ["!micah7:11 ","!mic7:11 "]
+  replace: "It will be a day for building your stone walls; On that day the boundary will be extended."
+
+- triggers: ["!micah7:12 ","!mic7:12 "]
+  replace: "On that day they will come to you All the way from Assyrʹia and the cities of Egypt, From Egypt all the way to the River; From sea to sea and from mountain to mountain."
+
+- triggers: ["!micah7:13 ","!mic7:13 "]
+  replace: "And the land will become desolate because of its inhabitants, As a result of what they have done."
+
+- triggers: ["!micah7:14 ","!mic7:14 "]
+  replace: "Shepherd your people with your staff, the flock of your inheritance, The one who was living alone in a forest—in the midst of an orchard. Let them feed on Baʹshan and Gilʹead as in the days of old."
+
+- triggers: ["!micah7:15 ","!mic7:15 "]
+  replace: "“As in the days when you came out of the land of Egypt, I will show him wonderful things."
+
+- triggers: ["!micah7:16 ","!mic7:16 "]
+  replace: "Nations will see and be ashamed despite all their might. They will put their hand over their mouth; Their ears will become deaf."
+
+- triggers: ["!micah7:17 ","!mic7:17 "]
+  replace: "They will lick the dust like serpents; Like the reptiles of the earth they will come trembling out of their strongholds. To Jehovah our God they will come in dread, And they will be in fear of you.”"
+
+- triggers: ["!micah7:18 ","!mic7:18 "]
+  replace: "Who is a God like you, Pardoning error and passing over the transgression of the remnant of his inheritance? He will not hold onto his anger forever, For he delights in loyal love."
+
+- triggers: ["!micah7:19 ","!mic7:19 "]
+  replace: "He will again show us mercy; he will conquer our errors. You will throw all their sins into the depths of the sea."
+
+- triggers: ["!micah7:20 ","!mic7:20 "]
+  replace: "You will show faithfulness to Jacob, Loyal love to Abraham, As you swore to our forefathers from the days of old."
+

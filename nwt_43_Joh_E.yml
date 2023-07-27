@@ -1,0 +1,2635 @@
+matches:
+- triggers: ["!jo1:1 ","!joh1:1 ","!john1:1 "]
+  replace: "In the beginning was the Word, and the Word was with God, and the Word was a god."
+
+- triggers: ["!jo1:2 ","!joh1:2 ","!john1:2 "]
+  replace: "This one was in the beginning with God."
+
+- triggers: ["!jo1:3 ","!joh1:3 ","!john1:3 "]
+  replace: "All things came into existence through him, and apart from him not even one thing came into existence. What has come into existence"
+
+- triggers: ["!jo1:4 ","!joh1:4 ","!john1:4 "]
+  replace: "by means of him was life, and the life was the light of men."
+
+- triggers: ["!jo1:5 ","!joh1:5 ","!john1:5 "]
+  replace: "And the light is shining in the darkness, but the darkness has not overpowered it."
+
+- triggers: ["!jo1:6 ","!joh1:6 ","!john1:6 "]
+  replace: "There came a man who was sent as a representative of God; his name was John."
+
+- triggers: ["!jo1:7 ","!joh1:7 ","!john1:7 "]
+  replace: "This man came as a witness, in order to bear witness about the light, so that people of all sorts might believe through him."
+
+- triggers: ["!jo1:8 ","!joh1:8 ","!john1:8 "]
+  replace: "He was not that light, but he was meant to bear witness about that light."
+
+- triggers: ["!jo1:9 ","!joh1:9 ","!john1:9 "]
+  replace: "The true light that gives light to every sort of man was about to come into the world."
+
+- triggers: ["!jo1:10 ","!joh1:10 ","!john1:10 "]
+  replace: "He was in the world, and the world came into existence through him, but the world did not know him."
+
+- triggers: ["!jo1:11 ","!joh1:11 ","!john1:11 "]
+  replace: "He came to his own home, but his own people did not accept him."
+
+- triggers: ["!jo1:12 ","!joh1:12 ","!john1:12 "]
+  replace: "However, to all who did receive him, he gave authority to become God's children, because they were exercising faith in his name."
+
+- triggers: ["!jo1:13 ","!joh1:13 ","!john1:13 "]
+  replace: "And they were born, not from blood or from a fleshly will or from man's will, but from God."
+
+- triggers: ["!jo1:14 ","!joh1:14 ","!john1:14 "]
+  replace: "So the Word became flesh and resided among us, and we had a view of his glory, a glory such as belongs to an only-begotten son from a father; and he was full of divine favor and truth."
+
+- triggers: ["!jo1:15 ","!joh1:15 ","!john1:15 "]
+  replace: "(John bore witness about him, yes, he cried out: 'This was the one of whom I said, 'The one coming behind me has advanced in front of me, for he existed before me.'')"
+
+- triggers: ["!jo1:16 ","!joh1:16 ","!john1:16 "]
+  replace: "For we all received from his fullness, even undeserved kindness upon undeserved kindness."
+
+- triggers: ["!jo1:17 ","!joh1:17 ","!john1:17 "]
+  replace: "Because the Law was given through Moses, the undeserved kindness and the truth came to be through Jesus Christ."
+
+- triggers: ["!jo1:18 ","!joh1:18 ","!john1:18 "]
+  replace: "No man has seen God at any time; the only-begotten god who is at the Father's side is the one who has explained Him."
+
+- triggers: ["!jo1:19 ","!joh1:19 ","!john1:19 "]
+  replace: "This is the witness John gave when the Jews sent priests and Levites from Jerusalem to ask him: 'Who are you?'"
+
+- triggers: ["!jo1:20 ","!joh1:20 ","!john1:20 "]
+  replace: "And he admitted it and did not deny it, saying: 'I am not the Christ.'"
+
+- triggers: ["!jo1:21 ","!joh1:21 ","!john1:21 "]
+  replace: "And they asked him: 'What, then? Are you Eliʹjah?' He replied: 'I am not.' 'Are you the Prophet?' And he answered: 'No!'"
+
+- triggers: ["!jo1:22 ","!joh1:22 ","!john1:22 "]
+  replace: "So they said to him: 'Who are you? Tell us so that we may give an answer to those who sent us. What do you say about yourself?'"
+
+- triggers: ["!jo1:23 ","!joh1:23 ","!john1:23 "]
+  replace: "He said: 'I am a voice of someone crying out in the wilderness, 'Make the way of Jehovah straight,' just as Isaiah the prophet said.'"
+
+- triggers: ["!jo1:24 ","!joh1:24 ","!john1:24 "]
+  replace: "Now those sent were from the Pharisees."
+
+- triggers: ["!jo1:25 ","!joh1:25 ","!john1:25 "]
+  replace: "So they questioned him and said to him: 'Why, then, do you baptize if you are not the Christ or Eliʹjah or the Prophet?'"
+
+- triggers: ["!jo1:26 ","!joh1:26 ","!john1:26 "]
+  replace: "John answered them: 'I baptize in water. One is standing among you whom you do not know,"
+
+- triggers: ["!jo1:27 ","!joh1:27 ","!john1:27 "]
+  replace: "the one coming behind me, the lace of whose sandal I am not worthy to untie.'"
+
+- triggers: ["!jo1:28 ","!joh1:28 ","!john1:28 "]
+  replace: "These things took place in Bethʹany across the Jordan, where John was baptizing."
+
+- triggers: ["!jo1:29 ","!joh1:29 ","!john1:29 "]
+  replace: "The next day he saw Jesus coming toward him, and he said: 'See, the Lamb of God who takes away the sin of the world!"
+
+- triggers: ["!jo1:30 ","!joh1:30 ","!john1:30 "]
+  replace: "This is the one about whom I said: 'Behind me there comes a man who has advanced in front of me, for he existed before me.'"
+
+- triggers: ["!jo1:31 ","!joh1:31 ","!john1:31 "]
+  replace: "Even I did not know him, but the reason why I came baptizing in water was so that he might be made manifest to Israel.'"
+
+- triggers: ["!jo1:32 ","!joh1:32 ","!john1:32 "]
+  replace: "John also bore witness, saying: 'I viewed the spirit coming down as a dove out of heaven, and it remained upon him."
+
+- triggers: ["!jo1:33 ","!joh1:33 ","!john1:33 "]
+  replace: "Even I did not know him, but the very One who sent me to baptize in water said to me: 'Whoever it is upon whom you see the spirit coming down and remaining, this is the one who baptizes in holy spirit.'"
+
+- triggers: ["!jo1:34 ","!joh1:34 ","!john1:34 "]
+  replace: "And I have seen it, and I have given witness that this one is the Son of God.'"
+
+- triggers: ["!jo1:35 ","!joh1:35 ","!john1:35 "]
+  replace: "Again the next day, John was standing with two of his disciples,"
+
+- triggers: ["!jo1:36 ","!joh1:36 ","!john1:36 "]
+  replace: "and as he looked at Jesus walking, he said: 'See, the Lamb of God!'"
+
+- triggers: ["!jo1:37 ","!joh1:37 ","!john1:37 "]
+  replace: "When the two disciples heard him say this, they followed Jesus."
+
+- triggers: ["!jo1:38 ","!joh1:38 ","!john1:38 "]
+  replace: "Then Jesus turned, and seeing them following, he said to them: 'What are you looking for?' They said to him: 'Rabbi (which means, when translated, 'Teacher'), where are you staying?'"
+
+- triggers: ["!jo1:39 ","!joh1:39 ","!john1:39 "]
+  replace: "He said to them: 'Come, and you will see.' So they went and saw where he was staying, and they stayed with him that day; it was about the tenth hour."
+
+- triggers: ["!jo1:40 ","!joh1:40 ","!john1:40 "]
+  replace: "Andrew, the brother of Simon Peter, was one of the two who heard what John said and followed Jesus."
+
+- triggers: ["!jo1:41 ","!joh1:41 ","!john1:41 "]
+  replace: "He first found his own brother Simon and said to him: 'We have found the Messiʹah' (which means, when translated, 'Christ'),"
+
+- triggers: ["!jo1:42 ","!joh1:42 ","!john1:42 "]
+  replace: "and he led him to Jesus. When Jesus looked at him, he said: 'You are Simon, the son of John; you will be called Ceʹphas' (which is translated 'Peter')."
+
+- triggers: ["!jo1:43 ","!joh1:43 ","!john1:43 "]
+  replace: "The next day he wanted to leave for Galʹilee. Jesus then found Philip and said to him: 'Be my follower.'"
+
+- triggers: ["!jo1:44 ","!joh1:44 ","!john1:44 "]
+  replace: "Now Philip was from Bethsaʹida, from the city of Andrew and Peter."
+
+- triggers: ["!jo1:45 ","!joh1:45 ","!john1:45 "]
+  replace: "Philip found Nathanʹael and said to him: 'We have found the one of whom Moses, in the Law, and the Prophets wrote: Jesus, the son of Joseph, from Nazʹareth.'"
+
+- triggers: ["!jo1:46 ","!joh1:46 ","!john1:46 "]
+  replace: "But Nathanʹael said to him: 'Can anything good come out of Nazʹareth?' Philip said to him: 'Come and see.'"
+
+- triggers: ["!jo1:47 ","!joh1:47 ","!john1:47 "]
+  replace: "Jesus saw Nathanʹael coming toward him and said about him: 'See, truly an Israelite in whom there is no deceit.'"
+
+- triggers: ["!jo1:48 ","!joh1:48 ","!john1:48 "]
+  replace: "Nathanʹael said to him: 'How do you know me?' Jesus answered him: 'Before Philip called you, while you were under the fig tree, I saw you.'"
+
+- triggers: ["!jo1:49 ","!joh1:49 ","!john1:49 "]
+  replace: "Nathanʹael responded: 'Rabbi, you are the Son of God, you are King of Israel.'"
+
+- triggers: ["!jo1:50 ","!joh1:50 ","!john1:50 "]
+  replace: "Jesus answered him: 'Do you believe because I told you I saw you under the fig tree? You will see things greater than these.'"
+
+- triggers: ["!jo1:51 ","!joh1:51 ","!john1:51 "]
+  replace: "He then said to him: 'Most truly I say to you men, you will see heaven opened up and the angels of God ascending and descending to the Son of man.'"
+
+- triggers: ["!jo2:1 ","!joh2:1 ","!john2:1 "]
+  replace: "And on the third day a marriage feast took place in Caʹna of Galʹilee, and the mother of Jesus was there."
+
+- triggers: ["!jo2:2 ","!joh2:2 ","!john2:2 "]
+  replace: "Jesus and his disciples were also invited to the marriage feast."
+
+- triggers: ["!jo2:3 ","!joh2:3 ","!john2:3 "]
+  replace: "When the wine ran short, the mother of Jesus said to him: 'They have no wine.'"
+
+- triggers: ["!jo2:4 ","!joh2:4 ","!john2:4 "]
+  replace: "But Jesus said to her: 'Woman, why is that of concern to me and to you? My hour has not yet come.'"
+
+- triggers: ["!jo2:5 ","!joh2:5 ","!john2:5 "]
+  replace: "His mother said to those serving: 'Do whatever he tells you.'"
+
+- triggers: ["!jo2:6 ","!joh2:6 ","!john2:6 "]
+  replace: "Now there were six stone water jars sitting there as required by the purification rules of the Jews, each able to hold two or three liquid measures."
+
+- triggers: ["!jo2:7 ","!joh2:7 ","!john2:7 "]
+  replace: "Jesus said to them: 'Fill the jars with water.' So they filled them to the brim."
+
+- triggers: ["!jo2:8 ","!joh2:8 ","!john2:8 "]
+  replace: "Then he said to them: 'Now draw some out and take it to the director of the feast.' So they took it."
+
+- triggers: ["!jo2:9 ","!joh2:9 ","!john2:9 "]
+  replace: "When the director of the feast tasted the water that had now been turned into wine, not knowing where it came from (although the servants who had drawn out the water knew), the director of the feast called the bridegroom"
+
+- triggers: ["!jo2:10 ","!joh2:10 ","!john2:10 "]
+  replace: "and said to him: 'Everyone else puts out the fine wine first, and when people are intoxicated, the inferior. You have saved the fine wine until now.'"
+
+- triggers: ["!jo2:11 ","!joh2:11 ","!john2:11 "]
+  replace: "Jesus did this in Caʹna of Galʹilee as the beginning of his signs, and he made his glory manifest, and his disciples put their faith in him."
+
+- triggers: ["!jo2:12 ","!joh2:12 ","!john2:12 "]
+  replace: "After this he and his mother and his brothers and his disciples went down to Caperʹnaum, but they did not stay there many days."
+
+- triggers: ["!jo2:13 ","!joh2:13 ","!john2:13 "]
+  replace: "Now the Passover of the Jews was near, and Jesus went up to Jerusalem."
+
+- triggers: ["!jo2:14 ","!joh2:14 ","!john2:14 "]
+  replace: "He found in the temple those selling cattle and sheep and doves, and the money brokers in their seats."
+
+- triggers: ["!jo2:15 ","!joh2:15 ","!john2:15 "]
+  replace: "So after making a whip of ropes, he drove all those with the sheep and cattle out of the temple, and he poured out the coins of the money changers and overturned their tables."
+
+- triggers: ["!jo2:16 ","!joh2:16 ","!john2:16 "]
+  replace: "And he said to those selling the doves: 'Take these things away from here! Stop making the house of my Father a house of commerce!'"
+
+- triggers: ["!jo2:17 ","!joh2:17 ","!john2:17 "]
+  replace: "His disciples recalled that it is written: 'The zeal for your house will consume me.'"
+
+- triggers: ["!jo2:18 ","!joh2:18 ","!john2:18 "]
+  replace: "Therefore, in response the Jews said to him: 'What sign can you show us, since you are doing these things?'"
+
+- triggers: ["!jo2:19 ","!joh2:19 ","!john2:19 "]
+  replace: "Jesus replied to them: 'Tear down this temple, and in three days I will raise it up.'"
+
+- triggers: ["!jo2:20 ","!joh2:20 ","!john2:20 "]
+  replace: "The Jews then said: 'This temple was built in 46 years, and will you raise it up in three days?'"
+
+- triggers: ["!jo2:21 ","!joh2:21 ","!john2:21 "]
+  replace: "But he was talking about the temple of his body."
+
+- triggers: ["!jo2:22 ","!joh2:22 ","!john2:22 "]
+  replace: "When, though, he was raised up from the dead, his disciples recalled that he used to say this, and they believed the scripture and what Jesus had spoken."
+
+- triggers: ["!jo2:23 ","!joh2:23 ","!john2:23 "]
+  replace: "However, when he was in Jerusalem at the festival of the Passover, many people put their faith in his name when they saw the signs that he was performing."
+
+- triggers: ["!jo2:24 ","!joh2:24 ","!john2:24 "]
+  replace: "But Jesus would not entrust himself to them because he knew them all"
+
+- triggers: ["!jo2:25 ","!joh2:25 ","!john2:25 "]
+  replace: "and because he did not need to have anyone bear witness about man, for he knew what was in man."
+
+- triggers: ["!jo3:1 ","!joh3:1 ","!john3:1 "]
+  replace: "There was a man of the Pharisees named Nicodeʹmus, a ruler of the Jews."
+
+- triggers: ["!jo3:2 ","!joh3:2 ","!john3:2 "]
+  replace: "This one came to him in the night and said to him: 'Rabbi, we know that you have come from God as a teacher, for no one can perform these signs that you perform unless God is with him.'"
+
+- triggers: ["!jo3:3 ","!joh3:3 ","!john3:3 "]
+  replace: "In response Jesus said to him: 'Most truly I say to you, unless anyone is born again, he cannot see the Kingdom of God.'"
+
+- triggers: ["!jo3:4 ","!joh3:4 ","!john3:4 "]
+  replace: "Nicodeʹmus said to him: 'How can a man be born when he is old? He cannot enter into the womb of his mother a second time and be born, can he?'"
+
+- triggers: ["!jo3:5 ","!joh3:5 ","!john3:5 "]
+  replace: "Jesus answered: 'Most truly I say to you, unless anyone is born from water and spirit, he cannot enter into the Kingdom of God."
+
+- triggers: ["!jo3:6 ","!joh3:6 ","!john3:6 "]
+  replace: "What has been born from the flesh is flesh, and what has been born from the spirit is spirit."
+
+- triggers: ["!jo3:7 ","!joh3:7 ","!john3:7 "]
+  replace: "Do not be amazed because I told you: You people must be born again."
+
+- triggers: ["!jo3:8 ","!joh3:8 ","!john3:8 "]
+  replace: "The wind blows where it wants to, and you hear the sound of it, but you do not know where it comes from and where it is going. So it is with everyone who has been born from the spirit.'"
+
+- triggers: ["!jo3:9 ","!joh3:9 ","!john3:9 "]
+  replace: "In answer Nicodeʹmus said to him: 'How can these things be?'"
+
+- triggers: ["!jo3:10 ","!joh3:10 ","!john3:10 "]
+  replace: "Jesus replied: 'Are you a teacher of Israel and yet do not know these things?"
+
+- triggers: ["!jo3:11 ","!joh3:11 ","!john3:11 "]
+  replace: "Most truly I say to you, what we know we speak, and what we have seen we bear witness to, but you do not receive the witness we give."
+
+- triggers: ["!jo3:12 ","!joh3:12 ","!john3:12 "]
+  replace: "If I have told you earthly things and you still do not believe, how will you believe if I tell you heavenly things?"
+
+- triggers: ["!jo3:13 ","!joh3:13 ","!john3:13 "]
+  replace: "Moreover, no man has ascended into heaven but the one who descended from heaven, the Son of man."
+
+- triggers: ["!jo3:14 ","!joh3:14 ","!john3:14 "]
+  replace: "And just as Moses lifted up the serpent in the wilderness, so the Son of man must be lifted up,"
+
+- triggers: ["!jo3:15 ","!joh3:15 ","!john3:15 "]
+  replace: "so that everyone believing in him may have everlasting life."
+
+- triggers: ["!jo3:16 ","!joh3:16 ","!john3:16 "]
+  replace: "'For God loved the world so much that he gave his only-begotten Son, so that everyone exercising faith in him might not be destroyed but have everlasting life."
+
+- triggers: ["!jo3:17 ","!joh3:17 ","!john3:17 "]
+  replace: "For God did not send his Son into the world for him to judge the world, but for the world to be saved through him."
+
+- triggers: ["!jo3:18 ","!joh3:18 ","!john3:18 "]
+  replace: "Whoever exercises faith in him is not to be judged. Whoever does not exercise faith has been judged already, because he has not exercised faith in the name of the only-begotten Son of God."
+
+- triggers: ["!jo3:19 ","!joh3:19 ","!john3:19 "]
+  replace: "Now this is the basis for judgment: that the light has come into the world, but men have loved the darkness rather than the light, for their works were wicked."
+
+- triggers: ["!jo3:20 ","!joh3:20 ","!john3:20 "]
+  replace: "For whoever practices vile things hates the light and does not come to the light, so that his works may not be reproved."
+
+- triggers: ["!jo3:21 ","!joh3:21 ","!john3:21 "]
+  replace: "But whoever does what is true comes to the light, so that his works may be made manifest as having been done in harmony with God.'"
+
+- triggers: ["!jo3:22 ","!joh3:22 ","!john3:22 "]
+  replace: "After this Jesus and his disciples went into the Judeʹan countryside, and there he spent some time with them and was baptizing."
+
+- triggers: ["!jo3:23 ","!joh3:23 ","!john3:23 "]
+  replace: "But John too was baptizing in Aeʹnon near Saʹlim, because there was a great quantity of water there, and people kept coming and were being baptized;"
+
+- triggers: ["!jo3:24 ","!joh3:24 ","!john3:24 "]
+  replace: "for John had not yet been thrown into prison."
+
+- triggers: ["!jo3:25 ","!joh3:25 ","!john3:25 "]
+  replace: "Now the disciples of John had a dispute with a Jew concerning purification."
+
+- triggers: ["!jo3:26 ","!joh3:26 ","!john3:26 "]
+  replace: "So they came to John and said to him: 'Rabbi, the man who was with you across the Jordan, about whom you bore witness, see, this one is baptizing, and all are going to him.'"
+
+- triggers: ["!jo3:27 ","!joh3:27 ","!john3:27 "]
+  replace: "In answer John said: 'A man cannot receive a single thing unless it has been given him from heaven."
+
+- triggers: ["!jo3:28 ","!joh3:28 ","!john3:28 "]
+  replace: "You yourselves bear me witness that I said, 'I am not the Christ, but I have been sent ahead of that one.'"
+
+- triggers: ["!jo3:29 ","!joh3:29 ","!john3:29 "]
+  replace: "Whoever has the bride is the bridegroom. But the friend of the bridegroom, when he stands and hears him, has a great deal of joy on account of the voice of the bridegroom. So my joy has been made complete."
+
+- triggers: ["!jo3:30 ","!joh3:30 ","!john3:30 "]
+  replace: "That one must keep on increasing, but I must keep on decreasing.'"
+
+- triggers: ["!jo3:31 ","!joh3:31 ","!john3:31 "]
+  replace: "The one who comes from above is over all others. The one who is from the earth is from the earth and speaks of things of the earth. The one who comes from heaven is over all others."
+
+- triggers: ["!jo3:32 ","!joh3:32 ","!john3:32 "]
+  replace: "He bears witness to what he has seen and heard, but no man accepts his witness."
+
+- triggers: ["!jo3:33 ","!joh3:33 ","!john3:33 "]
+  replace: "Whoever has accepted his witness has put his seal to it that God is true."
+
+- triggers: ["!jo3:34 ","!joh3:34 ","!john3:34 "]
+  replace: "For the one whom God sent speaks the sayings of God, for He does not give the spirit sparingly."
+
+- triggers: ["!jo3:35 ","!joh3:35 ","!john3:35 "]
+  replace: "The Father loves the Son and has given all things into his hand."
+
+- triggers: ["!jo3:36 ","!joh3:36 ","!john3:36 "]
+  replace: "The one who exercises faith in the Son has everlasting life; the one who disobeys the Son will not see life, but the wrath of God remains upon him."
+
+- triggers: ["!jo4:1 ","!joh4:1 ","!john4:1 "]
+  replace: "When the Lord became aware that the Pharisees had heard that Jesus was making and baptizing more disciples than John-"
+
+- triggers: ["!jo4:2 ","!joh4:2 ","!john4:2 "]
+  replace: "although Jesus himself did no baptizing but his disciples did-"
+
+- triggers: ["!jo4:3 ","!joh4:3 ","!john4:3 "]
+  replace: "he left Judeʹa and departed again for Galʹilee."
+
+- triggers: ["!jo4:4 ","!joh4:4 ","!john4:4 "]
+  replace: "But it was necessary for him to go through Samarʹia."
+
+- triggers: ["!jo4:5 ","!joh4:5 ","!john4:5 "]
+  replace: "So he came to a city of Samarʹia called Syʹchar, near the field that Jacob had given to his son Joseph."
+
+- triggers: ["!jo4:6 ","!joh4:6 ","!john4:6 "]
+  replace: "In fact, Jacob's well was there. Now Jesus, tired out as he was from the journey, was sitting at the well. It was about the sixth hour."
+
+- triggers: ["!jo4:7 ","!joh4:7 ","!john4:7 "]
+  replace: "A woman of Samarʹia came to draw water. Jesus said to her: 'Give me a drink.'"
+
+- triggers: ["!jo4:8 ","!joh4:8 ","!john4:8 "]
+  replace: "(For his disciples had gone off into the city to buy food.)"
+
+- triggers: ["!jo4:9 ","!joh4:9 ","!john4:9 "]
+  replace: "So the Samarʹitan woman said to him: 'How is it that you, despite being a Jew, ask me for a drink even though I am a Samarʹitan woman?' (For Jews have no dealings with Samarʹitans.)"
+
+- triggers: ["!jo4:10 ","!joh4:10 ","!john4:10 "]
+  replace: "In answer Jesus said to her: 'If you had known of the free gift of God and who it is who says to you, 'Give me a drink,' you would have asked him, and he would have given you living water.'"
+
+- triggers: ["!jo4:11 ","!joh4:11 ","!john4:11 "]
+  replace: "She said to him: 'Sir, you do not even have a bucket for drawing water, and the well is deep. From what source, then, do you have this living water?"
+
+- triggers: ["!jo4:12 ","!joh4:12 ","!john4:12 "]
+  replace: "You are not greater than our forefather Jacob, who gave us the well and who together with his sons and his cattle drank out of it, are you?'"
+
+- triggers: ["!jo4:13 ","!joh4:13 ","!john4:13 "]
+  replace: "In answer Jesus said to her: 'Everyone drinking from this water will get thirsty again."
+
+- triggers: ["!jo4:14 ","!joh4:14 ","!john4:14 "]
+  replace: "Whoever drinks from the water that I will give him will never get thirsty at all, but the water that I will give him will become in him a spring of water bubbling up to impart everlasting life.'"
+
+- triggers: ["!jo4:15 ","!joh4:15 ","!john4:15 "]
+  replace: "The woman said to him: 'Sir, give me this water, so that I may neither thirst nor keep coming over to this place to draw water.'"
+
+- triggers: ["!jo4:16 ","!joh4:16 ","!john4:16 "]
+  replace: "He said to her: 'Go, call your husband and come to this place.'"
+
+- triggers: ["!jo4:17 ","!joh4:17 ","!john4:17 "]
+  replace: "The woman replied: 'I do not have a husband.' Jesus said to her: 'You are right in saying, 'I do not have a husband.'"
+
+- triggers: ["!jo4:18 ","!joh4:18 ","!john4:18 "]
+  replace: "For you have had five husbands, and the man you now have is not your husband. This you have said truthfully.'"
+
+- triggers: ["!jo4:19 ","!joh4:19 ","!john4:19 "]
+  replace: "The woman said to him: 'Sir, I see that you are a prophet."
+
+- triggers: ["!jo4:20 ","!joh4:20 ","!john4:20 "]
+  replace: "Our forefathers worshipped on this mountain, but you people say that in Jerusalem is the place where people must worship.'"
+
+- triggers: ["!jo4:21 ","!joh4:21 ","!john4:21 "]
+  replace: "Jesus said to her: 'Believe me, woman, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father."
+
+- triggers: ["!jo4:22 ","!joh4:22 ","!john4:22 "]
+  replace: "You worship what you do not know; we worship what we know, because salvation begins with the Jews."
+
+- triggers: ["!jo4:23 ","!joh4:23 ","!john4:23 "]
+  replace: "Nevertheless, the hour is coming, and it is now, when the true worshippers will worship the Father with spirit and truth, for indeed, the Father is looking for ones like these to worship him."
+
+- triggers: ["!jo4:24 ","!joh4:24 ","!john4:24 "]
+  replace: "God is a Spirit, and those worshipping him must worship with spirit and truth.'"
+
+- triggers: ["!jo4:25 ","!joh4:25 ","!john4:25 "]
+  replace: "The woman said to him: 'I know that Messiʹah is coming, who is called Christ. Whenever that one comes, he will declare all things to us openly.'"
+
+- triggers: ["!jo4:26 ","!joh4:26 ","!john4:26 "]
+  replace: "Jesus said to her: 'I am he, the one speaking to you.'"
+
+- triggers: ["!jo4:27 ","!joh4:27 ","!john4:27 "]
+  replace: "Just then his disciples arrived, and they were surprised because he was speaking with a woman. Of course, no one said: 'What are you looking for?' or 'Why are you talking to her?'"
+
+- triggers: ["!jo4:28 ","!joh4:28 ","!john4:28 "]
+  replace: "So the woman left her water jar and went off into the city and told the people:"
+
+- triggers: ["!jo4:29 ","!joh4:29 ","!john4:29 "]
+  replace: "'Come and see a man who told me everything I did. Could this not perhaps be the Christ?'"
+
+- triggers: ["!jo4:30 ","!joh4:30 ","!john4:30 "]
+  replace: "They left the city and began coming to him."
+
+- triggers: ["!jo4:31 ","!joh4:31 ","!john4:31 "]
+  replace: "Meanwhile, the disciples were urging him: 'Rabbi, eat.'"
+
+- triggers: ["!jo4:32 ","!joh4:32 ","!john4:32 "]
+  replace: "But he said to them: 'I have food to eat that you do not know about.'"
+
+- triggers: ["!jo4:33 ","!joh4:33 ","!john4:33 "]
+  replace: "So the disciples said to one another: 'No one brought him anything to eat, did he?'"
+
+- triggers: ["!jo4:34 ","!joh4:34 ","!john4:34 "]
+  replace: "Jesus said to them: 'My food is to do the will of him who sent me and to finish his work."
+
+- triggers: ["!jo4:35 ","!joh4:35 ","!john4:35 "]
+  replace: "Do you not say that there are yet four months before the harvest comes? Look! I say to you: Lift up your eyes and view the fields, that they are white for harvesting. Already"
+
+- triggers: ["!jo4:36 ","!joh4:36 ","!john4:36 "]
+  replace: "the reaper is receiving wages and gathering fruit for everlasting life, so that the sower and the reaper may rejoice together."
+
+- triggers: ["!jo4:37 ","!joh4:37 ","!john4:37 "]
+  replace: "For in this respect the saying is true: One is the sower and another the reaper."
+
+- triggers: ["!jo4:38 ","!joh4:38 ","!john4:38 "]
+  replace: "I sent you to reap what you did not labor on. Others have labored, and you have entered into the benefit of their labor.'"
+
+- triggers: ["!jo4:39 ","!joh4:39 ","!john4:39 "]
+  replace: "Many of the Samarʹitans from that city put faith in him because of the word of the woman who bore witness, saying: 'He told me all the things I did.'"
+
+- triggers: ["!jo4:40 ","!joh4:40 ","!john4:40 "]
+  replace: "So when the Samarʹitans came to him, they asked him to stay with them, and he stayed there two days."
+
+- triggers: ["!jo4:41 ","!joh4:41 ","!john4:41 "]
+  replace: "As a result, many more believed because of what he said,"
+
+- triggers: ["!jo4:42 ","!joh4:42 ","!john4:42 "]
+  replace: "and they said to the woman: 'We no longer believe just because of what you said; for we have heard for ourselves, and we know that this man really is the savior of the world.'"
+
+- triggers: ["!jo4:43 ","!joh4:43 ","!john4:43 "]
+  replace: "After the two days, he left there for Galʹilee."
+
+- triggers: ["!jo4:44 ","!joh4:44 ","!john4:44 "]
+  replace: "Jesus himself, however, bore witness that a prophet has no honor in his own homeland."
+
+- triggers: ["!jo4:45 ","!joh4:45 ","!john4:45 "]
+  replace: "So when he arrived in Galʹilee, the Galileʹans welcomed him, because they had seen all the things he did in Jerusalem at the festival, for they too had gone to the festival."
+
+- triggers: ["!jo4:46 ","!joh4:46 ","!john4:46 "]
+  replace: "Then he came again to Caʹna of Galʹilee, where he had turned the water into wine. Now there was a royal official whose son was sick in Caperʹnaum."
+
+- triggers: ["!jo4:47 ","!joh4:47 ","!john4:47 "]
+  replace: "When this man heard that Jesus had come out of Judeʹa into Galʹilee, he went to him and asked him to come down and heal his son, for he was at the point of dying."
+
+- triggers: ["!jo4:48 ","!joh4:48 ","!john4:48 "]
+  replace: "But Jesus said to him: 'Unless you people see signs and wonders, you will never believe.'"
+
+- triggers: ["!jo4:49 ","!joh4:49 ","!john4:49 "]
+  replace: "The royal official said to him: 'Lord, come down before my young child dies.'"
+
+- triggers: ["!jo4:50 ","!joh4:50 ","!john4:50 "]
+  replace: "Jesus said to him: 'Go your way; your son lives.' The man believed the word that Jesus spoke to him, and he left."
+
+- triggers: ["!jo4:51 ","!joh4:51 ","!john4:51 "]
+  replace: "But while he was on his way down, his slaves met him to say that his boy was alive."
+
+- triggers: ["!jo4:52 ","!joh4:52 ","!john4:52 "]
+  replace: "So he asked them at what hour he got better. They replied to him: 'The fever left him yesterday at the seventh hour.'"
+
+- triggers: ["!jo4:53 ","!joh4:53 ","!john4:53 "]
+  replace: "The father then knew that it was in the very hour that Jesus had said to him: 'Your son lives.' So he and his whole household believed."
+
+- triggers: ["!jo4:54 ","!joh4:54 ","!john4:54 "]
+  replace: "This was the second sign Jesus performed when he came from Judeʹa into Galʹilee."
+
+- triggers: ["!jo5:1 ","!joh5:1 ","!john5:1 "]
+  replace: "After this there was a festival of the Jews, and Jesus went up to Jerusalem."
+
+- triggers: ["!jo5:2 ","!joh5:2 ","!john5:2 "]
+  replace: "Now in Jerusalem at the Sheep Gate is a pool called in Hebrew Bethzaʹtha, with five colonnades."
+
+- triggers: ["!jo5:3 ","!joh5:3 ","!john5:3 "]
+  replace: "Within these a multitude of the sick, blind, lame, and those with withered limbs were lying down."
+
+- triggers: ["!jo5:4 ","!joh5:4 ","!john5:4 "]
+  replace: "--"
+
+- triggers: ["!jo5:5 ","!joh5:5 ","!john5:5 "]
+  replace: "But one man was there who had been sick for 38 years."
+
+- triggers: ["!jo5:6 ","!joh5:6 ","!john5:6 "]
+  replace: "Seeing this man lying there and being aware that he had already been sick for a long time, Jesus said to him: 'Do you want to get well?'"
+
+- triggers: ["!jo5:7 ","!joh5:7 ","!john5:7 "]
+  replace: "The sick man answered him: 'Sir, I do not have anyone to put me into the pool when the water is stirred up, but while I am on my way, another steps down ahead of me.'"
+
+- triggers: ["!jo5:8 ","!joh5:8 ","!john5:8 "]
+  replace: "Jesus said to him: 'Get up! Pick up your mat and walk.'"
+
+- triggers: ["!jo5:9 ","!joh5:9 ","!john5:9 "]
+  replace: "And the man immediately got well, and he picked up his mat and began to walk. That day was the Sabbath."
+
+- triggers: ["!jo5:10 ","!joh5:10 ","!john5:10 "]
+  replace: "So the Jews began to say to the cured man: 'It is the Sabbath, and it is not lawful for you to carry the mat.'"
+
+- triggers: ["!jo5:11 ","!joh5:11 ","!john5:11 "]
+  replace: "But he answered them: 'The same one who made me well said to me, 'Pick up your mat and walk.''"
+
+- triggers: ["!jo5:12 ","!joh5:12 ","!john5:12 "]
+  replace: "They asked him: 'Who is the man who told you, 'Pick it up and walk'?'"
+
+- triggers: ["!jo5:13 ","!joh5:13 ","!john5:13 "]
+  replace: "But the healed man did not know who he was, for Jesus had slipped away into the crowd that was there."
+
+- triggers: ["!jo5:14 ","!joh5:14 ","!john5:14 "]
+  replace: "After this Jesus found him in the temple and said to him: 'See, you have become well. Do not sin anymore, so that something worse does not happen to you.'"
+
+- triggers: ["!jo5:15 ","!joh5:15 ","!john5:15 "]
+  replace: "The man went away and told the Jews that it was Jesus who had made him well."
+
+- triggers: ["!jo5:16 ","!joh5:16 ","!john5:16 "]
+  replace: "For this reason the Jews were persecuting Jesus, because he was doing these things during the Sabbath."
+
+- triggers: ["!jo5:17 ","!joh5:17 ","!john5:17 "]
+  replace: "But he answered them: 'My Father has kept working until now, and I keep working.'"
+
+- triggers: ["!jo5:18 ","!joh5:18 ","!john5:18 "]
+  replace: "This is why the Jews began seeking all the more to kill him, because not only was he breaking the Sabbath but he was also calling God his own Father, making himself equal to God."
+
+- triggers: ["!jo5:19 ","!joh5:19 ","!john5:19 "]
+  replace: "Therefore, in response Jesus said to them: 'Most truly I say to you, the Son cannot do a single thing of his own initiative, but only what he sees the Father doing. For whatever things that One does, these things the Son does also in like manner."
+
+- triggers: ["!jo5:20 ","!joh5:20 ","!john5:20 "]
+  replace: "For the Father has affection for the Son and shows him all the things he himself does, and he will show him works greater than these, so that you may marvel."
+
+- triggers: ["!jo5:21 ","!joh5:21 ","!john5:21 "]
+  replace: "For just as the Father raises the dead up and makes them alive, so the Son also makes alive whomever he wants to."
+
+- triggers: ["!jo5:22 ","!joh5:22 ","!john5:22 "]
+  replace: "For the Father judges no one at all, but he has entrusted all the judging to the Son,"
+
+- triggers: ["!jo5:23 ","!joh5:23 ","!john5:23 "]
+  replace: "so that all may honor the Son just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him."
+
+- triggers: ["!jo5:24 ","!joh5:24 ","!john5:24 "]
+  replace: "Most truly I say to you, whoever hears my word and believes the One who sent me has everlasting life, and he does not come into judgment but has passed over from death to life."
+
+- triggers: ["!jo5:25 ","!joh5:25 ","!john5:25 "]
+  replace: "'Most truly I say to you, the hour is coming, and it is now, when the dead will hear the voice of the Son of God, and those who have paid attention will live."
+
+- triggers: ["!jo5:26 ","!joh5:26 ","!john5:26 "]
+  replace: "For just as the Father has life in himself, so he has granted also to the Son to have life in himself."
+
+- triggers: ["!jo5:27 ","!joh5:27 ","!john5:27 "]
+  replace: "And he has given him authority to do judging, because he is the Son of man."
+
+- triggers: ["!jo5:28 ","!joh5:28 ","!john5:28 "]
+  replace: "Do not be amazed at this, for the hour is coming in which all those in the memorial tombs will hear his voice"
+
+- triggers: ["!jo5:29 ","!joh5:29 ","!john5:29 "]
+  replace: "and come out, those who did good things to a resurrection of life, and those who practiced vile things to a resurrection of judgment."
+
+- triggers: ["!jo5:30 ","!joh5:30 ","!john5:30 "]
+  replace: "I cannot do a single thing of my own initiative. Just as I hear, I judge, and my judgment is righteous because I seek, not my own will, but the will of him who sent me."
+
+- triggers: ["!jo5:31 ","!joh5:31 ","!john5:31 "]
+  replace: "'If I alone bear witness about myself, my witness is not true."
+
+- triggers: ["!jo5:32 ","!joh5:32 ","!john5:32 "]
+  replace: "There is another who bears witness about me, and I know that the witness he bears about me is true."
+
+- triggers: ["!jo5:33 ","!joh5:33 ","!john5:33 "]
+  replace: "You have sent men to John, and he has borne witness to the truth."
+
+- triggers: ["!jo5:34 ","!joh5:34 ","!john5:34 "]
+  replace: "However, I do not accept the witness from man, but I say these things so that you may be saved."
+
+- triggers: ["!jo5:35 ","!joh5:35 ","!john5:35 "]
+  replace: "That man was a burning and shining lamp, and for a short time you were willing to rejoice greatly in his light."
+
+- triggers: ["!jo5:36 ","!joh5:36 ","!john5:36 "]
+  replace: "But I have the witness greater than that of John, for the very works that my Father assigned me to accomplish, these works that I am doing, bear witness that the Father sent me."
+
+- triggers: ["!jo5:37 ","!joh5:37 ","!john5:37 "]
+  replace: "And the Father who sent me has himself borne witness about me. You have neither heard his voice at any time nor seen his form,"
+
+- triggers: ["!jo5:38 ","!joh5:38 ","!john5:38 "]
+  replace: "and you do not have his word residing in you, because you do not believe the very one whom he sent."
+
+- triggers: ["!jo5:39 ","!joh5:39 ","!john5:39 "]
+  replace: "'You are searching the Scriptures because you think that you will have everlasting life by means of them; and these are the very ones that bear witness about me."
+
+- triggers: ["!jo5:40 ","!joh5:40 ","!john5:40 "]
+  replace: "And yet you do not want to come to me so that you may have life."
+
+- triggers: ["!jo5:41 ","!joh5:41 ","!john5:41 "]
+  replace: "I do not accept glory from men,"
+
+- triggers: ["!jo5:42 ","!joh5:42 ","!john5:42 "]
+  replace: "but I well know that you do not have the love of God in you."
+
+- triggers: ["!jo5:43 ","!joh5:43 ","!john5:43 "]
+  replace: "I have come in the name of my Father, but you do not receive me. If someone else came in his own name, you would receive that one."
+
+- triggers: ["!jo5:44 ","!joh5:44 ","!john5:44 "]
+  replace: "How can you believe, when you are accepting glory from one another and you are not seeking the glory that is from the only God?"
+
+- triggers: ["!jo5:45 ","!joh5:45 ","!john5:45 "]
+  replace: "Do not think that I will accuse you to the Father; there is one who accuses you, Moses, in whom you have put your hope."
+
+- triggers: ["!jo5:46 ","!joh5:46 ","!john5:46 "]
+  replace: "In fact, if you believed Moses, you would believe me, for he wrote about me."
+
+- triggers: ["!jo5:47 ","!joh5:47 ","!john5:47 "]
+  replace: "But if you do not believe his writings, how will you believe what I say?'"
+
+- triggers: ["!jo6:1 ","!joh6:1 ","!john6:1 "]
+  replace: "After this Jesus set out across the Sea of Galʹilee, or Tibeʹrias."
+
+- triggers: ["!jo6:2 ","!joh6:2 ","!john6:2 "]
+  replace: "And a large crowd kept following him, because they were observing the miraculous signs he was performing in healing the sick."
+
+- triggers: ["!jo6:3 ","!joh6:3 ","!john6:3 "]
+  replace: "So Jesus went up on a mountain and sat down there with his disciples."
+
+- triggers: ["!jo6:4 ","!joh6:4 ","!john6:4 "]
+  replace: "Now the Passover, the festival of the Jews, was near."
+
+- triggers: ["!jo6:5 ","!joh6:5 ","!john6:5 "]
+  replace: "When Jesus raised his eyes and saw that a large crowd was coming to him, he said to Philip: 'Where will we buy bread for these people to eat?'"
+
+- triggers: ["!jo6:6 ","!joh6:6 ","!john6:6 "]
+  replace: "However, he was saying this to test him, for he knew what he was about to do."
+
+- triggers: ["!jo6:7 ","!joh6:7 ","!john6:7 "]
+  replace: "Philip answered him: 'Two hundred denarʹii worth of bread is not enough for each of them to get even a little.'"
+
+- triggers: ["!jo6:8 ","!joh6:8 ","!john6:8 "]
+  replace: "One of his disciples, Andrew, Simon Peter's brother, said to him:"
+
+- triggers: ["!jo6:9 ","!joh6:9 ","!john6:9 "]
+  replace: "'Here is a little boy who has five barley loaves and two small fish. But what are these among so many?'"
+
+- triggers: ["!jo6:10 ","!joh6:10 ","!john6:10 "]
+  replace: "Jesus said: 'Have the people sit down.' As there was a lot of grass in that place, the men sat down there, about 5,000 in number."
+
+- triggers: ["!jo6:11 ","!joh6:11 ","!john6:11 "]
+  replace: "Jesus took the bread, and after giving thanks, he distributed it to those who were sitting there; he did likewise with the small fish, and they had as much as they wanted."
+
+- triggers: ["!jo6:12 ","!joh6:12 ","!john6:12 "]
+  replace: "But when they had eaten their fill, he said to his disciples: 'Gather together the fragments left over, so that nothing is wasted.'"
+
+- triggers: ["!jo6:13 ","!joh6:13 ","!john6:13 "]
+  replace: "So they gathered them together and filled 12 baskets with fragments left over by those who had eaten from the five barley loaves."
+
+- triggers: ["!jo6:14 ","!joh6:14 ","!john6:14 "]
+  replace: "When the people saw the sign he performed, they began to say: 'This really is the Prophet who was to come into the world.'"
+
+- triggers: ["!jo6:15 ","!joh6:15 ","!john6:15 "]
+  replace: "Then Jesus, knowing that they were about to come and seize him to make him king, withdrew again to the mountain all alone."
+
+- triggers: ["!jo6:16 ","!joh6:16 ","!john6:16 "]
+  replace: "When evening fell, his disciples went down to the sea,"
+
+- triggers: ["!jo6:17 ","!joh6:17 ","!john6:17 "]
+  replace: "and boarding a boat, they set out across the sea for Caperʹnaum. By now it had grown dark, and Jesus had not yet come to them."
+
+- triggers: ["!jo6:18 ","!joh6:18 ","!john6:18 "]
+  replace: "Also, the sea was getting rough because a strong wind was blowing."
+
+- triggers: ["!jo6:19 ","!joh6:19 ","!john6:19 "]
+  replace: "However, when they had rowed about three or four miles, they saw Jesus walking on the sea and getting near the boat, and they became fearful."
+
+- triggers: ["!jo6:20 ","!joh6:20 ","!john6:20 "]
+  replace: "But he said to them: 'It is I; do not be afraid!'"
+
+- triggers: ["!jo6:21 ","!joh6:21 ","!john6:21 "]
+  replace: "Then they were willing to take him into the boat, and right away the boat arrived at the land to which they had been heading."
+
+- triggers: ["!jo6:22 ","!joh6:22 ","!john6:22 "]
+  replace: "The next day the crowd that had stayed on the other side of the sea saw that there was no boat there. A small one had been there, but Jesus had not boarded that boat with his disciples, for his disciples had left by themselves."
+
+- triggers: ["!jo6:23 ","!joh6:23 ","!john6:23 "]
+  replace: "Boats from Tibeʹrias, however, arrived near the place where they ate the bread after the Lord had given thanks."
+
+- triggers: ["!jo6:24 ","!joh6:24 ","!john6:24 "]
+  replace: "So when the crowd saw that neither Jesus nor his disciples were there, they boarded their boats and came to Caperʹnaum to look for Jesus."
+
+- triggers: ["!jo6:25 ","!joh6:25 ","!john6:25 "]
+  replace: "When they found him across the sea, they said to him: 'Rabbi, when did you get here?'"
+
+- triggers: ["!jo6:26 ","!joh6:26 ","!john6:26 "]
+  replace: "Jesus answered them: 'Most truly I say to you, you are looking for me, not because you saw signs, but because you ate from the loaves and were satisfied."
+
+- triggers: ["!jo6:27 ","!joh6:27 ","!john6:27 "]
+  replace: "Work, not for the food that perishes, but for the food that remains for everlasting life, which the Son of man will give you; for on this one the Father, God himself, has put his seal of approval.'"
+
+- triggers: ["!jo6:28 ","!joh6:28 ","!john6:28 "]
+  replace: "So they said to him: 'What must we do to carry out the works of God?'"
+
+- triggers: ["!jo6:29 ","!joh6:29 ","!john6:29 "]
+  replace: "In answer Jesus said to them: 'This is the work of God, that you exercise faith in the one whom he sent.'"
+
+- triggers: ["!jo6:30 ","!joh6:30 ","!john6:30 "]
+  replace: "Then they said to him: 'What are you performing as a sign, so that we may see it and believe you? What work are you doing?"
+
+- triggers: ["!jo6:31 ","!joh6:31 ","!john6:31 "]
+  replace: "Our forefathers ate the manna in the wilderness, just as it is written: 'He gave them bread from heaven to eat.''"
+
+- triggers: ["!jo6:32 ","!joh6:32 ","!john6:32 "]
+  replace: "Jesus then said to them: 'Most truly I say to you, Moses did not give you the bread from heaven, but my Father gives you the true bread from heaven."
+
+- triggers: ["!jo6:33 ","!joh6:33 ","!john6:33 "]
+  replace: "For the bread of God is the one who comes down from heaven and gives life to the world.'"
+
+- triggers: ["!jo6:34 ","!joh6:34 ","!john6:34 "]
+  replace: "So they said to him: 'Lord, always give us this bread.'"
+
+- triggers: ["!jo6:35 ","!joh6:35 ","!john6:35 "]
+  replace: "Jesus said to them: 'I am the bread of life. Whoever comes to me will not get hungry at all, and whoever exercises faith in me will never get thirsty at all."
+
+- triggers: ["!jo6:36 ","!joh6:36 ","!john6:36 "]
+  replace: "But as I said to you, you have even seen me and yet do not believe."
+
+- triggers: ["!jo6:37 ","!joh6:37 ","!john6:37 "]
+  replace: "All those whom the Father gives me will come to me, and I will never drive away the one who comes to me;"
+
+- triggers: ["!jo6:38 ","!joh6:38 ","!john6:38 "]
+  replace: "for I have come down from heaven to do, not my own will, but the will of him who sent me."
+
+- triggers: ["!jo6:39 ","!joh6:39 ","!john6:39 "]
+  replace: "This is the will of him who sent me, that I should lose none out of all those whom he has given me, but that I should resurrect them on the last day."
+
+- triggers: ["!jo6:40 ","!joh6:40 ","!john6:40 "]
+  replace: "For this is the will of my Father, that everyone who recognizes the Son and exercises faith in him should have everlasting life, and I will resurrect him on the last day.'"
+
+- triggers: ["!jo6:41 ","!joh6:41 ","!john6:41 "]
+  replace: "Then the Jews began to murmur about him because he had said: 'I am the bread that came down from heaven.'"
+
+- triggers: ["!jo6:42 ","!joh6:42 ","!john6:42 "]
+  replace: "And they began saying: 'Is this not Jesus the son of Joseph, whose father and mother we know? How does he now say, 'I have come down from heaven'?'"
+
+- triggers: ["!jo6:43 ","!joh6:43 ","!john6:43 "]
+  replace: "In response Jesus said to them: 'Stop murmuring among yourselves."
+
+- triggers: ["!jo6:44 ","!joh6:44 ","!john6:44 "]
+  replace: "No man can come to me unless the Father, who sent me, draws him, and I will resurrect him on the last day."
+
+- triggers: ["!jo6:45 ","!joh6:45 ","!john6:45 "]
+  replace: "It is written in the Prophets: 'They will all be taught by Jehovah.' Everyone who has listened to the Father and has learned comes to me."
+
+- triggers: ["!jo6:46 ","!joh6:46 ","!john6:46 "]
+  replace: "Not that any man has seen the Father, except the one who is from God; this one has seen the Father."
+
+- triggers: ["!jo6:47 ","!joh6:47 ","!john6:47 "]
+  replace: "Most truly I say to you, whoever believes has everlasting life."
+
+- triggers: ["!jo6:48 ","!joh6:48 ","!john6:48 "]
+  replace: "'I am the bread of life."
+
+- triggers: ["!jo6:49 ","!joh6:49 ","!john6:49 "]
+  replace: "Your forefathers ate the manna in the wilderness and yet they died."
+
+- triggers: ["!jo6:50 ","!joh6:50 ","!john6:50 "]
+  replace: "This is the bread that comes down from heaven, so that anyone may eat of it and not die."
+
+- triggers: ["!jo6:51 ","!joh6:51 ","!john6:51 "]
+  replace: "I am the living bread that came down from heaven. If anyone eats of this bread he will live forever; and for a fact, the bread that I will give is my flesh in behalf of the life of the world.'"
+
+- triggers: ["!jo6:52 ","!joh6:52 ","!john6:52 "]
+  replace: "Then the Jews began to argue with one another, saying: 'How can this man give us his flesh to eat?'"
+
+- triggers: ["!jo6:53 ","!joh6:53 ","!john6:53 "]
+  replace: "So Jesus said to them: 'Most truly I say to you, unless you eat the flesh of the Son of man and drink his blood, you have no life in yourselves."
+
+- triggers: ["!jo6:54 ","!joh6:54 ","!john6:54 "]
+  replace: "Whoever feeds on my flesh and drinks my blood has everlasting life, and I will resurrect him on the last day;"
+
+- triggers: ["!jo6:55 ","!joh6:55 ","!john6:55 "]
+  replace: "for my flesh is true food and my blood is true drink."
+
+- triggers: ["!jo6:56 ","!joh6:56 ","!john6:56 "]
+  replace: "Whoever feeds on my flesh and drinks my blood remains in union with me, and I in union with him."
+
+- triggers: ["!jo6:57 ","!joh6:57 ","!john6:57 "]
+  replace: "Just as the living Father sent me and I live because of the Father, so also the one who feeds on me will live because of me."
+
+- triggers: ["!jo6:58 ","!joh6:58 ","!john6:58 "]
+  replace: "This is the bread that came down from heaven. It is not as when your forefathers ate and yet died. Whoever feeds on this bread will live forever.'"
+
+- triggers: ["!jo6:59 ","!joh6:59 ","!john6:59 "]
+  replace: "He said these things as he was teaching in a synagogue in Caperʹnaum."
+
+- triggers: ["!jo6:60 ","!joh6:60 ","!john6:60 "]
+  replace: "When they heard this, many of his disciples said: 'This speech is shocking; who can listen to it?'"
+
+- triggers: ["!jo6:61 ","!joh6:61 ","!john6:61 "]
+  replace: "But Jesus, knowing in himself that his disciples were murmuring about this, said to them: 'Does this stumble you?"
+
+- triggers: ["!jo6:62 ","!joh6:62 ","!john6:62 "]
+  replace: "What, therefore, if you should see the Son of man ascending to where he was before?"
+
+- triggers: ["!jo6:63 ","!joh6:63 ","!john6:63 "]
+  replace: "It is the spirit that is life-giving; the flesh is of no use at all. The sayings that I have spoken to you are spirit and are life."
+
+- triggers: ["!jo6:64 ","!joh6:64 ","!john6:64 "]
+  replace: "But there are some of you who do not believe.' For Jesus knew from the beginning those who did not believe and the one who would betray him."
+
+- triggers: ["!jo6:65 ","!joh6:65 ","!john6:65 "]
+  replace: "He went on to say: 'This is why I have said to you, no one can come to me unless it is granted him by the Father.'"
+
+- triggers: ["!jo6:66 ","!joh6:66 ","!john6:66 "]
+  replace: "Because of this, many of his disciples went off to the things behind and would no longer walk with him."
+
+- triggers: ["!jo6:67 ","!joh6:67 ","!john6:67 "]
+  replace: "So Jesus said to the Twelve: 'You do not want to go also, do you?'"
+
+- triggers: ["!jo6:68 ","!joh6:68 ","!john6:68 "]
+  replace: "Simon Peter answered him: 'Lord, whom shall we go away to? You have sayings of everlasting life."
+
+- triggers: ["!jo6:69 ","!joh6:69 ","!john6:69 "]
+  replace: "We have believed and have come to know that you are the Holy One of God.'"
+
+- triggers: ["!jo6:70 ","!joh6:70 ","!john6:70 "]
+  replace: "Jesus answered them: 'I chose you twelve, did I not? Yet one of you is a slanderer.'"
+
+- triggers: ["!jo6:71 ","!joh6:71 ","!john6:71 "]
+  replace: "He was, in fact, speaking of Judas the son of Simon Iscarʹiot, for this one was going to betray him, although he was one of the Twelve."
+
+- triggers: ["!jo7:1 ","!joh7:1 ","!john7:1 "]
+  replace: "After this Jesus continued traveling about in Galʹilee, for he did not want to do so in Judeʹa because the Jews were seeking to kill him."
+
+- triggers: ["!jo7:2 ","!joh7:2 ","!john7:2 "]
+  replace: "However, the Jewish Festival of Tabernacles was near."
+
+- triggers: ["!jo7:3 ","!joh7:3 ","!john7:3 "]
+  replace: "So his brothers said to him: 'Leave here and go into Judeʹa, so that your disciples may also see the works you are doing."
+
+- triggers: ["!jo7:4 ","!joh7:4 ","!john7:4 "]
+  replace: "For no one does anything in secret when he seeks to be known publicly. If you are doing these things, show yourself to the world.'"
+
+- triggers: ["!jo7:5 ","!joh7:5 ","!john7:5 "]
+  replace: "His brothers were, in fact, not exercising faith in him."
+
+- triggers: ["!jo7:6 ","!joh7:6 ","!john7:6 "]
+  replace: "So Jesus said to them: 'My time has not yet arrived, but your time is always at hand."
+
+- triggers: ["!jo7:7 ","!joh7:7 ","!john7:7 "]
+  replace: "The world has no reason to hate you, but it hates me, because I bear witness about it that its works are wicked."
+
+- triggers: ["!jo7:8 ","!joh7:8 ","!john7:8 "]
+  replace: "You go up to the festival; I am not yet going up to this festival, because my time has not yet fully come.'"
+
+- triggers: ["!jo7:9 ","!joh7:9 ","!john7:9 "]
+  replace: "So after he told them these things, he remained in Galʹilee."
+
+- triggers: ["!jo7:10 ","!joh7:10 ","!john7:10 "]
+  replace: "But when his brothers had gone up to the festival, then he also went up, not openly but in secret."
+
+- triggers: ["!jo7:11 ","!joh7:11 ","!john7:11 "]
+  replace: "So the Jews began looking for him at the festival and saying: 'Where is that man?'"
+
+- triggers: ["!jo7:12 ","!joh7:12 ","!john7:12 "]
+  replace: "And there was a lot of subdued talk about him among the crowds. Some would say: 'He is a good man.' Others would say: 'He is not. He misleads the crowd.'"
+
+- triggers: ["!jo7:13 ","!joh7:13 ","!john7:13 "]
+  replace: "Of course, no one would speak about him publicly because of fear of the Jews."
+
+- triggers: ["!jo7:14 ","!joh7:14 ","!john7:14 "]
+  replace: "When the festival was half over, Jesus went up into the temple and began teaching."
+
+- triggers: ["!jo7:15 ","!joh7:15 ","!john7:15 "]
+  replace: "And the Jews were astonished, saying: 'How does this man have such a knowledge of the Scriptures when he has not studied at the schools?'"
+
+- triggers: ["!jo7:16 ","!joh7:16 ","!john7:16 "]
+  replace: "Jesus, in turn, answered them and said: 'What I teach is not mine, but belongs to him who sent me."
+
+- triggers: ["!jo7:17 ","!joh7:17 ","!john7:17 "]
+  replace: "If anyone desires to do His will, he will know whether the teaching is from God or I speak of my own originality."
+
+- triggers: ["!jo7:18 ","!joh7:18 ","!john7:18 "]
+  replace: "Whoever speaks of his own originality is seeking his own glory; but whoever seeks the glory of the one who sent him, this one is true and there is no unrighteousness in him."
+
+- triggers: ["!jo7:19 ","!joh7:19 ","!john7:19 "]
+  replace: "Moses gave you the Law, did he not? But not one of you obeys the Law. Why are you seeking to kill me?'"
+
+- triggers: ["!jo7:20 ","!joh7:20 ","!john7:20 "]
+  replace: "The crowd answered: 'You have a demon. Who is seeking to kill you?'"
+
+- triggers: ["!jo7:21 ","!joh7:21 ","!john7:21 "]
+  replace: "In answer Jesus said to them: 'One deed I performed, and you are all surprised."
+
+- triggers: ["!jo7:22 ","!joh7:22 ","!john7:22 "]
+  replace: "For this reason Moses has given you circumcision-not that it is from Moses, but it is from the forefathers-and you circumcise a man on a sabbath."
+
+- triggers: ["!jo7:23 ","!joh7:23 ","!john7:23 "]
+  replace: "If a man receives circumcision on a sabbath so that the Law of Moses may not be broken, are you violently angry at me because I made a man completely well on a sabbath?"
+
+- triggers: ["!jo7:24 ","!joh7:24 ","!john7:24 "]
+  replace: "Stop judging by the outward appearance, but judge with righteous judgment.'"
+
+- triggers: ["!jo7:25 ","!joh7:25 ","!john7:25 "]
+  replace: "Then some of the inhabitants of Jerusalem began to say: 'This is the man they are seeking to kill, is it not?"
+
+- triggers: ["!jo7:26 ","!joh7:26 ","!john7:26 "]
+  replace: "And yet see! he is speaking in public, and they say nothing to him. Have the rulers come to know for certain that this is the Christ?"
+
+- triggers: ["!jo7:27 ","!joh7:27 ","!john7:27 "]
+  replace: "On the contrary, we know where this man is from; yet when the Christ comes, no one is to know where he is from.'"
+
+- triggers: ["!jo7:28 ","!joh7:28 ","!john7:28 "]
+  replace: "Then as he was teaching in the temple, Jesus called out: 'You know me and you know where I am from. And I have not come of my own initiative, but the One who sent me is real, and you do not know him."
+
+- triggers: ["!jo7:29 ","!joh7:29 ","!john7:29 "]
+  replace: "I know him, because I am a representative from him, and that One sent me.'"
+
+- triggers: ["!jo7:30 ","!joh7:30 ","!john7:30 "]
+  replace: "So they began seeking to get hold of him, but no one laid a hand on him, for his hour had not yet come."
+
+- triggers: ["!jo7:31 ","!joh7:31 ","!john7:31 "]
+  replace: "Still, many of the crowd put faith in him, and they were saying: 'When the Christ comes, he will not perform more signs than this man has done, will he?'"
+
+- triggers: ["!jo7:32 ","!joh7:32 ","!john7:32 "]
+  replace: "The Pharisees heard the crowd murmuring these things about him, and the chief priests and the Pharisees sent officers to seize him."
+
+- triggers: ["!jo7:33 ","!joh7:33 ","!john7:33 "]
+  replace: "Jesus then said: 'I will be with you a little while longer before I go to the One who sent me."
+
+- triggers: ["!jo7:34 ","!joh7:34 ","!john7:34 "]
+  replace: "You will look for me, but you will not find me, and where I am you cannot come.'"
+
+- triggers: ["!jo7:35 ","!joh7:35 ","!john7:35 "]
+  replace: "Therefore, the Jews said among themselves: 'Where does this man intend to go, so that we will not find him? He does not intend to go to the Jews dispersed among the Greeks and teach the Greeks, does he?"
+
+- triggers: ["!jo7:36 ","!joh7:36 ","!john7:36 "]
+  replace: "What does he mean when he says, 'You will look for me, but you will not find me, and where I am you cannot come'?'"
+
+- triggers: ["!jo7:37 ","!joh7:37 ","!john7:37 "]
+  replace: "On the last day, the great day of the festival, Jesus stood up and he called out: 'If anyone is thirsty, let him come to me and drink."
+
+- triggers: ["!jo7:38 ","!joh7:38 ","!john7:38 "]
+  replace: "Whoever puts faith in me, just as the scripture has said: 'From deep within him streams of living water will flow.''"
+
+- triggers: ["!jo7:39 ","!joh7:39 ","!john7:39 "]
+  replace: "However, he said this concerning the spirit, which those who put faith in him were about to receive; for as yet there was no spirit, because Jesus had not yet been glorified."
+
+- triggers: ["!jo7:40 ","!joh7:40 ","!john7:40 "]
+  replace: "Some in the crowd who heard these words began saying: 'This really is the Prophet.'"
+
+- triggers: ["!jo7:41 ","!joh7:41 ","!john7:41 "]
+  replace: "Others were saying: 'This is the Christ.' But some were saying: 'The Christ is not coming out of Galʹilee, is he?"
+
+- triggers: ["!jo7:42 ","!joh7:42 ","!john7:42 "]
+  replace: "Does the scripture not say that the Christ is coming from the offspring of David and from Bethʹlehem, the village where David was?'"
+
+- triggers: ["!jo7:43 ","!joh7:43 ","!john7:43 "]
+  replace: "So a division over him arose among the crowd."
+
+- triggers: ["!jo7:44 ","!joh7:44 ","!john7:44 "]
+  replace: "Some of them, though, wanted to seize him, but no one laid his hands on him."
+
+- triggers: ["!jo7:45 ","!joh7:45 ","!john7:45 "]
+  replace: "Then the officers went back to the chief priests and Pharisees, and the latter said to them: 'Why did you not bring him in?'"
+
+- triggers: ["!jo7:46 ","!joh7:46 ","!john7:46 "]
+  replace: "The officers replied: 'Never has any man spoken like this.'"
+
+- triggers: ["!jo7:47 ","!joh7:47 ","!john7:47 "]
+  replace: "In turn the Pharisees answered: 'You have not been misled also, have you?"
+
+- triggers: ["!jo7:48 ","!joh7:48 ","!john7:48 "]
+  replace: "Not one of the rulers or of the Pharisees has put faith in him, has he?"
+
+- triggers: ["!jo7:49 ","!joh7:49 ","!john7:49 "]
+  replace: "But this crowd who do not know the Law are accursed people.'"
+
+- triggers: ["!jo7:50 ","!joh7:50 ","!john7:50 "]
+  replace: "Nicodeʹmus, who had come to him previously and who was one of them, said to them:"
+
+- triggers: ["!jo7:51 ","!joh7:51 ","!john7:51 "]
+  replace: "'Our Law does not judge a man unless it first hears from him and learns what he is doing, does it?'"
+
+- triggers: ["!jo7:52 ","!joh7:52 ","!john7:52 "]
+  replace: "In answer they said to him: 'You are not also out of Galʹilee, are you? Search and see that no prophet is to be raised up out of Galʹilee.'"
+
+- triggers: ["!jo8:1 ","!joh8:1 ","!john8:1 "]
+  replace: ""
+
+- triggers: ["!jo8:2 ","!joh8:2 ","!john8:2 "]
+  replace: ""
+
+- triggers: ["!jo8:3 ","!joh8:3 ","!john8:3 "]
+  replace: ""
+
+- triggers: ["!jo8:4 ","!joh8:4 ","!john8:4 "]
+  replace: ""
+
+- triggers: ["!jo8:5 ","!joh8:5 ","!john8:5 "]
+  replace: ""
+
+- triggers: ["!jo8:6 ","!joh8:6 ","!john8:6 "]
+  replace: ""
+
+- triggers: ["!jo8:7 ","!joh8:7 ","!john8:7 "]
+  replace: ""
+
+- triggers: ["!jo8:8 ","!joh8:8 ","!john8:8 "]
+  replace: ""
+
+- triggers: ["!jo8:9 ","!joh8:9 ","!john8:9 "]
+  replace: ""
+
+- triggers: ["!jo8:10 ","!joh8:10 ","!john8:10 "]
+  replace: ""
+
+- triggers: ["!jo8:11 ","!joh8:11 ","!john8:11 "]
+  replace: ""
+
+- triggers: ["!jo8:12 ","!joh8:12 ","!john8:12 "]
+  replace: "Then Jesus spoke again to them, saying: 'I am the light of the world. Whoever follows me will by no means walk in darkness, but will possess the light of life.'"
+
+- triggers: ["!jo8:13 ","!joh8:13 ","!john8:13 "]
+  replace: "So the Pharisees said to him: 'You bear witness about yourself; your witness is not true.'"
+
+- triggers: ["!jo8:14 ","!joh8:14 ","!john8:14 "]
+  replace: "In answer Jesus said to them: 'Even if I do bear witness about myself, my witness is true, because I know where I came from and where I am going. But you do not know where I came from and where I am going."
+
+- triggers: ["!jo8:15 ","!joh8:15 ","!john8:15 "]
+  replace: "You judge according to the flesh; I do not judge any man at all."
+
+- triggers: ["!jo8:16 ","!joh8:16 ","!john8:16 "]
+  replace: "And yet even if I do judge, my judgment is truthful, because I am not alone, but the Father who sent me is with me."
+
+- triggers: ["!jo8:17 ","!joh8:17 ","!john8:17 "]
+  replace: "Also, in your own Law it is written: 'The witness of two men is true.'"
+
+- triggers: ["!jo8:18 ","!joh8:18 ","!john8:18 "]
+  replace: "I am one who bears witness about myself, and the Father who sent me bears witness about me.'"
+
+- triggers: ["!jo8:19 ","!joh8:19 ","!john8:19 "]
+  replace: "Then they said to him: 'Where is your Father?' Jesus answered: 'You know neither me nor my Father. If you did know me, you would know my Father also.'"
+
+- triggers: ["!jo8:20 ","!joh8:20 ","!john8:20 "]
+  replace: "He spoke these words in the treasury as he was teaching in the temple. But no one seized him, for his hour had not yet come."
+
+- triggers: ["!jo8:21 ","!joh8:21 ","!john8:21 "]
+  replace: "So he said to them again: 'I am going away, and you will look for me, and yet you will die in your sin. Where I am going, you cannot come.'"
+
+- triggers: ["!jo8:22 ","!joh8:22 ","!john8:22 "]
+  replace: "The Jews then began to say: 'He will not kill himself, will he? Because he says, 'Where I am going, you cannot come.''"
+
+- triggers: ["!jo8:23 ","!joh8:23 ","!john8:23 "]
+  replace: "He went on to say to them: 'You are from the realms below; I am from the realms above. You are from this world; I am not from this world."
+
+- triggers: ["!jo8:24 ","!joh8:24 ","!john8:24 "]
+  replace: "That is why I said to you: You will die in your sins. For if you do not believe that I am the one, you will die in your sins.'"
+
+- triggers: ["!jo8:25 ","!joh8:25 ","!john8:25 "]
+  replace: "So they began to say to him: 'Who are you?' Jesus replied to them: 'Why am I even speaking to you at all?"
+
+- triggers: ["!jo8:26 ","!joh8:26 ","!john8:26 "]
+  replace: "I have many things to speak concerning you and to pass judgment on. As a matter of fact, the One who sent me is true, and the very things I heard from him I am speaking in the world.'"
+
+- triggers: ["!jo8:27 ","!joh8:27 ","!john8:27 "]
+  replace: "They did not grasp that he was talking to them about the Father."
+
+- triggers: ["!jo8:28 ","!joh8:28 ","!john8:28 "]
+  replace: "Jesus then said: 'After you have lifted up the Son of man, then you will know that I am he and that I do nothing of my own initiative; but just as the Father taught me, I speak these things."
+
+- triggers: ["!jo8:29 ","!joh8:29 ","!john8:29 "]
+  replace: "And the One who sent me is with me; he did not abandon me to myself, because I always do the things pleasing to him.'"
+
+- triggers: ["!jo8:30 ","!joh8:30 ","!john8:30 "]
+  replace: "As he was saying these things, many put faith in him."
+
+- triggers: ["!jo8:31 ","!joh8:31 ","!john8:31 "]
+  replace: "Then Jesus went on to say to the Jews who had believed him: 'If you remain in my word, you are really my disciples,"
+
+- triggers: ["!jo8:32 ","!joh8:32 ","!john8:32 "]
+  replace: "and you will know the truth, and the truth will set you free.'"
+
+- triggers: ["!jo8:33 ","!joh8:33 ","!john8:33 "]
+  replace: "They replied to him: 'We are Abraham's offspring and never have been slaves to anyone. How is it you say, 'You will become free'?'"
+
+- triggers: ["!jo8:34 ","!joh8:34 ","!john8:34 "]
+  replace: "Jesus answered them: 'Most truly I say to you, every doer of sin is a slave of sin."
+
+- triggers: ["!jo8:35 ","!joh8:35 ","!john8:35 "]
+  replace: "Moreover, the slave does not remain in the household forever; the son remains forever."
+
+- triggers: ["!jo8:36 ","!joh8:36 ","!john8:36 "]
+  replace: "So if the Son sets you free, you will be truly free."
+
+- triggers: ["!jo8:37 ","!joh8:37 ","!john8:37 "]
+  replace: "I know that you are Abraham's offspring. But you are seeking to kill me, because my word makes no progress among you."
+
+- triggers: ["!jo8:38 ","!joh8:38 ","!john8:38 "]
+  replace: "I speak the things I have seen while with my Father, but you do the things you have heard from your father.'"
+
+- triggers: ["!jo8:39 ","!joh8:39 ","!john8:39 "]
+  replace: "In answer they said to him: 'Our father is Abraham.' Jesus said to them: 'If you were Abraham's children, you would be doing the works of Abraham."
+
+- triggers: ["!jo8:40 ","!joh8:40 ","!john8:40 "]
+  replace: "But now you are seeking to kill me, a man who has told you the truth that I heard from God. Abraham did not do this."
+
+- triggers: ["!jo8:41 ","!joh8:41 ","!john8:41 "]
+  replace: "You are doing the works of your father.' They said to him: 'We were not born from immorality; we have one Father, God.'"
+
+- triggers: ["!jo8:42 ","!joh8:42 ","!john8:42 "]
+  replace: "Jesus said to them: 'If God were your Father, you would love me, for I came from God and I am here. I have not come of my own initiative, but that One sent me."
+
+- triggers: ["!jo8:43 ","!joh8:43 ","!john8:43 "]
+  replace: "Why do you not understand what I am saying? Because you cannot listen to my word."
+
+- triggers: ["!jo8:44 ","!joh8:44 ","!john8:44 "]
+  replace: "You are from your father the Devil, and you wish to do the desires of your father. That one was a murderer when he began, and he did not stand fast in the truth, because truth is not in him. When he speaks the lie, he speaks according to his own disposition, because he is a liar and the father of the lie."
+
+- triggers: ["!jo8:45 ","!joh8:45 ","!john8:45 "]
+  replace: "Because I, on the other hand, tell you the truth, you do not believe me."
+
+- triggers: ["!jo8:46 ","!joh8:46 ","!john8:46 "]
+  replace: "Who of you convicts me of sin? If I speak truth, why is it that you do not believe me?"
+
+- triggers: ["!jo8:47 ","!joh8:47 ","!john8:47 "]
+  replace: "The one who is from God listens to the sayings of God. This is why you do not listen, because you are not from God.'"
+
+- triggers: ["!jo8:48 ","!joh8:48 ","!john8:48 "]
+  replace: "In answer the Jews said to him: 'Are we not right in saying, 'You are a Samarʹitan and have a demon'?'"
+
+- triggers: ["!jo8:49 ","!joh8:49 ","!john8:49 "]
+  replace: "Jesus answered: 'I do not have a demon, but I honor my Father, and you dishonor me."
+
+- triggers: ["!jo8:50 ","!joh8:50 ","!john8:50 "]
+  replace: "But I am not seeking glory for myself; there is One who is seeking and judging."
+
+- triggers: ["!jo8:51 ","!joh8:51 ","!john8:51 "]
+  replace: "Most truly I say to you, if anyone observes my word, he will never see death at all.'"
+
+- triggers: ["!jo8:52 ","!joh8:52 ","!john8:52 "]
+  replace: "The Jews said to him: 'Now we do know that you have a demon. Abraham died, also the prophets, but you say, 'If anyone observes my word, he will never taste death at all.'"
+
+- triggers: ["!jo8:53 ","!joh8:53 ","!john8:53 "]
+  replace: "You are not greater than our father Abraham, who died, are you? The prophets also died. Who do you claim to be?'"
+
+- triggers: ["!jo8:54 ","!joh8:54 ","!john8:54 "]
+  replace: "Jesus answered: 'If I glorify myself, my glory is nothing. It is my Father who glorifies me, the one who you say is your God."
+
+- triggers: ["!jo8:55 ","!joh8:55 ","!john8:55 "]
+  replace: "Yet you have not known him, but I know him. And if I said I do not know him, I would be like you, a liar. But I do know him and am observing his word."
+
+- triggers: ["!jo8:56 ","!joh8:56 ","!john8:56 "]
+  replace: "Abraham your father rejoiced greatly at the prospect of seeing my day, and he saw it and rejoiced.'"
+
+- triggers: ["!jo8:57 ","!joh8:57 ","!john8:57 "]
+  replace: "Then the Jews said to him: 'You are not yet 50 years old, and still you have seen Abraham?'"
+
+- triggers: ["!jo8:58 ","!joh8:58 ","!john8:58 "]
+  replace: "Jesus said to them: 'Most truly I say to you, before Abraham came into existence, I have been.'"
+
+- triggers: ["!jo8:59 ","!joh8:59 ","!john8:59 "]
+  replace: "So they picked up stones to throw at him, but Jesus hid and went out of the temple."
+
+- triggers: ["!jo9:1 ","!joh9:1 ","!john9:1 "]
+  replace: "As he was passing along, he saw a man who had been blind from birth."
+
+- triggers: ["!jo9:2 ","!joh9:2 ","!john9:2 "]
+  replace: "And his disciples asked him: 'Rabbi, who sinned, this man or his parents, so that he was born blind?'"
+
+- triggers: ["!jo9:3 ","!joh9:3 ","!john9:3 "]
+  replace: "Jesus answered: 'Neither this man sinned nor his parents, but it was so that the works of God might be made manifest in his case."
+
+- triggers: ["!jo9:4 ","!joh9:4 ","!john9:4 "]
+  replace: "We must do the works of the One who sent me while it is day; the night is coming when no man can work."
+
+- triggers: ["!jo9:5 ","!joh9:5 ","!john9:5 "]
+  replace: "As long as I am in the world, I am the world's light.'"
+
+- triggers: ["!jo9:6 ","!joh9:6 ","!john9:6 "]
+  replace: "After he said these things, he spat on the ground and made a paste with the saliva, and he smeared the paste on the man's eyes"
+
+- triggers: ["!jo9:7 ","!joh9:7 ","!john9:7 "]
+  replace: "and said to him: 'Go wash in the pool of Siloʹam' (which is translated 'Sent Forth'). And he went and washed, and came back seeing."
+
+- triggers: ["!jo9:8 ","!joh9:8 ","!john9:8 "]
+  replace: "Then the neighbors and those who formerly used to see that he was a beggar began to say: 'This is the man who used to sit and beg, is it not?'"
+
+- triggers: ["!jo9:9 ","!joh9:9 ","!john9:9 "]
+  replace: "Some were saying: 'This is he.' Others were saying: 'No, but he looks like him.' The man kept saying: 'I am he.'"
+
+- triggers: ["!jo9:10 ","!joh9:10 ","!john9:10 "]
+  replace: "So they asked him: 'How, then, were your eyes opened?'"
+
+- triggers: ["!jo9:11 ","!joh9:11 ","!john9:11 "]
+  replace: "He answered: 'The man called Jesus made a paste and smeared it on my eyes and said to me, 'Go to Siloʹam and wash.' So I went and washed and gained sight.'"
+
+- triggers: ["!jo9:12 ","!joh9:12 ","!john9:12 "]
+  replace: "At this they said to him: 'Where is that man?' He said: 'I do not know.'"
+
+- triggers: ["!jo9:13 ","!joh9:13 ","!john9:13 "]
+  replace: "They led the formerly blind man to the Pharisees."
+
+- triggers: ["!jo9:14 ","!joh9:14 ","!john9:14 "]
+  replace: "Incidentally, the day that Jesus made the paste and opened his eyes was the Sabbath."
+
+- triggers: ["!jo9:15 ","!joh9:15 ","!john9:15 "]
+  replace: "So this time the Pharisees also began asking the man how he gained sight. He said to them: 'He put a paste on my eyes, and I washed, and I can see.'"
+
+- triggers: ["!jo9:16 ","!joh9:16 ","!john9:16 "]
+  replace: "Some of the Pharisees then began to say: 'This is not a man from God, for he does not observe the Sabbath.' Others said: 'How can a man who is a sinner perform signs of that sort?' So there was a division among them."
+
+- triggers: ["!jo9:17 ","!joh9:17 ","!john9:17 "]
+  replace: "And again they said to the blind man: 'What do you say about him, since it was your eyes that he opened?' The man said: 'He is a prophet.'"
+
+- triggers: ["!jo9:18 ","!joh9:18 ","!john9:18 "]
+  replace: "However, the Jews did not believe that he had been blind and had gained sight, until they called the parents of the man who could now see."
+
+- triggers: ["!jo9:19 ","!joh9:19 ","!john9:19 "]
+  replace: "And they asked them: 'Is this your son who you say was born blind? How, then, does he now see?'"
+
+- triggers: ["!jo9:20 ","!joh9:20 ","!john9:20 "]
+  replace: "His parents answered: 'We know that this is our son and that he was born blind."
+
+- triggers: ["!jo9:21 ","!joh9:21 ","!john9:21 "]
+  replace: "But how it is that he now sees, we do not know; or who opened his eyes, we do not know. Ask him. He is of age. He must speak for himself.'"
+
+- triggers: ["!jo9:22 ","!joh9:22 ","!john9:22 "]
+  replace: "His parents said these things because they were in fear of the Jews, for the Jews had already come to an agreement that if anyone acknowledged him as Christ, that person should be expelled from the synagogue."
+
+- triggers: ["!jo9:23 ","!joh9:23 ","!john9:23 "]
+  replace: "This is why his parents said: 'He is of age. Question him.'"
+
+- triggers: ["!jo9:24 ","!joh9:24 ","!john9:24 "]
+  replace: "So a second time they called the man who had been blind and said to him: 'Give glory to God; we know that this man is a sinner.'"
+
+- triggers: ["!jo9:25 ","!joh9:25 ","!john9:25 "]
+  replace: "He answered: 'Whether he is a sinner, I do not know. One thing I do know, that I was blind, but now I can see.'"
+
+- triggers: ["!jo9:26 ","!joh9:26 ","!john9:26 "]
+  replace: "Then they said to him: 'What did he do to you? How did he open your eyes?'"
+
+- triggers: ["!jo9:27 ","!joh9:27 ","!john9:27 "]
+  replace: "He answered them: 'I told you already, and yet you did not listen. Why do you want to hear it again? You do not want to become his disciples also, do you?'"
+
+- triggers: ["!jo9:28 ","!joh9:28 ","!john9:28 "]
+  replace: "At this they scornfully told him: 'You are a disciple of that man, but we are disciples of Moses."
+
+- triggers: ["!jo9:29 ","!joh9:29 ","!john9:29 "]
+  replace: "We know that God has spoken to Moses, but as for this man, we do not know where he is from.'"
+
+- triggers: ["!jo9:30 ","!joh9:30 ","!john9:30 "]
+  replace: "The man answered them: 'This is certainly amazing, that you do not know where he is from, and yet he opened my eyes."
+
+- triggers: ["!jo9:31 ","!joh9:31 ","!john9:31 "]
+  replace: "We know that God does not listen to sinners, but if anyone is God-fearing and does his will, he listens to this one."
+
+- triggers: ["!jo9:32 ","!joh9:32 ","!john9:32 "]
+  replace: "From of old it has never been heard that anyone opened the eyes of one born blind."
+
+- triggers: ["!jo9:33 ","!joh9:33 ","!john9:33 "]
+  replace: "If this man were not from God, he could do nothing at all.'"
+
+- triggers: ["!jo9:34 ","!joh9:34 ","!john9:34 "]
+  replace: "In answer they said to him: 'You were altogether born in sin, and yet are you teaching us?' And they threw him out!"
+
+- triggers: ["!jo9:35 ","!joh9:35 ","!john9:35 "]
+  replace: "Jesus heard that they had thrown him out, and on finding him, he said: 'Are you putting faith in the Son of man?'"
+
+- triggers: ["!jo9:36 ","!joh9:36 ","!john9:36 "]
+  replace: "The man answered: 'And who is he, sir, so that I may put faith in him?'"
+
+- triggers: ["!jo9:37 ","!joh9:37 ","!john9:37 "]
+  replace: "Jesus said to him: 'You have seen him, and in fact, he is the one speaking with you.'"
+
+- triggers: ["!jo9:38 ","!joh9:38 ","!john9:38 "]
+  replace: "He said: 'I do put faith in him, Lord.' And he did obeisance to him."
+
+- triggers: ["!jo9:39 ","!joh9:39 ","!john9:39 "]
+  replace: "Jesus then said: 'For this judgment I came into this world, that those not seeing might see and those seeing might become blind.'"
+
+- triggers: ["!jo9:40 ","!joh9:40 ","!john9:40 "]
+  replace: "Those of the Pharisees who were with him heard these things, and they said to him: 'We are not blind also, are we?'"
+
+- triggers: ["!jo9:41 ","!joh9:41 ","!john9:41 "]
+  replace: "Jesus said to them: 'If you were blind, you would have no sin. But now you say, 'We see.' Your sin remains.'"
+
+- triggers: ["!jo10:1 ","!joh10:1 ","!john10:1 "]
+  replace: "'Most truly I say to you, the one who does not enter into the sheepfold through the door but climbs in by another way, that one is a thief and a plunderer."
+
+- triggers: ["!jo10:2 ","!joh10:2 ","!john10:2 "]
+  replace: "But the one who enters through the door is the shepherd of the sheep."
+
+- triggers: ["!jo10:3 ","!joh10:3 ","!john10:3 "]
+  replace: "The doorkeeper opens to this one, and the sheep listen to his voice. He calls his own sheep by name and leads them out."
+
+- triggers: ["!jo10:4 ","!joh10:4 ","!john10:4 "]
+  replace: "When he has brought all his own out, he goes ahead of them, and the sheep follow him, because they know his voice."
+
+- triggers: ["!jo10:5 ","!joh10:5 ","!john10:5 "]
+  replace: "They will by no means follow a stranger but will flee from him, because they do not know the voice of strangers.'"
+
+- triggers: ["!jo10:6 ","!joh10:6 ","!john10:6 "]
+  replace: "Jesus spoke this comparison to them, but they did not understand what he was saying to them."
+
+- triggers: ["!jo10:7 ","!joh10:7 ","!john10:7 "]
+  replace: "So Jesus said again: 'Most truly I say to you, I am the door for the sheep."
+
+- triggers: ["!jo10:8 ","!joh10:8 ","!john10:8 "]
+  replace: "All those who have come in place of me are thieves and plunderers; but the sheep have not listened to them."
+
+- triggers: ["!jo10:9 ","!joh10:9 ","!john10:9 "]
+  replace: "I am the door; whoever enters through me will be saved, and that one will go in and out and find pasturage."
+
+- triggers: ["!jo10:10 ","!joh10:10 ","!john10:10 "]
+  replace: "The thief does not come unless it is to steal and slay and destroy. I have come that they may have life and have it in abundance."
+
+- triggers: ["!jo10:11 ","!joh10:11 ","!john10:11 "]
+  replace: "I am the fine shepherd; the fine shepherd surrenders his life in behalf of the sheep."
+
+- triggers: ["!jo10:12 ","!joh10:12 ","!john10:12 "]
+  replace: "The hired man, who is not a shepherd and to whom the sheep do not belong, sees the wolf coming and abandons the sheep and flees-and the wolf snatches them and scatters them-"
+
+- triggers: ["!jo10:13 ","!joh10:13 ","!john10:13 "]
+  replace: "because he is a hired man and does not care for the sheep."
+
+- triggers: ["!jo10:14 ","!joh10:14 ","!john10:14 "]
+  replace: "I am the fine shepherd. I know my sheep and my sheep know me,"
+
+- triggers: ["!jo10:15 ","!joh10:15 ","!john10:15 "]
+  replace: "just as the Father knows me and I know the Father; and I surrender my life in behalf of the sheep."
+
+- triggers: ["!jo10:16 ","!joh10:16 ","!john10:16 "]
+  replace: "'And I have other sheep, which are not of this fold; those too I must bring in, and they will listen to my voice, and they will become one flock, one shepherd."
+
+- triggers: ["!jo10:17 ","!joh10:17 ","!john10:17 "]
+  replace: "This is why the Father loves me, because I surrender my life, so that I may receive it again."
+
+- triggers: ["!jo10:18 ","!joh10:18 ","!john10:18 "]
+  replace: "No man takes it away from me, but I surrender it of my own initiative. I have authority to surrender it, and I have authority to receive it again. This commandment I received from my Father.'"
+
+- triggers: ["!jo10:19 ","!joh10:19 ","!john10:19 "]
+  replace: "A division again resulted among the Jews because of these words."
+
+- triggers: ["!jo10:20 ","!joh10:20 ","!john10:20 "]
+  replace: "Many of them were saying: 'He has a demon and is out of his mind. Why do you listen to him?'"
+
+- triggers: ["!jo10:21 ","!joh10:21 ","!john10:21 "]
+  replace: "Others said: 'These are not the sayings of a demonized man. A demon cannot open blind people's eyes, can it?'"
+
+- triggers: ["!jo10:22 ","!joh10:22 ","!john10:22 "]
+  replace: "At that time the Festival of Dedication took place in Jerusalem. It was wintertime,"
+
+- triggers: ["!jo10:23 ","!joh10:23 ","!john10:23 "]
+  replace: "and Jesus was walking in the temple in the colonnade of Solʹomon."
+
+- triggers: ["!jo10:24 ","!joh10:24 ","!john10:24 "]
+  replace: "Then the Jews surrounded him and began to say to him: 'How long are you going to keep us in suspense? If you are the Christ, tell us plainly.'"
+
+- triggers: ["!jo10:25 ","!joh10:25 ","!john10:25 "]
+  replace: "Jesus answered them: 'I told you, and yet you do not believe. The works that I am doing in my Father's name, these bear witness about me."
+
+- triggers: ["!jo10:26 ","!joh10:26 ","!john10:26 "]
+  replace: "But you do not believe, because you are not my sheep."
+
+- triggers: ["!jo10:27 ","!joh10:27 ","!john10:27 "]
+  replace: "My sheep listen to my voice, and I know them, and they follow me."
+
+- triggers: ["!jo10:28 ","!joh10:28 ","!john10:28 "]
+  replace: "I give them everlasting life, and they will by no means ever be destroyed, and no one will snatch them out of my hand."
+
+- triggers: ["!jo10:29 ","!joh10:29 ","!john10:29 "]
+  replace: "What my Father has given me is something greater than all other things, and no one can snatch them out of the hand of the Father."
+
+- triggers: ["!jo10:30 ","!joh10:30 ","!john10:30 "]
+  replace: "I and the Father are one.'"
+
+- triggers: ["!jo10:31 ","!joh10:31 ","!john10:31 "]
+  replace: "Once again the Jews picked up stones to stone him."
+
+- triggers: ["!jo10:32 ","!joh10:32 ","!john10:32 "]
+  replace: "Jesus replied to them: 'I displayed to you many fine works from the Father. For which of those works are you stoning me?'"
+
+- triggers: ["!jo10:33 ","!joh10:33 ","!john10:33 "]
+  replace: "The Jews answered him: 'We are stoning you, not for a fine work, but for blasphemy; for you, although being a man, make yourself a god.'"
+
+- triggers: ["!jo10:34 ","!joh10:34 ","!john10:34 "]
+  replace: "Jesus answered them: 'Is it not written in your Law, 'I said: 'You are gods''?"
+
+- triggers: ["!jo10:35 ","!joh10:35 ","!john10:35 "]
+  replace: "If he called 'gods' those against whom the word of God came-and yet the scripture cannot be nullified-"
+
+- triggers: ["!jo10:36 ","!joh10:36 ","!john10:36 "]
+  replace: "do you say to me whom the Father sanctified and sent into the world, 'You blaspheme,' because I said, 'I am God's Son'?"
+
+- triggers: ["!jo10:37 ","!joh10:37 ","!john10:37 "]
+  replace: "If I am not doing the works of my Father, do not believe me."
+
+- triggers: ["!jo10:38 ","!joh10:38 ","!john10:38 "]
+  replace: "But if I am doing them, even though you do not believe me, believe the works, so that you may come to know and may continue knowing that the Father is in union with me and I am in union with the Father.'"
+
+- triggers: ["!jo10:39 ","!joh10:39 ","!john10:39 "]
+  replace: "So they tried again to seize him, but he escaped from their reach."
+
+- triggers: ["!jo10:40 ","!joh10:40 ","!john10:40 "]
+  replace: "And he went away again across the Jordan to the place where John was baptizing at first, and he stayed there."
+
+- triggers: ["!jo10:41 ","!joh10:41 ","!john10:41 "]
+  replace: "And many people came to him and began saying: 'John did not perform a single sign, but all the things John said about this man were true.'"
+
+- triggers: ["!jo10:42 ","!joh10:42 ","!john10:42 "]
+  replace: "And many put faith in him there."
+
+- triggers: ["!jo11:1 ","!joh11:1 ","!john11:1 "]
+  replace: "Now a man named Lazʹarus was sick; he was from Bethʹany, the village of Mary and her sister Martha."
+
+- triggers: ["!jo11:2 ","!joh11:2 ","!john11:2 "]
+  replace: "This was the Mary who poured perfumed oil on the Lord and wiped his feet dry with her hair; it was her brother Lazʹarus who was sick."
+
+- triggers: ["!jo11:3 ","!joh11:3 ","!john11:3 "]
+  replace: "So his sisters sent a message to him, saying: 'Lord, see! the one you have affection for is sick.'"
+
+- triggers: ["!jo11:4 ","!joh11:4 ","!john11:4 "]
+  replace: "But when Jesus heard it, he said: 'This sickness is not meant to end in death, but is for the glory of God, so that the Son of God may be glorified through it.'"
+
+- triggers: ["!jo11:5 ","!joh11:5 ","!john11:5 "]
+  replace: "Now Jesus loved Martha and her sister and Lazʹarus."
+
+- triggers: ["!jo11:6 ","!joh11:6 ","!john11:6 "]
+  replace: "However, when he heard that Lazʹarus was sick, he actually remained in the place where he was for two more days."
+
+- triggers: ["!jo11:7 ","!joh11:7 ","!john11:7 "]
+  replace: "Then after this he said to the disciples: 'Let us go into Judeʹa again.'"
+
+- triggers: ["!jo11:8 ","!joh11:8 ","!john11:8 "]
+  replace: "The disciples said to him: 'Rabbi, just lately the Judeʹans were seeking to stone you, and are you going there again?'"
+
+- triggers: ["!jo11:9 ","!joh11:9 ","!john11:9 "]
+  replace: "Jesus answered: 'There are 12 hours of daylight, are there not? If anyone walks in daylight, he does not stumble into anything, because he sees the light of this world."
+
+- triggers: ["!jo11:10 ","!joh11:10 ","!john11:10 "]
+  replace: "But if anyone walks in the night, he stumbles, because the light is not in him.'"
+
+- triggers: ["!jo11:11 ","!joh11:11 ","!john11:11 "]
+  replace: "After he said these things, he added: 'Lazʹarus our friend has fallen asleep, but I am traveling there to awaken him.'"
+
+- triggers: ["!jo11:12 ","!joh11:12 ","!john11:12 "]
+  replace: "The disciples then said to him: 'Lord, if he is sleeping, he will get well.'"
+
+- triggers: ["!jo11:13 ","!joh11:13 ","!john11:13 "]
+  replace: "Jesus, however, had spoken about his death. But they imagined he was speaking about taking rest in sleep."
+
+- triggers: ["!jo11:14 ","!joh11:14 ","!john11:14 "]
+  replace: "Then Jesus said to them plainly: 'Lazʹarus has died,"
+
+- triggers: ["!jo11:15 ","!joh11:15 ","!john11:15 "]
+  replace: "and I rejoice for your sake that I was not there, so that you may believe. But let us go to him.'"
+
+- triggers: ["!jo11:16 ","!joh11:16 ","!john11:16 "]
+  replace: "So Thomas, who was called the Twin, said to his fellow disciples: 'Let us also go, so that we may die with him.'"
+
+- triggers: ["!jo11:17 ","!joh11:17 ","!john11:17 "]
+  replace: "When Jesus arrived, he found that Lazʹarus had already been in the tomb for four days."
+
+- triggers: ["!jo11:18 ","!joh11:18 ","!john11:18 "]
+  replace: "Now Bethʹany was near Jerusalem, about two miles away."
+
+- triggers: ["!jo11:19 ","!joh11:19 ","!john11:19 "]
+  replace: "And many of the Jews had come to Martha and Mary to console them concerning their brother."
+
+- triggers: ["!jo11:20 ","!joh11:20 ","!john11:20 "]
+  replace: "When Martha heard that Jesus was coming, she went to meet him; but Mary kept sitting at home."
+
+- triggers: ["!jo11:21 ","!joh11:21 ","!john11:21 "]
+  replace: "Martha then said to Jesus: 'Lord, if you had been here, my brother would not have died."
+
+- triggers: ["!jo11:22 ","!joh11:22 ","!john11:22 "]
+  replace: "Yet even now I know that whatever you ask God for, God will give you.'"
+
+- triggers: ["!jo11:23 ","!joh11:23 ","!john11:23 "]
+  replace: "Jesus said to her: 'Your brother will rise.'"
+
+- triggers: ["!jo11:24 ","!joh11:24 ","!john11:24 "]
+  replace: "Martha said to him: 'I know he will rise in the resurrection on the last day.'"
+
+- triggers: ["!jo11:25 ","!joh11:25 ","!john11:25 "]
+  replace: "Jesus said to her: 'I am the resurrection and the life. The one who exercises faith in me, even though he dies, will come to life;"
+
+- triggers: ["!jo11:26 ","!joh11:26 ","!john11:26 "]
+  replace: "and everyone who is living and exercises faith in me will never die at all. Do you believe this?'"
+
+- triggers: ["!jo11:27 ","!joh11:27 ","!john11:27 "]
+  replace: "She said to him: 'Yes, Lord, I have believed that you are the Christ, the Son of God, the one coming into the world.'"
+
+- triggers: ["!jo11:28 ","!joh11:28 ","!john11:28 "]
+  replace: "When she had said this, she went off and called Mary her sister, saying privately: 'The Teacher is here and is calling you.'"
+
+- triggers: ["!jo11:29 ","!joh11:29 ","!john11:29 "]
+  replace: "On hearing this, she got up quickly and went to him."
+
+- triggers: ["!jo11:30 ","!joh11:30 ","!john11:30 "]
+  replace: "Jesus had not yet come into the village, but he was still in the place where Martha had met him."
+
+- triggers: ["!jo11:31 ","!joh11:31 ","!john11:31 "]
+  replace: "When the Jews who were with Mary in the house consoling her saw her get up quickly and go out, they followed her, supposing that she was going to the tomb to weep there."
+
+- triggers: ["!jo11:32 ","!joh11:32 ","!john11:32 "]
+  replace: "When Mary arrived where Jesus was and caught sight of him, she fell at his feet and said to him: 'Lord, if you had been here, my brother would not have died.'"
+
+- triggers: ["!jo11:33 ","!joh11:33 ","!john11:33 "]
+  replace: "When Jesus saw her weeping and the Jews who had come with her weeping, he groaned within himself and became troubled."
+
+- triggers: ["!jo11:34 ","!joh11:34 ","!john11:34 "]
+  replace: "He said: 'Where have you laid him?' They said to him: 'Lord, come and see.'"
+
+- triggers: ["!jo11:35 ","!joh11:35 ","!john11:35 "]
+  replace: "Jesus gave way to tears."
+
+- triggers: ["!jo11:36 ","!joh11:36 ","!john11:36 "]
+  replace: "At that the Jews began to say: 'See, what affection he had for him!'"
+
+- triggers: ["!jo11:37 ","!joh11:37 ","!john11:37 "]
+  replace: "But some of them said: 'Could not this man who opened the eyes of the blind man prevent this one from dying?'"
+
+- triggers: ["!jo11:38 ","!joh11:38 ","!john11:38 "]
+  replace: "Then Jesus, after groaning again within himself, came to the tomb. It was, in fact, a cave, and a stone was lying against it."
+
+- triggers: ["!jo11:39 ","!joh11:39 ","!john11:39 "]
+  replace: "Jesus said: 'Take the stone away.' Martha, the sister of the deceased, said to him: 'Lord, by now he must smell, for it has been four days.'"
+
+- triggers: ["!jo11:40 ","!joh11:40 ","!john11:40 "]
+  replace: "Jesus said to her: 'Did I not tell you that if you would believe you would see the glory of God?'"
+
+- triggers: ["!jo11:41 ","!joh11:41 ","!john11:41 "]
+  replace: "So they took the stone away. Then Jesus raised his eyes heavenward and said: 'Father, I thank you that you have heard me."
+
+- triggers: ["!jo11:42 ","!joh11:42 ","!john11:42 "]
+  replace: "True, I knew that you always hear me; but I spoke on account of the crowd standing around, so that they may believe that you sent me.'"
+
+- triggers: ["!jo11:43 ","!joh11:43 ","!john11:43 "]
+  replace: "When he had said these things, he cried out with a loud voice: 'Lazʹarus, come out!'"
+
+- triggers: ["!jo11:44 ","!joh11:44 ","!john11:44 "]
+  replace: "The man who had been dead came out with his feet and hands bound with wrappings, and his face was wrapped with a cloth. Jesus said to them: 'Free him and let him go.'"
+
+- triggers: ["!jo11:45 ","!joh11:45 ","!john11:45 "]
+  replace: "Therefore, many of the Jews who had come to Mary and who saw what he did put faith in him,"
+
+- triggers: ["!jo11:46 ","!joh11:46 ","!john11:46 "]
+  replace: "but some of them went off to the Pharisees and told them what Jesus had done."
+
+- triggers: ["!jo11:47 ","!joh11:47 ","!john11:47 "]
+  replace: "So the chief priests and the Pharisees gathered the Sanʹhedrin together and said: 'What are we to do, for this man performs many signs?"
+
+- triggers: ["!jo11:48 ","!joh11:48 ","!john11:48 "]
+  replace: "If we let him go on this way, they will all put faith in him, and the Romans will come and take away both our place and our nation.'"
+
+- triggers: ["!jo11:49 ","!joh11:49 ","!john11:49 "]
+  replace: "But one of them, Caʹiaphas, who was high priest that year, said to them: 'You do not know anything at all,"
+
+- triggers: ["!jo11:50 ","!joh11:50 ","!john11:50 "]
+  replace: "and you have not reasoned that it is to your benefit for one man to die in behalf of the people rather than for the whole nation to be destroyed.'"
+
+- triggers: ["!jo11:51 ","!joh11:51 ","!john11:51 "]
+  replace: "He did not say this, however, of his own originality, but because he was high priest that year, he prophesied that Jesus was to die for the nation,"
+
+- triggers: ["!jo11:52 ","!joh11:52 ","!john11:52 "]
+  replace: "and not only for the nation but also to gather together into one the children of God who were scattered about."
+
+- triggers: ["!jo11:53 ","!joh11:53 ","!john11:53 "]
+  replace: "So from that day on they conspired to kill him."
+
+- triggers: ["!jo11:54 ","!joh11:54 ","!john11:54 "]
+  replace: "Therefore, Jesus no longer walked about publicly among the Jews, but he departed from there to the region near the wilderness, to a city called Eʹphraim, and he stayed there with the disciples."
+
+- triggers: ["!jo11:55 ","!joh11:55 ","!john11:55 "]
+  replace: "Now the Passover of the Jews was near, and many people from the countryside went up to Jerusalem before the Passover to cleanse themselves ceremonially."
+
+- triggers: ["!jo11:56 ","!joh11:56 ","!john11:56 "]
+  replace: "They were looking for Jesus, and they were saying to one another as they stood around in the temple: 'What is your opinion? That he will not come to the festival at all?'"
+
+- triggers: ["!jo11:57 ","!joh11:57 ","!john11:57 "]
+  replace: "But the chief priests and the Pharisees had given orders that if anyone got to know where Jesus was, he should report it, so that they could seize him."
+
+- triggers: ["!jo12:1 ","!joh12:1 ","!john12:1 "]
+  replace: "Six days before the Passover, Jesus arrived at Bethʹany, where Lazʹarus was, whom Jesus had raised up from the dead."
+
+- triggers: ["!jo12:2 ","!joh12:2 ","!john12:2 "]
+  replace: "So they spread an evening meal for him there, and Martha was serving them, but Lazʹarus was one of those dining with him."
+
+- triggers: ["!jo12:3 ","!joh12:3 ","!john12:3 "]
+  replace: "Then Mary took a pound of perfumed oil, genuine nard, very costly, and she poured it on the feet of Jesus and wiped his feet dry with her hair. The house became filled with the scent of the perfumed oil."
+
+- triggers: ["!jo12:4 ","!joh12:4 ","!john12:4 "]
+  replace: "But Judas Iscarʹiot, one of his disciples, who was about to betray him, said:"
+
+- triggers: ["!jo12:5 ","!joh12:5 ","!john12:5 "]
+  replace: "'Why was this perfumed oil not sold for 300 denarʹii and given to the poor?'"
+
+- triggers: ["!jo12:6 ","!joh12:6 ","!john12:6 "]
+  replace: "He said this, though, not because he was concerned about the poor, but because he was a thief and had the money box and used to steal the money put in it."
+
+- triggers: ["!jo12:7 ","!joh12:7 ","!john12:7 "]
+  replace: "Then Jesus said: 'Let her alone, so that she may keep this observance in view of the day of my burial."
+
+- triggers: ["!jo12:8 ","!joh12:8 ","!john12:8 "]
+  replace: "For you always have the poor with you, but you will not always have me.'"
+
+- triggers: ["!jo12:9 ","!joh12:9 ","!john12:9 "]
+  replace: "Meanwhile, a large crowd of Jews got to know that he was there, and they came not only because of Jesus but also to see Lazʹarus, whom he had raised up from the dead."
+
+- triggers: ["!jo12:10 ","!joh12:10 ","!john12:10 "]
+  replace: "The chief priests now conspired to kill Lazʹarus also,"
+
+- triggers: ["!jo12:11 ","!joh12:11 ","!john12:11 "]
+  replace: "since it was because of him that many of the Jews were going there and putting faith in Jesus."
+
+- triggers: ["!jo12:12 ","!joh12:12 ","!john12:12 "]
+  replace: "The next day the large crowd that had come to the festival heard that Jesus was coming to Jerusalem."
+
+- triggers: ["!jo12:13 ","!joh12:13 ","!john12:13 "]
+  replace: "So they took branches of palm trees and went out to meet him, and they began to shout: 'Save, we pray you! Blessed is the one who comes in Jehovah's name, the King of Israel!'"
+
+- triggers: ["!jo12:14 ","!joh12:14 ","!john12:14 "]
+  replace: "When Jesus found a young donkey, he sat on it, just as it is written:"
+
+- triggers: ["!jo12:15 ","!joh12:15 ","!john12:15 "]
+  replace: "'Have no fear, daughter of Zion. Look! Your king is coming, seated on a donkey's colt.'"
+
+- triggers: ["!jo12:16 ","!joh12:16 ","!john12:16 "]
+  replace: "These things his disciples did not understand at first, but when Jesus was glorified, they recalled that these things were written about him and that they did these things to him."
+
+- triggers: ["!jo12:17 ","!joh12:17 ","!john12:17 "]
+  replace: "Now the crowd that was with him when he called Lazʹarus out of the tomb and raised him up from the dead kept bearing witness."
+
+- triggers: ["!jo12:18 ","!joh12:18 ","!john12:18 "]
+  replace: "This is also why the crowd went to meet him, because they heard he had performed this sign."
+
+- triggers: ["!jo12:19 ","!joh12:19 ","!john12:19 "]
+  replace: "So the Pharisees said among themselves: 'You see that you are not getting anywhere. Look! The whole world has gone after him.'"
+
+- triggers: ["!jo12:20 ","!joh12:20 ","!john12:20 "]
+  replace: "Now there were some Greeks among those who had come to worship at the festival."
+
+- triggers: ["!jo12:21 ","!joh12:21 ","!john12:21 "]
+  replace: "So these approached Philip, who was from Bethsaʹida of Galʹilee, and they began to request him, saying: 'Sir, we want to see Jesus.'"
+
+- triggers: ["!jo12:22 ","!joh12:22 ","!john12:22 "]
+  replace: "Philip came and told Andrew. Andrew and Philip came and told Jesus."
+
+- triggers: ["!jo12:23 ","!joh12:23 ","!john12:23 "]
+  replace: "But Jesus answered them: 'The hour has come for the Son of man to be glorified."
+
+- triggers: ["!jo12:24 ","!joh12:24 ","!john12:24 "]
+  replace: "Most truly I say to you, unless a grain of wheat falls to the ground and dies, it remains just one grain; but if it dies, it then bears much fruit."
+
+- triggers: ["!jo12:25 ","!joh12:25 ","!john12:25 "]
+  replace: "Whoever is fond of his life destroys it, but whoever hates his life in this world will safeguard it for everlasting life."
+
+- triggers: ["!jo12:26 ","!joh12:26 ","!john12:26 "]
+  replace: "If anyone would minister to me, let him follow me, and where I am, there my minister will be also. If anyone would minister to me, the Father will honor him."
+
+- triggers: ["!jo12:27 ","!joh12:27 ","!john12:27 "]
+  replace: "Now I am troubled, and what should I say? Father, save me out of this hour. Nevertheless, this is why I have come to this hour."
+
+- triggers: ["!jo12:28 ","!joh12:28 ","!john12:28 "]
+  replace: "Father, glorify your name.' Then a voice came out of heaven: 'I have glorified it and will glorify it again.'"
+
+- triggers: ["!jo12:29 ","!joh12:29 ","!john12:29 "]
+  replace: "The crowd that was standing there heard it and began to say that it had thundered. Others said: 'An angel has spoken to him.'"
+
+- triggers: ["!jo12:30 ","!joh12:30 ","!john12:30 "]
+  replace: "Jesus answered: 'This voice has occurred, not for my sake, but for your sakes."
+
+- triggers: ["!jo12:31 ","!joh12:31 ","!john12:31 "]
+  replace: "Now there is a judging of this world; now the ruler of this world will be cast out."
+
+- triggers: ["!jo12:32 ","!joh12:32 ","!john12:32 "]
+  replace: "And yet I, if I am lifted up from the earth, will draw all sorts of men to myself.'"
+
+- triggers: ["!jo12:33 ","!joh12:33 ","!john12:33 "]
+  replace: "This he was really saying to indicate what sort of death he was about to die."
+
+- triggers: ["!jo12:34 ","!joh12:34 ","!john12:34 "]
+  replace: "Then the crowd answered him: 'We heard from the Law that the Christ remains forever. How can you say that the Son of man must be lifted up? Who is this Son of man?'"
+
+- triggers: ["!jo12:35 ","!joh12:35 ","!john12:35 "]
+  replace: "So Jesus said to them: 'The light will be among you a little while longer. Walk while you still have the light, so that darkness does not overpower you; whoever walks in the darkness does not know where he is going."
+
+- triggers: ["!jo12:36 ","!joh12:36 ","!john12:36 "]
+  replace: "While you have the light, exercise faith in the light, so that you may become sons of light.' Jesus said these things and went off and hid from them."
+
+- triggers: ["!jo12:37 ","!joh12:37 ","!john12:37 "]
+  replace: "Although he had performed so many signs before them, they were not putting faith in him,"
+
+- triggers: ["!jo12:38 ","!joh12:38 ","!john12:38 "]
+  replace: "so that the word of Isaiah the prophet might be fulfilled, who said: 'Jehovah, who has put faith in the thing heard from us? And as for the arm of Jehovah, to whom has it been revealed?'"
+
+- triggers: ["!jo12:39 ","!joh12:39 ","!john12:39 "]
+  replace: "The reason why they were not able to believe is that again Isaiah said:"
+
+- triggers: ["!jo12:40 ","!joh12:40 ","!john12:40 "]
+  replace: "'He has blinded their eyes and has made their hearts hard, so that they would not see with their eyes and understand with their hearts and turn around and I heal them.'"
+
+- triggers: ["!jo12:41 ","!joh12:41 ","!john12:41 "]
+  replace: "Isaiah said these things because he saw his glory, and he spoke about him."
+
+- triggers: ["!jo12:42 ","!joh12:42 ","!john12:42 "]
+  replace: "All the same, many even of the rulers actually put faith in him, but they would not acknowledge him because of the Pharisees, so that they would not be expelled from the synagogue;"
+
+- triggers: ["!jo12:43 ","!joh12:43 ","!john12:43 "]
+  replace: "for they loved the glory of men even more than the glory of God."
+
+- triggers: ["!jo12:44 ","!joh12:44 ","!john12:44 "]
+  replace: "However, Jesus called out and said: 'Whoever puts faith in me puts faith not only in me but also in him who sent me;"
+
+- triggers: ["!jo12:45 ","!joh12:45 ","!john12:45 "]
+  replace: "and whoever sees me sees also the One who sent me."
+
+- triggers: ["!jo12:46 ","!joh12:46 ","!john12:46 "]
+  replace: "I have come as a light into the world, so that everyone putting faith in me may not remain in the darkness."
+
+- triggers: ["!jo12:47 ","!joh12:47 ","!john12:47 "]
+  replace: "But if anyone hears my sayings and does not keep them, I do not judge him; for I came, not to judge the world, but to save the world."
+
+- triggers: ["!jo12:48 ","!joh12:48 ","!john12:48 "]
+  replace: "Whoever disregards me and does not receive my sayings has one to judge him. The word that I have spoken is what will judge him on the last day."
+
+- triggers: ["!jo12:49 ","!joh12:49 ","!john12:49 "]
+  replace: "For I have not spoken of my own initiative, but the Father who sent me has himself given me a commandment about what to say and what to speak."
+
+- triggers: ["!jo12:50 ","!joh12:50 ","!john12:50 "]
+  replace: "And I know that his commandment means everlasting life. So whatever I speak, I speak just as the Father has told me.'"
+
+- triggers: ["!jo13:1 ","!joh13:1 ","!john13:1 "]
+  replace: "Now because he knew before the festival of the Passover that his hour had come for him to leave this world and go to the Father, Jesus, having loved his own who were in the world, loved them to the end."
+
+- triggers: ["!jo13:2 ","!joh13:2 ","!john13:2 "]
+  replace: "The evening meal was going on, and the Devil had already put it into the heart of Judas Iscarʹiot, the son of Simon, to betray him."
+
+- triggers: ["!jo13:3 ","!joh13:3 ","!john13:3 "]
+  replace: "So Jesus, knowing that the Father had given all things into his hands and that he came from God and was going to God,"
+
+- triggers: ["!jo13:4 ","!joh13:4 ","!john13:4 "]
+  replace: "got up from the evening meal and laid aside his outer garments. And taking a towel, he wrapped it around his waist."
+
+- triggers: ["!jo13:5 ","!joh13:5 ","!john13:5 "]
+  replace: "After that he put water into a basin and started to wash the feet of the disciples and to dry them off with the towel that was wrapped around him."
+
+- triggers: ["!jo13:6 ","!joh13:6 ","!john13:6 "]
+  replace: "Then he came to Simon Peter. He said to him: 'Lord, are you washing my feet?'"
+
+- triggers: ["!jo13:7 ","!joh13:7 ","!john13:7 "]
+  replace: "Jesus answered him: 'What I am doing you do not understand now, but you will understand after these things.'"
+
+- triggers: ["!jo13:8 ","!joh13:8 ","!john13:8 "]
+  replace: "Peter said to him: 'You will certainly never wash my feet.' Jesus answered him: 'Unless I wash you, you have no share with me.'"
+
+- triggers: ["!jo13:9 ","!joh13:9 ","!john13:9 "]
+  replace: "Simon Peter said to him: 'Lord, wash not only my feet but also my hands and my head.'"
+
+- triggers: ["!jo13:10 ","!joh13:10 ","!john13:10 "]
+  replace: "Jesus said to him: 'Whoever has bathed does not need to have more than his feet washed, but is completely clean. And you men are clean, but not all of you.'"
+
+- triggers: ["!jo13:11 ","!joh13:11 ","!john13:11 "]
+  replace: "For he knew the man who was betraying him. This is why he said: 'Not all of you are clean.'"
+
+- triggers: ["!jo13:12 ","!joh13:12 ","!john13:12 "]
+  replace: "When, now, he had washed their feet and had put his outer garments on, he again reclined at the table and said to them: 'Do you understand what I have done to you?"
+
+- triggers: ["!jo13:13 ","!joh13:13 ","!john13:13 "]
+  replace: "You address me as 'Teacher' and 'Lord,' and you are correct, for I am such."
+
+- triggers: ["!jo13:14 ","!joh13:14 ","!john13:14 "]
+  replace: "Therefore, if I, the Lord and Teacher, washed your feet, you also should wash the feet of one another."
+
+- triggers: ["!jo13:15 ","!joh13:15 ","!john13:15 "]
+  replace: "For I set the pattern for you, that just as I did to you, you should also do."
+
+- triggers: ["!jo13:16 ","!joh13:16 ","!john13:16 "]
+  replace: "Most truly I say to you, a slave is not greater than his master, nor is one who is sent greater than the one who sent him."
+
+- triggers: ["!jo13:17 ","!joh13:17 ","!john13:17 "]
+  replace: "If you know these things, happy you are if you do them."
+
+- triggers: ["!jo13:18 ","!joh13:18 ","!john13:18 "]
+  replace: "I am not talking about all of you; I know the ones I have chosen. But this was so that the scripture might be fulfilled: 'The one who was eating my bread has lifted his heel against me.'"
+
+- triggers: ["!jo13:19 ","!joh13:19 ","!john13:19 "]
+  replace: "From this moment on, I am telling you before it occurs, so that when it does occur you may believe that I am he."
+
+- triggers: ["!jo13:20 ","!joh13:20 ","!john13:20 "]
+  replace: "Most truly I say to you, whoever receives anyone I send receives me also, and whoever receives me receives also the One who sent me.'"
+
+- triggers: ["!jo13:21 ","!joh13:21 ","!john13:21 "]
+  replace: "After saying these things, Jesus became troubled in spirit, and he bore witness, saying: 'Most truly I say to you, one of you will betray me.'"
+
+- triggers: ["!jo13:22 ","!joh13:22 ","!john13:22 "]
+  replace: "The disciples began to look at one another, being at a loss as to which one he was talking about."
+
+- triggers: ["!jo13:23 ","!joh13:23 ","!john13:23 "]
+  replace: "One of the disciples, the one whom Jesus loved, was reclining close to Jesus."
+
+- triggers: ["!jo13:24 ","!joh13:24 ","!john13:24 "]
+  replace: "Therefore, Simon Peter nodded to this one and said to him: 'Tell us whom he is talking about.'"
+
+- triggers: ["!jo13:25 ","!joh13:25 ","!john13:25 "]
+  replace: "So the latter leaned back on the chest of Jesus and said to him: 'Lord, who is it?'"
+
+- triggers: ["!jo13:26 ","!joh13:26 ","!john13:26 "]
+  replace: "Jesus answered: 'It is the one to whom I will give the piece of bread that I dip.' So after dipping the bread, he took it and gave it to Judas, the son of Simon Iscarʹiot."
+
+- triggers: ["!jo13:27 ","!joh13:27 ","!john13:27 "]
+  replace: "After Judas took the piece of bread, then Satan entered into him. So Jesus said to him: 'What you are doing, do it more quickly.'"
+
+- triggers: ["!jo13:28 ","!joh13:28 ","!john13:28 "]
+  replace: "However, none of those reclining at the table knew why he said this to him."
+
+- triggers: ["!jo13:29 ","!joh13:29 ","!john13:29 "]
+  replace: "Some, in fact, were thinking that since Judas was holding the money box, Jesus was telling him, 'Buy what we need for the festival,' or that he should give something to the poor."
+
+- triggers: ["!jo13:30 ","!joh13:30 ","!john13:30 "]
+  replace: "So after he received the piece of bread, he went out immediately. And it was night."
+
+- triggers: ["!jo13:31 ","!joh13:31 ","!john13:31 "]
+  replace: "When, therefore, he had gone out, Jesus said: 'Now the Son of man is glorified, and God is glorified in connection with him."
+
+- triggers: ["!jo13:32 ","!joh13:32 ","!john13:32 "]
+  replace: "God himself will glorify him, and he will glorify him immediately."
+
+- triggers: ["!jo13:33 ","!joh13:33 ","!john13:33 "]
+  replace: "Little children, I am with you a little longer. You will look for me; and just as I said to the Jews, 'Where I go you cannot come,' I now say it also to you."
+
+- triggers: ["!jo13:34 ","!joh13:34 ","!john13:34 "]
+  replace: "I am giving you a new commandment, that you love one another; just as I have loved you, you also love one another."
+
+- triggers: ["!jo13:35 ","!joh13:35 ","!john13:35 "]
+  replace: "By this all will know that you are my disciples-if you have love among yourselves.'"
+
+- triggers: ["!jo13:36 ","!joh13:36 ","!john13:36 "]
+  replace: "Simon Peter said to him: 'Lord, where are you going?' Jesus answered: 'Where I am going, you cannot follow me now, but you will follow later.'"
+
+- triggers: ["!jo13:37 ","!joh13:37 ","!john13:37 "]
+  replace: "Peter said to him: 'Lord, why is it I cannot follow you now? I will surrender my life in your behalf.'"
+
+- triggers: ["!jo13:38 ","!joh13:38 ","!john13:38 "]
+  replace: "Jesus answered: 'Will you surrender your life in my behalf? Most truly I say to you, a rooster will by no means crow until you have disowned me three times.'"
+
+- triggers: ["!jo14:1 ","!joh14:1 ","!john14:1 "]
+  replace: "'Do not let your hearts be troubled. Exercise faith in God; exercise faith also in me."
+
+- triggers: ["!jo14:2 ","!joh14:2 ","!john14:2 "]
+  replace: "In the house of my Father are many dwelling places. Otherwise, I would have told you, for I am going my way to prepare a place for you."
+
+- triggers: ["!jo14:3 ","!joh14:3 ","!john14:3 "]
+  replace: "Also, if I go my way and prepare a place for you, I will come again and will receive you home to myself, so that where I am you also may be."
+
+- triggers: ["!jo14:4 ","!joh14:4 ","!john14:4 "]
+  replace: "And where I am going, you know the way.'"
+
+- triggers: ["!jo14:5 ","!joh14:5 ","!john14:5 "]
+  replace: "Thomas said to him: 'Lord, we do not know where you are going. How can we know the way?'"
+
+- triggers: ["!jo14:6 ","!joh14:6 ","!john14:6 "]
+  replace: "Jesus said to him: 'I am the way and the truth and the life. No one comes to the Father except through me."
+
+- triggers: ["!jo14:7 ","!joh14:7 ","!john14:7 "]
+  replace: "If you men had known me, you would have known my Father also; from this moment on you know him and have seen him.'"
+
+- triggers: ["!jo14:8 ","!joh14:8 ","!john14:8 "]
+  replace: "Philip said to him: 'Lord, show us the Father, and it is enough for us.'"
+
+- triggers: ["!jo14:9 ","!joh14:9 ","!john14:9 "]
+  replace: "Jesus said to him: 'Even after I have been with you men for such a long time, Philip, have you not come to know me? Whoever has seen me has seen the Father also. How is it you say, 'Show us the Father'?"
+
+- triggers: ["!jo14:10 ","!joh14:10 ","!john14:10 "]
+  replace: "Do you not believe that I am in union with the Father and the Father is in union with me? The things I say to you I do not speak of my own originality, but the Father who remains in union with me is doing his works."
+
+- triggers: ["!jo14:11 ","!joh14:11 ","!john14:11 "]
+  replace: "Believe me that I am in union with the Father and the Father is in union with me; otherwise, believe because of the works themselves."
+
+- triggers: ["!jo14:12 ","!joh14:12 ","!john14:12 "]
+  replace: "Most truly I say to you, whoever exercises faith in me will also do the works that I do; and he will do works greater than these, because I am going my way to the Father."
+
+- triggers: ["!jo14:13 ","!joh14:13 ","!john14:13 "]
+  replace: "Also, whatever you ask in my name, I will do this, so that the Father may be glorified in connection with the Son."
+
+- triggers: ["!jo14:14 ","!joh14:14 ","!john14:14 "]
+  replace: "If you ask anything in my name, I will do it."
+
+- triggers: ["!jo14:15 ","!joh14:15 ","!john14:15 "]
+  replace: "'If you love me, you will observe my commandments."
+
+- triggers: ["!jo14:16 ","!joh14:16 ","!john14:16 "]
+  replace: "And I will ask the Father and he will give you another helper to be with you forever,"
+
+- triggers: ["!jo14:17 ","!joh14:17 ","!john14:17 "]
+  replace: "the spirit of the truth, which the world cannot receive, because it neither sees it nor knows it. You know it, because it remains with you and is in you."
+
+- triggers: ["!jo14:18 ","!joh14:18 ","!john14:18 "]
+  replace: "I will not leave you bereaved. I am coming to you."
+
+- triggers: ["!jo14:19 ","!joh14:19 ","!john14:19 "]
+  replace: "In a little while the world will see me no more, but you will see me, because I live and you will live."
+
+- triggers: ["!jo14:20 ","!joh14:20 ","!john14:20 "]
+  replace: "In that day you will know that I am in union with my Father and you are in union with me and I am in union with you."
+
+- triggers: ["!jo14:21 ","!joh14:21 ","!john14:21 "]
+  replace: "Whoever has my commandments and observes them is the one who loves me. In turn, whoever loves me will be loved by my Father, and I will love him and will clearly show myself to him.'"
+
+- triggers: ["!jo14:22 ","!joh14:22 ","!john14:22 "]
+  replace: "Judas, not Iscarʹiot, said to him: 'Lord, what has happened that you intend to show yourself clearly to us and not to the world?'"
+
+- triggers: ["!jo14:23 ","!joh14:23 ","!john14:23 "]
+  replace: "In answer Jesus said to him: 'If anyone loves me, he will observe my word, and my Father will love him, and we will come to him and make our dwelling with him."
+
+- triggers: ["!jo14:24 ","!joh14:24 ","!john14:24 "]
+  replace: "Whoever does not love me does not observe my words. The word that you are hearing is not mine, but belongs to the Father who sent me."
+
+- triggers: ["!jo14:25 ","!joh14:25 ","!john14:25 "]
+  replace: "'I have spoken these things to you while I am still with you."
+
+- triggers: ["!jo14:26 ","!joh14:26 ","!john14:26 "]
+  replace: "But the helper, the holy spirit, which the Father will send in my name, that one will teach you all things and bring back to your minds all the things I told you."
+
+- triggers: ["!jo14:27 ","!joh14:27 ","!john14:27 "]
+  replace: "I leave you peace; I give you my peace. I do not give it to you the way that the world gives it. Do not let your hearts be troubled nor let them shrink out of fear."
+
+- triggers: ["!jo14:28 ","!joh14:28 ","!john14:28 "]
+  replace: "You heard that I said to you, 'I am going away and I am coming back to you.' If you loved me, you would rejoice that I am going to the Father, for the Father is greater than I am."
+
+- triggers: ["!jo14:29 ","!joh14:29 ","!john14:29 "]
+  replace: "So now I have told you before it occurs, so that you may believe when it does occur."
+
+- triggers: ["!jo14:30 ","!joh14:30 ","!john14:30 "]
+  replace: "I will not speak with you much more, for the ruler of the world is coming, and he has no hold on me."
+
+- triggers: ["!jo14:31 ","!joh14:31 ","!john14:31 "]
+  replace: "But for the world to know that I love the Father, I am doing just as the Father has commanded me to do. Get up, let us go from here."
+
+- triggers: ["!jo15:1 ","!joh15:1 ","!john15:1 "]
+  replace: "'I am the true vine, and my Father is the cultivator."
+
+- triggers: ["!jo15:2 ","!joh15:2 ","!john15:2 "]
+  replace: "He takes away every branch in me not bearing fruit, and he cleans every one bearing fruit, so that it may bear more fruit."
+
+- triggers: ["!jo15:3 ","!joh15:3 ","!john15:3 "]
+  replace: "You are already clean because of the word that I have spoken to you."
+
+- triggers: ["!jo15:4 ","!joh15:4 ","!john15:4 "]
+  replace: "Remain in union with me, and I will remain in union with you. Just as the branch cannot bear fruit by itself unless it remains in the vine, neither can you unless you remain in union with me."
+
+- triggers: ["!jo15:5 ","!joh15:5 ","!john15:5 "]
+  replace: "I am the vine; you are the branches. Whoever remains in union with me and I in union with him, this one bears much fruit; for apart from me you can do nothing at all."
+
+- triggers: ["!jo15:6 ","!joh15:6 ","!john15:6 "]
+  replace: "If anyone does not remain in union with me, he is thrown out like a branch and dries up. And men gather those branches and throw them into the fire, and they are burned."
+
+- triggers: ["!jo15:7 ","!joh15:7 ","!john15:7 "]
+  replace: "If you remain in union with me and my sayings remain in you, ask whatever you wish and it will take place for you."
+
+- triggers: ["!jo15:8 ","!joh15:8 ","!john15:8 "]
+  replace: "My Father is glorified in this, that you keep bearing much fruit and prove yourselves my disciples."
+
+- triggers: ["!jo15:9 ","!joh15:9 ","!john15:9 "]
+  replace: "Just as the Father has loved me, so I have loved you; remain in my love."
+
+- triggers: ["!jo15:10 ","!joh15:10 ","!john15:10 "]
+  replace: "If you observe my commandments, you will remain in my love, just as I have observed the commandments of the Father and remain in his love."
+
+- triggers: ["!jo15:11 ","!joh15:11 ","!john15:11 "]
+  replace: "'These things I have spoken to you, so that my joy may be in you and your joy may be made full."
+
+- triggers: ["!jo15:12 ","!joh15:12 ","!john15:12 "]
+  replace: "This is my commandment, that you love one another just as I have loved you."
+
+- triggers: ["!jo15:13 ","!joh15:13 ","!john15:13 "]
+  replace: "No one has love greater than this, that someone should surrender his life in behalf of his friends."
+
+- triggers: ["!jo15:14 ","!joh15:14 ","!john15:14 "]
+  replace: "You are my friends if you do what I am commanding you."
+
+- triggers: ["!jo15:15 ","!joh15:15 ","!john15:15 "]
+  replace: "I no longer call you slaves, because a slave does not know what his master does. But I have called you friends, because I have made known to you all the things I have heard from my Father."
+
+- triggers: ["!jo15:16 ","!joh15:16 ","!john15:16 "]
+  replace: "You did not choose me, but I chose you, and I appointed you to go and keep bearing fruit and that your fruit should remain, so that no matter what you ask the Father in my name, he may give it to you."
+
+- triggers: ["!jo15:17 ","!joh15:17 ","!john15:17 "]
+  replace: "'These things I command you, that you love one another."
+
+- triggers: ["!jo15:18 ","!joh15:18 ","!john15:18 "]
+  replace: "If the world hates you, you know that it has hated me before it hated you."
+
+- triggers: ["!jo15:19 ","!joh15:19 ","!john15:19 "]
+  replace: "If you were part of the world, the world would be fond of what is its own. Now because you are no part of the world, but I have chosen you out of the world, for this reason the world hates you."
+
+- triggers: ["!jo15:20 ","!joh15:20 ","!john15:20 "]
+  replace: "Keep in mind the word I said to you: A slave is not greater than his master. If they have persecuted me, they will also persecute you; if they have observed my word, they will also observe yours."
+
+- triggers: ["!jo15:21 ","!joh15:21 ","!john15:21 "]
+  replace: "But they will do all these things against you on account of my name, because they do not know the One who sent me."
+
+- triggers: ["!jo15:22 ","!joh15:22 ","!john15:22 "]
+  replace: "If I had not come and spoken to them, they would have no sin. But now they have no excuse for their sin."
+
+- triggers: ["!jo15:23 ","!joh15:23 ","!john15:23 "]
+  replace: "Whoever hates me also hates my Father."
+
+- triggers: ["!jo15:24 ","!joh15:24 ","!john15:24 "]
+  replace: "If I had not done among them the works that no one else did, they would have no sin; but now they have both seen me and hated me as well as my Father."
+
+- triggers: ["!jo15:25 ","!joh15:25 ","!john15:25 "]
+  replace: "But this happened in order to fulfill the word written in their Law: 'They hated me without cause.'"
+
+- triggers: ["!jo15:26 ","!joh15:26 ","!john15:26 "]
+  replace: "When the helper comes that I will send you from the Father, the spirit of the truth, which comes from the Father, that one will bear witness about me;"
+
+- triggers: ["!jo15:27 ","!joh15:27 ","!john15:27 "]
+  replace: "and you, in turn, are to bear witness, because you have been with me from the beginning."
+
+- triggers: ["!jo16:1 ","!joh16:1 ","!john16:1 "]
+  replace: "'I have said these things to you so that you may not be stumbled."
+
+- triggers: ["!jo16:2 ","!joh16:2 ","!john16:2 "]
+  replace: "Men will expel you from the synagogue. In fact, the hour is coming when everyone who kills you will think he has offered a sacred service to God."
+
+- triggers: ["!jo16:3 ","!joh16:3 ","!john16:3 "]
+  replace: "But they will do these things because they have not come to know either the Father or me."
+
+- triggers: ["!jo16:4 ","!joh16:4 ","!john16:4 "]
+  replace: "Nevertheless, I have told you these things so that when the hour for them to happen arrives, you will remember that I told them to you. 'I did not tell you these things at first, because I was with you."
+
+- triggers: ["!jo16:5 ","!joh16:5 ","!john16:5 "]
+  replace: "But now I am going to the One who sent me; yet not one of you asks me, 'Where are you going?'"
+
+- triggers: ["!jo16:6 ","!joh16:6 ","!john16:6 "]
+  replace: "But because I have told you these things, grief has filled your hearts."
+
+- triggers: ["!jo16:7 ","!joh16:7 ","!john16:7 "]
+  replace: "Nevertheless, I am telling you the truth, it is for your benefit that I am going away. For if I do not go away, the helper will not come to you; but if I do go, I will send him to you."
+
+- triggers: ["!jo16:8 ","!joh16:8 ","!john16:8 "]
+  replace: "And when that one comes, he will give the world convincing evidence concerning sin and concerning righteousness and concerning judgment:"
+
+- triggers: ["!jo16:9 ","!joh16:9 ","!john16:9 "]
+  replace: "first concerning sin, because they are not exercising faith in me;"
+
+- triggers: ["!jo16:10 ","!joh16:10 ","!john16:10 "]
+  replace: "then concerning righteousness, because I am going to the Father and you will see me no longer;"
+
+- triggers: ["!jo16:11 ","!joh16:11 ","!john16:11 "]
+  replace: "then concerning judgment, because the ruler of this world has been judged."
+
+- triggers: ["!jo16:12 ","!joh16:12 ","!john16:12 "]
+  replace: "'I still have many things to say to you, but you are not able to bear them now."
+
+- triggers: ["!jo16:13 ","!joh16:13 ","!john16:13 "]
+  replace: "However, when that one comes, the spirit of the truth, he will guide you into all the truth, for he will not speak of his own initiative, but what he hears he will speak, and he will declare to you the things to come."
+
+- triggers: ["!jo16:14 ","!joh16:14 ","!john16:14 "]
+  replace: "That one will glorify me, because he will receive from what is mine and will declare it to you."
+
+- triggers: ["!jo16:15 ","!joh16:15 ","!john16:15 "]
+  replace: "All the things that the Father has are mine. That is why I said he receives from what is mine and declares it to you."
+
+- triggers: ["!jo16:16 ","!joh16:16 ","!john16:16 "]
+  replace: "In a little while you will see me no longer, and again, in a little while you will see me.'"
+
+- triggers: ["!jo16:17 ","!joh16:17 ","!john16:17 "]
+  replace: "At that some of his disciples said to one another: 'What does he mean by saying to us, 'In a little while you will not see me, and again, in a little while you will see me,' and, 'because I am going to the Father'?'"
+
+- triggers: ["!jo16:18 ","!joh16:18 ","!john16:18 "]
+  replace: "So they were saying: 'What does he mean by saying, 'a little while'? We do not know what he is talking about.'"
+
+- triggers: ["!jo16:19 ","!joh16:19 ","!john16:19 "]
+  replace: "Jesus knew they wanted to question him, so he said to them: 'Are you asking one another this because I said: 'In a little while you will not see me, and again, in a little while you will see me'?"
+
+- triggers: ["!jo16:20 ","!joh16:20 ","!john16:20 "]
+  replace: "Most truly I say to you, you will weep and wail, but the world will rejoice; you will be grieved, but your grief will be turned into joy."
+
+- triggers: ["!jo16:21 ","!joh16:21 ","!john16:21 "]
+  replace: "When a woman is giving birth, she has grief because her hour has come, but when she has given birth to the child, she remembers the tribulation no more because of the joy that a man has been born into the world."
+
+- triggers: ["!jo16:22 ","!joh16:22 ","!john16:22 "]
+  replace: "So you also, now you have grief; but I will see you again, and your hearts will rejoice, and no one will take away your joy."
+
+- triggers: ["!jo16:23 ","!joh16:23 ","!john16:23 "]
+  replace: "In that day you will ask me no question at all. Most truly I say to you, if you ask the Father for anything, he will give it to you in my name."
+
+- triggers: ["!jo16:24 ","!joh16:24 ","!john16:24 "]
+  replace: "Until now you have not asked for a single thing in my name. Ask and you will receive, so that your joy may be complete."
+
+- triggers: ["!jo16:25 ","!joh16:25 ","!john16:25 "]
+  replace: "'I have spoken these things to you in comparisons. The hour is coming when I will no longer speak to you in comparisons, but I will tell you plainly about the Father."
+
+- triggers: ["!jo16:26 ","!joh16:26 ","!john16:26 "]
+  replace: "In that day you will make request of the Father in my name; in saying this, I do not mean that I will make request for you."
+
+- triggers: ["!jo16:27 ","!joh16:27 ","!john16:27 "]
+  replace: "For the Father himself has affection for you, because you have had affection for me and have believed that I came as God's representative."
+
+- triggers: ["!jo16:28 ","!joh16:28 ","!john16:28 "]
+  replace: "I came as the Father's representative and have come into the world. Now I am leaving the world and am going to the Father.'"
+
+- triggers: ["!jo16:29 ","!joh16:29 ","!john16:29 "]
+  replace: "His disciples said: 'See! Now you are speaking plainly and are not using comparisons."
+
+- triggers: ["!jo16:30 ","!joh16:30 ","!john16:30 "]
+  replace: "Now we know that you know all things and you do not need to have anyone question you. By this we believe that you came from God.'"
+
+- triggers: ["!jo16:31 ","!joh16:31 ","!john16:31 "]
+  replace: "Jesus answered them: 'Do you believe now?"
+
+- triggers: ["!jo16:32 ","!joh16:32 ","!john16:32 "]
+  replace: "Look! The hour is coming, indeed, it has come, when each one of you will be scattered to his own house and you will leave me alone. But I am not alone, because the Father is with me."
+
+- triggers: ["!jo16:33 ","!joh16:33 ","!john16:33 "]
+  replace: "I have said these things to you so that by means of me you may have peace. In the world you will have tribulation, but take courage! I have conquered the world.'"
+
+- triggers: ["!jo17:1 ","!joh17:1 ","!john17:1 "]
+  replace: "Jesus spoke these things, and raising his eyes to heaven, he said: 'Father, the hour has come. Glorify your son so that your son may glorify you,"
+
+- triggers: ["!jo17:2 ","!joh17:2 ","!john17:2 "]
+  replace: "just as you have given him authority over all flesh, so that he may give everlasting life to all those whom you have given to him."
+
+- triggers: ["!jo17:3 ","!joh17:3 ","!john17:3 "]
+  replace: "This means everlasting life, their coming to know you, the only true God, and the one whom you sent, Jesus Christ."
+
+- triggers: ["!jo17:4 ","!joh17:4 ","!john17:4 "]
+  replace: "I have glorified you on the earth, having finished the work you have given me to do."
+
+- triggers: ["!jo17:5 ","!joh17:5 ","!john17:5 "]
+  replace: "So now, Father, glorify me at your side with the glory that I had alongside you before the world was."
+
+- triggers: ["!jo17:6 ","!joh17:6 ","!john17:6 "]
+  replace: "'I have made your name manifest to the men whom you gave me out of the world. They were yours, and you gave them to me, and they have observed your word."
+
+- triggers: ["!jo17:7 ","!joh17:7 ","!john17:7 "]
+  replace: "Now they have come to know that all the things you gave me are from you;"
+
+- triggers: ["!jo17:8 ","!joh17:8 ","!john17:8 "]
+  replace: "because I have given them the sayings that you gave me, and they have accepted them and have certainly come to know that I came as your representative, and they have believed that you sent me."
+
+- triggers: ["!jo17:9 ","!joh17:9 ","!john17:9 "]
+  replace: "I make request concerning them; I make request, not concerning the world, but concerning those whom you have given me, because they are yours;"
+
+- triggers: ["!jo17:10 ","!joh17:10 ","!john17:10 "]
+  replace: "and all my things are yours and yours are mine, and I have been glorified among them."
+
+- triggers: ["!jo17:11 ","!joh17:11 ","!john17:11 "]
+  replace: "'I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, watch over them on account of your own name, which you have given me, so that they may be one just as we are one."
+
+- triggers: ["!jo17:12 ","!joh17:12 ","!john17:12 "]
+  replace: "When I was with them, I used to watch over them on account of your own name, which you have given me; and I have protected them, and not one of them is destroyed except the son of destruction, so that the scripture might be fulfilled."
+
+- triggers: ["!jo17:13 ","!joh17:13 ","!john17:13 "]
+  replace: "But now I am coming to you, and I am saying these things in the world, so that they may have my joy made complete in themselves."
+
+- triggers: ["!jo17:14 ","!joh17:14 ","!john17:14 "]
+  replace: "I have given your word to them, but the world has hated them, because they are no part of the world, just as I am no part of the world."
+
+- triggers: ["!jo17:15 ","!joh17:15 ","!john17:15 "]
+  replace: "'I do not request that you take them out of the world, but that you watch over them because of the wicked one."
+
+- triggers: ["!jo17:16 ","!joh17:16 ","!john17:16 "]
+  replace: "They are no part of the world, just as I am no part of the world."
+
+- triggers: ["!jo17:17 ","!joh17:17 ","!john17:17 "]
+  replace: "Sanctify them by means of the truth; your word is truth."
+
+- triggers: ["!jo17:18 ","!joh17:18 ","!john17:18 "]
+  replace: "Just as you sent me into the world, I also sent them into the world."
+
+- triggers: ["!jo17:19 ","!joh17:19 ","!john17:19 "]
+  replace: "And I am sanctifying myself in their behalf, so that they also may be sanctified by means of truth."
+
+- triggers: ["!jo17:20 ","!joh17:20 ","!john17:20 "]
+  replace: "'I make request, not concerning these only, but also concerning those putting faith in me through their word,"
+
+- triggers: ["!jo17:21 ","!joh17:21 ","!john17:21 "]
+  replace: "so that they may all be one, just as you, Father, are in union with me and I am in union with you, that they also may be in union with us, so that the world may believe that you sent me."
+
+- triggers: ["!jo17:22 ","!joh17:22 ","!john17:22 "]
+  replace: "I have given them the glory that you have given me, in order that they may be one just as we are one."
+
+- triggers: ["!jo17:23 ","!joh17:23 ","!john17:23 "]
+  replace: "I in union with them and you in union with me, in order that they may be perfected into one, so that the world may know that you sent me and that you loved them just as you loved me."
+
+- triggers: ["!jo17:24 ","!joh17:24 ","!john17:24 "]
+  replace: "Father, I want those whom you have given me to be with me where I am, in order that they may look upon my glory that you have given me, because you loved me before the founding of the world."
+
+- triggers: ["!jo17:25 ","!joh17:25 ","!john17:25 "]
+  replace: "Righteous Father, the world has, indeed, not come to know you, but I know you, and these have come to know that you sent me."
+
+- triggers: ["!jo17:26 ","!joh17:26 ","!john17:26 "]
+  replace: "I have made your name known to them and will make it known, so that the love with which you loved me may be in them and I in union with them.'"
+
+- triggers: ["!jo18:1 ","!joh18:1 ","!john18:1 "]
+  replace: "After he said these things, Jesus went out with his disciples across the Kidʹron Valley to where there was a garden, and he and his disciples went into it."
+
+- triggers: ["!jo18:2 ","!joh18:2 ","!john18:2 "]
+  replace: "Now Judas, his betrayer, also knew the place, because Jesus had often met there with his disciples."
+
+- triggers: ["!jo18:3 ","!joh18:3 ","!john18:3 "]
+  replace: "So Judas brought the detachment of soldiers and officers of the chief priests and of the Pharisees and came there with torches and lamps and weapons."
+
+- triggers: ["!jo18:4 ","!joh18:4 ","!john18:4 "]
+  replace: "Then Jesus, knowing all the things that were going to happen to him, stepped forward and said to them: 'Whom are you looking for?'"
+
+- triggers: ["!jo18:5 ","!joh18:5 ","!john18:5 "]
+  replace: "They answered him: 'Jesus the Nazareneʹ.' He said to them: 'I am he.' Now Judas, his betrayer, was also standing with them."
+
+- triggers: ["!jo18:6 ","!joh18:6 ","!john18:6 "]
+  replace: "However, when Jesus said to them, 'I am he,' they drew back and fell to the ground."
+
+- triggers: ["!jo18:7 ","!joh18:7 ","!john18:7 "]
+  replace: "So he asked them again: 'Whom are you looking for?' They said: 'Jesus the Nazareneʹ.'"
+
+- triggers: ["!jo18:8 ","!joh18:8 ","!john18:8 "]
+  replace: "Jesus answered: 'I told you that I am he. So if you are looking for me, let these men go.'"
+
+- triggers: ["!jo18:9 ","!joh18:9 ","!john18:9 "]
+  replace: "This was to fulfill what he had said: 'Of those whom you have given me, I have not lost a single one.'"
+
+- triggers: ["!jo18:10 ","!joh18:10 ","!john18:10 "]
+  replace: "Then Simon Peter, who had a sword, drew it and struck the slave of the high priest, cutting off his right ear. The name of the slave was Malchus."
+
+- triggers: ["!jo18:11 ","!joh18:11 ","!john18:11 "]
+  replace: "Jesus, however, said to Peter: 'Put the sword into its sheath. Should I not drink the cup that the Father has given me?'"
+
+- triggers: ["!jo18:12 ","!joh18:12 ","!john18:12 "]
+  replace: "Then the soldiers and the military commander and the officers of the Jews seized Jesus and bound him."
+
+- triggers: ["!jo18:13 ","!joh18:13 ","!john18:13 "]
+  replace: "They led him first to Anʹnas, for he was the father-in-law of Caʹiaphas, who was high priest that year."
+
+- triggers: ["!jo18:14 ","!joh18:14 ","!john18:14 "]
+  replace: "Caʹiaphas was, in fact, the one who had advised the Jews that it was to their benefit for one man to die in behalf of the people."
+
+- triggers: ["!jo18:15 ","!joh18:15 ","!john18:15 "]
+  replace: "Now Simon Peter, as well as another disciple, was following Jesus. That disciple was known to the high priest, and he went with Jesus into the courtyard of the high priest,"
+
+- triggers: ["!jo18:16 ","!joh18:16 ","!john18:16 "]
+  replace: "but Peter was standing outside at the door. So the other disciple, who was known to the high priest, went out and spoke to the doorkeeper and brought Peter in."
+
+- triggers: ["!jo18:17 ","!joh18:17 ","!john18:17 "]
+  replace: "The servant girl who was the doorkeeper then said to Peter: 'You are not also one of this man's disciples, are you?' He said: 'I am not.'"
+
+- triggers: ["!jo18:18 ","!joh18:18 ","!john18:18 "]
+  replace: "Now the slaves and the officers were standing around a charcoal fire they had made, because it was cold and they were warming themselves. Peter also was standing with them and warming himself."
+
+- triggers: ["!jo18:19 ","!joh18:19 ","!john18:19 "]
+  replace: "So the chief priest questioned Jesus about his disciples and about his teaching."
+
+- triggers: ["!jo18:20 ","!joh18:20 ","!john18:20 "]
+  replace: "Jesus answered him: 'I have spoken to the world publicly. I always taught in a synagogue and in the temple, where all the Jews come together, and I said nothing in secret."
+
+- triggers: ["!jo18:21 ","!joh18:21 ","!john18:21 "]
+  replace: "Why do you question me? Question those who have heard what I told them. See! These know what I said.'"
+
+- triggers: ["!jo18:22 ","!joh18:22 ","!john18:22 "]
+  replace: "After he said these things, one of the officers who was standing by gave Jesus a slap in the face and said: 'Is that the way you answer the chief priest?'"
+
+- triggers: ["!jo18:23 ","!joh18:23 ","!john18:23 "]
+  replace: "Jesus answered him: 'If I said something wrong, bear witness about the wrong; but if what I said was right, why do you hit me?'"
+
+- triggers: ["!jo18:24 ","!joh18:24 ","!john18:24 "]
+  replace: "Then Anʹnas sent him away bound to Caʹiaphas the high priest."
+
+- triggers: ["!jo18:25 ","!joh18:25 ","!john18:25 "]
+  replace: "Now Simon Peter was standing there warming himself. Then they said to him: 'You are not also one of his disciples, are you?' He denied it and said: 'I am not.'"
+
+- triggers: ["!jo18:26 ","!joh18:26 ","!john18:26 "]
+  replace: "One of the slaves of the high priest, who was a relative of the man whose ear Peter had cut off, said: 'I saw you in the garden with him, did I not?'"
+
+- triggers: ["!jo18:27 ","!joh18:27 ","!john18:27 "]
+  replace: "However, Peter denied it again, and immediately a rooster crowed."
+
+- triggers: ["!jo18:28 ","!joh18:28 ","!john18:28 "]
+  replace: "Then they led Jesus from Caʹiaphas to the governor's residence. It was now early in the morning. But they themselves did not enter into the governor's residence, so that they would not get defiled but could eat the Passover."
+
+- triggers: ["!jo18:29 ","!joh18:29 ","!john18:29 "]
+  replace: "So Pilate came outside to them and said: 'What accusation do you bring against this man?'"
+
+- triggers: ["!jo18:30 ","!joh18:30 ","!john18:30 "]
+  replace: "They answered him: 'If this man were not a wrongdoer, we would not have handed him over to you.'"
+
+- triggers: ["!jo18:31 ","!joh18:31 ","!john18:31 "]
+  replace: "So Pilate said to them: 'Take him yourselves and judge him according to your law.' The Jews said to him: 'It is not lawful for us to kill anyone.'"
+
+- triggers: ["!jo18:32 ","!joh18:32 ","!john18:32 "]
+  replace: "This was to fulfill the word that Jesus had spoken to indicate what sort of death he was about to die."
+
+- triggers: ["!jo18:33 ","!joh18:33 ","!john18:33 "]
+  replace: "So Pilate entered the governor's residence again and called Jesus and said to him: 'Are you the King of the Jews?'"
+
+- triggers: ["!jo18:34 ","!joh18:34 ","!john18:34 "]
+  replace: "Jesus answered: 'Are you asking this of your own originality, or did others tell you about me?'"
+
+- triggers: ["!jo18:35 ","!joh18:35 ","!john18:35 "]
+  replace: "Pilate replied: 'I am not a Jew, am I? Your own nation and the chief priests handed you over to me. What did you do?'"
+
+- triggers: ["!jo18:36 ","!joh18:36 ","!john18:36 "]
+  replace: "Jesus answered: 'My Kingdom is no part of this world. If my Kingdom were part of this world, my attendants would have fought that I should not be handed over to the Jews. But as it is, my Kingdom is not from this source.'"
+
+- triggers: ["!jo18:37 ","!joh18:37 ","!john18:37 "]
+  replace: "So Pilate said to him: 'Well, then, are you a king?' Jesus answered: 'You yourself are saying that I am a king. For this I have been born, and for this I have come into the world, that I should bear witness to the truth. Everyone who is on the side of the truth listens to my voice.'"
+
+- triggers: ["!jo18:38 ","!joh18:38 ","!john18:38 "]
+  replace: "Pilate said to him: 'What is truth?' After saying this, he went out again to the Jews and said to them: 'I find no fault in him."
+
+- triggers: ["!jo18:39 ","!joh18:39 ","!john18:39 "]
+  replace: "Moreover, you have a custom that I should release a man to you at the Passover. So do you want me to release to you the King of the Jews?'"
+
+- triggers: ["!jo18:40 ","!joh18:40 ","!john18:40 "]
+  replace: "Again they shouted: 'Not this man, but Barabʹbas!' Now Barabʹbas was a robber."
+
+- triggers: ["!jo19:1 ","!joh19:1 ","!john19:1 "]
+  replace: "Pilate then took Jesus and scourged him."
+
+- triggers: ["!jo19:2 ","!joh19:2 ","!john19:2 "]
+  replace: "And the soldiers braided a crown of thorns and put it on his head and clothed him with a purple robe,"
+
+- triggers: ["!jo19:3 ","!joh19:3 ","!john19:3 "]
+  replace: "and they kept coming up to him and saying: 'Greetings, you King of the Jews!' They also kept slapping him in the face."
+
+- triggers: ["!jo19:4 ","!joh19:4 ","!john19:4 "]
+  replace: "Pilate went outside again and said to them: 'See! I bring him outside to you in order for you to know that I find no fault in him.'"
+
+- triggers: ["!jo19:5 ","!joh19:5 ","!john19:5 "]
+  replace: "So Jesus came outside, wearing the crown of thorns and the purple robe. And Pilate said to them: 'Look! The man!'"
+
+- triggers: ["!jo19:6 ","!joh19:6 ","!john19:6 "]
+  replace: "However, when the chief priests and the officers saw him, they shouted: 'To the stake with him! To the stake with him!' Pilate said to them: 'Take him yourselves and execute him, for I do not find any fault in him.'"
+
+- triggers: ["!jo19:7 ","!joh19:7 ","!john19:7 "]
+  replace: "The Jews answered him: 'We have a law, and according to the law he ought to die, because he made himself God's son.'"
+
+- triggers: ["!jo19:8 ","!joh19:8 ","!john19:8 "]
+  replace: "When Pilate heard what they were saying, he became even more fearful,"
+
+- triggers: ["!jo19:9 ","!joh19:9 ","!john19:9 "]
+  replace: "and he entered the governor's residence again and said to Jesus: 'Where are you from?' But Jesus gave him no answer."
+
+- triggers: ["!jo19:10 ","!joh19:10 ","!john19:10 "]
+  replace: "So Pilate said to him: 'Are you refusing to speak to me? Do you not know that I have authority to release you and I have authority to execute you?'"
+
+- triggers: ["!jo19:11 ","!joh19:11 ","!john19:11 "]
+  replace: "Jesus answered him: 'You would have no authority over me at all unless it had been granted to you from above. This is why the man who handed me over to you has greater sin.'"
+
+- triggers: ["!jo19:12 ","!joh19:12 ","!john19:12 "]
+  replace: "For this reason Pilate kept trying to find a way to release him, but the Jews shouted: 'If you release this man, you are not a friend of Caesar. Everyone who makes himself a king speaks against Caesar.'"
+
+- triggers: ["!jo19:13 ","!joh19:13 ","!john19:13 "]
+  replace: "Then Pilate, after hearing these words, brought Jesus outside, and he sat down on a judgment seat in a place called the Stone Pavement, but in Hebrew, Gabʹbatha."
+
+- triggers: ["!jo19:14 ","!joh19:14 ","!john19:14 "]
+  replace: "Now it was the day of Preparation of the Passover; it was about the sixth hour. And he said to the Jews: 'See! Your king!'"
+
+- triggers: ["!jo19:15 ","!joh19:15 ","!john19:15 "]
+  replace: "However, they shouted: 'Take him away! Take him away! To the stake with him!' Pilate said to them: 'Shall I execute your king?' The chief priests answered: 'We have no king but Caesar.'"
+
+- triggers: ["!jo19:16 ","!joh19:16 ","!john19:16 "]
+  replace: "Then he handed him over to them to be executed on the stake. So they took charge of Jesus."
+
+- triggers: ["!jo19:17 ","!joh19:17 ","!john19:17 "]
+  replace: "Bearing the torture stake for himself, he went out to the so-called Skull Place, which is called Golʹgotha in Hebrew."
+
+- triggers: ["!jo19:18 ","!joh19:18 ","!john19:18 "]
+  replace: "There they nailed him to the stake alongside two other men, one on each side, with Jesus in the middle."
+
+- triggers: ["!jo19:19 ","!joh19:19 ","!john19:19 "]
+  replace: "Pilate also wrote a title and put it on the torture stake. It was written: 'Jesus the Nazareneʹ the King of the Jews.'"
+
+- triggers: ["!jo19:20 ","!joh19:20 ","!john19:20 "]
+  replace: "Many of the Jews read this title, because the place where Jesus was nailed to the stake was near the city, and it was written in Hebrew, in Latin, and in Greek."
+
+- triggers: ["!jo19:21 ","!joh19:21 ","!john19:21 "]
+  replace: "However, the chief priests of the Jews said to Pilate: 'Do not write, 'The King of the Jews,' but that he said, 'I am King of the Jews.''"
+
+- triggers: ["!jo19:22 ","!joh19:22 ","!john19:22 "]
+  replace: "Pilate answered: 'What I have written, I have written.'"
+
+- triggers: ["!jo19:23 ","!joh19:23 ","!john19:23 "]
+  replace: "Now when the soldiers had nailed Jesus to the stake, they took his outer garments and divided them into four parts, one for each soldier, and they also took the inner garment. But the inner garment was without a seam, being woven from top to bottom."
+
+- triggers: ["!jo19:24 ","!joh19:24 ","!john19:24 "]
+  replace: "So they said to one another: 'Let us not tear it, but let us cast lots over it to decide whose it will be.' This was to fulfill the scripture: 'They divided my garments among themselves, and they cast lots for my clothing.' So the soldiers actually did these things."
+
+- triggers: ["!jo19:25 ","!joh19:25 ","!john19:25 "]
+  replace: "By the torture stake of Jesus, however, there were standing his mother and his mother's sister; Mary the wife of Cloʹpas and Mary Magʹdalene."
+
+- triggers: ["!jo19:26 ","!joh19:26 ","!john19:26 "]
+  replace: "So when Jesus saw his mother and the disciple whom he loved standing nearby, he said to his mother: 'Woman, see! Your son!'"
+
+- triggers: ["!jo19:27 ","!joh19:27 ","!john19:27 "]
+  replace: "Next he said to the disciple: 'See! Your mother!' And from that hour on, the disciple took her into his own home."
+
+- triggers: ["!jo19:28 ","!joh19:28 ","!john19:28 "]
+  replace: "After this, when Jesus knew that by now all things had been accomplished, in order to fulfill the scripture he said: 'I am thirsty.'"
+
+- triggers: ["!jo19:29 ","!joh19:29 ","!john19:29 "]
+  replace: "A jar was sitting there full of sour wine. So they put a sponge full of the sour wine on a hyssop stalk and held it up to his mouth."
+
+- triggers: ["!jo19:30 ","!joh19:30 ","!john19:30 "]
+  replace: "When he had received the sour wine, Jesus said: 'It has been accomplished!' and bowing his head, he gave up his spirit."
+
+- triggers: ["!jo19:31 ","!joh19:31 ","!john19:31 "]
+  replace: "Since it was the day of Preparation, so that the bodies would not remain on the torture stakes on the Sabbath (for that Sabbath day was a great one), the Jews asked Pilate to have the legs broken and the bodies taken away."
+
+- triggers: ["!jo19:32 ","!joh19:32 ","!john19:32 "]
+  replace: "So the soldiers came and broke the legs of the first man and those of the other man who was on a stake alongside him."
+
+- triggers: ["!jo19:33 ","!joh19:33 ","!john19:33 "]
+  replace: "But on coming to Jesus, they saw that he was already dead, so they did not break his legs."
+
+- triggers: ["!jo19:34 ","!joh19:34 ","!john19:34 "]
+  replace: "But one of the soldiers jabbed his side with a spear, and immediately blood and water came out."
+
+- triggers: ["!jo19:35 ","!joh19:35 ","!john19:35 "]
+  replace: "And the one who has seen it has given this witness, and his witness is true, and he knows that what he says is true, so that you also may believe."
+
+- triggers: ["!jo19:36 ","!joh19:36 ","!john19:36 "]
+  replace: "In fact, these things took place for the scripture to be fulfilled: 'Not a bone of his will be broken.'"
+
+- triggers: ["!jo19:37 ","!joh19:37 ","!john19:37 "]
+  replace: "And again, a different scripture says: 'They will look to the one whom they pierced.'"
+
+- triggers: ["!jo19:38 ","!joh19:38 ","!john19:38 "]
+  replace: "Now after these things, Joseph of Arimatheʹa, who was a disciple of Jesus but a secret one because of his fear of the Jews, asked Pilate if he could take away the body of Jesus, and Pilate gave him permission. So he came and took the body away."
+
+- triggers: ["!jo19:39 ","!joh19:39 ","!john19:39 "]
+  replace: "Nicodeʹmus, the man who had come to him in the night the first time, also came, bringing a mixture of myrrh and aloes weighing about a hundred pounds."
+
+- triggers: ["!jo19:40 ","!joh19:40 ","!john19:40 "]
+  replace: "So they took the body of Jesus and wrapped it in linen cloths with the spices, according to the burial custom of the Jews."
+
+- triggers: ["!jo19:41 ","!joh19:41 ","!john19:41 "]
+  replace: "Incidentally, there was a garden at the place where he was executed, and in the garden was a new tomb in which no one had ever yet been laid."
+
+- triggers: ["!jo19:42 ","!joh19:42 ","!john19:42 "]
+  replace: "Because it was the day of Preparation of the Jews and the tomb was nearby, they laid Jesus there."
+
+- triggers: ["!jo20:1 ","!joh20:1 ","!john20:1 "]
+  replace: "On the first day of the week, Mary Magʹdalene came to the tomb early, while it was still dark, and she saw that the stone had already been taken away from the tomb."
+
+- triggers: ["!jo20:2 ","!joh20:2 ","!john20:2 "]
+  replace: "So she came running to Simon Peter and to the other disciple, for whom Jesus had affection, and she said to them: 'They have taken away the Lord out of the tomb, and we do not know where they have laid him.'"
+
+- triggers: ["!jo20:3 ","!joh20:3 ","!john20:3 "]
+  replace: "Then Peter and the other disciple set out for the tomb."
+
+- triggers: ["!jo20:4 ","!joh20:4 ","!john20:4 "]
+  replace: "The two of them began running together, but the other disciple ran faster than Peter and reached the tomb first."
+
+- triggers: ["!jo20:5 ","!joh20:5 ","!john20:5 "]
+  replace: "Stooping forward, he saw the linen cloths lying there, but he did not go in."
+
+- triggers: ["!jo20:6 ","!joh20:6 ","!john20:6 "]
+  replace: "Then Simon Peter also came, following him, and he went into the tomb. And he saw the linen cloths lying there."
+
+- triggers: ["!jo20:7 ","!joh20:7 ","!john20:7 "]
+  replace: "The cloth that had been on his head was not lying with the other cloth bands but was rolled up in a place by itself."
+
+- triggers: ["!jo20:8 ","!joh20:8 ","!john20:8 "]
+  replace: "Then the other disciple who had reached the tomb first also went in, and he saw and believed."
+
+- triggers: ["!jo20:9 ","!joh20:9 ","!john20:9 "]
+  replace: "For they did not yet understand the scripture that he must rise from the dead."
+
+- triggers: ["!jo20:10 ","!joh20:10 ","!john20:10 "]
+  replace: "So the disciples went back to their homes."
+
+- triggers: ["!jo20:11 ","!joh20:11 ","!john20:11 "]
+  replace: "Mary, however, kept standing outside near the tomb, weeping. While she was weeping, she stooped forward to look into the tomb,"
+
+- triggers: ["!jo20:12 ","!joh20:12 ","!john20:12 "]
+  replace: "and she saw two angels in white sitting where the body of Jesus had been lying, one at the head and one at the feet."
+
+- triggers: ["!jo20:13 ","!joh20:13 ","!john20:13 "]
+  replace: "And they said to her: 'Woman, why are you weeping?' She said to them: 'They have taken my Lord away, and I do not know where they have laid him.'"
+
+- triggers: ["!jo20:14 ","!joh20:14 ","!john20:14 "]
+  replace: "After saying this, she turned around and saw Jesus standing there, but she did not realize that it was Jesus."
+
+- triggers: ["!jo20:15 ","!joh20:15 ","!john20:15 "]
+  replace: "Jesus said to her: 'Woman, why are you weeping? Whom are you looking for?' She, thinking it was the gardener, said to him: 'Sir, if you have carried him off, tell me where you have laid him, and I will take him away.'"
+
+- triggers: ["!jo20:16 ","!joh20:16 ","!john20:16 "]
+  replace: "Jesus said to her: 'Mary!' On turning around, she said to him in Hebrew: 'Rabboʹni!' (which means 'Teacher!')"
+
+- triggers: ["!jo20:17 ","!joh20:17 ","!john20:17 "]
+  replace: "Jesus said to her: 'Stop clinging to me, for I have not yet ascended to the Father. But go to my brothers and say to them, 'I am ascending to my Father and your Father and to my God and your God.''"
+
+- triggers: ["!jo20:18 ","!joh20:18 ","!john20:18 "]
+  replace: "Mary Magʹdalene came and brought the news to the disciples: 'I have seen the Lord!' And she told them what he had said to her."
+
+- triggers: ["!jo20:19 ","!joh20:19 ","!john20:19 "]
+  replace: "When it was late that day, the first day of the week, and the doors were locked where the disciples were for fear of the Jews, Jesus came and stood in their midst and said to them: 'May you have peace.'"
+
+- triggers: ["!jo20:20 ","!joh20:20 ","!john20:20 "]
+  replace: "After saying this, he showed them his hands and his side. Then the disciples rejoiced at seeing the Lord."
+
+- triggers: ["!jo20:21 ","!joh20:21 ","!john20:21 "]
+  replace: "Jesus said to them again: 'May you have peace. Just as the Father has sent me, I also am sending you.'"
+
+- triggers: ["!jo20:22 ","!joh20:22 ","!john20:22 "]
+  replace: "After saying this he blew on them and said to them: 'Receive holy spirit."
+
+- triggers: ["!jo20:23 ","!joh20:23 ","!john20:23 "]
+  replace: "If you forgive the sins of anyone, they are forgiven; if you retain those of anyone, they are retained.'"
+
+- triggers: ["!jo20:24 ","!joh20:24 ","!john20:24 "]
+  replace: "But Thomas, one of the Twelve, who was called the Twin, was not with them when Jesus came."
+
+- triggers: ["!jo20:25 ","!joh20:25 ","!john20:25 "]
+  replace: "So the other disciples were telling him: 'We have seen the Lord!' But he said to them: 'Unless I see in his hands the print of the nails and stick my finger into the print of the nails and stick my hand into his side, I will never believe it.'"
+
+- triggers: ["!jo20:26 ","!joh20:26 ","!john20:26 "]
+  replace: "Well, eight days later his disciples were again indoors, and Thomas was with them. Jesus came, although the doors were locked, and he stood in their midst and said: 'May you have peace.'"
+
+- triggers: ["!jo20:27 ","!joh20:27 ","!john20:27 "]
+  replace: "Next he said to Thomas: 'Put your finger here, and see my hands, and take your hand and stick it into my side, and stop doubting but believe.'"
+
+- triggers: ["!jo20:28 ","!joh20:28 ","!john20:28 "]
+  replace: "In answer Thomas said to him: 'My Lord and my God!'"
+
+- triggers: ["!jo20:29 ","!joh20:29 ","!john20:29 "]
+  replace: "Jesus said to him: 'Because you have seen me, have you believed? Happy are those who have not seen and yet believe.'"
+
+- triggers: ["!jo20:30 ","!joh20:30 ","!john20:30 "]
+  replace: "To be sure, Jesus also performed many other signs before the disciples, which are not written down in this scroll."
+
+- triggers: ["!jo20:31 ","!joh20:31 ","!john20:31 "]
+  replace: "But these have been written down so that you may believe that Jesus is the Christ, the Son of God, and because of believing, you may have life by means of his name."
+
+- triggers: ["!jo21:1 ","!joh21:1 ","!john21:1 "]
+  replace: "After this Jesus manifested himself again to the disciples, at the Sea of Tibeʹrias. He made the manifestation in this way."
+
+- triggers: ["!jo21:2 ","!joh21:2 ","!john21:2 "]
+  replace: "There were together Simon Peter, Thomas (who was called the Twin), Nathanʹael from Caʹna of Galʹilee, the sons of Zebʹedee, and two others of his disciples."
+
+- triggers: ["!jo21:3 ","!joh21:3 ","!john21:3 "]
+  replace: "Simon Peter said to them: 'I am going fishing.' They said to him: 'We are coming with you.' They went out and got aboard the boat, but during that night they caught nothing."
+
+- triggers: ["!jo21:4 ","!joh21:4 ","!john21:4 "]
+  replace: "However, just as day was breaking, Jesus stood on the beach, but the disciples did not realize that it was Jesus."
+
+- triggers: ["!jo21:5 ","!joh21:5 ","!john21:5 "]
+  replace: "Then Jesus said to them: 'Children, you do not have anything to eat, do you?' They answered: 'No!'"
+
+- triggers: ["!jo21:6 ","!joh21:6 ","!john21:6 "]
+  replace: "He said to them: 'Cast the net on the right side of the boat and you will find some.' So they cast it, but they were not able to haul it in because of the large number of fish."
+
+- triggers: ["!jo21:7 ","!joh21:7 ","!john21:7 "]
+  replace: "Then the disciple whom Jesus loved said to Peter: 'It is the Lord!' Now Simon Peter, on hearing that it was the Lord, put on his outer garment, for he was naked, and plunged into the sea."
+
+- triggers: ["!jo21:8 ","!joh21:8 ","!john21:8 "]
+  replace: "But the other disciples came in the small boat, dragging the net full of fish, for they were not a long way from land, only about 300 feet away."
+
+- triggers: ["!jo21:9 ","!joh21:9 ","!john21:9 "]
+  replace: "When they came ashore, they saw there a charcoal fire with fish lying on it and bread."
+
+- triggers: ["!jo21:10 ","!joh21:10 ","!john21:10 "]
+  replace: "Jesus said to them: 'Bring some of the fish you just now caught.'"
+
+- triggers: ["!jo21:11 ","!joh21:11 ","!john21:11 "]
+  replace: "So Simon Peter went on board and hauled the net ashore full of big fish, 153 of them. And though there were so many, the net did not burst."
+
+- triggers: ["!jo21:12 ","!joh21:12 ","!john21:12 "]
+  replace: "Jesus said to them: 'Come, have your breakfast.' Not one of the disciples had the courage to ask him: 'Who are you?' because they knew it was the Lord."
+
+- triggers: ["!jo21:13 ","!joh21:13 ","!john21:13 "]
+  replace: "Jesus came and took the bread and gave it to them, and the same with the fish."
+
+- triggers: ["!jo21:14 ","!joh21:14 ","!john21:14 "]
+  replace: "This was now the third time that Jesus appeared to the disciples after being raised up from the dead."
+
+- triggers: ["!jo21:15 ","!joh21:15 ","!john21:15 "]
+  replace: "When they had finished breakfast, Jesus said to Simon Peter: 'Simon son of John, do you love me more than these?' He replied to him: 'Yes, Lord, you know I have affection for you.' He said to him: 'Feed my lambs.'"
+
+- triggers: ["!jo21:16 ","!joh21:16 ","!john21:16 "]
+  replace: "Again he said to him a second time: 'Simon son of John, do you love me?' He replied: 'Yes, Lord, you know I have affection for you.' He said to him: 'Shepherd my little sheep.'"
+
+- triggers: ["!jo21:17 ","!joh21:17 ","!john21:17 "]
+  replace: "He said to him a third time: 'Simon son of John, do you have affection for me?' Peter became grieved that he asked him the third time: 'Do you have affection for me?' So he said to him: 'Lord, you are aware of all things; you know that I have affection for you.' Jesus said to him: 'Feed my little sheep."
+
+- triggers: ["!jo21:18 ","!joh21:18 ","!john21:18 "]
+  replace: "Most truly I say to you, when you were younger, you used to clothe yourself and walk about where you wanted. But when you grow old, you will stretch out your hands and another man will clothe you and carry you where you do not wish.'"
+
+- triggers: ["!jo21:19 ","!joh21:19 ","!john21:19 "]
+  replace: "He said this to indicate by what sort of death he would glorify God. After he said this, he said to him: 'Continue following me.'"
+
+- triggers: ["!jo21:20 ","!joh21:20 ","!john21:20 "]
+  replace: "Peter turned around and saw the disciple whom Jesus loved following, the one who at the evening meal had also leaned back on his chest and said: 'Lord, who is the one betraying you?'"
+
+- triggers: ["!jo21:21 ","!joh21:21 ","!john21:21 "]
+  replace: "So when he caught sight of him, Peter said to Jesus: 'Lord, what about this man?'"
+
+- triggers: ["!jo21:22 ","!joh21:22 ","!john21:22 "]
+  replace: "Jesus said to him: 'If it is my will for him to remain until I come, of what concern is that to you? You continue following me.'"
+
+- triggers: ["!jo21:23 ","!joh21:23 ","!john21:23 "]
+  replace: "So the saying went out among the brothers that this disciple would not die. However, Jesus did not say to him that he would not die, but he said: 'If it is my will for him to remain until I come, of what concern is that to you?'"
+
+- triggers: ["!jo21:24 ","!joh21:24 ","!john21:24 "]
+  replace: "This is the disciple who gives this witness about these things and who wrote these things, and we know that his witness is true."
+
+- triggers: ["!jo21:25 ","!joh21:25 ","!john21:25 "]
+  replace: "There are also, in fact, many other things that Jesus did, which if ever they were written in full detail, I suppose the world itself could not contain the scrolls written."
+
